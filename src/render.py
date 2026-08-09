@@ -308,10 +308,14 @@ def render_normal(sections, status, generated_label):
         section_html, nav_items = _section_html(str(idx), stories, top_ids)
         if title:
             body_parts.append(f'<h2 class="section-title">{escape(title)}</h2>')
-        if not section_html:
-            body_parts.append('<p class="empty-state">Ingen nye saker i denne seksjonen.</p>')
-        else:
+        if section_html:
             body_parts.append(section_html)
+        elif len(sections) > 1:
+            # Ekte delta-visning (kveld): vær eksplisitt på at det ikke er
+            # noe nytt, selv om alt kan ha havnet i "Viktigste saker" over.
+            body_parts.append('<p class="empty-state">Ingen nye saker i denne seksjonen.</p>')
+        # Enkeltseksjon uten tittel (morgenrapport) og tom etter at alt ble
+        # løftet til "Viktigste saker": ikke vis noen misvisende melding.
         nav_groups.append((title if len(sections) > 1 else None, nav_items))
 
     header = _header_html(generated_label, all_stories)
