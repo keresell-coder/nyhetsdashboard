@@ -61,6 +61,12 @@ def run():
 
     try:
         classifications = gemini_client.classify_articles(filtered)
+    except gemini_client.QuotaExhausted as exc:
+        status["quota_exhausted"] = True
+        html = render.render_raw_fallback(filtered, status, generated_label)
+        _write_index(html)
+        print(f"Gemini-døgnkvoten er tom ({exc}); viser rå kildeliste.")
+        return
     except gemini_client.GeminiError as exc:
         status["gemini_error"] = str(exc)
         html = render.render_raw_fallback(filtered, status, generated_label)
@@ -79,6 +85,12 @@ def run():
 
     try:
         draft_raw = gemini_client.draft_stories(list(groups_by_key.values()), status)
+    except gemini_client.QuotaExhausted as exc:
+        status["quota_exhausted"] = True
+        html = render.render_raw_fallback(filtered, status, generated_label)
+        _write_index(html)
+        print(f"Gemini-døgnkvoten er tom ({exc}); viser rå kildeliste.")
+        return
     except gemini_client.GeminiError as exc:
         status["gemini_error"] = str(exc)
         html = render.render_raw_fallback(filtered, status, generated_label)

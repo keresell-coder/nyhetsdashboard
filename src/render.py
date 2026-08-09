@@ -272,6 +272,11 @@ def _status_body_html(status):
     if source_errors:
         names = ", ".join(e["source"] for e in source_errors)
         lines.append(f"<div>Kilder som feilet ved henting denne kjøringen: {escape(names)}</div>")
+    if status.get("quota_exhausted"):
+        lines.append(
+            "<div>Gemini-døgnkvoten er brukt opp. Sammendrag kommer tilbake "
+            "etter at kvoten nullstilles kl. 09:00 norsk tid.</div>"
+        )
     batch_failures = status.get("draft_batch_failures") or 0
     if batch_failures:
         lines.append(f"<div>{batch_failures} skrivebunke(r) feilet – noen saker kan mangle i denne rapporten.</div>")

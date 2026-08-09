@@ -107,15 +107,27 @@ HEADLINE_MAX_WORDS = 10
 INGRESS_MAX_WORDS = 50
 SUMMARY_MIN_WORDS = 150
 SUMMARY_MAX_WORDS = 280
-MAX_STORIES_PER_CATEGORY = 6
+MAX_STORIES_PER_CATEGORY = 4
 TOP_STORIES_COUNT = 3
 
-# Antall saker per Gemini-skrivekall. Ett samlet kall for alle sakene ba om
-# 4000+ ord i én forespørsel og timet ut konsekvent (se Actions-kjøring
-# 31331123008). Små bunker holder hvert kall raskt, og lar én feilet bunke
-# ryke uten å ta med seg hele rapporten. Med ~16 saker gir dette 4-5 kall
-# per kjøring - fortsatt langt under Geminis gratiskvote.
-DRAFT_BATCH_SIZE = 4
+# --- Gemini-kvotebudsjett ------------------------------------------------
+# REELLE gratiskvoter, avlest i Google AI Studio (aistudio.google.com ->
+# Rate Limit) for Gemini 3.6 Flash, ikke fra nettartikler:
+#   RPM  5 forespørsler/minutt
+#   RPD  20 forespørsler/DØGN
+#   TPM  250K input-tokens/minutt
+#
+# Døgnkvoten nullstilles ved midnatt Stillehavstid = kl. 09:00 norsk tid.
+# Konsekvens: kveldskjøringen (17:30) og NESTE morgens kjøring (07:30)
+# faller innenfor samme Gemini-døgn og deler de samme 20 forespørslene.
+# Budsjettet under må derfor dekke to kjøringer, med rom for retries.
+#
+# Med MAX_TOTAL_STORIES=12 og DRAFT_BATCH_SIZE=6 blir det:
+#   1 klassifiseringskall + 2 skrivekall = 3 per kjøring = 6 per døgn.
+# Det gir 14 forespørsler i reserve til retries og manuelle testkjøringer.
+MAX_TOTAL_STORIES = 12
+DRAFT_BATCH_SIZE = 6
+MAX_GEMINI_CALLS_PER_RUN = 6
 
 # Grov tilnærming til spesifikasjonens redaksjonelle prioriteringsrekkefølge,
 # brukt til å plukke ut "Viktigste saker i dag". Lavere tall = høyere

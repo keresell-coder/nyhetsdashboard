@@ -1,11 +1,10 @@
 """Eneste sted i kodebasen som kaller ut til en LLM (Gemini). Ingen andre
 moduler skal gjøre nettverkskall mot en språkmodell-API.
 
-To kall per kjøring, som avtalt i planen, for å holde antall Gemini-kall
-lavt og innenfor gratis-kvoten:
+Tre kall per kjøring, stramt budsjettert mot den reelle gratiskvoten på
+20 forespørsler i døgnet (se config.py):
   1. classify_articles - klassifiser+velg ut blant alle forfiltrerte artikler
-  2. draft_stories     - skriv norsk overskrift/ingress/sammendrag for de
-                          utvalgte sakene
+  2-3. draft_stories   - skriv norsk tekst for de utvalgte sakene, i bunker
 
 Gemini refererer KUN til article_id-verdier den fikk oppgitt i samme kall -
 aldri URL-er. Dette er en bevisst anti-hallusinasjon-mekanisme.
@@ -23,7 +22,27 @@ class GeminiError(Exception):
     pass
 
 
-def _post(payload, timeout=60, max_retries=2):
+class QuotaExhausted(GeminiError):
+    """Døgnkvoten er brukt opp - videre forsøk er nytteløse i dag."""
+
+
+# Teller forespørsler i denne prosessen. Døgnkvoten er bare 20, så en
+# løpsk retry-løkke ville spist opp hele dagen på ett minutt.
+_calls_made = 0
+
+
+def calls_made():
+    return _calls_made
+
+
+def _is_daily_quota_error(body_text):
+    lowered = body_text.lower()
+    return "perday" in lowered or "per day" in lowered or "requests per day" in lowered
+
+
+def _post(payload, timeout=60, max_retries=1):
+    global _calls_made
+
     if not config.GEMINI_API_KEY:
         raise GeminiError("GEMINI_API_KEY mangler")
 
@@ -33,17 +52,39 @@ def _post(payload, timeout=60, max_retries=2):
 
     last_error = None
     for attempt in range(max_retries + 1):
+        if _calls_made >= config.MAX_GEMINI_CALLS_PER_RUN:
+            raise QuotaExhausted(
+                f"Nådde budsjettgrensen på {config.MAX_GEMINI_CALLS_PER_RUN} "
+                "Gemini-kall for denne kjøringen"
+            )
+
         req = urllib.request.Request(url, data=body, headers=headers, method="POST")
+        _calls_made += 1
         try:
             with urllib.request.urlopen(req, timeout=timeout) as response:
                 raw = response.read().decode("utf-8")
                 return json.loads(raw)
         except urllib.error.HTTPError as exc:
             last_error = exc
-            if exc.code == 429 or exc.code >= 500:
+            error_body = ""
+            try:
+                error_body = exc.read().decode("utf-8", errors="replace")
+            except Exception:
+                pass
+            if exc.code == 429:
+                # Døgnkvoten er tom: ikke bruk flere forespørsler på å
+                # bekrefte det. Minuttkvoten (5/min) er derimot verdt å
+                # vente ut én gang.
+                if _is_daily_quota_error(error_body):
+                    raise QuotaExhausted(
+                        f"Gemini-døgnkvoten er brukt opp: {error_body[:200]}"
+                    ) from exc
+                time.sleep(30)
+                continue
+            if exc.code >= 500:
                 time.sleep(2 ** attempt)
                 continue
-            raise GeminiError(f"Gemini API-feil (HTTP {exc.code}): {exc.read()[:300]}") from exc
+            raise GeminiError(f"Gemini API-feil (HTTP {exc.code}): {error_body[:300]}") from exc
         except (urllib.error.URLError, TimeoutError, OSError) as exc:
             last_error = exc
             time.sleep(2 ** attempt)
@@ -193,6 +234,13 @@ def draft_stories(groups, status=None):
             batch_stories = _draft_batch(batch)
             stories.extend(batch_stories)
             print(f"Skrivebunke {idx}/{len(batches)}: {len(batch_stories)} sak(er)")
+        except QuotaExhausted as exc:
+            # Kvoten er tom - resten av bunkene ville bare kastet bort
+            # forespørsler på å få samme svar. Publiser det vi har.
+            failed_batches += len(batches) - idx + 1
+            last_error = exc
+            print(f"Skrivebunke {idx}/{len(batches)}: kvote tom, avbryter resten ({exc})")
+            break
         except GeminiError as exc:
             failed_batches += 1
             last_error = exc

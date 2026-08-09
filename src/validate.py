@@ -21,7 +21,11 @@ def _word_count(text):
 def build_groups(classifications, articles):
     """Slår sammen klassifiserte artikler til saksgrupper basert på Geminis
     likely_duplicate_of-forslag, filtrerer bort ikke-promoterte og ugyldige
-    article_id-referanser, og kutter til maks antall saker per kategori.
+    article_id-referanser, og kutter til et hardt tak på antall saker.
+
+    Taket er ikke bare kosmetikk: hver sak koster Gemini-forespørsler, og
+    døgnkvoten er 20 (se config.py). Prioriteringen følger spesifikasjonens
+    redaksjonelle rekkefølge - bred kildedekning først, deretter fagområde.
     """
     articles_by_id = {a.article_id: a for a in articles}
     valid = [
@@ -49,16 +53,36 @@ def build_groups(classifications, articles):
     per_category_count = {}
     dropped_for_capacity = 0
 
-    # Størst gruppe (flest kilder) først, så favoriseres saker med bredere
-    # dekning når kategori-taket nås.
-    for root, members in sorted(groups_by_root.items(), key=lambda kv: -len(kv[1])):
+    def distinct_sources(members):
+        return len({articles_by_id[c["article_id"]].source_id for c in members})
+
+    # Grupper per fagområde, beste sak (flest uavhengige kilder) først.
+    by_category = {}
+    for root, members in groups_by_root.items():
+        by_category.setdefault(by_id[root]["main_category"], []).append((root, members))
+    for cat_groups in by_category.values():
+        cat_groups.sort(key=lambda rm: -distinct_sources(rm[1]))
+
+    # Fordel plassene runde for runde i stedet for streng prioritetsrekkefølge.
+    # Ren prioritetssortering lot de høyest prioriterte fagområdene spise hele
+    # taket, slik at f.eks. økonomi og sport falt helt ut på dager med mye
+    # sikkerhetsstoff. Runde-for-runde gir bredde, mens rekkefølgen innenfor
+    # hver runde fortsatt følger den redaksjonelle prioriteringen.
+    ordered_categories = sorted(
+        by_category, key=lambda c: config.CATEGORY_PRIORITY.get(c, 99)
+    )
+    selection = []
+    for round_no in range(config.MAX_STORIES_PER_CATEGORY):
+        for cat in ordered_categories:
+            if round_no < len(by_category[cat]):
+                selection.append(by_category[cat][round_no])
+
+    for root, members in selection:
+        if len(groups_by_key) >= config.MAX_TOTAL_STORIES:
+            break
         root_classification = by_id[root]
         main_category = root_classification["main_category"]
-        count_so_far = per_category_count.get(main_category, 0)
-        if count_so_far >= config.MAX_STORIES_PER_CATEGORY:
-            dropped_for_capacity += len(members)
-            continue
-        per_category_count[main_category] = count_so_far + 1
+        per_category_count[main_category] = per_category_count.get(main_category, 0) + 1
 
         group_key = str(root)
         groups_by_key[group_key] = {
@@ -70,6 +94,7 @@ def build_groups(classifications, articles):
             "articles": [articles_by_id[c["article_id"]] for c in members],
         }
 
+    dropped_for_capacity = len(groups_by_root) - len(groups_by_key)
     return groups_by_key, dropped_for_capacity
 
 

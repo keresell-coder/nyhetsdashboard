@@ -35,6 +35,33 @@ avviser enhver referanse som ikke faktisk ble sendt inn. Se `src/`.
   ikke satt. Bruk kun modeller i Flash-familien – Gemini Pro er ikke lenger
   gratis.
 
+## Gemini-kvote (viktig begrensning)
+
+Gratisnivået gir **20 forespørsler i døgnet** (avlest i Google AI Studio →
+Rate Limit, ikke fra nettartikler – de tar ofte feil). I tillegg 5
+forespørsler/minutt og 250K input-tokens/minutt.
+
+Døgnkvoten nullstilles ved midnatt Stillehavstid = **kl. 09:00 norsk tid**.
+Det betyr at kveldskjøringen (17:30) og neste morgens kjøring (07:30)
+faller innenfor samme Gemini-døgn og deler de samme 20 forespørslene.
+
+Designet er derfor budsjettert stramt:
+
+| | Antall |
+|---|---|
+| Saker per rapport (`MAX_TOTAL_STORIES`) | 12 |
+| Kall per kjøring | 3 (1 klassifisering + 2 skrivebunker) |
+| Kall per døgn (to kjøringer) | 6 |
+| Reserve til retries og manuelle testkjøringer | 14 |
+
+`MAX_GEMINI_CALLS_PER_RUN` i `src/config.py` er en hard stopper som hindrer
+at en feilsituasjon spiser opp døgnkvoten. Går kvoten likevel tom, faller
+siden tilbake til ren kildeliste med en tydelig forklaring – den krasjer
+ikke, og henter seg inn ved neste kjøring.
+
+**Merk ved testing:** hver manuelle `workflow_dispatch` bruker 3
+forespørsler av de 20. Unngå mange testkjøringer på rad.
+
 ## Manuell kjøring / test
 
 Actions-fanen → "Daily News Screener" → "Run workflow", velg `morning`
