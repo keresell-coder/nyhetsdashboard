@@ -78,9 +78,25 @@ def build_groups(classifications, articles, clusters_by_lead=None):
         )
 
     def region_rank(members):
-        """Norsk/nordisk relevans foran øvrige internasjonale saker."""
+        """Beste (laveste) regionprioritet i gruppen - brukes som tiebreak."""
         arts = member_articles(members)
         return min((a.region_priority for a in arts), default=9)
+
+    def relevance_score(members):
+        """Kildebredde pluss et moderat nordisk påslag.
+
+        Bredden dominerer bevisst: en stor sak omtalt av flere
+        internasjonale redaksjoner skal ikke fortrenges av en liten
+        enkeltkildesak fra Norden. Påslaget gir Norden forrang kun ved
+        omtrent lik dekning.
+        """
+        arts = member_articles(members)
+        best_region = min(
+            (a.region for a in arts),
+            key=lambda r: config.REGION_PRIORITY.get(r, 9),
+            default="intl",
+        )
+        return distinct_sources(members) + config.REGION_BONUS.get(best_region, 0.0)
 
     # Grupper per fagområde, beste sak (flest uavhengige kilder) først.
     by_category = {}
@@ -90,8 +106,8 @@ def build_groups(classifications, articles, clusters_by_lead=None):
         cat_groups.sort(
             key=lambda rm: (
                 sub_priority_rank(rm[0]),
+                -relevance_score(rm[1]),
                 region_rank(rm[1]),
-                -distinct_sources(rm[1]),
             )
         )
 

@@ -95,12 +95,17 @@ def cluster_articles(articles, threshold=None):
     for idx, article in enumerate(articles):
         grouped.setdefault(find(idx), []).append(article)
 
-    # Rekkefølgen avgjør hva som overlever når listen må kuttes:
-    # først norsk/nordisk relevans ("Norden skal prioriteres", jf.
-    # spesifikasjonen), deretter bredden i kildedekningen.
+    # Rekkefølgen avgjør hva som overlever når listen må kuttes før
+    # klassifisering. Kildebredde dominerer, med et moderat nordisk påslag
+    # (se config.REGION_BONUS) - ellers ville en enkeltkildesak fra Norden
+    # fortrengt en stor sak omtalt av flere internasjonale redaksjoner.
     def sort_key(members):
-        best_region = min(m.region_priority for m in members)
+        best_region = min(
+            (m.region for m in members),
+            key=lambda r: config.REGION_PRIORITY.get(r, 9),
+        )
         distinct = len({m.source_id for m in members})
-        return (best_region, -distinct)
+        score = distinct + config.REGION_BONUS.get(best_region, 0.0)
+        return (-score, config.REGION_PRIORITY.get(best_region, 9))
 
     return sorted(grouped.values(), key=sort_key)

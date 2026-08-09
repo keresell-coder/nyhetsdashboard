@@ -45,6 +45,11 @@ SOURCES = [
     {"id": "nikkei", "name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "tier": "international", "region": "intl"},
     {"id": "scmp", "name": "SCMP", "url": "https://www.scmp.com/rss/91/feed", "tier": "international", "region": "intl"},
     {"id": "aljazeera", "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "tier": "international", "region": "intl"},
+    # Global byrådekning. Reuters og AP har begge stengt offentlig RSS
+    # (401/DNS borte), så disse to dekker rollen: Bloomberg for marked og
+    # makro, France24 for global politikk og konflikt (AFP-basert).
+    {"id": "bloomberg", "name": "Bloomberg", "url": "https://feeds.bloomberg.com/markets/news.rss", "tier": "international", "region": "intl"},
+    {"id": "france24", "name": "France 24", "url": "https://www.france24.com/en/rss", "tier": "international", "region": "intl"},
 
     # --- Sekundær-/bakgrunnskilder (aldri bekreftelse) ---
     {"id": "eu", "name": "EU-kommisjonen", "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en", "tier": "secondary", "region": "intl"},
@@ -53,8 +58,21 @@ SOURCES = [
 ]
 
 # Norden prioriteres foran øvrige internasjonale kilder når saker må velges
-# bort - lavere tall = høyere prioritet.
+# bort - lavere tall = høyere prioritet. Brukes kun som tiebreak, se under.
 REGION_PRIORITY = {"no": 0, "nordic": 1, "intl": 2}
+
+# Nordisk forrang skal være et PÅSLAG, ikke et absolutt førstekriterium.
+# Med region som førstekriterium slo en enkeltkilde-sak fra f.eks. Finland
+# ut en stor sak omtalt av fire internasjonale redaksjoner - stikk i strid
+# med at store internasjonale saker skal komme fram i alle bolker unntatt
+# norsk politikk.
+#
+# Rangeringen er nå: antall uavhengige redaksjonelle kilder + regionpåslag.
+#   1 finsk kilde      = 1 + 0.5 = 1.5  -> taper mot
+#   2 intl. kilder     = 2 + 0.0 = 2.0
+#   2 norske kilder    = 2 + 1.0 = 3.0  -> taper mot
+#   4 intl. kilder     = 4 + 0.0 = 4.0
+REGION_BONUS = {"no": 1.0, "nordic": 0.5, "intl": 0.0}
 
 # Kilder fra spesifikasjonen som er sjekket, men som ikke har funnet
 # offentlig RSS. Vises ærlig i statusfeltet i stedet for at vi gjetter.
@@ -62,7 +80,8 @@ UNAVAILABLE_SOURCES = [
     {"id": "dagbladet", "name": "Dagbladet", "reason": "Ingen offentlig RSS-feed funnet"},
     {"id": "klassekampen", "name": "Klassekampen", "reason": "Ingen offentlig RSS-feed funnet"},
     {"id": "abcnyheter", "name": "ABC Nyheter", "reason": "Ingen offentlig RSS-feed funnet"},
-    {"id": "reuters", "name": "Reuters", "reason": "Har avviklet offentlig RSS"},
+    {"id": "reuters", "name": "Reuters", "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"},
+    {"id": "ap", "name": "Associated Press", "reason": "Har stengt offentlig RSS (401)"},
     {"id": "jyllandsposten", "name": "Jyllands-Posten", "reason": "Ingen offentlig RSS-feed funnet"},
     {"id": "lesechos", "name": "Les Echos", "reason": "Blokkerer automatisert henting (403)"},
     {"id": "times", "name": "The Times", "reason": "Ikke tilgjengelig uten abonnement"},
