@@ -45,23 +45,77 @@ COMMENT_URL_MARKERS = (
 )
 
 
+# Feedene bruker tre ulike formater. RSS 2.0 har element uten navnerom,
+# RSS 1.0/RDF legger dem under purl.org-navnerommet, og Atom bruker
+# <entry> under Atom-navnerommet. Uten dette finner parseren null artikler
+# i RDF- og Atom-feeder - oppdaget da Nikkei Asia stille bidro med 0 saker.
+NS_RSS1 = "{http://purl.org/rss/1.0/}"
+NS_ATOM = "{http://www.w3.org/2005/Atom}"
+NS_DC = "{http://purl.org/dc/elements/1.1/}"
+
+ITEM_PATHS = (".//item", f".//{NS_RSS1}item", f".//{NS_ATOM}entry")
+
+# Feltnavn i prioritert rekkefølge per format.
+TITLE_TAGS = ("title", f"{NS_RSS1}title", f"{NS_ATOM}title")
+DESC_TAGS = (
+    "description", f"{NS_RSS1}description",
+    f"{NS_ATOM}summary", f"{NS_ATOM}content",
+)
+LINK_TAGS = ("link", f"{NS_RSS1}link")
+DATE_TAGS = (
+    "pubDate", f"{NS_DC}date", "date",
+    f"{NS_ATOM}published", f"{NS_ATOM}updated",
+)
+
+
 def _parse_pubdate(text):
+    """Godtar både RFC 2822 (RSS 2.0 pubDate) og ISO 8601 (dc:date, Atom)."""
     if not text:
         return None
+    text = text.strip()
     try:
         dt = parsedate_to_datetime(text)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
     except (TypeError, ValueError):
+        try:
+            dt = datetime.fromisoformat(text.replace("Z", "+00:00"))
+        except ValueError:
+            return None
+    if dt is None:
         return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
 
 
-def _text(item, tag):
-    el = item.find(tag)
-    if el is None or el.text is None:
-        return ""
-    return el.text.strip()
+def _find_items(root):
+    for path in ITEM_PATHS:
+        items = root.findall(path)
+        if items:
+            return items
+    return []
+
+
+def _first_text(item, tags):
+    for tag in tags:
+        el = item.find(tag)
+        if el is not None and el.text and el.text.strip():
+            return el.text.strip()
+    return ""
+
+
+def _find_link(item):
+    """Atom legger URL-en i href-attributtet, ikke i elementteksten."""
+    text = _first_text(item, LINK_TAGS)
+    if text:
+        return text
+    for tag in (f"{NS_ATOM}link", "link"):
+        for el in item.findall(tag):
+            href = el.get("href")
+            if href:
+                rel = el.get("rel")
+                if rel in (None, "alternate"):
+                    return href.strip()
+    return ""
 
 
 def _has_comment_marker(link):
@@ -91,7 +145,7 @@ def fetch_source(source, status):
         with urllib.request.urlopen(req, timeout=15) as response:
             xml_data = _decompress(response.read(), response.headers.get("Content-Encoding"))
         root = ET.fromstring(xml_data)
-        items = root.findall(".//item")
+        items = _find_items(root)
         if source.get("tier") == "secondary":
             limit = config.SECONDARY_ARTICLE_LIMIT
         else:
@@ -99,12 +153,12 @@ def fetch_source(source, status):
                 source.get("region"), config.MAX_ARTICLES_PER_SOURCE
             )
         for item in items[:limit]:
-            title = _text(item, "title")
+            title = _first_text(item, TITLE_TAGS)
             if not title:
                 continue
-            link = _text(item, "link")
-            description = _text(item, "description")
-            pub_raw = _text(item, "pubDate")
+            link = _find_link(item)
+            description = _first_text(item, DESC_TAGS)
+            pub_raw = _first_text(item, DATE_TAGS)
             articles.append({
                 "source_id": source["id"],
                 "source_name": source["name"],

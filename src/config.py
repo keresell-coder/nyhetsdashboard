@@ -23,7 +23,8 @@ SOURCES = [
     {"id": "e24", "name": "E24", "url": "https://e24.no/rss2", "tier": "primary_no", "region": "no"},
     {"id": "vg", "name": "VG", "url": "https://www.vg.no/rss/feed/", "tier": "primary_no", "region": "no"},
     {"id": "aftenposten", "name": "Aftenposten", "url": "https://www.aftenposten.no/rss", "tier": "primary_no", "region": "no"},
-    {"id": "tv2", "name": "TV2", "url": "https://www.tv2.no/rss/forsiden/", "tier": "primary_no", "region": "no"},
+    # /rss/forsiden/ returnerer gyldig, men TOM feed - byttet til /rss/nyheter/
+    {"id": "tv2", "name": "TV2", "url": "https://www.tv2.no/rss/nyheter/", "tier": "primary_no", "region": "no"},
     {"id": "nettavisen", "name": "Nettavisen", "url": "https://www.nettavisen.no/service/rich-rss", "tier": "primary_no", "region": "no"},
 
     # --- Norden ---
@@ -42,6 +43,9 @@ SOURCES = [
     {"id": "lemonde", "name": "Le Monde", "url": "https://www.lemonde.fr/rss/une.xml", "tier": "international", "region": "intl"},
     {"id": "wsj", "name": "Wall Street Journal", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "tier": "international", "region": "intl"},
     {"id": "nyt", "name": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "tier": "international", "region": "intl"},
+    # Nikkei leverer RSS 1.0/RDF med KUN tittel og lenke - ingen dato eller
+    # ingress. Bidrar derfor svakere enn de øvrige: klassifisering og
+    # klynging må skje på tittel alene, og artiklene kan ikke tidsfiltreres.
     {"id": "nikkei", "name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "tier": "international", "region": "intl"},
     {"id": "scmp", "name": "SCMP", "url": "https://www.scmp.com/rss/91/feed", "tier": "international", "region": "intl"},
     {"id": "aljazeera", "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "tier": "international", "region": "intl"},
