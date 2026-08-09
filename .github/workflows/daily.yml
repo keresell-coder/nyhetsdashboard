@@ -2,34 +2,61 @@ name: Daily News Screener
 
 on:
   schedule:
-    # Kjører hver dag kl. 06:00 UTC (kl. 07:00 / 08:00 norsk tid)
-    - cron: '0 6 * * *'
-  workflow_dispatch: # Gjør at du også kan starte den manuelt med en knapp
+    # GitHub Actions cron er alltid UTC og flytter seg ikke med sommertid.
+    # Vi planlegger begge UTC-forskyvninger for begge klokkeslett (07:30 og
+    # 17:30 norsk tid); scripts/schedule_guard.py avgjør ved kjøretid hvilke
+    # av disse fire som faktisk skal produsere en rapport.
+    - cron: '30 5 * * *'   # 07:30 lokal i sommertid (CEST, UTC+2)
+    - cron: '30 6 * * *'   # 07:30 lokal i vintertid (CET, UTC+1)
+    - cron: '30 15 * * *'  # 17:30 lokal i sommertid (CEST, UTC+2)
+    - cron: '30 16 * * *'  # 17:30 lokal i vintertid (CET, UTC+1)
+  workflow_dispatch:
+    inputs:
+      run_type:
+        description: 'Tving kjøretype (tomt = automatisk basert på klokkeslett)'
+        required: false
+        type: choice
+        default: ''
+        options:
+          - ''
+          - morning
+          - evening
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
 
     steps:
       - name: Sjekk ut koden
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Sett opp Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
+
+      - name: Vaktpost – bestem kjøretype eller avbryt
+        id: guard
+        env:
+          FORCE_RUN_TYPE: ${{ github.event.inputs.run_type }}
+        run: python scripts/schedule_guard.py
 
       - name: Kjør nyhetsskript
+        if: steps.guard.outputs.proceed == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          RUN_TYPE: ${{ steps.guard.outputs.run_type }}
         run: python generate_dashboard.py
 
       - name: Publisér endringer
+        if: steps.guard.outputs.proceed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html
-          git commit -m "Oppdatert nyhetsdashboard" || exit 0
+          git add index.html data/state/
+          git commit -m "Oppdatert nyhetsdashboard (${{ steps.guard.outputs.run_type }})" || exit 0
           git push
