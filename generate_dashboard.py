@@ -18,7 +18,7 @@ API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def fetch_rss_headlines():
     articles = []
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     for category, urls in RSS_FEEDS.items():
         for url in urls:
             try:
@@ -26,7 +26,6 @@ def fetch_rss_headlines():
                 with urllib.request.urlopen(req, timeout=10) as response:
                     xml_data = response.read()
                     root = ET.fromstring(xml_data)
-                    # Hent opptil 5 artikler per feed
                     for item in root.findall('.//item')[:5]:
                         title = item.find('title').text if item.find('title') is not None else ''
                         desc = item.find('description').text if item.find('description') is not None else ''
@@ -38,23 +37,28 @@ def fetch_rss_headlines():
     return "\n".join(articles)
 
 def generate_html_with_gemini(raw_news):
+    if not API_KEY:
+        print("FEIL: GEMINI_API_KEY mangler i Environment Variables!")
+        return "<h1>Feil: API-nøkkel mangler</h1>"
+
     prompt = f"""
-Du er en erfaren nyhetsredaktør. Analyseer følgende ferske nyheter fra ulike kilder og lag et stilrent, moderne HTML-dashboard på norsk.
+Du er en erfaren nyhetsredaktør. Analyser følgende ferske nyheter fra ulike kilder og lag et stilrent, moderne HTML-dashboard på norsk.
 
 Inndata:
 {raw_news}
 
 KRAV TIL OUTPUT:
-1. Returner KUN ren HTML-kode (start direkte med <!DOCTYPE html> og slutt med </html>). Ingen markdown-blokker som ```html.
-2. Designet skal være moderne, mørk modus (dark mode), lettlest på mobil og nettbrett (responsivt).
-3. Struktur:
-   - Overskrift: "Morgenrapport & Nyhetsscreener" med dagens dato.
-   - Kategoriser sakene i oversiktlige seksjoner.
-   - For hver sak: Gi et kort sammendrag (2-3 setninger), hva redaksjoner/kommentatorer legger vekt på, og en klikkbar lenke ("Les mer").
-   - Inkluder en topp-seksjon: "Viktigste saker i dag (3 punkter)".
+1. Returner KUN ren HTML-kode (start direkte med <!DOCTYPE html> og slutt med </html>). Ingen markdown-blokker (som ```html).
+2. Designet skal være mørk modus (dark mode) med fin typografi, responsive kort som ser bra ut på mobil og PC.
+3. Innhold:
+   - Tittel: "Morgenrapport & Nyhetsscreener"
+   - Topp-seksjon: "Viktigste saker i dag (3 punkter)"
+   - Kategoriser sakene ryddig.
+   - Gi korte sammendrag (2-3 setninger) for hver sak med lenke til kilden ("Les mer").
 """
 
-    url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=){API_KEY}"
+    # Vi bruker gemini-1.5-flash som er svært stabil og rask via API-et
+    url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=){API_KEY}"
     headers = {"Content-Type": "application/json"}
     payload = {
         "contents": [{"parts": [{"text": prompt}]}]
@@ -65,12 +69,13 @@ KRAV TIL OUTPUT:
         with urllib.request.urlopen(req) as response:
             res_data = json.loads(response.read().decode('utf-8'))
             html_content = res_data['candidates'][0]['content']['parts'][0]['text']
-            # Rengjør eventuelle markdown-koder dersom Gemini legger dem til
+            
+            # Rengjør eventuelle markdown-koder
             html_content = html_content.replace("```html", "").replace("```", "").strip()
             return html_content
     except Exception as e:
         print(f"Feil i Gemini API-kall: {e}")
-        return "<h1>Kunne ikke generere dashboard i dag</h1>"
+        return f"<h1>Kunne ikke generere dashboard: {e}</h1>"
 
 if __name__ == "__main__":
     print("Henter nyheter...")
