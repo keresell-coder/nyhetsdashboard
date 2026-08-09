@@ -84,6 +84,11 @@ article.story .badges, article.highlight .badges { margin-bottom: 0.6rem; displa
 .badge.comment { color: var(--comment); border-color: var(--comment); }
 .badge.single { color: var(--single); border-color: var(--single); }
 .badge.multi { color: var(--accent); border-color: var(--accent-dim); }
+.badge.continued { color: #9db8a0; border-color: #3f5c44; }
+.debate-note {
+  color: var(--comment); font-size: 0.85rem; margin: 0 0 0.8rem;
+  border-left: 2px solid var(--comment); padding-left: 0.7rem;
+}
 p.disclaimer { color: var(--comment); font-size: 0.82rem; margin: -0.1rem 0 0.6rem; }
 details.summary summary { cursor: pointer; color: var(--accent); font-size: 0.9rem; list-style: none; }
 details.summary summary::-webkit-details-marker { display: none; }
@@ -166,6 +171,8 @@ def _badges_html(story):
     badges = []
     if story["content_group"] == "kommentar_debatt":
         badges.append('<span class="badge comment">Kommentar/debatt</span>')
+    if story.get("continued_from"):
+        badges.append('<span class="badge continued">Videreført</span>')
     if story["distinct_editorial_source_count"] <= 1:
         badges.append('<span class="badge single">Enkeltkilde</span>')
     else:
@@ -202,12 +209,24 @@ def _story_html(story):
 
 
 def _select_highlights(stories):
-    candidates = [s for s in stories if s["content_group"] == "redaksjonelt"]
-    ranked = sorted(
-        candidates,
-        key=lambda s: (-s["distinct_editorial_source_count"], config.CATEGORY_PRIORITY.get(s["main_category"], 99)),
+    """Topp-saker skal helst være redaksjonelle saker bekreftet av flere
+    uavhengige kilder, jf. spesifikasjonens prioriteringsrekkefølge.
+    Enkeltkildesaker slipper bare til hvis det ikke finnes nok bekreftede."""
+    editorial = [s for s in stories if s["content_group"] == "redaksjonelt"]
+
+    def rank(s):
+        return (
+            -s["distinct_editorial_source_count"],
+            config.CATEGORY_PRIORITY.get(s["main_category"], 99),
+        )
+
+    corroborated = sorted(
+        [s for s in editorial if s["distinct_editorial_source_count"] >= 2], key=rank
     )
-    return ranked[: config.TOP_STORIES_COUNT]
+    single = sorted(
+        [s for s in editorial if s["distinct_editorial_source_count"] < 2], key=rank
+    )
+    return (corroborated + single)[: config.TOP_STORIES_COUNT]
 
 
 def _highlights_html(top_stories, new_ids=frozenset()):
@@ -232,6 +251,12 @@ def _category_groups(stories):
     return grouped
 
 
+DEBATE_NOTE = (
+    "Pågående debatt – flere kommentarer om et tema uten samtidig bred "
+    "redaksjonell dekning. Ikke bekreftet nyhetsdekning."
+)
+
+
 def _section_html(section_id, stories, exclude_ids):
     remaining = [s for s in stories if s["story_id"] not in exclude_ids]
     if not remaining:
@@ -243,9 +268,25 @@ def _section_html(section_id, stories, exclude_ids):
         items = grouped.get(cat) or []
         if not items:
             continue
+        # Redaksjonelt stoff først, kommentarer under - kommentarstoff skal
+        # utfylle det redaksjonelle bildet, ikke fortrenge det.
+        editorial = [s for s in items if s["content_group"] == "redaksjonelt"]
+        comments = [s for s in items if s["content_group"] == "kommentar_debatt"]
+        ordered = editorial + comments
+
+        # Spesifikasjonens unntak: flere kommentarer om et tema UTEN
+        # samtidig redaksjonell dekning skal merkes som pågående debatt,
+        # ikke fremstå som bekreftet nyhetsdekning.
+        note = ""
+        if not editorial and len(comments) >= 2:
+            note = f'<p class="debate-note">{escape(DEBATE_NOTE)}</p>'
+
         anchor = f"cat-{section_id}-{cat}"
-        cards = "".join(_story_html(s) for s in items)
-        parts.append(f'<section class="category" id="{anchor}"><h2>{escape(config.CATEGORY_LABELS[cat])}</h2>{cards}</section>')
+        cards = "".join(_story_html(s) for s in ordered)
+        parts.append(
+            f'<section class="category" id="{anchor}">'
+            f'<h2>{escape(config.CATEGORY_LABELS[cat])}</h2>{note}{cards}</section>'
+        )
         nav_items.append((anchor, config.CATEGORY_LABELS[cat], len(items)))
     return "".join(parts), nav_items
 
@@ -277,6 +318,9 @@ def _status_body_html(status):
             "<div>Gemini-døgnkvoten er brukt opp. Sammendrag kommer tilbake "
             "etter at kvoten nullstilles kl. 09:00 norsk tid.</div>"
         )
+    continued = status.get("continued_count") or 0
+    if continued:
+        lines.append(f"<div>{continued} sak(er) er videreført fra tidligere rapporter.</div>")
     batch_failures = status.get("draft_batch_failures") or 0
     if batch_failures:
         lines.append(f"<div>{batch_failures} skrivebunke(r) feilet – noen saker kan mangle i denne rapporten.</div>")

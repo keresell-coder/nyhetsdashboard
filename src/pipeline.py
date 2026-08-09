@@ -15,7 +15,7 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from src import config, gemini_client, ingest, prefilter, render, state, validate
+from src import cluster, config, gemini_client, ingest, prefilter, render, state, validate
 
 INDEX_PATH = "index.html"
 
@@ -59,8 +59,18 @@ def run():
         print("Ingen artikler hentet, og ingen tidligere rapport finnes. Publiserte tom side.")
         return
 
+    # Deterministisk klynging FØR Gemini: slår sammen nær identiske
+    # overskrifter fra ulike redaksjoner uten å bruke av døgnkvoten.
+    clusters = cluster.cluster_articles(filtered)
+    clusters_by_lead = {c[0].article_id: c for c in clusters}
+    multi_source_clusters = sum(1 for c in clusters if len({a.source_id for a in c}) > 1)
+    print(
+        f"{len(filtered)} artikler -> {len(clusters)} klynger "
+        f"({multi_source_clusters} med flere redaksjoner)"
+    )
+
     try:
-        classifications = gemini_client.classify_articles(filtered)
+        classifications = gemini_client.classify_articles(clusters)
     except gemini_client.QuotaExhausted as exc:
         status["quota_exhausted"] = True
         html = render.render_raw_fallback(filtered, status, generated_label)
@@ -74,7 +84,9 @@ def run():
         print(f"Gemini-klassifisering feilet ({exc}); viser rå kildeliste.")
         return
 
-    groups_by_key, dropped_for_capacity = validate.build_groups(classifications, filtered)
+    groups_by_key, dropped_for_capacity = validate.build_groups(
+        classifications, filtered, clusters_by_lead
+    )
 
     if not groups_by_key:
         html = render.render_normal([(None, [])], status, generated_label)
@@ -98,7 +110,13 @@ def run():
         print(f"Gemini-skriving feilet ({exc}); viser rå kildeliste.")
         return
 
-    valid_stories, validation_status = validate.validate_stories(draft_raw, groups_by_key)
+    previous_ids = state.previous_story_ids(date_str)
+    valid_stories, validation_status = validate.validate_stories(
+        draft_raw, groups_by_key, previous_ids
+    )
+    continued = sum(1 for s in valid_stories if s.get("continued_from"))
+    if continued:
+        validation_status["continued_count"] = continued
     validation_status["dropped_count"] = validation_status.get("dropped_count", 0) + dropped_for_capacity
     status.update(validation_status)
 
@@ -120,4 +138,7 @@ def run():
     html = render.render_normal(sections, status, generated_label)
     _write_index(html)
     state.record_run(date_str, run_type, valid_stories, status)
+    pruned = state.prune_old_states(date_str)
+    if pruned:
+        print(f"Ryddet bort {len(pruned)} gamle state-fil(er)")
     print(f"Fullført ({run_type}): {sum(len(s) for _, s in sections)} sak(er) publisert.")

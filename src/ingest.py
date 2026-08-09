@@ -1,8 +1,11 @@
 """Henter og parser RSS-feeder til en flat liste av Article-objekter."""
 
+import gzip
+import io
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
+import zlib
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -54,13 +57,27 @@ def _has_comment_marker(link):
     return any(marker in lowered for marker in COMMENT_URL_MARKERS)
 
 
+def _decompress(raw, content_encoding):
+    """Noen feeder (bl.a. FN) svarer gzip-komprimert selv uten at vi ber om
+    det. Uten dette feiler XML-parsingen med binærsøppel."""
+    encoding = (content_encoding or "").lower()
+    try:
+        if "gzip" in encoding or raw[:2] == b"\x1f\x8b":
+            return gzip.GzipFile(fileobj=io.BytesIO(raw)).read()
+        if "deflate" in encoding:
+            return zlib.decompress(raw, -zlib.MAX_WBITS)
+    except (OSError, zlib.error):
+        return raw
+    return raw
+
+
 def fetch_source(source, status):
     """Henter og parser én RSS-kilde. Feil fanges per kilde og logges i status."""
     articles = []
     req = urllib.request.Request(source["url"], headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=15) as response:
-            xml_data = response.read()
+            xml_data = _decompress(response.read(), response.headers.get("Content-Encoding"))
         root = ET.fromstring(xml_data)
         items = root.findall(".//item")
         for item in items[: config.MAX_ARTICLES_PER_SOURCE]:

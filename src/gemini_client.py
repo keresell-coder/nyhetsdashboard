@@ -116,18 +116,42 @@ def _format_article_block(article):
     )
 
 
-def classify_articles(articles):
-    """Kall 1: klassifiser innholdstype/kategori og foreslå duplikater."""
-    if not articles:
+def _format_cluster_block(members):
+    """Formaterer én klynge (se cluster.py). Første artikkel er representant
+    og bærer article_id-en Gemini skal svare med."""
+    lead = members[0]
+    published = lead.published.isoformat() if lead.published else "ukjent"
+    lines = [
+        f"article_id: {lead.article_id}",
+        f"Publisert: {published}",
+        f"Kommentar-URL-hint: {any(m.comment_hint for m in members)}",
+        f"Antall redaksjoner som dekker denne: {len({m.source_id for m in members})}",
+    ]
+    for m in members:
+        lines.append(f"  [{m.source_name}] {m.title} :: {m.description[:200]}")
+    lines.append("---")
+    return "\n".join(lines)
+
+
+def classify_articles(clusters):
+    """Kall 1: klassifiser innholdstype/kategori og foreslå sammenslåing.
+
+    Tar imot klynger fra cluster.py, ikke enkeltartikler. Den deterministiske
+    klyngingen har allerede slått sammen nær identiske overskrifter gratis;
+    Gemini skal fange det den ikke klarer - samme hendelse beskrevet med helt
+    ulike ord, eller på ulike språk.
+    """
+    if not clusters:
         return []
 
-    article_blocks = "\n".join(_format_article_block(a) for a in articles)
+    cluster_blocks = "\n".join(_format_cluster_block(c) for c in clusters)
     prompt = f"""Du er redaksjonell analytiker for en norsk nyhetsscreener.
 
-Under følger en nummerert liste med artikler (article_id) hentet fra norske
-nyhetskilders RSS-feeder i løpet av det siste døgnet.
+Under følger saker fra nyhetskilders RSS-feeder siste døgn. Hver sak har en
+article_id og kan allerede inneholde flere artikler fra ulike redaksjoner om
+samme hendelse (disse er slått sammen automatisk på likelydende overskrift).
 
-For HVER artikkel skal du:
+For HVER sak skal du:
 1. Klassifisere innholdstype (content_type) presist: nyhet, reportasje,
    intervju, analyse_redaksjonell, kommentar, leder, ytring, kronikk,
    debattinnlegg, eller analyse_vurderende. Bruk "Kommentar-URL-hint" som en
@@ -137,20 +161,29 @@ For HVER artikkel skal du:
    rom_cyber, eller sport. Legg til inntil 2 sekundære kategorier hvis
    relevant (secondary_tags).
 3. Hvis main_category er rom_cyber: angi sub_priority som "satcom" (satellitt-
-   kommunikasjon), "cyber" (cybersikkerhet/-politikk), eller
+   kommunikasjon og konnektivitet), "cyber" (cybersikkerhet/-politikk), eller
    "jordobservasjon_ovrig". Ellers: "ingen".
-4. Hvis denne artikkelen dekker samme reelle hendelse som en artikkel med
-   LAVERE article_id lenger opp i listen, sett likely_duplicate_of til den
-   article_id-en. Ellers utelat feltet.
+4. SLÅ SAMMEN SAKER SOM DEKKER SAMME HENDELSE. Dette er viktig og
+   underrapporteres lett. Hvis denne saken dekker samme underliggende
+   hendelse som en sak med LAVERE article_id lenger opp, sett
+   likely_duplicate_of til den article_id-en.
+   - Vinkling, ordvalg og språk varierer mye mellom redaksjoner. Se etter
+     samme aktør + samme handling + samme tidspunkt, ikke like ord.
+   - Eksempel som SKAL slås sammen: "Resultatløft for Berkshire Hathaway -
+     pengebingen krympet i andre kvartal" og "Berkshire Hathaway tjente 12,9
+     milliarder dollar på driften" - samme kvartalstall, ulik vinkling.
+   - Eksempel som IKKE skal slås sammen: to saker om samme selskap, men om
+     ulike hendelser (kvartalstall vs. et oppkjøp).
+   - Slå også sammen på tvers av språk (norsk/svensk/dansk/engelsk/fransk).
 5. Sett promote til true kun hvis dette er en substansiell, redaksjonelt
    relevant sak (ikke quiz, værmelding, annonse eller ren underholdnings-
    trivia) som hører hjemme i en seriøs daglig nyhetsoversikt.
 
-Artikler:
-{article_blocks}
+Saker:
+{cluster_blocks}
 
-Returner KUN strukturert JSON i henhold til det oppgitte skjemaet. Ikke
-diktet opp artikler eller article_id-er som ikke er listet over."""
+Returner KUN strukturert JSON i henhold til det oppgitte skjemaet, én
+oppføring per article_id over. Ikke dikt opp article_id-er."""
 
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -159,7 +192,7 @@ diktet opp artikler eller article_id-er som ikke er listet over."""
             "responseSchema": schema.CLASSIFY_RESPONSE_SCHEMA,
         },
     }
-    data = _extract_json(_post(payload, timeout=60))
+    data = _extract_json(_post(payload, timeout=90))
     return data.get("classifications", [])
 
 
@@ -180,10 +213,14 @@ def _draft_batch(groups):
 kildeartikler som dekker samme sak. Skriv redaksjonelt nøkternt norsk
 sammendrag for HVER gruppe, basert KUN på artiklene i den gruppen.
 
-Regler:
-- Overskrift: maksimalt 10 ord.
-- Ingress: maksimalt 50 ord.
-- Sammendrag: 200-250 ord. Syntese av kildene, IKKE kopi av én enkelt
+LENGDEKRAV (viktigst - saker utenfor disse grensene forkastes automatisk):
+- Overskrift: HØYST 10 ord. Tell ordene før du svarer.
+- Ingress: HØYST 50 ord. Tell ordene før du svarer.
+- Sammendrag: 200-250 ord, aldri under 150 eller over 300. Tell ordene før
+  du svarer, og juster teksten hvis du bommer.
+
+Øvrige regler:
+- Sammendraget skal være en syntese av kildene, IKKE kopi av én enkelt
   artikkel. Faktabasert og nøkternt. Skill tydelig mellom hva som er
   bekreftet, hva som er analyse, og hva som er vurdering. Unngå lange
   direkte sitater - parafraser.

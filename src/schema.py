@@ -11,6 +11,7 @@ from src import config
 CLASSIFY_ITEM_SCHEMA = {
     "type": "object",
     "properties": {
+        # Representativ article_id for klyngen (se cluster.py).
         "article_id": {"type": "integer"},
         "content_type": {"type": "string", "enum": config.CONTENT_TYPES},
         "main_category": {"type": "string", "enum": config.CATEGORIES},

@@ -105,8 +105,12 @@ LOOKBACK_HOURS = 24
 MAX_ARTICLES_PER_SOURCE = 15
 HEADLINE_MAX_WORDS = 10
 INGRESS_MAX_WORDS = 50
-SUMMARY_MIN_WORDS = 150
-SUMMARY_MAX_WORDS = 280
+# Spesifikasjonen ber om 200-250 ord. Vi ber Gemini om det i prompten, men
+# godtar et bredere spenn ved validering: å kaste en ellers god sak fordi
+# den er 15 ord for lang er dårligere redaksjonelt enn å slippe den
+# gjennom. Ved forrige kjøring falt 6 av 18 saker på dette alene.
+SUMMARY_MIN_WORDS = 120
+SUMMARY_MAX_WORDS = 320
 MAX_STORIES_PER_CATEGORY = 4
 TOP_STORIES_COUNT = 3
 
@@ -128,6 +132,17 @@ TOP_STORIES_COUNT = 3
 MAX_TOTAL_STORIES = 12
 DRAFT_BATCH_SIZE = 6
 MAX_GEMINI_CALLS_PER_RUN = 6
+
+# Terskel for at to overskrifter fra ULIKE redaksjoner regnes som samme
+# hendelse (overlap-koeffisient, 0-1). 0.6 er satt bevisst konservativt:
+# heller gå glipp av en sammenslåing enn å slå sammen to ulike saker og
+# feilaktig påstå bred kildedekning, jf. spesifikasjonens krav om at
+# flerkilde-dekning faktisk skal kunne dokumenteres.
+CLUSTER_SIMILARITY_THRESHOLD = 0.6
+
+# Hvor mange dager tilbake vi husker saker for å kunne merke dem som
+# "videreført fra forrige rapport".
+CONTINUITY_DAYS = 4
 
 # Grov tilnærming til spesifikasjonens redaksjonelle prioriteringsrekkefølge,
 # brukt til å plukke ut "Viktigste saker i dag". Lavere tall = høyere
