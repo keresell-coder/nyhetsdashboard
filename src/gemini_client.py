@@ -23,7 +23,7 @@ class GeminiError(Exception):
     pass
 
 
-def _post(payload, timeout=45, max_retries=2):
+def _post(payload, timeout=60, max_retries=2):
     if not config.GEMINI_API_KEY:
         raise GeminiError("GEMINI_API_KEY mangler")
 
@@ -118,7 +118,7 @@ diktet opp artikler eller article_id-er som ikke er listet over."""
             "responseSchema": schema.CLASSIFY_RESPONSE_SCHEMA,
         },
     }
-    data = _extract_json(_post(payload))
+    data = _extract_json(_post(payload, timeout=60))
     return data.get("classifications", [])
 
 
@@ -168,5 +168,5 @@ oppføring per gruppe (group_key må matche eksakt)."""
             "responseSchema": schema.DRAFT_RESPONSE_SCHEMA,
         },
     }
-    data = _extract_json(_post(payload))
+    data = _extract_json(_post(payload, timeout=120, max_retries=1))
     return data.get("stories", [])
