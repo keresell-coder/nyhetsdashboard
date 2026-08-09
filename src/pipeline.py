@@ -78,7 +78,7 @@ def run():
         return
 
     try:
-        draft_raw = gemini_client.draft_stories(list(groups_by_key.values()))
+        draft_raw = gemini_client.draft_stories(list(groups_by_key.values()), status)
     except gemini_client.GeminiError as exc:
         status["gemini_error"] = str(exc)
         html = render.render_raw_fallback(filtered, status, generated_label)

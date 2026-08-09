@@ -272,6 +272,9 @@ def _status_body_html(status):
     if source_errors:
         names = ", ".join(e["source"] for e in source_errors)
         lines.append(f"<div>Kilder som feilet ved henting denne kjøringen: {escape(names)}</div>")
+    batch_failures = status.get("draft_batch_failures") or 0
+    if batch_failures:
+        lines.append(f"<div>{batch_failures} skrivebunke(r) feilet – noen saker kan mangle i denne rapporten.</div>")
     dropped = status.get("dropped_count") or 0
     if dropped:
         lines.append(f"<div>{dropped} sak(er) utelatt pga. kvalitetskontroll (f.eks. for langt/kort sammendrag).</div>")

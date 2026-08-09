@@ -110,6 +110,13 @@ SUMMARY_MAX_WORDS = 280
 MAX_STORIES_PER_CATEGORY = 6
 TOP_STORIES_COUNT = 3
 
+# Antall saker per Gemini-skrivekall. Ett samlet kall for alle sakene ba om
+# 4000+ ord i én forespørsel og timet ut konsekvent (se Actions-kjøring
+# 31331123008). Små bunker holder hvert kall raskt, og lar én feilet bunke
+# ryke uten å ta med seg hele rapporten. Med ~16 saker gir dette 4-5 kall
+# per kjøring - fortsatt langt under Geminis gratiskvote.
+DRAFT_BATCH_SIZE = 4
+
 # Grov tilnærming til spesifikasjonens redaksjonelle prioriteringsrekkefølge,
 # brukt til å plukke ut "Viktigste saker i dag". Lavere tall = høyere
 # prioritet. Fullstendig 8-trinns trimming kommer i Fase 3.

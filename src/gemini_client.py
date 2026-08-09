@@ -132,11 +132,8 @@ def _format_group_block(group):
     return "\n".join(lines)
 
 
-def draft_stories(groups):
-    """Kall 2: skriv norsk overskrift/ingress/sammendrag for utvalgte saker."""
-    if not groups:
-        return []
-
+def _draft_batch(groups):
+    """Skriver én bunke saker. Kaster GeminiError hvis bunken feiler."""
     group_blocks = "\n\n".join(_format_group_block(g) for g in groups)
     prompt = f"""Du er en erfaren norsk nyhetsredaktør. Under følger grupper av
 kildeartikler som dekker samme sak. Skriv redaksjonelt nøkternt norsk
@@ -168,5 +165,45 @@ oppføring per gruppe (group_key må matche eksakt)."""
             "responseSchema": schema.DRAFT_RESPONSE_SCHEMA,
         },
     }
-    data = _extract_json(_post(payload, timeout=120, max_retries=1))
+    data = _extract_json(_post(payload, timeout=90, max_retries=1))
     return data.get("stories", [])
+
+
+def draft_stories(groups, status=None):
+    """Kall 2: skriv norsk overskrift/ingress/sammendrag for utvalgte saker.
+
+    Deles opp i bunker fordi ett samlet kall for alle sakene ba om 4000+ ord
+    i én forespørsel og timet ut konsekvent. En bunke som feiler tar ikke med
+    seg resten av rapporten - de øvrige sakene publiseres, og feilen
+    registreres i status slik at den vises i "Om denne rapporten".
+    """
+    if not groups:
+        return []
+
+    batches = [
+        groups[i : i + config.DRAFT_BATCH_SIZE]
+        for i in range(0, len(groups), config.DRAFT_BATCH_SIZE)
+    ]
+    stories = []
+    failed_batches = 0
+    last_error = None
+
+    for idx, batch in enumerate(batches, start=1):
+        try:
+            batch_stories = _draft_batch(batch)
+            stories.extend(batch_stories)
+            print(f"Skrivebunke {idx}/{len(batches)}: {len(batch_stories)} sak(er)")
+        except GeminiError as exc:
+            failed_batches += 1
+            last_error = exc
+            print(f"Skrivebunke {idx}/{len(batches)} feilet: {exc}")
+
+    if failed_batches and status is not None:
+        status["draft_batch_failures"] = failed_batches
+
+    # Bare gi opp helt hvis ingen bunker gikk gjennom - da har vi ingenting
+    # å publisere, og pipelinen skal falle tilbake til rå kildeliste.
+    if not stories:
+        raise GeminiError(f"Alle {len(batches)} skrivebunker feilet: {last_error}")
+
+    return stories
