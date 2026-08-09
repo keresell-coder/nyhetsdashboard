@@ -95,9 +95,12 @@ def cluster_articles(articles, threshold=None):
     for idx, article in enumerate(articles):
         grouped.setdefault(find(idx), []).append(article)
 
-    # Størst klynge først - de bredest dekkede sakene er også de
-    # redaksjonelt viktigste, jf. spesifikasjonens prioriteringsrekkefølge.
-    return sorted(
-        grouped.values(),
-        key=lambda members: -len({m.source_id for m in members}),
-    )
+    # Rekkefølgen avgjør hva som overlever når listen må kuttes:
+    # først norsk/nordisk relevans ("Norden skal prioriteres", jf.
+    # spesifikasjonen), deretter bredden i kildedekningen.
+    def sort_key(members):
+        best_region = min(m.region_priority for m in members)
+        distinct = len({m.source_id for m in members})
+        return (best_region, -distinct)
+
+    return sorted(grouped.values(), key=sort_key)

@@ -26,6 +26,11 @@ class Article:
     published: "datetime | None"
     comment_hint: bool = field(default=False)
     tier: str = field(default="primary_no")
+    region: str = field(default="no")
+
+    @property
+    def region_priority(self):
+        return config.REGION_PRIORITY.get(self.region, 9)
 
     @property
     def is_corroborating(self):
@@ -87,9 +92,12 @@ def fetch_source(source, status):
             xml_data = _decompress(response.read(), response.headers.get("Content-Encoding"))
         root = ET.fromstring(xml_data)
         items = root.findall(".//item")
-        limit = config.MAX_ARTICLES_BY_TIER.get(
-            source.get("tier"), config.MAX_ARTICLES_PER_SOURCE
-        )
+        if source.get("tier") == "secondary":
+            limit = config.SECONDARY_ARTICLE_LIMIT
+        else:
+            limit = config.MAX_ARTICLES_BY_REGION.get(
+                source.get("region"), config.MAX_ARTICLES_PER_SOURCE
+            )
         for item in items[:limit]:
             title = _text(item, "title")
             if not title:
@@ -106,6 +114,7 @@ def fetch_source(source, status):
                 "published": _parse_pubdate(pub_raw),
                 "comment_hint": _has_comment_marker(link),
                 "tier": source.get("tier", "primary_no"),
+                "region": source.get("region", "no"),
             })
     except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, TimeoutError, OSError) as exc:
         status.setdefault("source_errors", []).append({"source": source["name"], "error": str(exc)})
@@ -130,6 +139,7 @@ def fetch_all(status):
             published=item["published"],
             comment_hint=item["comment_hint"],
             tier=item["tier"],
+            region=item["region"],
         ))
     status["unavailable_sources"] = list(config.UNAVAILABLE_SOURCES)
     return articles

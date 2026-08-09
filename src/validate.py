@@ -77,12 +77,23 @@ def build_groups(classifications, articles, clusters_by_lead=None):
             by_id[root].get("sub_priority") or "ingen", 3
         )
 
+    def region_rank(members):
+        """Norsk/nordisk relevans foran øvrige internasjonale saker."""
+        arts = member_articles(members)
+        return min((a.region_priority for a in arts), default=9)
+
     # Grupper per fagområde, beste sak (flest uavhengige kilder) først.
     by_category = {}
     for root, members in groups_by_root.items():
         by_category.setdefault(by_id[root]["main_category"], []).append((root, members))
     for cat_groups in by_category.values():
-        cat_groups.sort(key=lambda rm: (sub_priority_rank(rm[0]), -distinct_sources(rm[1])))
+        cat_groups.sort(
+            key=lambda rm: (
+                sub_priority_rank(rm[0]),
+                region_rank(rm[1]),
+                -distinct_sources(rm[1]),
+            )
+        )
 
     # Fordel plassene runde for runde i stedet for streng prioritetsrekkefølge.
     # Ren prioritetssortering lot de høyest prioriterte fagområdene spise hele
