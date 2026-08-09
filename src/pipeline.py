@@ -61,12 +61,14 @@ def run():
 
     # Deterministisk klynging FØR Gemini: slår sammen nær identiske
     # overskrifter fra ulike redaksjoner uten å bruke av døgnkvoten.
-    clusters = cluster.cluster_articles(filtered)
+    all_clusters = cluster.cluster_articles(filtered)
+    clusters = all_clusters[: config.MAX_CLUSTERS_TO_CLASSIFY]
     clusters_by_lead = {c[0].article_id: c for c in clusters}
     multi_source_clusters = sum(1 for c in clusters if len({a.source_id for a in c}) > 1)
     print(
-        f"{len(filtered)} artikler -> {len(clusters)} klynger "
-        f"({multi_source_clusters} med flere redaksjoner)"
+        f"{len(filtered)} artikler -> {len(all_clusters)} klynger "
+        f"({multi_source_clusters} med flere redaksjoner), "
+        f"sender {len(clusters)} til klassifisering"
     )
 
     try:

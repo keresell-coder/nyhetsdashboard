@@ -25,6 +25,13 @@ class Article:
     link: str
     published: "datetime | None"
     comment_hint: bool = field(default=False)
+    tier: str = field(default="primary_no")
+
+    @property
+    def is_corroborating(self):
+        """Sekundærkilder (institusjoner, primærdata) dokumenterer og gir
+        bakgrunn, men teller aldri som uavhengig redaksjonell bekreftelse."""
+        return self.tier not in config.NON_CORROBORATING_TIERS
 
 
 COMMENT_URL_MARKERS = (
@@ -80,7 +87,10 @@ def fetch_source(source, status):
             xml_data = _decompress(response.read(), response.headers.get("Content-Encoding"))
         root = ET.fromstring(xml_data)
         items = root.findall(".//item")
-        for item in items[: config.MAX_ARTICLES_PER_SOURCE]:
+        limit = config.MAX_ARTICLES_BY_TIER.get(
+            source.get("tier"), config.MAX_ARTICLES_PER_SOURCE
+        )
+        for item in items[:limit]:
             title = _text(item, "title")
             if not title:
                 continue
@@ -95,6 +105,7 @@ def fetch_source(source, status):
                 "link": link,
                 "published": _parse_pubdate(pub_raw),
                 "comment_hint": _has_comment_marker(link),
+                "tier": source.get("tier", "primary_no"),
             })
     except (urllib.error.URLError, urllib.error.HTTPError, ET.ParseError, TimeoutError, OSError) as exc:
         status.setdefault("source_errors", []).append({"source": source["name"], "error": str(exc)})
@@ -118,6 +129,7 @@ def fetch_all(status):
             link=item["link"],
             published=item["published"],
             comment_hint=item["comment_hint"],
+            tier=item["tier"],
         ))
     status["unavailable_sources"] = list(config.UNAVAILABLE_SOURCES)
     return articles

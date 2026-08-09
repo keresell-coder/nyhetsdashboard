@@ -97,6 +97,10 @@ details.summary[open] summary::before { content: "▾ "; }
 details.summary .body { margin-top: 0.6rem; color: var(--text); white-space: pre-line; }
 ul.sources { margin: 0.7rem 0 0; padding-left: 1.1rem; font-size: 0.85rem; color: var(--muted); }
 ul.sources a { color: var(--accent); }
+.src-tag {
+  font-size: 0.7rem; color: var(--single); border: 1px solid var(--border);
+  border-radius: 999px; padding: 0.05rem 0.4rem; margin-left: 0.3rem;
+}
 
 details.status {
   max-width: 760px; margin: 3rem auto 0; padding: 0 1.25rem;
@@ -154,10 +158,16 @@ def _header_html(generated_label, all_stories):
             f'<span class="stat-chip">{n_categories} kategori(er)</span>'
             "</div>"
         )
+    by_tier = {}
+    for s in config.SOURCES:
+        by_tier.setdefault(s.get("tier", "primary_no"), []).append(s["name"])
     coverage = (
-        f"Dekker foreløpig {len(config.SOURCES)} norske kilder "
-        f"({', '.join(s['name'] for s in config.SOURCES)}). "
-        "Internasjonale og sekundære kilder kommer i en senere fase."
+        f"Kilder: {len(by_tier.get('primary_no', []))} norske, "
+        f"{len(by_tier.get('international', []))} internasjonale/nordiske, "
+        f"{len(by_tier.get('secondary', []))} bakgrunnskilder "
+        "(bakgrunnskilder teller ikke som redaksjonell bekreftelse). "
+        f"{len(config.UNAVAILABLE_SOURCES)} ønskede kilder mangler offentlig "
+        "RSS – se «Om denne rapporten»."
     )
     return f"""<header class="top">
   <h1>Morgenrapport &amp; Nyhetsscreener</h1>
@@ -173,20 +183,28 @@ def _badges_html(story):
         badges.append('<span class="badge comment">Kommentar/debatt</span>')
     if story.get("continued_from"):
         badges.append('<span class="badge continued">Videreført</span>')
-    if story["distinct_editorial_source_count"] <= 1:
+    editorial_count = story["distinct_editorial_source_count"]
+    if editorial_count == 0:
+        badges.append('<span class="badge single">Kun bakgrunnskilde</span>')
+    elif editorial_count == 1:
         badges.append('<span class="badge single">Enkeltkilde</span>')
     else:
-        badges.append(f'<span class="badge multi">{story["distinct_editorial_source_count"]} uavhengige kilder</span>')
+        badges.append(f'<span class="badge multi">{editorial_count} uavhengige kilder</span>')
     label = config.CONTENT_TYPE_LABELS.get(story["content_type"], story["content_type"])
     badges.append(f'<span class="badge">{escape(label)}</span>')
     return f'<div class="badges">{"".join(badges)}</div>'
 
 
-def _story_body_html(story):
-    sources_html = "".join(
-        f'<li><a href="{escape(s["link"])}" rel="noopener noreferrer" target="_blank">{escape(s["source_name"])}: {escape(s["title"])}</a></li>'
-        for s in story["sources"]
+def _source_li(s):
+    tag = ' <span class="src-tag">bakgrunnskilde</span>' if s.get("is_secondary") else ""
+    return (
+        f'<li><a href="{escape(s["link"])}" rel="noopener noreferrer" target="_blank">'
+        f'{escape(s["source_name"])}: {escape(s["title"])}</a>{tag}</li>'
     )
+
+
+def _story_body_html(story):
+    sources_html = "".join(_source_li(s) for s in story["sources"])
     disclaimer_line = ""
     if story.get("comment_disclaimer"):
         disclaimer_line = f'<p class="disclaimer">{escape(story["comment_disclaimer"])}</p>'
@@ -212,7 +230,13 @@ def _select_highlights(stories):
     """Topp-saker skal helst være redaksjonelle saker bekreftet av flere
     uavhengige kilder, jf. spesifikasjonens prioriteringsrekkefølge.
     Enkeltkildesaker slipper bare til hvis det ikke finnes nok bekreftede."""
-    editorial = [s for s in stories if s["content_group"] == "redaksjonelt"]
+    # En sak som kun bygger på institusjonelle bakgrunnskilder skal ikke
+    # løftes som dagens viktigste - den er ikke redaksjonelt bekreftet.
+    editorial = [
+        s for s in stories
+        if s["content_group"] == "redaksjonelt"
+        and s["distinct_editorial_source_count"] >= 1
+    ]
 
     def rank(s):
         return (

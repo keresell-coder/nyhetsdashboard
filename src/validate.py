@@ -65,14 +65,24 @@ def build_groups(classifications, articles, clusters_by_lead=None):
         return out
 
     def distinct_sources(members):
-        return len({a.source_id for a in member_articles(members)})
+        # Kun redaksjonelle kilder teller - sekundærkilder gir bakgrunn,
+        # ikke bekreftelse.
+        return len({
+            a.source_id for a in member_articles(members) if a.is_corroborating
+        })
+
+    def sub_priority_rank(root):
+        """Innen rom_cyber: satcom foran cyber foran jordobservasjon."""
+        return config.SUB_PRIORITY_RANK.get(
+            by_id[root].get("sub_priority") or "ingen", 3
+        )
 
     # Grupper per fagområde, beste sak (flest uavhengige kilder) først.
     by_category = {}
     for root, members in groups_by_root.items():
         by_category.setdefault(by_id[root]["main_category"], []).append((root, members))
     for cat_groups in by_category.values():
-        cat_groups.sort(key=lambda rm: -distinct_sources(rm[1]))
+        cat_groups.sort(key=lambda rm: (sub_priority_rank(rm[0]), -distinct_sources(rm[1])))
 
     # Fordel plassene runde for runde i stedet for streng prioritetsrekkefølge.
     # Ren prioritetssortering lot de høyest prioriterte fagområdene spise hele
@@ -151,12 +161,24 @@ def validate_stories(draft_raw, groups_by_key, previous_ids=None):
         articles_by_id = {a.article_id: a for a in group["articles"]}
         used_articles = [articles_by_id[i] for i in sorted(valid_ids)]
         sources = [
-            {"source_name": a.source_name, "link": a.link, "title": a.title}
+            {
+                "source_name": a.source_name,
+                "link": a.link,
+                "title": a.title,
+                "is_secondary": not a.is_corroborating,
+            }
             for a in used_articles
         ]
         content_type = group["content_type"]
         content_group = config.CONTENT_GROUP[content_type]
-        distinct_editorial_sources = len({a.source_id for a in used_articles})
+
+        # Kun redaksjonelle kilder teller som uavhengig bekreftelse.
+        # Sekundærkilder (EU, EIA, ESA) dokumenterer og gir bakgrunn, men
+        # gjør ikke en sak "omtalt av flere medier", jf. spesifikasjonen.
+        distinct_editorial_sources = len(
+            {a.source_id for a in used_articles if a.is_corroborating}
+        )
+        secondary_source_count = sum(1 for a in used_articles if not a.is_corroborating)
 
         sid = state.story_id([a.link for a in used_articles])
         valid_stories.append({
@@ -172,6 +194,7 @@ def validate_stories(draft_raw, groups_by_key, previous_ids=None):
             "sub_priority": group["sub_priority"],
             "sources": sources,
             "distinct_editorial_source_count": distinct_editorial_sources,
+            "secondary_source_count": secondary_source_count,
             "comment_disclaimer": config.COMMENT_DISCLAIMER if content_group == "kommentar_debatt" else None,
         })
 
