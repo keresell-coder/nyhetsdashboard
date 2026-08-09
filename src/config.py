@@ -108,5 +108,20 @@ INGRESS_MAX_WORDS = 50
 SUMMARY_MIN_WORDS = 150
 SUMMARY_MAX_WORDS = 280
 MAX_STORIES_PER_CATEGORY = 6
+TOP_STORIES_COUNT = 3
+
+# Grov tilnærming til spesifikasjonens redaksjonelle prioriteringsrekkefølge,
+# brukt til å plukke ut "Viktigste saker i dag". Lavere tall = høyere
+# prioritet. Fullstendig 8-trinns trimming kommer i Fase 3.
+CATEGORY_PRIORITY = {
+    "sikkerhet_forsvar": 1,
+    "norsk_politikk": 2,
+    "geopolitikk": 3,
+    "okonomi_makro": 4,
+    "nordisk_politikk": 5,
+    "rom_cyber": 6,
+    "internasjonal_politikk": 7,
+    "sport": 8,
+}
 
 TIMEZONE = "Europe/Oslo"
