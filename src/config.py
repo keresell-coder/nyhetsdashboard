@@ -225,11 +225,11 @@ MAX_GEMINI_CALLS_PER_RUN = 6
 # flerkilde-dekning faktisk skal kunne dokumenteres.
 CLUSTER_SIMILARITY_THRESHOLD = 0.6
 
-# Tak på hvor mange klynger som sendes til klassifisering. Med 21 kilder kan
-# innhentingen gi ~190 artikler; et for stort kall risikerer tidsavbrudd (det
-# var nettopp det som feilet på skrivekallet tidligere). Klyngene er sortert
-# med bredest dekkede saker først, så det er halen som kuttes.
-MAX_CLUSTERS_TO_CLASSIFY = 120
+# Tak på hvor mange klynger som sendes til klassifisering. 120 klynger fra
+# 213 artikler timet ut i praksis (Actions-kjøring 31409599067), så taket er
+# senket. Klyngene er sortert med de best rangerte sakene først, så det er
+# halen som kuttes - og 70 kandidater er rikelig for 12 publiserte saker.
+MAX_CLUSTERS_TO_CLASSIFY = 70
 
 # Hvor mange dager tilbake vi husker saker for å kunne merke dem som
 # "videreført fra forrige rapport".

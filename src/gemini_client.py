@@ -127,8 +127,11 @@ def _format_cluster_block(members):
         f"Kommentar-URL-hint: {any(m.comment_hint for m in members)}",
         f"Antall redaksjoner som dekker denne: {len({m.source_id for m in members})}",
     ]
-    for m in members:
-        lines.append(f"  [{m.source_name}] {m.title} :: {m.description[:200]}")
+    # Kun de tre første medlemmene og korte ingresser: hele poenget er å gi
+    # nok kontekst til klassifisering, ikke å sende hele feeden inn.
+    for m in members[:3]:
+        desc = (m.description or "")[:120]
+        lines.append(f"  [{m.source_name}] {m.title} :: {desc}")
     lines.append("---")
     return "\n".join(lines)
 
@@ -192,7 +195,7 @@ oppføring per article_id over. Ikke dikt opp article_id-er."""
             "responseSchema": schema.CLASSIFY_RESPONSE_SCHEMA,
         },
     }
-    data = _extract_json(_post(payload, timeout=90))
+    data = _extract_json(_post(payload, timeout=150))
     return data.get("classifications", [])
 
 
