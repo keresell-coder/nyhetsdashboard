@@ -2,14 +2,18 @@ name: Daily News Screener
 
 on:
   schedule:
-    # GitHub Actions cron er alltid UTC og flytter seg ikke med sommertid.
-    # Vi planlegger begge UTC-forskyvninger for begge klokkeslett (07:30 og
-    # 17:30 norsk tid); scripts/schedule_guard.py avgjør ved kjøretid hvilke
-    # av disse fire som faktisk skal produsere en rapport.
+    # GitHub Actions cron er alltid UTC og flytter seg ikke med sommertid,
+    # OG planlagte jobber starter ofte langt etter oppsatt tid (målt 22-103
+    # minutter forsinkelse 10.08.2026). scripts/schedule_guard.py håndterer
+    # begge deler: den ser på hvilket døgnvindu vi er i, ikke hvor nær et
+    # klokkeslett vi er, og hopper over hvis vinduet alt har publisert.
+    # Oppføringene under er derfor gjentatte forsøk, ikke eksakte tidspunkt.
     - cron: '30 5 * * *'   # 07:30 lokal i sommertid (CEST, UTC+2)
     - cron: '30 6 * * *'   # 07:30 lokal i vintertid (CET, UTC+1)
+    - cron: '30 8 * * *'   # reserve hvis morgenkjøringene faller bort
     - cron: '30 15 * * *'  # 17:30 lokal i sommertid (CEST, UTC+2)
     - cron: '30 16 * * *'  # 17:30 lokal i vintertid (CET, UTC+1)
+    - cron: '30 18 * * *'  # reserve hvis kveldskjøringene faller bort
   workflow_dispatch:
     inputs:
       run_type:
