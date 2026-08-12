@@ -467,5 +467,484 @@
       "dropped_count": 31,
       "drop_reasons": []
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "ce8d2dbacc023edf",
+        "continued_from": null,
+        "headline": "Sveits foreslår momsøkning for å styrke forsvaret med milliarder",
+        "ingress": "Regjeringen i Sveits ønsker å øke merverdiavgiften over en tolvsårsperiode for å finansiere forsvarssektoren. Det historisk nøytrale landet ser et behov for å bruke over 280 milliarder kroner ekstra, samt å etablere et eget våpenfond.",
+        "summary": "Regjeringen i Sveits har lagt frem et forslag om å heve merverdiavgiften med 0,5 prosentpoeng gjennom en periode på tolv år for å sikre finansieringen av sitt forsvar. Bakgrunnen for tiltaket er at myndighetene vurderer det som helt nødvendig å tilføre forsvarssektoren ytterligere 24 milliarder sveitsiske franc, noe som tilsvarer omtrent 280,4 milliarder norske kroner. I tillegg til avgiftsøkningen planlegges det å opprette et eget våpenfond. Dette fondet skal etter planen finansieres ved hjelp av inntektene fra momsøkningen, i kombinasjon med midler omdisponert fra det eksisterende forsvarsbudsjettet. Sveits har gjennom historien opprettholdt en streng militær nøytralitet og står i dag utenfor forsvarsallianser som Nato. Likevel opprettholder landet et utstrakt og nært samarbeid med alliansen. De foreslåtte tiltakene markerer en betydelig satsing på nasjonal sikkerhet i en tid med endrede sikkerhetspolitiske rammebetingelser. Det vil gi forsvaret en langt mer forutsigbar og langsiktig økonomisk ramme i årene fremover. Satsingen understreker hvordan selv nøytrale stater opplever et økende behov for å oppgradere sin egen forsvarsevne og sine militære ressurser, selv om landets grunnleggende alliansefrihet i utgangspunktet ligger fast. Både opprettelsen av våpenfondet og momsøkningen vil være sentrale elementer i den videre politiske behandlingen av forslaget. Forslaget, som har sitt opphav i meldinger fra nyhetsbyrået Reuters, er nå gjenstand for vurdering.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "okonomi_makro",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/sveits-vil-ha-12-arig-momsokning-for-a-finansiere-forsvaret-1.17987436",
+            "title": "Sveits vil ha 12-årig momsøkning for å finansiere forsvaret",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2f3c4acb8a61ecce",
+        "continued_from": null,
+        "headline": "Nordtun vil ikke forby KI-briller i barneskolen nå",
+        "ingress": "Kunnskapsminister Kari Nessa Nordtun ønsker ikke å nedlegge forbud mot læreres bruk av kunstig intelligens-briller i barneskolen på nåværende tidspunkt. Hun varsler emellertid at et forbud kan bli aktuelt dersom det skulle oppstå uønskede hendelser knyttet til teknologien.",
+        "summary": "Kunnskapsminister Kari Nessa Nordtun fra Arbeiderpartiet slår fast at regjeringen ikke vil gå inn for et generelt forbud mot at lærere bruker KI-briller i den norske barneskolen. Uttalelsen kom i forbindelse med politiske debatter under Arendalsuka. Statsråden understreker at hun foreløpig ønsker å gi skolen og lærerne tillit i møte med ny teknologi, heller enn å innføre nasjonale restriksjoner og forbud på et tidlig stadium. Samtidig presiserer Nordtun at myndighetene følger utviklingen nøye. Dersom det i fremtiden skulle oppstå uønskede hendelser eller utfordringer knyttet til personvern, sikkerhet eller læringsmiljø ved bruk av slike briller, vil et eventuelt forbud bli vurdert på nytt. Bruken av kunstig intelligens og ny bærbar teknologi i skolesektoren har skapt betydelig debatt den siste tiden, der ulike aktører peker på både muligheter for pedagogisk innovasjon og potensielle risikoer knyttet til skoleshverdagen. Regjeringens linje er dermed å avvente konkrete erfaringer før det eventuelt fattes videre regulerende tiltak på nasjonalt nivå. Det legges opp til fortløpende evalueringer dersom bruken av KI-verktøy sprer seg ytterligere i klasserommene. Både læreres digitale kompetanse og elevens trygghet står sentralt i vurderingene som gjøres fremover i sektoren. Saken belyser det vanskelige balansepunktet mellom innovasjon i undervisningen og beskyttelse mot uønskede konsekvenser i det digitale klasserommet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19117166",
+            "title": "Vil ikke forby disse",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "22ef1005c3b7c4a2",
+        "continued_from": null,
+        "headline": "Tankskip har grunnstøtt i naturreservat utenfor Oman",
+        "ingress": "Et grunnstøtt tankskip i et naturreservat utenfor kysten av Oman skaper dyp bekymring blant miljøeksperter. Hendelsen truer med å utvikle seg til et av de mest alvorlige oljeutslippene globalt, med potensielt katastrofale konsekvenser for det lokalmiljøet og det sårbare økosystemet i området.",
+        "summary": "Et tankskip har grunnstøtt i et sårbart naturreservat beliggende utenfor kysten av Oman, noe som har utløst frykt for en omfattende miljøkatastrofe. Eksperter advart om at den akutte situasjonen er i ferd med å utvikle seg til et av de verste oljeutslippene verden har sett i nyere tid. Det berørte naturreservatet huser et unikt og sårbart marint dyreliv samt sensitive økosystemer som er svært utsatte for den kjemiske belastningen fra råolje. Et massivt oljeutslipp i dette spesiell området kan føre til langvarige og uopprettelige skader på både flora, fauna og kystlinje. Redningsaksjoner og skadebegrensende tiltak pågår eller vurderes fortløpende, men krevende forhold på stedet gjør oppryddingsarbeidet svært utfordrende. Situasjonen følges nøye av internasjonale miljøorganisasjoner og lokalmyndigheter, som frykter at utslippet vil spre seg over større havområder dersom lekkasjen ikke stanses raskt. Utslippet fremhever den betydelige risikoen knyttet til sjøtransport av olje gjennom økologisk følsomme farvann. Dersom oppsamlingsarbeidet mislykkes, kan lokalsamfunn som er avhengige av fiskeri og kystturisme bli påført store økonomiske tap. Ekspertenes marerittscenario innebærer at oppryddingen vil ta flere år og at hele næringskjeder i reservatet ødelegges fullstendig. Situasjonen forblir uavklart og ekstremt kritisk for det maritime miljøet i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/y5VOjr/massivt-oljeutslipp-utenfor-oman-ekspert-frykter-marerittscenario",
+            "title": "Ekspert frykter «marerittscenario» etter massivt oljeutslipp",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "db5a97059354e95d",
+        "continued_from": null,
+        "headline": "Wall Street stiger etter nye prisveksttall fra USA",
+        "ingress": "Amerikanske konsumprisindekstall viser at den årlige inflasjonen falt til 3,4 prosent i juli. Den dempede prisveksten ga umiddelbar oppgang på Wall Street, og styrker forventningene om at den amerikanske sentralbanken kan komme til å kutte eller holde renten uendret.",
+        "summary": "Nye tall fra det amerikanske arbeidsstatistikkbyrået (BLS) viser at den årlige inflasjonen i USA dempet seg til 3,4 prosent i juli, ned fra 3,5 prosent i juni. Konsumprisindeksen (CPI) steg med 0,1 prosent sammenlignet med måneden før. Utviklingen var i tråd med det analytikerne på forhånd hadde ventet. Avdempingen i prisveksten skjedde til tross for vedvarende uro i oljemarkedet knyttet til krigen i Iran. Reaksjonen på finansmarkedene i New York var positiv. Etter en avventende start på uken steg de ledende indeksene på Wall Street markant etter at tallene ble offentliggjort. Blant enkeltaksjer utmerket kunstig intelligens-selskapet Coreweave seg med en kraftig kursoppgang etter fremleggelse av sine kvartalstall. De ferske inflasjonsdataene blir ansett som avgjørende for Federal Reserve før det kommende rentemøtet i september. Utviklingen gir den amerikanske sentralbanken mer handlingsrom og pusterom i utformingen av rentepolitikken fremover, ettersom faren for en overopphetet økonomi ser ut til å avta noe. Analytikere vurderer nå at tallene reduserer sannsynligheten for ytterligere rentehevinger i nær fremtid, noe som har bidratt til å øke investorenes optimisme i aksjemarkedet. Likevel følges energi- og råvaremarkedene fortsatt tett på grunn av geopolitisk usikkerhet. samlet sett gir julitallene en indikasjon på at prisveksten i USA er i ferd med å stabilisere seg på et lavere nivå.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/inflasjonen-avtok-i-usa-i-juli-1.17987597",
+            "title": "Inflasjonen avtok i USA i juli",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/wall-street-stiger-etter-inflasjonstall/2-1-2028312",
+            "title": "Wall Street stiger etter inflasjonstall",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/fed/kevin-warsh/inflasjon/usas-inflasjonsfasit-traff-blink-prisene-steg-34-prosent/2-1-2027806",
+            "title": "USAs inflasjonsfasit traff blink – prisene steg 3,4 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/pBVG5E/wall-street-stiger-etter-inflasjonstall?utm_medium=rss",
+            "title": "Wall Street stiger etter inflasjonstall",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/V6aGQV/prisveksten-i-usa-endte-paa-3-4-prosent-i-juli?utm_medium=rss",
+            "title": "Prisveksten i USA endte på 3,4 prosent",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4e43296b8fa6f82f",
+        "continued_from": null,
+        "headline": "Tydal Data Center donerer datakraft til KI-forskning",
+        "ingress": "Tydal Data Center deler ut regnekraft til en verdi av flere millioner kroner til NTNU og Simula. Donasjonen skal benyttes til å styrke den norske forskningen på kunstig intelligens.",
+        "summary": "Tydal Data Center har besluttet å tildele datakraft til en verdi av flere millioner kroner til Norges teknisk-naturvitenskapelige universitet (NTNU) og forskningsinstituttet Simula. Donasjonen er øremerket akademisk forskning på kunstig intelligens, en prosesseringstung disiplin som krever enorm infrastruktur og betydelig energitilgang. Gjennom dette tiltaket får de norske forskningsmiljøene tilgang til avanserte beregningsressurser som ellers ville vært kostbare å leie eller tilknytte. Tilgangen på tilstrekkelig datakraft har lenge vært en flaskehals for nasjonal forskning og utvikling innen avanserte KI-modeller. Donasjonen fra Tydal Data Center skal bidra til å styrke Norges posisjon innenfor det internasjonale forskningsfeltet og tilrettelegge for at fagmiljøene kan utføre mer komplekse analyser og eksperimenter lokalt. Samarbeidet mellom kommersielle datasentre og ledende akademia trekkes frem som et viktig skritt for å bygge opp under den nasjonale kompetansen på feltet. Både Simula og NTNU har uttrykt stor nytte av tildelingen, som vil gjøre dem i stand til å gjennomføre mer krevende prosjekter. I en tid hvor kampen om beregningsressurser er global og intens, vil slike private bidrag være avgjørende for at norske institusjoner skal kunne holde følge med den raske teknologiske utviklingen på KI-feltet. Satsingen forventes å gi resultater innen både grunnforskning og praktisk anvendelse av kunstig intelligens fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/V6axXd/deler-ut-kraft-verdt-millioner-til-ai-forskning?utm_medium=rss",
+            "title": "Deler ut kraft verdt millioner til AI-forskning",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5dcce44227c62b6d",
+        "continued_from": null,
+        "headline": "Eurovision innfører strengere vertsregler og hever aldersgrensen",
+        "ingress": "Den europeiske kringkastingsunion (EBU) strammer inn regelverket for Eurovision Song Contest. Fra og med 2027 kan land i væpnede konflikter eller ustabile situasjoner miste arrangørretten. I tillegg heves aldersgrensen for deltakere til 18 år, og reglene for bruk av forhåndsinnspilt vokal skjerpes.",
+        "summary": "Den europeiske kringkastingsunionen (EBU) har vedtatt omfattende regelendringer for Eurovision Song Contest, som trer i kraft fra 2027. Endringene innebærer blant annet at et land kan bli fratatt retten til å arrangere konkurransen dersom det oppstår en væpnet konflikt, en sensitiv geopolitisk situasjon eller andre omstendigheter som truer sikkerheten og stabiliteten. Bakgrunnen for innstrammingen er de siste årenes geopolitiske spenninger, hvor særlig Israels deltakelse skapte sterk uro og førte til boikott fra flere medlemsland. NRKs Eurovision-leder Mads Tørklep stiller seg positiv til de nye vertsreglene og kaller det en viktig endring. I tillegg til vertsreglene gjøres det endringer for deltakerne. Aldersgrensen for å delta i konkurransen heves fra 16 til 18 år. EBU strammer også inn reglene vedrørende bruk av forhåndsinnspilt lyd i fremføringene. Hovedvokalisten må heretter synge live på scenen, selv om bakgrunnsspor fortsatt er tillatt så lenge de ikke overdøver eller erstatter vokalen. Regelendringene skal sikre konkurransens integritet, trygghet og nøytralitet i et stadig mer krevende internasjonalt klima. Reaksjonene internt i EBU-fellesskapet har stort sett vært støttende, da tiltakene gir klarere rammer for fremtidige arrangementer. Årets finale ble for øvrig vunnet av artisten DARA fra Bulgaria. De nye direktivene vil sette en tydelig standard for sangkonkurransen i tiårene som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nye-regler-i-eurovision-1.17987884",
+            "title": "Nye regler i Eurovision",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/oEV7XR/ebu-endrer-regler-land-i-krig-kan-ikke-arrangere-eurovision",
+            "title": "EBU: Land i krig får ikke arrangere Eurovision",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/QJajG4/nye-regler-i-eurovision-strengere-krav-til-vertslandene",
+            "title": "Nye regler i Eurovision – strengere krav til vertslandene",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/nye-strengere-regler-i-eurovision/s/5-95-3193873",
+            "title": "Nye strengere regler i Eurovision",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "dca1e2998e97adbd",
+        "continued_from": null,
+        "headline": "Los Angeles Lakers selges for historisk rekordsum",
+        "ingress": "Basketballklubben Los Angeles Lakers blir solgt for en historisk sum. Investorene Josh Kushner og tidligere Disney-sjef Bob Iger står bak oppkjøpet, som ifølge amerikanske medier beløper seg til rundt 12,5 milliarder dollar.",
+        "summary": "Det amerikanske basketballaget Los Angeles Lakers blir solgt i det som omtales som tidenes dyreste salg av en idrettsklubb. Ifølge flere amerikanske medier, deriblant sports- og nyhetskanalen ESPN, er det investoren Josh Kushner og tidligere Disney-topp Bob Iger som kjøper NBA-giganten. Salgssummen oppgis til å være mellom 12 og 12,5 milliarder amerikanske dollar, noe som tilsvarer omkring 114 milliarder norske kroner med dagens valutakurs. Aldri tidligere har en idrettsklubb, uavhengig av idrettsgren, blitt solgt for en så høy sum. Kjøpet markerer dermed en ny milepæl innen kommersiell idrett og eierskap i profesjonelle ligaer. Los Angeles Lakers er et av de mest kjente og mestvinnende lagene i amerikansk basketballhistorie, med en global tilhengerskare og en sterk merkevare. Oppkjøperne har tunge profilbakgrunner i næringslivet. Josh Kushner er en kjent investor og grunnlegger av venturekapitalselskapet Thrive Capital, mens Bob Iger har mangeårig erfaring som administrerende direktør i underholdningskonsernet The Walt Disney Company. Opplysningene om eierskiftet har skapt stor oppmerksomhet i internasjonale sports- og finansmedier, selv om de formelle detaljene og godkjenningsprosessene i ligaen ennå må fullføres. Oppkjøpet understreker den voksende økonomiske verdien til ledende amerikanske idrettsfranchiser i et globalt marked. Lakers har gjennom årene hyllet stjerner som Kobe Bryant, Magic Johnson og LeBron James. Salget reflekterer den enorme veksten i verdien av globale sportsrettigheter og kommersielle sponsoravtaler. Transaksjonen forventes å sette en ny standard for fremtidige eierskifter i nordamerikansk proffidrett.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/espn-lakers-selges-for-12-milliarder-dollar/2-1-2028362",
+            "title": "ESPN: Lakers selges for 12 milliarder dollar",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/Gx5joJ/espn-los-angeles-lakers-selges-for-rekordsum?utm_medium=rss",
+            "title": "ESPN: Los Angeles Lakers selges for rekordsum",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/7pxmX8/espn-los-angeles-lakers-selges-for-rekordsum",
+            "title": "ESPN: Los Angeles Lakers selges for rekordsum",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/Gx5jpJ/los-angeles-lakers-solgt-for-114-milliarder-kroner",
+            "title": "Rekordsalg: Los Angeles Lakers solgt for 114 milliarder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/oEV747/rekordsalg-los-angeles-lakers-solgt-for-114-milliarder",
+            "title": "Rekordsalg: Los Angeles Lakers solgt for 114 milliarder",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4760ffcbe9a8b64d",
+        "continued_from": null,
+        "headline": "Kongsberg mangedobler sin produksjon av missiler",
+        "ingress": "Kongsberg-gruppen varsler en historisk oppskalering av norsk missilproduksjon, der kapasiteten økes fra titalls til flere tusen enheter i året. Forsvarsministeren omtaler utviklingen som en industrikrig der skala og volum er helt avgjørende.",
+        "summary": "Kongsberg-sjef Eirik Lie varsler en omfattende og historisk oppskalering av den norske produksjonen av missiler. Selskapet planlegger å øke sin årlige produksjonskapasitet dramatisk, fra tidligere å levere titalls enheter til å produsere flere tusen missiler i året. Denne voldsomme økningen kommer som et direkte svar på den endrede sikkerhetssituasjonen i Europa og det økende behovet for forsvarsmateriell blant allierte nasjoner. Forsvarsminister Tore O. Sandvik støtter oppskaleringen og peker på at den pågående situasjonen krever en helt ny tilnærming til industriell kapasitet. Han beskriver den nåværende situasjonen som en industrikrig der tilgang på tilstrekkelig skala og volum er helt avgjørende for å opprettholde beredskap og avskrekking. Lie og forsvarsledelsen understreker at tilgang på tilstrekkelig forsvarsmateriell er blitt en av de fremste prioriteringene for både Norge og partnerlandene i NATO. Den planlagte produksjonsveksten vil kreve betydelige investeringer i nye produksjonsfasiliteter, teknologi og kompetent arbeidskraft. Tiltaket forventes å styrke både den norske forsvarsindustriens posisjon internasjonalt og forsyningssikkerheten for det norske forsvaret og dets allierte. Oppskaleringen illustrerer hvordan forsvarssektoren omstiller seg for å møte langsiktige strategiske utfordringer i en tid med økt global spenning og usikkerhet, der rask leveringsevne og store produksjonsvolumer vurderes som helt essensielle faktorer. Denne satsingen er et av de mest omfattende industriprosjektene i norsk forsvarssektor i nyere tid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/arendalsuka/mangedobler-missilproduksjon-fra-titalls-til-flere-tusen-i-aret/2-1-2027745",
+            "title": "Mangedobler missilproduksjon – fra «titalls» til flere tusen i året",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5ce18661ddf4d659",
+        "continued_from": null,
+        "headline": "Fare for flyplass-streik etter utløp av meklingsfrist",
+        "ingress": "Meklingsfristen for ansatte i bakketjenester ved norske flyplasser utløper ved midnatt. Dersom partene ikke oppnår enighet i løpet av natten, vil en streik trå i kraft fra torsdag morgen.",
+        "summary": "Det er betydelig fare for streik ved norske flyplasser fra og med torsdag morgen. Bakgrunnen er at meklingsfristen for de ansatte innen bakketjenester utløper ved midnatt. Partene har sitting i mekling hos Riksmekleren for å forsøke å komme fram til en løsning på utfordringene knyttet til lønns- og arbeidsvilkår. Dersom partene ikke blir enige innen fristens utløp, eller på overtid i løpet av natten, vil konflikten trappes opp og resultere i streik. En slik arbeidsstans vil ramme en rekke sentrale funksjoner på flyplassene, inkludert bagasjehåndtering, deising av fly og andre nødvendige bakketjenester. Dette kan få store konsekvenser for flytrafikken i hele landet, med fare for forsinkelser og kanselleringer for tusenvis av passasjerer. Meklingen gjelder sentrale arbeidstakerorganisasjoner og arbeidsgiversiden innen luftfartssektoren. Partene har stått overfor vanskelige forhandlinger, der krevende økonomiske rammer og krav om bedrede arbeidsbetingelser har skapt avstand. Både reisende og flyselskaper følger situasjonen tett mens meklingsfristen nærmer seg. Reisende oppfordres til å følge med på informasjon fra sine henholdsvise flyselskaper dersom en streik skulle bli en realitet fra torsdag morgen. Situasjonen avhenger helt av om Riksmekleren klarer å legge fram en skisse som begge parter kan godta i siste liten. Luftfarten har over lengre tid vært preget av stramme marginer, noe som gjør årets oppgjør ekstra krevende for alle parter.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19122211",
+            "title": "Fortsatt fare for streik ved norske flyplasser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/fortsatt-fare-for-streik-ved-norske-flyplasser/s/5-95-3193891",
+            "title": "Fortsatt fare for streik ved norske flyplasser",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "920fe536d64ce8c1",
+        "continued_from": null,
+        "headline": "Trump hevder USA har full kontroll over Hormuzstredet",
+        "ingress": "USAs president Donald Trump uttrykker på ny optimisme angående situasjonen i Hormuzstredet. I et innlegg på sin sosiale plattform Truth Social hevder han at USA nå har full kontroll over det strategisk viktige farevannet.",
+        "summary": "USAs president Donald Trump har igjennom sin egen sosiale medier-plattform Truth Social uttalt at USA nå har fullstendig kontroll over det strategiske Hormuzstredet. Uttalelsen føyer seg inn i en rekke av optimistiske meldinger fra den amerikanske presidenten angående situasjonen i det viktige maritime området. Hormuzstredet er et av verdens absolutt mest kritiske knutepunkter for sjøtransport av olje og gass, og enhver uttalelse eller endring i kontrollforholdene der følges nøye av internasjonale aktører og finansmarkeder. Trumps påstand om full kontroll må imidlertid vurderes på bakgrunn av hans politiske retorikk og kommunikasjonsstil i sosiale medier. Det fremgår ikke av meldingen konkrete detaljer om hvilke militære eller operative tiltak som ligger til grunn for påstanden, eller om det har skjedd nye endringer i nærværet til USAs flåtestyrker i regionen. Spenningen i Hormuzstredet har i lengre tid vært høy som følge av geopolitisk rivalisering i Midtøsten. Stredet, som binder Den persiske gulf sammen med Omanbukta og Det indiske hav, er et geopolitisk brennpunkt der trefninger eller trusler mot skipsfarten raskt kan påvirke globale energipriser. Presidentens uttalelser reflekterer administrasjonens ønske om å fremstå som en garanterende makt for fri navigasjon og sikkerhet i området, men uttalelsene møtes også med årvåkenhet fra internasjonale analytikere som følger utviklingen i Midtøsten tett.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/oEV75R/trump-ser-lys-i-hormuz-tunnelen-igjen",
+            "title": "Trump ser lys i Hormuz-tunnelen – igjen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a1d3d051b0ee4a47",
+        "continued_from": null,
+        "headline": "Scatec setter stort solkraftverk i drift i Egypt",
+        "ingress": "Det norske fornybarkselskapet Scatec har satt andre fase av solkraftprosjektet Obelisk i drift i Egypt. Anlegget har en betydelig produksjonskapasitet som ville tilsvart et av de største kraftverkene i Norge.",
+        "summary": "Det norske fornybarkselskapet Scatec har nå nådd en ny viktig milepæl ved å sette andre fase av det omfattende solkraftprosjektet Obelisk i drift i Egypt. Med denne utvidelsen økes selskapets samlede energiproduksjon i regionen betraktelig. Prosjektets dimensjoner gjør at anlegget i ytelse kan sammenlignes med noen av de aller største vannkraftverkene vi har i Norge. Lanseringen av Obelisk-prosjektets andre fase understreker Scatecs langsiktige strategi og satsing på store fornybarprosjekter i fremvoksende markeder. Egypt har over de siste årene satset tungt på fornybar energi for å møte et økende innenlandsk strømbehov samt redusere avhengigheten av fossile brensler. Samarbeidet med internasjonale fornybarselskaper som Scatec er en nøkkelkomponent i landets grønne omstilling. For Scatec representerer idriftsettelsen ikke bare økte driftsinntekter, men også en bekreftelse på selskapets gjennomføringsevne innen storskala solkraftutbygging. Prosjektet innebærer omfattende teknisk infrastruktur og har krevd vesentlige investeringer. Solkraftverket vil levere ren strøm til det egyptiske strømnettet og bidra til å kutte CO2-utslipp i betydelig skala. Nyheten har blitt positivt mottatt i finans- og energimarkedet, der Scatec fortsetter å markere seg som en sentral internasjonal aktør innen utbygging, eierskap og drift av fornybare energianlegg. Selskapet ser fortsatt store muligheter for videre vekst i Solens belte internasjonalt. Satsingen støtter opp under globale klimamål om overgang til fornybare og rene energikilder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/9pxqEM/scatec-kjempe-i-drift-ville-vaert-et-av-de-stoerste-kraftverkene-i-norge?utm_medium=rss",
+            "title": "Scatec-kjempe i drift: – Ville vært et av de største kraftverkene i Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/9pxqEM",
+            "title": "Scatec-kjempe i drift: – Ville vært et av de største kraftverkene i Norge",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9a7e12e02d710f23",
+        "continued_from": null,
+        "headline": "Europa gjør seg klar for sjelden total solformørkelse",
+        "ingress": "Deler av Europa forbereder seg på den første totale solformørkelsen på flere tiår. Entusiaster og forskere samler seg særlig i Spania, mens mindre formørkelser blir synlige fra flere andre land, inkludert Norge.",
+        "summary": "For første gang på 27 år opplever Europa en total solformørkelse, et sjeldent himmelfenomen som trekker til seg millioner av skuelystne og forskere fra hele verden. Fenomenet er særlig fremtredende i deler av Nord-Spania, hvor månen for en kort stund vil skygge helt for solen og gjøre dag om til natt. En delvis solformørkelse vil også være synlig over store deler av det europeiske kontinentet, Nord-Amerika og Nordvest-Afrika, inkludert flere steder i Norge. I Norge er dette den første solformørkelsen som kan oppleves på over ti år, forutsatt at værforholdene gir skyfri himmel. Utover å være et spektakulært syn for befolkningen, gir solformørkelser vitenskapsfolk en verdifull anledning til å studere solens korona og samle inn unike astrofysiske data. Den europeiske romorganisasjonen ESA markerer hendelsen på utradisjonelt vis gjennom et kunstnerisk data-prosjekt kalt «musifisering». I samarbeid med spanske astrofysikere har ESA omskapt data fra en datasimulering av formørkelsen til et musikalsk lydbilde. Parametere som synlig sollys, fargeendringer og koronaens tilsynekomst styres direkte av astronomiske data fra observatoriet i Javalambre i Spania. Dette prosjektet illustrerer hvordan vitenskapelige målinger kan formidles på nye måter for å gi publikum en dypere forståelse av kosmiske begivenheter. Totalt sett representerer solformørkelsen både et vitenskapelig høydepunkt og et unikt kulturforskningssamarbeid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/zOV6LO/se-solformoerkelsen",
+            "title": "Se solformørkelsen!",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/3pxmn0/solformoerkelse-i-norge-her-faar-du-best-utsikt-onsdag-kveld",
+            "title": "Se solformørkelsen fra hele verden: Her er best sjanse i Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19123670",
+            "title": "Skyfri himmel? Se opp!",
+            "is_secondary": false
+          },
+          {
+            "source_name": "New York Times",
+            "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+            "title": "Live Updates: Europe Counts Down to a Total Solar Eclipse",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Al Jazeera",
+            "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
+            "title": "Europe prepares for first total solar eclipse in 27 years",
+            "is_secondary": false
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/spain-prepares-for-rare-total-solar-eclipse",
+            "title": "Spain prepares for rare total solar eclipse",
+            "is_secondary": false
+          },
+          {
+            "source_name": "ESA",
+            "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse",
+            "title": "Musification of the 2026 total solar eclipse",
+            "is_secondary": true
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 1,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 24,
+      "drop_reasons": []
+    }
   }
 }
