@@ -1,0 +1,471 @@
+{
+  "date": "2026-08-12",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "fca879a619076c79",
+        "continued_from": null,
+        "headline": "Vurdering av økt risiko for russisk Nato-testing",
+        "ingress": "En analyse i Dagens Næringsliv peker på at risikoen øker for at Russlands president Vladimir Putin vil utfordre Nato militært. Den psykologiske krigføringen fra russisk side trekkes fram som et sentralt element i den tilspissede sikkerhetssituasjonen.",
+        "summary": "Sikkerhetssituasjonen i Europa preges av økende spenning, og i en analyse publisert av Dagens Næringsliv vurderes risikoen for at Russlands president Vladimir Putin vil teste Nato militært som stigende. Artikkelen tar for seg hvordan den russiske ledelsen benytter seg av psykologisk krigføring for å skape usikkerhet og splid blant de vestlige allierte. Analysen framhever at Putins strategiske grep ikke bare handler om konvensjonelle militære operasjoner, men i stor grad om å utfordre motpartens mentale beredskap og politiske samhold. Ved å balansere på grensen til direkte konfrontasjon søker det russiske regimet å kartlegge Natos reaksjonsmønstre og vilje til å forsvare medlemslandene. Dette skaper nye utfordringer for forsvarsalliansens avskrekkingsstrategi. Det understrekes at dette dreier seg om en redaksjonell vurdering av den geopolitiske utviklingen, heller enn bekreftede hendelser på bakken. Likevel peker analysen på at faren for feilberegninger øker når informasjonskrigføring og militær posisjonering forsterker hverandre. Presset som utøves gjennom retorikk og usikkerhetsmomenter tvinger Nato-alliansen til å konstant revurdere sin egen sikkerhetspolitiske tilnærming. For at avskrekkingen skal fungere effektivt, må forsvarsalliansen vise en klar og entydig handlekraft overfor eventuelle provokasjoner. Vestlige ledere må derfor forholde seg til både de faktiske militære kapabilitetene og de psykologiske virkemidlene som benyttes fra Moskva. Utviklingen stiller strengere krav til samhold og årvåkenhet innad i Nato for å forhindre en ytterligere eskalering i regionen.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kommentar/vladimir-putin/krigen-i-ukraina/nato/putins-psykologiske-krig/2-1-2027330",
+            "title": "Putins psykologiske krig",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "264a32dc52108330",
+        "continued_from": null,
+        "headline": "Nedgang i nordmenns antibiotikabruk i første halvår",
+        "ingress": "Antibiotikabruken i Norge gikk ned i første halvår av 2026, viser nye tall fra Apotekforeningen. Bruken ligger nå lavere enn i årene før pandemien. Apotekforeningen kaller utviklingen positiv for å bremse antibiotikaresistens.",
+        "summary": "Tall fra Apotekforeningen viser at nordmenns bruk av antibiotika gikk ned i første halvår av 2026. Forbruket er nå lavere enn det var både i årene før koronaviruspandemien og i årene rett etter at restriksjonene ble opphevet. Utviklingen skjer etter at antibiotikabruken falt betydelig under sjølve pandemien, for deretter å oppleve en økning i de påfølgende årene. De siste årene har forbruket holdt seg relativt stabilt, før det i 2026 igjen peker i nedadgående retning. Fagdirektør Hanne Andresen i Apotekforeningen uttrykker tilfredshet med tallene og omtaler nedgangen som en positiv utvikling. Hun understreker at et lavere samlet forbruk av antibiotika er et helt avgjørende tiltak for å bremse utviklingen av antibiotikaresistens, som utgjør en global helsetrussel. Samtidig presiserer fagdirektøren at det er like viktig å påse at pasienter som faktisk har behov for antibiotikabehandling, får riktig og tilstrekkelig medisinsk oppfølging. Både NRK og Aftenposten har omtalt pressemeldingen fra Apotekforeningen om helsetrenden første halvår. NRK peker på at de dekket denne utviklingen allerede i februar, og de nye halvårstallene bekrefter nå at trenden med redusert forbruk fortsetter i befolkningen. Reduksjonen anses som et viktig skritt i det nasjonale arbeidet med korrekt legemiddelbruk og bekjempelse av resistente bakterier i det norske helsevesenet. Dette styrker det forebyggende folkehelsearbeidet i tiden framover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/antibiotikabruken-fortsetter-a-falle-1.17986873",
+            "title": "Antibiotikabruken fortsetter å falle",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/n1VG5n/antibiotikabruken-gaar-ned",
+            "title": "Antibiotikabruken går ned",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "052fd4268f9466c3",
+        "continued_from": null,
+        "headline": "Pakistanske statsborgere drept i angrep i Rødehavet",
+        "ingress": "Tre pakistanske statsborgere er drept og én er skadd etter et angrep på et kommersielt skip i Rødehavet. Pakistanske myndigheter legger skylden på Houthi-militsen, mens kystvakten i Jemen melder om totalt seks omkomne.",
+        "summary": "Pakistans utenriksminister opplyste onsdag at tre pakistanske statsborgere er drept i et angrep på et kommersielt skip i Rødehavet. I tillegg skal ytterligere én pakistansk borger ha blitt skadet i den samme hendelsen. Ifølge nyhetsbyrået AFP knytter pakistanske myndigheter angrepet direkte til den jemenittiske Houthi-militsen, som i lengre tid har aksjonert mot utvalgt skipstrafikk i det strategisk viktige havområdet. Parallelt med opplysningene fra Pakistan har kystvakten i Jemen oppgitt at det totale dødstallet etter angrepet er høyere. Tirsdag opplyste jemenittisk kystvakt, også innrapportert via AFP, at til sammen seks personer mistet livet på skipet som ble rammet. Hendelsen føyer seg inn i en rekke sikkerhetsutfordringer for den internasjonale skipsfarten i Rødehavet. Houthi-bevegelsen har gjennomført flere angrep på sivil og kommersiell fartøybevegelse, noe som har skapt stor bekymring for sjøfolks sikkerhet og forstyrret globale forsyningslinjer. Det har ført til at mange rederier har omdirigert sine skip for å unngå det risikoutsatte farvannet. Angrepet understreker den fortsatt spente situasjonen i regionen, der kommersielle fartøyer risikerer å bli skuddmål for militante grupper. Pakistans offentliggjøring av dødsfallene bekrefter at konflikten får konsekvenser for mannskaper fra flere nasjoner som arbeider om bord på handelsfartøyer i Rødehavet. Sivile myndigheter i Pakistan og internasjonale maritime aktører følger den alvorlige situasjonen fortløpende for å ivareta sikkerheten til sjøs.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/pakistan-sier-tre-er-drept-i-angrep-pa-skip-i-rodehavet-1.17986930",
+            "title": "Pakistan sier tre er drept i angrep på skip i Rødehavet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b6bd6e4a5c7f25e7",
+        "continued_from": null,
+        "headline": "Rekordavkastning for Oljefondet i første halvår av 2026",
+        "ingress": "Statens pensjonsfond utland fikk en avkastning på 1753 milliarder kroner i første halvår av 2026, tilsvarende 9,4 prosent. Det er den sterkeste kroneavkastningen i fondets historie, drevet av god oppgang i aksjemarkedene og investeringer i selskap som SpaceX.",
+        "summary": "Oljefondet (Statens pensjonsfond utland) oppnådde en avkastning på 1753 milliarder kroner, eller 9,4 prosent, i første halvår av 2026. Dette utgjør den høyeste avkastningen målt i kroner i løpet av et enkelt halvår i fondets historie. Norges Bank Investment Management (NBIM) og fondets leder Nicolai Tangen opplyser at det sterke resultatet særlig ble drevet av god avkastning i aksjemarkedet, med et markant comeback i andre kvartal. Asiatiske teknologiaksjer var blant bidragsyterne som utmerket seg. Ved utgangen av halvåret var fondets samlede verdi oppgitt til om lag 22.683 milliarder kroner, med enkelte rapporterte tall opp mot 22.695 milliarder kroner. Verdiøkningen i perioden var på 1416 milliarder kroner, et tall som var noe lavere enn den rene avkastningen på grunn av kronekursen og forvaltningskostnader. Utviklingen markerer en tydelig snuoperasjon fra første kvartal, da fondets verdi var nede i 19.998 milliarder kroner under børsurolighetene som følge av konflikten mellom Israel, USA og Iran. I løpet av halvåret åpnet Oljefondet også for kontroversielle nyinvesteringer, hvor det kjøpte seg inn i Elon Musks selskap SpaceX. Ved utgangen av perioden var fondets aksjepost i SpaceX verdsatt til om lag 12,1 milliarder kroner, noe som anses å gi en nøytral vekting i aksjeporteføljen. Siden det første innskuddet i 1996 har staten tilført fondet 6285 milliarder kroner, mens den samlede avkastningen etter kostnader beløper seg til 15.120 milliarder kroner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/oljefondet_-avkastning-pa-1753-milliarder-i-forste-halvar-av-2026-1.17986893",
+            "title": "Oljefondet: Avkastning på 1753 milliarder i første halvår av 2026",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/oljefondet/resultater/aksjer/oljefondet-med-avkastning-pa-94-prosent-i-forste-halvar/2-1-2026943",
+            "title": "Oljefondet med avkastning på 9,4 prosent i første halvår",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/oljefondet/space-x/elon-musk/kraftig-verdiokning-for-oljefondet-hadde-12-milliarder-i-space-x/2-1-2025948",
+            "title": "Kraftig verdiøkning for Oljefondet – hadde 12 milliarder i Space X",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/8px53Q/oljefondet-fikk-avkastning-paa-1-753-mrd?utm_medium=rss",
+            "title": "Oljefondet fikk avkastning på 1.753 mrd.",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/wrVdJM/oljefondet-med-spacex-aksjer-verdt-12-1-milliarder?utm_medium=rss",
+            "title": "Oljefondet med SpaceX-aksjer verdt 12,1 milliarder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/2pb8Ov/kraftig-oppgang-i-oljefondets-verdi?utm_medium=rss",
+            "title": "Kraftig oppgang i Oljefondets verdi",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/5poL0z/oljefondet-fikk-en-avkastning-paa-1-753-milliarder-kroner-i-foerste-halvaar",
+            "title": "Oljefondet fikk en avkastning på 1 753 milliarder kroner i første halvår",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/bOjLM3/oljefondet-fikk-avkastning-paa-1-753-mrd",
+            "title": "Oljefondet fikk avkastning på 1.753 mrd.",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/8px53Q",
+            "title": "Oljefondet fikk avkastning på 1753 milliarder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/oljefondet/spacex/elon-musk/oljefondet-har-investert-12-milliarder-i-spacex/s/5-95-3192232",
+            "title": "Oljefondet har investert 12,1 milliarder i SpaceX",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/oljefondet-avkastning-pa-9-4-prosent/s/80-95-489",
+            "title": "Oljefondet: Avkastning på 1753 milliarder kroner",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ac60be5aa394109a",
+        "continued_from": null,
+        "headline": "Trump bekrefter hemmelig flybytte etter Nato-toppmøte",
+        "ingress": "Donald Trump bekrefter at han av sikkerhetshensyn forlot Air Force One og tok et militært fly ut av Tyrkia etter et Nato-møte. Avgjørelsen ble tatt etter råd fra Secret Service og militæret på grunn av en potensiell iransk trussel.",
+        "summary": "USA-president Donald Trump har bekreftet at han benyttet et hemmelig flybytte da han forlot Tyrkia etter et nylig avholdt Nato-toppmøte. Trump opplyste at avgjørelsen ble tatt i samråd med livvaktjenesten Secret Service og det amerikanske militæret, som ba ham om å gå over fra presidentflyet Air Force One til et annet militært transportfly. Bakgrunnen for den uvanlige sikkerhetsmanøveren var opplysninger om en mulig iransk trussel rettet direkte mot den amerikanske presidenten. Mens Trump ble fløyet ut av landet i det militære flyet, tok det ordinære presidentflyet Air Force One av som planlagt, noe som i praksis fungerte som en avledningsmanøver for å avlede eventuelle trusler. Medierapporteringer, blant annet fra Washington Post, har hevdet at operasjonen involverte at presidenten ble gjemt i en cateringvogn under utsmuglingen fra Air Force One. Det hvite hus har i ettertid valgt å hverken bekrefte eller avkrefte denne spesifikke detaljen vedrørende transportmetoden. Hendelsen har vakt oppsikt i internasjonale medier og understreker det høye spennings- og trusselnivået som omgir den amerikanske presidenten under hans reiser i utlandet. Sikkerhetstjenestene vurderte likevel tiltaket som helt nødvendig for å ivareta Trumps trygghet. Både AP og NTB har omtalt saken, og bekreftelsen fra hovedpersonen selv setter punktum for spekulasjonene om hvorvidt hendelsen faktisk fant sted etter toppmøtet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump-bekrefter-hemmelig-flybytte-etter-nato-mote-1.17986798",
+            "title": "Trump bekrefter hemmelig flybytte etter Nato-møte",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/Wva6PK/trump-bekrefter-hemmelig-flybytte-etter-nato-moete",
+            "title": "Trump bekrefter hemmelig flybytte etter Nato-møte",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "723d3699232f287d",
+        "continued_from": null,
+        "headline": "Statsminister Jonas Gahr Støre i samtale under Arendalsuka",
+        "ingress": "Dagens Næringsliv inviterte statsminister Jonas Gahr Støre til en politisk samtale i sitt telt under Arendalsuka. Temaene for arrangementet spente fra krig og skatt til kraftpolitikk og det aktuelle politiske dramaet i Norge.",
+        "summary": "Under Arendalsuka arrangerte Dagens Næringsliv en direkte sending fra sitt eget telt, hvor statsminister Jonas Gahr Støre stilte til politisk debatt og samtale. Arrangementet tok for seg et bredt spekter av brennhete temaer som preger det norske samfunnet og den internasjonale dagsordenen. Blant de mest sentrale emnene var den pågående krigen i Europa og de tilhørende utenrikspolitiske utfordringene for Norge. I tillegg ble skattepolitikken drøftet inngående, et tema som har skapt betydelig engasjement og debatt i det norske næringslivet den siste tiden. Statsministeren svarte på spørsmål om regjeringens prioriteringer og hvordan skattenivået påvirker norske bedrifter og investorer. Videre var kraftsituasjonen og energipolitikken et viktig punkt i samtalen. Tilgang på forutsigbar og rimelig kraft, kombinert med den grønne omstillingen, utgjør en av regjeringens største oppgaver i tiden framover. Støre kommenterte også det løpende politiske dramaet i norsk politikk, inkludert de parlamentariske utfordringene og det politiske spillet på Stortinget. Opptredenen i DN-teltet ga publikum og velgere en mulighet til å få direkte innblikk i statsministerens vurderinger av de komplekse sakene regjeringen står overfor. Samtalen belyste hvordan nasjonale og internasjonale krisesituasjoner henger sammen og påvirker den politiske hverdagen i Norge. Diskusjonen i Arendal viste tydelig hvordan regjeringen forsøker å balansere ulike politiske hensyn i en krevende tid med økonomisk usikkerhet.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/video/m/GRKYlsGN/direkte-fra-dn-teltet-i-arendal-statsminister-jonas-gahr-store-om-krig-skatt-kraft-og-norsk-politisk-drama?play=1",
+            "title": "Direkte fra DN-teltet i Arendal: Statsminister Jonas Gahr Støre om krig, skatt, kraft og norsk politisk drama",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "72c9594c7fc5c98f",
+        "continued_from": null,
+        "headline": "Staten bør ta aktiv rolle i Ukrainas forsvarsindustri",
+        "ingress": "I en kronikk argumenteres det for at Norge bør bruke erfaringene fra oljesokkelens eierskapsmodell til å engasjere seg i Ukrainas nye forsvarsindustri. Forfatteren advarer om at utenlandske aktører allerede er i gang med å kjøpe seg opp i sektoren.",
+        "summary": "Dette er et leserinnlegg publisert i Dagens Næringsliv som tar til orde for en mer aktiv statlig eierskapsmodell i gjenoppbyggingen og oppbyggingen av forsvarsindustrien i Ukraina. Teksten trekker linjer til den norske forvaltningen av kontinentalsokkelen, der statlig eierskap og styring la grunnlaget for betydelige nasjonale verdier og formue for framtidige generasjoner. Argumentasjonen i innlegget går ut på at Europa nå står overfor en historisk oppbygging av ny forsvarsindustrisk kapasitet, der Ukraina utgjør selve grunnmuren. Forfatteren peker på at kommersielle og statlige aktører fra andre land allerede har begunnt å kjøpe opp strategiske posisjoner og eiendeler i den ukrainske forsvarssektoren. Det advares mot at Norge risikerer å bli akterutseilt dersom man forholder seg passiv. I kronikken reises det et krav om at norske myndigheter må kjenne sin besøkelsestid og aktivt ta i bruk statlige verktøy, finansiering og eierskapsmodeller for å sikre norske og europeiske sikkerhetsinteresser. Dette framstilles ikke bare som et moralsk og militært støttebidrag til Ukraina, men også som en strategisk investering i europeisk forsvarskapasitet og industrielt samarbeid. Forfatteren understreker at lærdommene fra den norske oljemodellen viser at tidlig og kontrollert statlig deltakelse kan sikre både nasjonal kontroll og langsiktige økonomiske verdier. Siden teksten er et debattinnlegg, representerer synspunktene forfatterens egne vurderinger og anbefalinger, og utgjør dermed en meningsytring snarere enn en nøytral nyhetsrapportering av faktiske politiske vedtak.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innlegg/forsvar/vapen/droner/staten-ma-pa-banen-igjen-i-ukraina/2-1-2027323",
+            "title": "Staten må på banen igjen – i Ukraina",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "943c2e1b3da4756f",
+        "continued_from": null,
+        "headline": "Kjell Inge Røkke kjøper gammel sykehustomt i Molde",
+        "ingress": "Kjell Inge Røkkes private investeringsselskap, The Resource Group (TRG), kjøper den tidligere sykehustomten i Molde fra Helse Møre og Romsdal. Selskapet opplyser at de har planer om å videreutvikle eiendommen i milliardærens fødeby.",
+        "summary": "Kjell Inge Røkkes private investeringsselskap, The Resource Group (TRG), har inngått avtale om å kjøpe den nedlagte sykehustomten i Molde fra helseforetaket Helse Møre og Romsdal. Eiendommen, som huste det tidligere sykehuset i byen, blir nå overtatt av investorens eget selskap med klare ambisjoner om framtidig utvikling av området. Kjøpet markerer et nytt kapittel for den sentralt beliggende tomten i milliardærens fødeby. Tidligere har det vært lokalpolitisk debatt rundt eiendommen, og Molde kommune ønsket på et tidligere tidspunkt å overta sykehustomten for en symbolsk sum på én krone. Salget til TRG innebærer imidlertid at eiendommen selges på kommersielle vilkår til en av regionens mest kjente investorer. Ifølge opplysningene fra de rapporterende mediene har TRG konkrete planer om å starte et utviklingsarbeid på tomten, selv om de eksakte detaljene for hva området skal benyttes til ennå ikke er fullstendig offentliggjort. Helseforetaket frigjør ved dette salget ressurser og avhender en eiendom som ikke lenger er i drift etter omstruktureringer i helsetilbudet i regionen. Overtakelsen har vekt oppmerksomhet både lokalt og nasjonalt på grunn av eierens tette tilknytning til Molde og eiendommens betydelige størrelse og plassering i kommunen. Avtalen avslutter dermed en lengre periode med usikkerhet knyttet til hva som ville skje med de tradisjonsrike sykehusbygningene og tilhørende arealer midt i byen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/kjell-inge-rokke/rokke-kjoper-sykehustomt-i-molde/2-1-2027856",
+            "title": "Røkke kjøper sykehustomt i Molde",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/n1VG3n/kjell-inge-roekke-kjoeper-sykehustomt-i-molde?utm_medium=rss",
+            "title": "Kjell Inge Røkke kjøper sykehustomt i Molde",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/rrVz0K/kjell-inge-roekke-kjoeper-sykehustomt-i-molde",
+            "title": "Kjell Inge Røkke kjøper sykehustomt i Molde",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/rokke-selskap-kjoper-den-gamle-sykehustomta-i-molde/s/80-95-498",
+            "title": "Røkke-selskap kjøper den gamle sykehustomta i Molde",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c990d3d45d1c8274",
+        "continued_from": null,
+        "headline": "Minst 60 drept i væpnede kvegtyverier i Sør-Sudan",
+        "ingress": "Minst 60 personer er drept og rundt 50 såret etter to væpnede angrep sentralt i Sør-Sudan natt til søndag. Militæret har sendt styrker til området for å beskytte sivile og forhindre hevnaksjoner etter kvegtyveriene.",
+        "summary": "Lokale myndigheter i Sør-Sudan rapporterer at minst 60 mennesker mistet livet og om lag 50 personer ble såret i to omfattende angrep sentralt i landet. Væpnede angripere slo til i løpet av natten mot søndag med det formål å stjele kveg, noe som utløste blodige konfrontasjoner. Væpnede kvegtyverier og tilhørende trefninger representerer en langvarig og alvorlig sikkerhetsutfordring i Sør-Sudan. Konfliktene dreier seg ofte om kontroll over husdyr og beiteområder, og fører jevnlig til høye tapstall på grunn av utstrakt tilgang på våpen i regionen. For å få kontroll over den spente situasjonen har myndighetene nå utstasjonert militære styrker i det rammede området. Målet med den militære tilstedeværelsen er både å skjerme lokalbefolkningen mot ytterligere vold og å forhindre mulige hevnangrep mellom de involverte gruppene. Saken bekreftes av lokale myndighetskilder via nyhetsbyrået NTB og dekkes av flere norske medier. Hendelsen understreker den fortsatt ustabile sikkerhetssituasjonen i deler av landet, hvor lokale konflikter om ressursgrunnlag og penger knyttet til kvegdrift kan få dødelige konsekvenser. Militærets innsats oppgis å være avgjørende for å roe gemyttene på kort sikt, men de underliggende årsakene til de gjentagende kvegtyveriene og hevnspiralene forblir krevende utfordringer for myndighetene i regionen. Myndighetene oppfordrer samtidig lokale stammeledere til å bidra i dialogen for å dempe spenningene og forhindre nye blodige sammenstøt i lokalsamfunnet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/60-drept-under-kvegtyveri-i-sor-sudan-1.17986797",
+            "title": "60 drept under kvegtyveri i Sør-Sudan",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/L4a6zx/60-drept-under-kvegtyveri-i-soer-sudan",
+            "title": "60 drept under kvegtyveri i Sør-Sudan",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "593bebf738596a2e",
+        "continued_from": null,
+        "headline": "Kritikk av dagens offentlige styringssystem og mistillit",
+        "ingress": "I et debattinnlegg hevdes det at dagens offentlige styringssystem bygger på en grunnleggende mistillit. Innleggsforfatteren peker på at tilgjengelig kunnskap viser at systemet gir uheldige bivirkninger for organisasjonene og de ansatte det gjelder.",
+        "summary": "Dette debattinnlegget i Dagens Næringsliv retter søkelyset mot rammene og forutsetningene for dagens offentlige styringssystem. Forfatteren argumenterer for at det etablerte systemet i sin kjerne bygger på en holdning om mistillit til fagfolk og organisasjoner. Det framholdes at eksisterende kunnskap og erfaringer klart tilsier at en slik styringsform har utilsiktede og uheldige bivirkninger. I teksten fremheves det at praksisen med omfattende kontroll, rapportering og detaljstyrte målesystemer ikke nødvendigvis fører til bedre resultater eller høyere kvalitet. Tvert imot hevdes det at systemets underliggende premiss om mistillit kan svekke motivasjonen, hemme faglige skjønn og skape unødvendig byråkrati i hverdagen. Forfatteren tar til orde for at det er behov for å evaluere og endre dagens praksis i retning av mer tillitsbasert styring. Siden dette er et leserinnlegg, gir teksten uttrykk for forfatterens personlige analyser og vurderinger i en pågående samfunnsdebatt om offentlig sektor. Det dreier seg således om en skriftlig meningsytring snarere enn en nøytral rapportering av vedtatt politikk eller faktiske regelendringer. Innlegget bidrar til den overordnede diskusjonen om hvordan fellesskapets ressurser og organisasjoner best bør forvaltes, ved å stille spørsmål ved om dagens kontrollregime virker mot sin hensikt og skaper unødige belastninger for de som jobber i sektoren. Dette perspektivet etterspør en større tiltro til de ansattes kompetanse som grunnlag for effektiv organisering i framtiden.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innlegg/dagens-system-bygger-pa-mistillit/2-1-2027458",
+            "title": "Dagens system bygger på mistillit",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "005041ae37089674",
+        "continued_from": null,
+        "headline": "Putin i samtale med påstått avdød oberst",
+        "ingress": "Russiske myndigheter har kringkastet en telefonsamtale der Vladimir Putin snakker med en oberst som ble meldt død for 15 måneder siden. I samtalen skryter obersten av situasjonen i Øst-Ukraina.",
+        "summary": "Et oppsiktsvekkende innslag er nylig blitt kringkastet på russisk fjernsyn, der president Vladimir Putin gjennomfører en telefonsamtale med en oberst som tidligere ble meldt omkommet. Obersten ble erklært død for 15 måneder siden, og det ble dengang arrangert offentlige minnestunder i hans hjemby i Russland. I den publiserte telefonsamtalen rapporterer obersten til den russiske presidenten om de militære operasjonene i Øst-Ukraina, og han uttrykker seg svært positivt om hvordan krigføringen forløper for de russiske styrkene. Samtalen presenteres av statlige russiske kanaler som et bevis på aktiv deltakelse og militær fremgang, men sendingen har skapt betydelig undring og spekulasjoner i internasjonale medier. Saken illustrerer de komplekse informasjonselementene og den strategiske kommunikasjonen som preger russisk mediedekning av krigen i Ukraina. Det er usikkert om rapportene om hans død i sin tid var feilaktige, om samtalen er et eldre opptak, eller om sendingen har et ledd i en kontrollert iver etter å påvirke narrativet rundt krigshandlingene. Sakens opplysninger hviler utelukkende på det kringkastede materialet som er frigitt i Russland, og TV 2 har rapportert om hendelsen med forbehold om bakgrunnen for opptaket. Hendelsen understreker utfordringene uavhengige medier har med å verifisere informasjon som tilbys direkte fra statlige kanaler. Situasjonen viser hvor krevende det er å bekrefte helsetilstanden og skjebnen til militære lederfigurer under en pågående konflikt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19119703",
+            "title": "Her snakker Putin med oberst som ble meldt død i 2025",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e17abe4d2074091d",
+        "continued_from": null,
+        "headline": "Kraftig resultatfall og underskudd for Borr Drilling",
+        "ingress": "Riggselskapet Borr Drilling opplevde et betydelig resultatfall og gikk på et stort underskudd i andre kvartal. Selskapet påvirkes også av krevende markedsforhold og uro i Persiabukten.",
+        "summary": "Riggselskapet Borr Drilling har lagt fram sine økonomiske resultater for andre kvartal, som viser et svakt regnskap med et betydelig resultatfall. Selskapet endte med et stort underskudd i perioden, noe som står i sterk kontrast til tidligere økonomiske prestasjoner og forventninger i riggmarkedet. I tillegg til de svake kvartalstallene preges situasjonen for Borr Drilling av uroligheter og operasjonelle utfordringer i Persiabukten. Usikkerhet og uro i denne viktige regionen skaper vanskelige rammebetingelser for boreselskapets aktiviteter og har bidratt til at inntjeningen har uteblitt eller blitt kraftig redusert i det siste kvartalet. Avisen Dagens Næringsliv rapporterer at selskapet i praksis tjente null i den aktuelle perioden, som følge av disse utfordringene. Mediene E24, VG og Dagens Næringsliv dekker alle resultatfallet og peker på at riggbransjen er svært følsom for både geopolitisk uro og endringer i etterspørselen etter boringstjenester. Borr Drilling må nå håndtere både de bedriftsinterne underskuddene og de ytre geopolitiske spenningene i Persiabukten for å stabilisere den økonomiske utviklingen fremover. Investorer og analytikere følger nøye med på hvordan selskapet planlegger å håndtere kontraktsforholdene og riggflåten i regionen i tiden som kommer, for å sikre fremtidig lønnsomhet og drift. Eksperter understreker at selskapets evne til å tilpasse driftskostnadene vil være avgjørende i tiden framover dersom den politiske uroen i utvinningsområdene vedvarer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/oljeservice/borr-drilling-tjente-null-utfordres-av-brak-i-persiabukten/2-1-2027809",
+            "title": "Borr Drilling tjente null – utfordres av bråk i Persiabukten",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/zOV0e1/kraftig-resultatfall-for-borr-drilling?utm_medium=rss",
+            "title": "Kraftig resultatfall for Borr Drilling",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/vrV6LL/kraftig-resultatfall-for-borr-drilling",
+            "title": "Kraftig resultatfall for Borr Drilling",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 31,
+      "drop_reasons": []
+    }
+  }
+}
