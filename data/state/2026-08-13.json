@@ -1,0 +1,444 @@
+{
+  "date": "2026-08-13",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "ded7e0307715ad97",
+        "continued_from": null,
+        "headline": "Zelenskyj ber USA om Patriot-raketter",
+        "ingress": "Ukrainas president Volodymyr Zelenskyj ber USA om å få kjøpe mellom fem og ti prosent av deres Patriot-raketter for å beskytte landet mot russiske luftangrep gjennom vinteren.",
+        "summary": "Ukraina står overfor en kritisk mangel på luftvernraketter for å forsvare sine innbyggere og sin infrastruktur mot stadige russiske luftangrep. I et intervju med nyhetskanalen CNN uttrykker Ukrainas president Volodymyr Zelenskyj at landet har et akutt behov for forsyninger fra USA. Nærmere bestemt ber ukrainske myndigheter om å få kjøpe mellom fem og ti prosent av den amerikanske beholdningen av Patriot-raketter. Zelenskyj forklarer at en overføring tilsvarende fem prosent av de amerikanske rakettene vil være nok til å hjelpe Ukraina trygt gjennom den kommende vinteren, der man forventer økt press og nye angrep mot energiforsyning og sivile mål. Dersom landet skulle få tilgang til ti prosent av disse rakettene, mener presidenten at Ukraina vil være i stand til å stanse samtlige russiske raketter som skytes mot ukrainsk territorium. Det understrekes at forsyningen er helt avgjørende for landets overlevelse og evne til å opprettholde samfunnsfunksjoner. Patriot-systemet regnes som et av de mest avanserte luftvernsystemene i verden, og er avgjørende for å avskjære både ballistiske missiler og andre lufttrusler. Behovet for å styrke luftvernet har blitt ytterligere forsterket av at Russland fortsetter sine omfattende angrep. Ukraina håper nå på en rask avklaring og støtte fra amerikanske myndigheter for å sikre at de nødvendige forsvarsressursene kommer på plass før vinterkulden og angrepene intensiveres for fullt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-trenger-5_10-prosent-av-usas-patriot-raketter-1.17988211",
+            "title": "Zelenskyj: Ukraina trenger 5–10 prosent av USAs Patriot-raketter",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/JOLvKJ/zelenskyj-vi-trenger-510-prosent-av-usas-patriot-raketter",
+            "title": "Zelenskyj: – Vi trenger 5–10 prosent av USAs Patriot-raketter",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4b85c2320817e176",
+        "continued_from": null,
+        "headline": "Fare for flystreik etter overtid hos Riksmekleren",
+        "ingress": "Meklingen for ansatte innen bakketjenester på norske flyplasser fortsetter på overtid hos Riksmekleren. Dersom partene ikke blir enige, kan en streik bryte ut og ramme lufthavner over hele landet.",
+        "summary": "Meklingen i lønnsoppgjøret for ansatte innen bakketjenester på norske flyplasser har gått på overtid etter at den opprinnelige fristen gikk ut ved midnatt natt til torsdag. Partene mekler fortsatt hos Riksmekleren i et forsøk på å komme fram til en avtale og unngå streik. Både fagforeningen Parat og Handel og Kontor bekrefter at det ennå ikke foreligger noen løsning på flyavtalen, og meklingen fortsetter derfor på overtid. Kjernen i konflikten dreier seg om lønnsvilkår, der arbeidstakerorganisasjonene krever en lønn det går an å leve av for sine medlemmer. Dersom det ikke oppnås enighet mellom partene i løpet av overtidsmeklingen, vil en streik bli iverksatt. Totalt står nesten 2000 ansatte ved norske lufthavner i fare for å bli tatt ut i streik dersom konflikten trappes opp til det maksimale. I første omgang har imidlertid Parat og Handel og Kontor varslet et mer begrenset uttak. Til sammen har de to organisasjonene varslet at 287 medlemmer tas ut i streik i første fase dersom meklingen bryter sammen. En eventuell streik vil kunne få umiddelbare konsekvenser for avviklingen av flytrafikken og skape forsinkelser og utfordringer for de reisende ved de berørte flyplassene. Partene jobber nå intenst videre for å forhandle fram en løsning som kan avverge en lammelse av bakketjenestene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fortsatt-fare-for-streik-pa-flyplassene---mekler-pa-overtid-1.17988202",
+            "title": "Fortsatt fare for streik på flyplassene - mekler på overtid",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/XMajBx/streikefare-paa-flyplassene?utm_medium=rss",
+            "title": "Streikefare på flyplassene",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/XMajBx",
+            "title": "Megler på overtid: – Skal ha lønn å leve av",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "afc39cc3ddb2e10d",
+        "continued_from": null,
+        "headline": "Japan raser etter Putins besøk på Kurilene",
+        "ingress": "Russlands president Vladimir Putin har for første gang besøkt øya Iturup i den omstridte øygruppa Kurilene. Besøket har utløst sterke diplomatiske reaksjoner og protester fra japanske myndigheter.",
+        "summary": "Russlands president Vladimir Putin har gjennomført sitt første besøk på øya Iturup, som ligger i den omstridte øygruppa Kurilene i Øst-Asia. Hendelsen har ført til at det diplomatiske forholdet mellom Russland og Japan igjen har blitt svært tilspent, og besøket rapporteres av russiske statlige medier. Japanske myndigheter reagerer med stor raseri og har fremmet en sterk protest mot den russiske markeringen. Japans utenriksminister Toshimitsu Motegi har offentlig slått fast at de nordlige territoriene er en ubestridelig del av Japan, både ut fra et historisk perspektiv og i henhold til internasjonale folkerettslige prinsipper. Japan gjør fortsatt krav på øygruppen, som har vært gjenstand for en langvarig territoriell konflikt mellom de to nabolandene helt siden avslutningen av andre verdenskrig. Saken er av stor geostrategisk og politisk betydning for regionen. Putins markante besøk på Iturup tolkes som et tydelig signal fra russisk side om å understreke sin suverenitet og faktiske kontroll over øyene. At en russisk statssjef fysisk besøker området, oppfattes fra japansk side som en direkte provokasjon. Den diplomatiske feiden utfordrer håpet om en snarlig løsning på den historiske grensetvisten, og reaksjonene fra Tokyo viser at spørsmålet om suvereniteten over Kurilene fremdeles er et svært sensitivt og uavklart tema mellom landene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/putin-besokte-omstridt-oygruppe-i-ost-_-japan-raser-1.17988271",
+            "title": "Putin besøkte omstridt øygruppe i øst – Japan raser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/q6VQAe/putin-besoekte-omstridt-oeygruppe-i-oest-japan-raser",
+            "title": "Putin besøkte omstridt øygruppe i øst – Japan raser",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "292985ffb544e127",
+        "continued_from": null,
+        "headline": "Økonomer venter uendret rente fra Norges Bank",
+        "ingress": "Norges Bank avholder rentemøte torsdag, og et samstemt kor av sjeføkonomer forventer at styringsrenten holdes i ro. Dersom sentralbanken likevel skulle overraske, kan reaksjonene i kronekursen bli kraftige.",
+        "summary": "I forkant av Norges Banks ferske rentemøte er norske sjeføkonomer helt samstemte i sine forventninger. Ekspertene legger til grunn at sentralbanken vil velge å holde styringsrenten uendret på det eksisterende nivået. Det er bred enighet i det finansielle miljøet om at de økonomiske nøkkeltallene og utviklingen i norsk økonomi tilsier at rentebeslutningen denne gangen blir uten endringer. Likevel påpeker økonomene at dersom Norges Bank mot formodning skulle gå mot markedsforventningene og overraske med enten et rentekutt eller en renteheving, vil det være en skikkelig overraskelse for finansmarkedene og aktørene i næringslivet. En slik uventet beslutning vil kunne gi umiddelbare og markante utslag i valutamarkedet. Særlig framheves det at den norske kronen kan reagere sterkt og momentant dersom signalene eller rentevedtaket avviker fra det analytikerne har forespeilet. Markedet følger derfor nøye med på sentralbankens kunngjøring, selv om det overveiende flertallet av vurderinger tilsier ro. Analytikerne understreker at valutamarkedet er spesielt sensitivt for uventede vendinger fra sentralbankens side under de rådende økonomiske forholdene. Beslutningen som legges fram på torsdagens møte vil dermed gi viktige føringer for det videre bildet i norsk økonomi og for utviklingen i kronekursen framover, selv om hovedscenariet er en uendret styringsrente. Dermed knytter det seg stor spenning til ordlyden i sentralbankens uttalelser.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/makrookonomi/norges-bank/makrookonomi/okonomer-samstemte-renten-holdes-uendret/2-1-2028526",
+            "title": "Økonomer samstemte: Renten holdes uendret",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/7pxqr8/sjefoekonom-vil-vaere-en-skikkelig-overraskelse?utm_medium=rss",
+            "title": "Sjeføkonom: – Vil være en skikkelig overraskelse",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/7pxqr8",
+            "title": "Sjeføkonom: – Vil være en skikkelig overraskelse",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "954c78c9e64ad304",
+        "continued_from": null,
+        "headline": "Donald Trump saksøkt for betalingstjeneste på Truth Social",
+        "ingress": "Donald Trump saksøkes av to medieselskaper for en ny betalingstjeneste på plattformen Truth Social. Tjenesten lar kunder betale for å lese innlegg fra presidenten før resten av offentligheten.",
+        "summary": "Den tidligere amerikanske presidenten Donald Trump har blitt saksøkt av to medieselskaper i forbindelse med en ny og omstridt betalingstjeneste på plattformen Truth Social. Søksmålet ble fremmet onsdag og har som mål å stanse tjenesten, som kalles Truth API. Dette melder nyhetsbyrået Reuters. Tjenesten gir abonnenter mulighet til å få tidlig tilgang til meldinger som publiseres på plattformen, inkludert innlegg fra Trump selv. Kunder skal ifølge opplysningene betale opptil 100 000 dollar i måneden for å få se disse innleggene før resten av allmennheten får tilgang til dem. Bakgrunnen for søksmålet er at Trump hyppig benytter plattformen til å komme med viktige nyheter og kunngjøringer som har direkte påvirkning på finansmarkeder og børser. Saksøkerne argumenterer for at det å plassere offisielle meldinger bak en ekstremt kostbar betalingsmur er ulovlig og korrupt. De mener at en slik ordning gir enkelte aktører en urimelig og uetisk fordel i markedet ved at de får tilgang til kurssensitiv informasjon før andre. Medieselskapene krever derfor at rettsvesenet griper inn og stanser praksisen med å selge eksklusiv, tidlig tilgang til offentlige uttalelser på denne måten. Søksmålet reiser dermed helt prinsipielle spørsmål ved grenseflaten mellom kommersielle plattforminteresser, politisk kommunikasjon og likebehandling i det finansielle markedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/saksoker-trump-for-betalingstjeneste-pa-truth-social-1.17988210",
+            "title": "Saksøker Trump for betalingstjeneste på Truth Social",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/7pxmE8/trump-saksoekt-for-aa-selge-tidlig-tilgang-til-egne-innlegg?utm_medium=rss",
+            "title": "Trump saksøkt for å selge tidlig tilgang til egne innlegg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d4rqoO/trump-saksoekt-for-aa-ta-betalt-for-tidlig-tilgang-til-meldinger",
+            "title": "Trump saksøkt for å ta betalt for tidlig tilgang til meldinger",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "44d6eca2a6d31561",
+        "continued_from": null,
+        "headline": "Los Angeles Lakers selges for rekordbeløp",
+        "ingress": "Basketballgiganten Los Angeles Lakers selges for 12,5 milliarder dollar til investorene Josh Kushner og Bob Iger, ifølge opplysninger fra amerikanske medier.",
+        "summary": "Den tradisjonsrike amerikanske basketballklubben Los Angeles Lakers står overfor et eierskifte i det som omtales som et salg av historiske dimensjoner. Flere amerikanske medier, med sportskanalen ESPN i spissen, melder at NBA-giganten selges for en totalsum på svimlende 12,5 milliarder dollar. Kjøperne av klubben oppgis å være investorene Josh Kushner og Bob Iger. Transaksjonen representerer en ny og formidabel rekordsum for kjøp av en profesjonell idrettsklubb. Los Angeles Lakers er et av de mest kjente og mest verdifulle merkevarene i internasjonal idrett, med en lang rekke mesterskapstitler og global oppmerksomhet. Salget markerer et betydelig skifte i eierstrukturen for den meritterte klubben, som holder til i California. Summen understreker den voldsomme veksten i verdsettelsen av store nordamerikanske idrettsfranchiser de siste årene. Både Kushner og Iger er prominente skikkelser i det amerikanske forretnings- og underholdningslivet, der Iger blant annet er kjent fra sin lederrolle i Disney-konsernet. Investorenes inntreden forventes å tilføre klubben betydelige ressurser og strategisk kompetanse for å videreutvikle merkevaren i et stadig mer globalisert sportsmarked. Oppkjøpet forventes å vekke stor oppsikt i idrettsverdenen og finansmiljøer globalt, da salgssummen knuser tidligere satte rekorder i bransjen. Det gjenstår ennå å se detaljene rundt ferdigstillingen av oppkjøpet og godkjenningen fra ligaen, men nyheten markerer uansett et historisk vendepunkt for NBA-klubben og hele den kommersielle sportsbransjen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/Gx5joJ/espn-los-angeles-lakers-selges-for-rekordsum?utm_medium=rss",
+            "title": "ESPN: Los Angeles Lakers selges for rekordsum",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1e69f808368e4595",
+        "continued_from": null,
+        "headline": "Russisk angrep førte til brann i ukrainsk havneby",
+        "ingress": "Et russisk angrep mot den ukrainske havnebyen Izmail natt til torsdag har ført til skader og brann i havneområdets infrastruktur. Byen ligger nær grensen til Romania og huser landets største havn ved elven Donau, som er svært viktig for korneksporten.",
+        "summary": "Natt til torsdag ble den ukrainske havnebyen Izmail utsatt for et nytt russisk angrep. Lokale myndigheter opplyser via Telegram at angrepet forårsaket omfattende skader og brann i infrastrukturen i havneområdet. Izmail har en strategisk og økonomisk nøkkelrolle for Ukraina, ettersom den ligger helt i sør ved grensen til Romania og har landets største havneanlegg langs elven Donau. Denne infrastrukturen er helt avgjørende for transport og eksport av blant annet ukrainsk korn til det internasjonale markedet. Angrep mot ukrainske havner har forekommet jevnlig under krigen, og denne hendelsen understreker den vedvarende trusselen mot landets eksportruter og kritiske infrastruktur. Meldingene om ødeleggelsene og brannen er gjengitt av internasjonale nyhetsbyråer som Reuters, basert på uttalelser fra lokale ukrainske myndigheter. Det er foreløpig ikke meldt om eksakte skadeomfang eller eventuelle personskader i forbindelse med nattens hendelser, men angrepet føyer seg inn i rekken av målbart press mot ukrainske logistikkutfordringer ved Svartehavet og Donau. Myndighetene jobber med å slukke brannene og sikre området etter angrepet. Situasjonen ved grensen til Romania følges også tett av internasjonale observatører på grunn av den geografiske nærheten til NATO-territorium. Angrepet viser hvor utsatt den ukrainske kornkorridoren fortsatt er under den pågående konflikten. Samtidig arbeides det med å kartlegge skadene på infrastrukturen for å begrense avbruddene i kornskipsfarten fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/brann-i-ukrainsk-havn-etter-russisk-angrep-1.17988207",
+            "title": "Brann i ukrainsk havn etter russisk angrep",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/Gx5wzl/russisk-angrep-mot-ukrainsk-havneby",
+            "title": "Russisk angrep mot ukrainsk havneby",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "36c609f77d3933fa",
+        "continued_from": null,
+        "headline": "Krigsberedskap kan bli innført i norske skoler",
+        "ingress": "Kunnskapsminister Kari Nessa Nordtun (Ap) åpner for å gi norske elever opplæring i krigsberedskap fra neste år. Forslaget innebærer et kurs om beredskap og verneplikt i samarbeid med Forsvaret, der elevene vurderes til bestått eller ikke bestått.",
+        "summary": "Kunnskapsminister Kari Nessa Nordtun fra Arbeiderpartiet lufter muligheten for at krigsberedskap kan bli en del av skolehverdagen for norske elever allerede fra neste år. Tiltaket skal bidra til å ruste både ungdommen og samfunnet for øvrig, samt bygge motstandskraft dersom naturkatastrofer eller krigssituasjoner skulle inntreffe i fremtiden. Bakgrunnen for initiativet er blant annet uttalelser fra forsvarssjef Eirik Kristoffersen, som nylig har tatt til orde for å få forsvarskurs inn i skolesystemet. Regjeringens nylige omlegging av eksamensordningen har frigjort tid i juni måned. Kunnskapsministeren ser for seg at denne tiden kan benyttes til et målrettet kurs om beredskap og verneplikt. Opplegget er tenkt gjennomført i et samarbeid mellom skolesektoren, Forsvaret og fylkeskommunene. I stedet for tradisjonelle karakterer, foreslås det at elevene skal vurderes med enten «bestått» eller «ikke bestått». Målet med undervisningen er ikke bare teoretisk kunnskap, men å gi de unge praktiske og mentale verktøy for å håndtere uforutsette kriser og styrke den samlede sivil-militære beredskapen i landet. Regjeringen vurderer nå hvordan det praktiske innholdet skal utformes og hvordan samarbeidet med fylkeskommunene og Forsvaret best kan organiseres i praksis frem mot oppstarten neste år. Initiativet har vakt oppmerksomhet og representerer en ny tilnærming til beredskapsarbeid blant barn og unge i Norge.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/krigsberedskap-kan-komme-pa-timeplanen-neste-ar-1.17988219",
+            "title": "Krigsberedskap kan komme på timeplanen neste år",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "769bb70583b1d8b5",
+        "continued_from": null,
+        "headline": "Analyse: Putin fremstår mer sårbar og desperat",
+        "ingress": "I en kommentar og analyse fremheves det at Russlands president Vladimir Putin er kommet under økt press og har blitt mer sårbar. Denne utviklingen gjør at den russiske ledelsen vurderes å ta større risiko enn tidligere, noe som skaper økt bekymring i det internasjonale samfunnet.",
+        "summary": "I en avisytring og politisk analyse vurderes den nåværende situasjonen rundt Russlands president Vladimir Putin. Teksten fremhever at den russiske lederen befinner seg i en stadig mer presset posisjon, noe som har gjort ham betydelig mer sårbar enn før. Som en konsekvens av dette økte presset argumenteres det for at Putin nå utviser en større vilje til å ta risiko i sine politiske og strategiske beslutninger. Det uttrykkes en klar bekymring for at presidenten kan bli mer desperat dersom situasjonen forverrer seg ytterligere for det russiske regimet. Dette innholdet representerer en subjektiv vurdering og analytisk betraktning, og ikke en nøytral eller bekreftet nyhetsrapportering om konkrete hendelser. Analysen peker på at politisk desperasjon hos autoritære ledere ofte fører til uforutsigbare handlinger på den internasjonale arenaen. Når et regime føler seg trengt opp i et hjørne, kan risikoen for eskalerende handlinger øke betraktelig. Skribenten mener derfor at omverdenen bør følge utviklingen med stor årvåkenhet, ettersom en presset ledelse i Moskva kan få alvorlige konsekvenser for global sikkerhet og geopolitisk stabilitet. Ytringen oppsummerer frykten blant flere analytikere for at Putins handlingsmønster i tiden fremover i økende grad vil preges av korttenkte og risikofylte trekk for å beholde kontroll og makt. Slike analyser bidrar til å belyse det komplekse politiske bildet som preger dagens internasjonale relasjoner.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kommentar/vladimir-putin/kreml/krigen-i-ukraina/desperat-og-presset/2-1-2028208",
+            "title": "Desperat og presset",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "ccb84233b9d31bbe",
+        "continued_from": null,
+        "headline": "Sterke tall og Amazon-avtale for Autostore",
+        "ingress": "Robotlagerselskapet Autostore leverer bedre resultater enn ventet for andre kvartal, med en inntektsøkning på over 40 prosent og rekordhøy ordreinngang. Selskapet igangsetter et tilbakekjøp av egne aksjer for 75 millioner dollar og inngår et nytt samarbeid med netthandelsgiganten Amazon.",
+        "summary": "Robotlagerselskapet Autostore har lagt frem sine økonomiske resultater for andre kvartal, og tallene viser en betydelig sterkere utvikling enn det markedet på forhånd hadde forventet. Selskapets inntekter skjøt i været med over 40 prosent sammenlignet med samme periode i fjor. I tillegg til den markante inntektsveksten opplevde Autostore en rekordhøy ordreinngang i løpet av kvartalet, noe som vitner om stor etterspørsel etter selskapets automatiserte lagerløsninger internasjonalt. Som følge av de solide finansielle resultatene og den sterke kontantstrømmen har styret i Autostore besluttet å sette i gang et omfattende tilbakekjøpsprogram for egne aksjer. Programmet har en ramme på totalt 75 millioner dollar. Tilbakekjøp av aksjer benyttes ofte av børsnoterte selskaper for å overføre verdier til aksjonærene og signalisere tro på egen fremtidig verdiskaping. En annen sentral nyhet fra selskapets kvartalsrapportering er inngåelsen av et strategisk samarbeid med den globale netthandelsgiganten Amazon. Avtalen med Amazon anses som en viktig milepæl for den norske robotikkbedriften og forventes å styrke selskapets markedsposisjon ytterligere i det globale markedet for lagerautomatisering. Den kombinerte effekten av rekordhøy ordreinngang, inntektsvekst og prestisjetunge partneravtaler har blitt tatt godt imot av investorer og analytikere i finansmarkedet. Autostore viser med dette at etterspørselen etter effektive, robotiserte logistikkløsninger fortsetter å vokse kraftig i et krevende internasjonalt marked.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/autostore/oslo-bors/bedre-enn-ventet-for-autostore-i-andre-kvartal-inntektene-okte-over-40-prosent/2-1-2027826",
+            "title": "Bedre enn ventet for Autostore i andre kvartal – inntektene økte over 40 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/OkaExq/inntektshopp-for-autostore-omsatte-for-192-millioner-dollar-i-andre-kvartal?utm_medium=rss",
+            "title": "Inntektshopp for Autostore",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/xrV5AB/inntektshopp-for-autostore-omsatte-for-192-millioner-dollar-i-andre-kvartal",
+            "title": "Inntektshopp for Autostore",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4a04639acb6647bc",
+        "continued_from": null,
+        "headline": "Libanons statsminister fordømmer israelske ødeleggelser i sør",
+        "ingress": "Libanons statsminister Nawaf Salam fordømmer på det sterkeste de israelske ødeleggelsene i Sør-Libanon. Salam uttaler at den systematiske ødeleggelsen av boliger, infrastruktur og gudshus utgjør et alvorlig brudd på folkeretten. Uttalelsen kommer etter at Israels forsvarsminister nylig besøkte regionen.",
+        "summary": "Libanons statsminister Nawaf Salam har gått ut med en sterk fordømmelse av de israelske militære ødeleggelsene i de sørlige delene av Libanon. I en offisiell uttalelse gjengitt av nyhetsbyrået AFP fremholder Salam at Israels krigføring og angrep i området har ført til en omfattende og systematisk ødeleggelse av lokalsamfunn. I sin kritikk peker den libanesiske statsministeren spesifikt på rammede sivile mål. Han trekker frem at ødeleggelsene gjelder alt fra private boliger og offentlige bygninger til vital infrastruktur og religiøse samlingssteder som gudshus. Salam understreker at slike målrettede eller omfattende ødeleggelser representerer et alvorlig brudd på folkeretten og internasjonale konvensjoner for krigføring. Fordømmelsen fra Libanons regjeringssjef kommer i kjølvannet av at Israels forsvarsminister Israel Katz gjennomførte et visitat til Sør-Libanon på onsdag, ifølge opplysninger fra NTB. Besøket og de vedvarende angrepene har forverret det spente forholdet i grenseområdene ytterligere. Situasjonen i Sør-Libanon har lenge vært preget av høyt konfliktnivå og trefninger, noe som har påført sivilbefolkningen og infrastrukturen store påkjenninger. Uttalelsen fra statsminister Salam føyer seg inn i rekken av diplomatiske reaksjoner mot de israelske militæroperasjonene i regionen, samtidig som internasjonale aktører fortsetter å uttrykke dyp bekymring for den humanitære situasjonen og overholdelsen av folkerettslige forpliktelser i krigsområdet. Kampene har også drevet tusenvis av mennesker på flukt fra sine hjem i området.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/libanons-statsminister-fordommer-israels-odeleggelser-1.17988206",
+            "title": "Libanons statsminister fordømmer Israels ødeleggelser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/zOV6Wr/libanons-statsminister-fordoemmer-israels-oedeleggelser",
+            "title": "Libanons statsminister fordømmer Israels ødeleggelser",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c01153b5cf96641e",
+        "continued_from": null,
+        "headline": "Nicolai Budkov Kjær røk ut av Cincinnati Open",
+        "ingress": "Det 19 år gamle tennistalentet Nicolai Budkov Kjær maktet ikke å ta seg videre til hovedturneringen i Cincinnati Open. Nordmannen tapte den siste og avgjørende kvalifiseringskampen, og må dermed se turneringen videre fra sidelinjen.",
+        "summary": "Det norske tennistalentet Nicolai Budkov Kjær må snu i døren før hovedturneringen i den prestisjefylte ATP-turneringen Cincinnati Open. Den 19 år gamle spilleren tapte den siste og avgjørende kvalifiseringskampen, og klarte dermed ikke å sikre seg en plass i hovedfeltet blant verdens beste tennisspillere. Kvalifiseringen til store turneringer som Cincinnati Open er kjent for å ha et svært høyt nivå, hvor unge utfordrere møter etablerte spillere i kampen om få ledige plasser. Budkov Kjær har vist god form og framgang den siste tiden, men nådde altså ikke helt opp i denne omgangen. Tapet i den siste kvalifiseringsrunden betyr at hans deltakelse i årets turnering i Cincinnati er over før selve hovedrunden settes i gang. Selv om det ble tap i den avgjørende kampen, gir deltakelsen i kvalifiseringen verdifull erfaring på et høyt internasjonalt nivå for det unge norske talentet. Mange unge spillere må gjennom flere krevende kvalifiseringsrunder i sin oppbyggingsfase for å samle viktige poeng og rutine på ATP-touren. Budkov Kjær regnes som et av Norges mest lovende tennistalenter, og tross nederlaget i USA vil han fortsette sine forberedelser og jakt på gjennombrudd i kommende internasjonale turneringer. Norske tennissupportere følger ungguttens utvikling tett videre på den profesjonelle touren. Neste mulighet for å kvalifisere seg til en stor turnering vil nå være hovedfokus for den unge utøveren.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/pBVKWX/kjaer-roek-ut-i-cincinnati-kvalifiseringen",
+            "title": "Kjær røk ut i Cincinnati-kvalifiseringen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 34,
+      "drop_reasons": []
+    }
+  }
+}
