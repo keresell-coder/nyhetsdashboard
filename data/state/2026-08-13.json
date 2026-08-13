@@ -440,5 +440,437 @@
       "dropped_count": 34,
       "drop_reasons": []
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "9e94cdc7ae6a7493",
+        "continued_from": null,
+        "headline": "USA sender nytt hangarskip til Midtøsten",
+        "ingress": "USA forbereder sending av hangarskipet USS George Washington til Midtøsten for å avløse et annet skip, melder Wall Street Journal.",
+        "summary": "USA forbereder seg på å sende hangarskipet USS George Washington til Midtøsten, opplyser avisen Wall Street Journal. Det nye hangarskipet skal etter planen avløse et annet omstridt amerikansk fartøy som for tiden befinner seg i regionen. Utplasseringen skjer i en tid med økt militær spenning og strategisk uro i Midtøsten, der USA ønsker å opprettholde en sterk militær tilstedeværelse for å avskrekke potensielle trusler og beskytte sine nasjonale interesser samt allierte. Avgjørelsen om å sende USS George Washington er en del av en større rotering av amerikanske styrker globalt, men har spesiell betydning gitt den nåværende sikkerhetssituasjonen i området. Det omstridte skipet som nå avløses, har vært gjenstand for betydelig oppmerksomhet og debatt den siste tiden. Ved å sette inn USS George Washington ønsker amerikanske myndigheter å sikre kontinuitet i sine operasjoner, samtidig som de oppdaterer sin militære tilstedeværelse i et av verdens mest sensitive områder. Roteringsprosessen innebærer betydelig logistisk planlegging for det amerikanske forsvarsdepartementet. Sendingen av hangarskipet understreker USAs fortsettende engasjement og evne til å projisere makt raskt i viktige globale konfliktsoner, ifølge opplysninger som er gjengitt i nyhetsmeldingene om saken. Dette tiltaket føyer seg inn i en rekke sikkerhetspolitiske grep som administrasjonen i Washington har tatt for å håndtere situasjonen i nærområdene den siste tiden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/0pgg9G/usa-sender-nytt-hangarskip-til-midtoesten-avloeser-omstridt-skip",
+            "title": "USA sender nytt hangarskip til Midtøsten – avløser omstridt skip",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/usa-sender-nytt-hangarskip-til-midtosten-avloser-omstridt-skip/s/5-95-3196603",
+            "title": "USA sender nytt hangarskip til Midtøsten – avløser omstridt skip",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "70d1daa8806952e5",
+        "continued_from": null,
+        "headline": "Søreide advarer om EØS-avtalens framtid",
+        "ingress": "Høyre-leder Ine Eriksen Søreide etterlyser en plan fra regjeringen dersom Island melder seg inn i EU, og advarer om at EØS-avtalen da kan bli irrelevant.",
+        "summary": "Høyre-leder Ine Eriksen Søreide uttrykker sterk bekymring for EØS-avtalens fremtid dersom Island bestemmer seg for å gå inn i Den europeiske union (EU). Hun etterlyser nå en tydelig og avklart plan fra den norske regjeringen for hvordan en slik situasjon skal håndteres. Søreide påpeker at dersom Island blir EU-medlem, vil det i praksis ikke være mye igjen av det opprinnelige EØS-samarbeidet, noe som kan føre til at Norge står igjen med en nærmest irrelevant avtale. EØS-avtalen har i tiår utgjort rammeverket for Norges tilknytning til EUs indre marked, sammen med de andre EFTA-landene Island og Liechtenstein. Dersom Island forlater EFTA-pillaren i EØS til fordel for fullt EU-medlemskap, endres forutsetningene for avtalen radikalt. Søreide mener det er avgjørende at norske myndigheter i forkant vurderer konsekvensene av en slik politisk utvikling på Island, og forbereder alternative strategier for å ivareta norske interesser overfor EU. Utspillet fra Høyre-lederen understreker behovet for en aktiv og forutsigbar europapolitikk, spesielt i en tid der det politiske landskapet i Europa og Norden er i endring. Regjeringen har foreløpig ikke lagt fram noen detaljert strategi for et scenario der Island blir en del av EU og EØS-avtalens nåværende struktur faller fra hverandre. Søreide oppfordrer derfor til debatt om Norges fremtidige relasjon til EU under potensielt endrede rammebetingelser.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/politikk/ine-eriksen-soreide/eos/island/soreide-om-island-gar-inn-i-eu-da-er-det-egentlig-ingenting-igjen-av-eos-avtalen/2-1-2028599",
+            "title": "Søreide om Island går inn i EU: – Da er det egentlig ingenting igjen av EØS-avtalen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8a32a74755389d90",
+        "continued_from": null,
+        "headline": "Blandede bevegelser og oppgang på Wall Street",
+        "ingress": "Aksjemarkedet på Wall Street preges av optimisme og renteforventninger, selv om it-kjemper som Cisco opplever kursfall og selskaper som J Crew sliter med snuoperasjoner.",
+        "summary": "De amerikanske aksjemarkedene viser en generell optimisme, der indekser som S&P 500 har nådd nye rekordnoteringer. Utviklingen skjer samtidig som investorene følger nøye med på renteutviklingen fra den amerikanske sentralbanken, Federal Reserve. I markedet prises det nå inn en økende sannsynlighet for at renten vil holdes i ro ved det kommende septembermøtet, heller enn at det kommer nye rentehevinger. Både rentebekymringer og svingninger i oljeprisene påvirker handelsaktiviteten, men investorene viser at de i stor grad kan håndtere den kortsiktige usikkerheten. Til tross for den overordnede oppgangen i markedet, preges handelsdagene av sprikende enkeltresultater. IT-giganten Cisco har opplevd et kraftig kursfall på børsen etter publiseringen av sine seneste kvartalstall. Samtidig peker rapporter på utfordringer i enkelte andre sektorer og selskaper, som for eksempel motekjeden J Crew. Der har høy gjeldsbelastning, uro i ledelsen og amerikanske tollsatser lagt hindringer i veien for oppkjøpsfondet Anchorage Capitals planlagte snuoperasjon. Likevel holdes den generelle stemningen på Wall Street oppe av troen på en stabilisering i pengepolitikken. Markedets evne til å heve seg tross usikkerhetsfaktorer gjenspeiler en underliggende optimisme blant investorene, som i øyeblikket fokuserer mer på forventninger om rentetopp enn på enkeltaksjers fall. Sammensetningen av makroøkonomisk håp og bedriftsspesifikke motbør gjør at børsoppgangen fremstår nyansert, der teknologisektoren og handelssektoren viser svært ulik dynamikk.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/oppgang-pa-wall-street-it-kjempe-faller-kraftig/2-1-2029001",
+            "title": "Oppgang på Wall Street – it-kjempe faller kraftig",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/Rja40W/oppgang-paa-wall-street?utm_medium=rss",
+            "title": "Blandet på Wall Street",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Handelsblatt",
+            "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-wall-street-startet-nach-inflationsdaten-kaum-veraendert/100247118.html",
+            "title": "Dow, S&P 500, Nasdaq: Optimismus an der Wall Street – S&P 500 erreicht Rekord",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/7d443952-1cfb-4254-a615-188c25849789?syn-25a6b1a6=1",
+            "title": "Style war: inside Wall Street’s battle to revive J Crew",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "97edc88d89068f03",
+        "continued_from": null,
+        "headline": "Sverige senker den kriminelle lavalder til 14 år",
+        "ingress": "Riksdagen i Sverige har vedtatt å senke den kriminelle lavalderen til 14 år, slik at ungdommer kan dømmes til fengsel for særlig alvorlige lovbrudd.",
+        "summary": "Den svenske Riksdagen har vedtatt å senke den kriminelle lavalderen i Sverige fra 15 til 14 år. Vedtaket ble fattet med et flertall på 281 stemmer mot 66 stemmer under en votering torsdag som omfattet flere lovforslag knyttet til svensk retts- og migrasjonspolitikk. Endringen innebærer at barn som har fylt 14 år i fremtiden vil kunne stilles til ansvar og dømmes til fengselsstraff for særlig grove kriminalitetshandlinger. Dette gjelder blant annet alvorlige lovbrudd som drap, grov voldtekt og grovt våpenlovbrudd. Opprinnelig ønsket den svenske regjeringen å gå enda lenger ved å senke lavalderen helt ned til 13 år, men det endelige forslaget som fikk flertall i nasjonalforsamlingen landet til slutt på 14 år. Lovendringen føyer seg inn i en rekke strengere tiltak fra svenske myndigheter for å bekjempe den økende ungdomskriminaliteten og den grove gjengkriminaliteten som har preget landet de siste årene. Forslaget har skapt betydelig politisk debatt i Sverige, der tilhengerne argumenterer med at det er nødvendig med strengere reaksjoner mot unge lovbrytere, mens motstanderne uttrykker bekymring for konsekvensene av å sette så unge personer i fengsel. Vedtaket markerer et tydelig skifte i svensk strafferett, og myndighetene håper at den lavere aldersgrensen vil virke avskrekkende og forhindre at kriminelle nettverk rekrutterer stadig yngre tenåringer til alvorlige handlinger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/svt_-senker-den-kriminelle-lavalder-i-sverige-1.17989257",
+            "title": "SVT: Senker den kriminelle lavalder i Sverige",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d4GOMw/sverige-senker-den-kriminelle-lavalderen-til-14-aar",
+            "title": "Sverige senker den kriminelle lavalder til 14 år",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Politiken",
+            "link": "https://politiken.dk/internationalt/art10946399/Sverige-s%C3%A6nker-den-kriminelle-lavalder-til-14-%C3%A5r",
+            "title": "Sverige sænker den kriminelle lavalder til 14 år",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9772b0ebfe81e9f9",
+        "continued_from": null,
+        "headline": "Moroccanoil trekker seg som hovedsponsor for Eurovision",
+        "ingress": "Det israelske selskapet Moroccanoil har besluttet å ikke fornye sin avtale som hovedsponsor for Eurovision Song Contest etter seks års samarbeid.",
+        "summary": "Det israelske selskapet Moroccanoil har besluttet å avslutte sitt engasjement som hovedsponsor for Eurovision Song Contest. Beslutningen innebærer at selskapet ikke forlenger sponsoravtalen etter å ha hatt hovedsponsorrollen i seks sammenhengende år. Pressekontakter for Eurovision Song Contest har bekreftet opplysningene i en skriftlig uttalelse til NRK, der de opplyser at Moroccanoil etter seks vellykkede år har valgt å ikke fornye samarbeidet. Selskapets avgang som storsponsor markerer slutten på en æra i den europeiske musikkonkurransen, hvor Moroccanoil har hatt en svært synlig profil under sendingene i mange år. Det fremgår ikke direkte av uttalelsen hva som er den eksakte årsaken til at selskapet velger å stanse sponsingen nå, men avgjørelsen kommer i en periode hvor arrangementet har strammet inn organiseringen og hatt økt offentlig oppmerksomhet rundt sine kommersielle og politiske rammebetingelser. Arrangørene i Den europeiske kringkastingsunion (EBU) må dermed se seg om etter en ny hovedsponsor til de kommende utgavene av sangkonkurransen. Eurovision Song Contest har tradisjonelt vært avhengig av sterke kommersielle partnere for å finansiere det omfattende TV-showet. Avslutningen på det seks år lange partnerskapet med Moroccanoil krever at arrangørene finner nye finansielle løsninger for å opprettholde det faste produksjonsnivået i fremtiden. Endringen markerer dermed et skifte i hvordan konkurransen kommersielt finansieres i årene som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/moroccanoil-trekker-seg-som-eurovision-sponsor-1.17989251",
+            "title": "Moroccanoil trekker seg som Eurovision-sponsor",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/m0VVRE/nrk-israelsk-selskap-trekker-seg-som-hovedsponsor-for-eurovision",
+            "title": "NRK: Israelsk selskap trekker seg som hovedsponsor for Eurovision",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9f3f3678e8a47832",
+        "continued_from": null,
+        "headline": "Spurtseier på åpningsetappen i Arctic Race",
+        "ingress": "Giovanni Lonardi sikret seieren på den første etappen av sykkelrittet Arctic Race of Norway etter en intens innspurt hvor de norske håpene ble slått.",
+        "summary": "Italienske Giovanni Lonardi kunne juble for seier etter den første etappen av sykkelrittet Arctic Race of Norway. Åpningsetappen bød på spenning helt inn til mållinjen, der oppgjøret ble avgjort i en dramatisk massespurt. De norske håpene i feltet kjempet iherdig i finalen, men måtte til slutt se seg slått på de siste metrene før mål. Lonardi timet spurten sin perfekt og sikret dermed etappen og den første ledertrøyen i årets utgave av det nordnorske etapperittet. Arctic Race of Norway regnes som et av Norges største og mest prestisjefylte sykkelritt, og tiltrekker seg årlig et sterkt internasjonalt felt med både verdensstjerner og lovende talenter. Rittet strekker seg over flere etapper i det spektakulære nordnorske landskapet, og åpningsetappen setter ofte tonen for sammenlagtkampen og poengkonkurransen videre i løpet. Selv om det ikke ble norsk seier på den første dagen, viste de hjemlige rytterne at de var med på å prege rittet og kjempe om topplasseringene i det tette oppløpet. Publikumsfremmøtet og stemningen langs løypa ga en flott ramme rundt rittets start, og forventningene er nå høye til de kommende etappene der de norske rytterne vil få nye sjanser til å kjempe om etappeseire og trøyer sammenlagt. Laget til Lonardi leverte også et solid taktisk forarbeid som la grunnlaget for seieren i innspurten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/ExKKlK/norsk-haap-spurtslaatt-i-arctic-race-aapningen",
+            "title": "Norsk håp spurtslått i Arctic Race-åpningen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3090aa902f850e6c",
+        "continued_from": null,
+        "headline": "Eksplosjon på ammunisjonsfabrikk nær Roma i Italia",
+        "ingress": "En eksplosjon har rammet en ammunisjonsfabrikk i Colleferro nær Roma. Hendelsen skjedde i fabrikkens kruttpresse-avdeling ved anlegget KNDS Ammo Italy. Flere brannmannskaper er på stedet for å håndtere situasjonen.",
+        "summary": "En eksplosjon har nylig rammet et industrielt anlegg for produksjon av ammunisjon i Colleferro, et område beliggende i kort avstand fra den italienske hovedstaden Roma. Hendelsen fant sted ved fabrikken til selskapet KNDS Ammo Italy, som tidligere var godt kjent under navnet Simmel Difesa. Det er italiensk politi og den nasjonale kringkasteren Rai som først rapporterte om hendelsen, en sak som også siteres og formidles av nyhetsbyrået AFP. Ifølge de innhentede opplysningene fra italienske myndigheter og medier skal den kraftige eksplosjonen ha oppstått i det som omtales som fabrikkens egen kruttpresse-avdeling. Det ble umiddelbart sendt store ressursjer til åstedet, og flere utrykkende brannmannskaper har jobbet intensivt på stedet for å få kontroll over situasjonen. Det er på det nåværende tidspunktet ikke gitt ytterligere detaljert informasjon om årsaken til eksplosjonen, og det er heller ikke avklart om det har oppstått skader på personer som oppholdt seg der. Selskapet KNDS Ammo Italy har en svært viktig posisjon i landets forsvarsindustri. De produserer spesialisert ammunisjon av både mellomkaliber og grovkaliber beregnet på operativ bruk i landforsvaret så vel som i sjøforsvaret. I tillegg fremstiller dette anlegget fast brensel som benyttes til utskytningsramper i luftfartssektoren. Hendelsen har skapt betydelig oppmerksomhet, og nødetatene fortsetter sitt oppfølgingsarbeid på stedet for å sikre området helt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/afp_-eksplosjon-pa-ammunisjonsfabrikk-naer-roma-1.17989166",
+            "title": "AFP: Eksplosjon på ammunisjonsfabrikk nær Roma",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1becd3e02b0abfd2",
+        "continued_from": null,
+        "headline": "Solberg forsvarer Søreide og kritiserer tidligere stabsjef",
+        "ingress": "Tidligere statsminister Erna Solberg går ut mot sin tidligere stabsjef. Solberg mener at den tidligere stabsjefen aldri har kjent partiet Høyre særlig godt, og hun tar samtidig Høyre-leder Ine Eriksen Søreides nei til drivstoff i forsvar.",
+        "summary": "Tidligere statsminister og Høyre-leder Erna Solberg retter nå hard kritikk mot sin tidligere stabsjef. Bakgrunnen for uttalelsene er en pågående politisk debatt og utspill vedrørende partiets politiske linje. Solberg slår fast at den tidligere stabsjefen etter hennes syn aldri har kjent Høyre spesielt godt, noe som markerer et tydelig oppgjør med uttalelsene fra den tidligere nære medarbeideren. Samtidig benytter Solberg anledningen til å rykke ut i et klart forsvar for Ine Eriksen Søreides standpunkt i saken. Debatten omhandler Søreides nei til drivstoff, et utspill som har skapt diskusjon. Solberg understreker at hun stiller seg bak avgjørelsen og argumentasjonen som er lagt frem, og avviser kritikken som har kommet mot Høyres håndtering og prioriteringer. Saken belyser interne spenninger og ulike synspunkter knyttet til partiets profil og veivalg. At en tidligere stabsjef og en tidligere statsminister offentlig uttrykker uenighet om partiets indre liv, hører til sjeldenhetene i norsk politikk. Solbergs bastante avvisning av stabsjefens kjennskap til partiet viser hvor sterkt partiledelsen ønsker å markere avstand til kritikken. Utspillet er ment å rydde tvil av veien angående Høyres samlede linje og støtte til sentrale føringer, samtidig som det forsvarer Søreides rolle og beslutninger i den dagsaktuelle debatten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrVVOj/erna-solberg-da-kjenner-ikke-julie-brodtkorb-hoeyre-veldig-godt",
+            "title": "Erna Solberg i strupen på sin eks-stabsjef: – Da har hun aldri kjent Høyre veldig godt",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9cf7059ce156f26e",
+        "continued_from": null,
+        "headline": "Norges Bank holder styringsrenten uendret",
+        "ingress": "Norges Bank har besluttet å holde styringsrenten uendret, men sentralbanksjef Ida Wolden Bache utelukker ikke at det kan bli nødvendig med ennå en renteheving framover. Endringer i sentralbankens formuleringer skaper usikkerhet blant sjeføkonomer og eksperter.",
+        "summary": "Norges Bank har besluttet å holde styringsrenten uendret ved den seneste rentebeslutningen. Dette ble offentliggjort i forbindelse med at sentralbanksjef Ida Wolden Bache avholdt en pressekonferanse for å redegjøre for bakgrunnen for avgjørelsen. Selv om renten denne gangen blir stående i ro, sender sentralbanken et tydelig signal om at rentebanen ikke nødvendigvis har nådd toppen ennå. Sentralbanken varsler at det fortsatt kan bli aktuelt å heve renten ved en senere anledning dersom de økonomiske utsiktene tilsier det. I sine uttalelser har Norges Bank justert de faste formuleringene sine noe, noe som har ført til ny analyse og debatt blant finansielle eksperter og sjeføkonomer. Enkelte økonomer peker på at den endrede ordlyden gjør bildet noe mer usikkert enn tidligere, men det understrekes at sentralbanken på ingen måte har senket guarden eller utelukket et fremtidig rentehopp. Renteannonseringen har skapt stor oppmerksomhet i det finansielle miljøet, og situasjonen analyseres tett av fagfolk. Eksperter diskuterer nå om den uendrede renten representerer en midlertidig pause eller opptakten til en lengre periode med stabil rente. Det at en ny renteheving fremdeles står på menyen, viser at Norges Bank fortsatt er årvåkne overfor inflasjonen og utviklingen i norsk økonomi. Utviklingen videre vil avhenge av de kommende økonomiske nøkkeltallene før neste renteoppgjør.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/JOLpr4/renteheving-staar-paa-menyen?utm_medium=rss",
+            "title": "Renteheving står på menyen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/ArJ0yn/sjefoekonom-om-renteheving-litt-mer-usikre?utm_medium=rss",
+            "title": "Sjeføkonom om renteheving: – Litt mer usikre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/L4akkq/norges-bank-holder-renten-uendret?utm_medium=rss",
+            "title": "Norges Bank holder renten uendret",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/Wva8Ma/se-naa-norges-banks-rentebeslutning?utm_medium=rss",
+            "title": "Se nå: Norges Banks rentebeslutning",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19125114",
+            "title": "Holder renten uendret",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "de43bb4c2ecbef53",
+        "continued_from": null,
+        "headline": "Ber om forlenget varetekt for kaptein etter båtkollisjon",
+        "ingress": "Svensk påtalemyndighet ber om at kapteinen på lasteskipet «Misje Verde» holdes i varetekt i to nye uker. Skipet kolliderte med to fritidsbåter i slutten av juli, og en familie var om bord i en av båtene.",
+        "summary": "Svensk påtalemyndighet har fremmet et krav om at kapteinen på det store lasteskipet «Misje Verde» får forlenget sin varetektsfengsling frem til 28. august. Aktor James von Reis ber om fjorten nye dager med varetekt for at politiet skal få den nødvendige tiden til å ferdigstille den omfattende etterforskningen før det tas en eventuell formell beslutning om tiltale. Den alvorlige saken har sin bakgrunn i en hendelse som fant sted den 28. juli i svensk farvann, der lasteskipet kolliderte med to fritidsbåter. Det er kjent at en hel familie befant seg om bord i den ene av fritidsbåtene da den dramatiske ulykken inntraff. Skipets kaptein, som er en russisk mann i 50-årene, er formelt siktet for uaktsomt drap etter kollisjonen. I tillegg er en svensk los som befant seg om bord på lasteskipet under seilasen, siktet for uaktsomt drap og uaktsomhet til sjøs. Losen er imidlertid ikke varetektsfengslet av svensk politi. Både kapteinen og den svenske losen nekter straffskyld etter de alvorlige siktelsene som er rettet mot dem. Politiets etterforskning pågår nå for fullt for å få kartlagt de nøyaktige omstendighetene rundt kollisjonen samt ansvarsforholdene om bord på skipet. Påtalemyndigheten mener fortsatt fengsling av kapteinen er helt nødvendig for fremdriften.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ber-om-forlenget-varetekt-for-kaptein-1.17989288",
+            "title": "Ber om forlenget varetekt for kaptein",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/batulykken-i-sverige-ber-om-forlenget-varetekt-for-kapteinen/s/5-95-3196553",
+            "title": "Båtulykken i Sverige: Ber om forlenget varetekt for kapteinen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "41ed3397a6900604",
+        "continued_from": null,
+        "headline": "Nærmere 300 bekreftet døde etter jordskjelv i Colombia",
+        "ingress": "Dødstallet etter det kraftige jordskjelvet i Colombia har steget til 273 personer, opplyser katastrofemyndighetene i landet. I tillegg er minst 377 personer fortsatt meldt savnet etter at flere byer i den vestlige delen av landet ble rammet.",
+        "summary": "Dødstallet fortsetter å stige etter at et svært kraftig jordskjelv rammet den vestlige delen av Colombia. Landets katastrofemyndigheter opplyser nå offisielt at 273 personer er bekreftet omkommet som følge av naturkatastrofen. I tillegg er situasjonen fremdeles svært uavklart for et stort antall mennesker, da myndighetene rapporterer at minst 377 personer fremdeles er savnet i de ulike rammede områdene. Det kraftige jordskjelvet ble målt til en styrke på 7,4, noe som regnes som et svært ødeleggende skjelv. Det er spesielt flere byer i den vestlige regionen av landet som har blitt hardt råket av de voldsomme rystelsene. Bygninger, veier og annen infrastruktur har pådratt seg omfattende skader, noe som har skapt store utfordringer for redningsmannskapene og søket etter overlevende i ruinene. Katastrofemyndighetene og lokale nødetater jobber for fullt i de berørte lokalsamfunnene for å lokalisere savnede og gi nødvendig nødhjelp til skadde. Redningsmannskaper gjennomsøker ødelagte bygninger under vanskelige forhold, samtidig som myndighetene forsøker å skaffe trygt husrom og forsyninger til innbyggerne. Det høye antallet savnede gjør at myndighetene frykter at det endelige dødstallet kan stige ytterligere utover i leterapporten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/-273-bekreftet-dode-etter-jordskjelvet-i-colombia-1.17989308",
+            "title": "273 bekreftet døde etter jordskjelvet i Colombia",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0f878435ca36eeb9",
+        "continued_from": null,
+        "headline": "Landslagskeeper Egil Selvik klar for fransk fotball",
+        "ingress": "Norsk landslagskeeper Egil Selvik skifter klubb og melder overgang til fransk toppfotball. Målvakten forlater engelske Watford til fordel for den franske klubben Brest.",
+        "summary": "Den norske landslagskeeperen Egil Selvik har nylig fullført en overgang til fransk toppfotball. Den dyktige målvakten forlater dermed sin nåværende engelske klubb Watford for å fortsette sin karriere hos den franske klubben Brest, som spiller på det aller øverste nivået i det franske ligasystemet. Overgangen markerer et nytt og spennende kapittel i keeperens fotballkarriere, hvor han nå får sjansen til å bryne seg på utfordringer i en av Europas gjeveste ligaer. Selvik har den siste tiden vært tilknyttet engelske Watford, men velger altså nå å ta steget videre til fransk fotball for å sikre seg nye erfaringer og spilletid på et høyt internasjonalt nivå. Klubben Brest har fulgt keeperens utvikling og har nå sikret seg hans signatur og tjenester. For Selvik personlig betyr dette klubbtyttet en flott mulighet til å vise seg frem i en svært konkurransedyktig liga, noe som også kan ha en positiv innvirkning på hans videre posisjon og status på det norske landslaget. Overgangen fra engelsk fotball til den franske toppdivisjonen har vakt interesse i sportsmiljøet, og det knytter seg nå stor spenning til hvordan målvakten vil etablere seg i Brest framover. Selvik blir klar for sin nye klubb umiddelbart.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/gkrrwL/landslagskeeper-klar-for-fransk-fotball",
+            "title": "Landslagskeeper klar for fransk fotball",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/M7aaoM/landslagskeeper-klar-for-fransk-fotball",
+            "title": "Landslagskeeper klar for fransk fotball",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 28,
+      "drop_reasons": []
+    }
   }
 }
