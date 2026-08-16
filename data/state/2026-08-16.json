@@ -1,0 +1,424 @@
+{
+  "date": "2026-08-16",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "f48c04eb8e41f2ba",
+        "continued_from": null,
+        "headline": "Russiske angrep mot Kyiv og Kryvyj Rih",
+        "ingress": "Én kvinne er drept og sju personer såret etter omfattende russiske rakett- og droneangrep mot Kyiv og Kryvyj Rih natt til søndag. Vrakgods fra nedskutte raketter skapte flere branner i hovedstaden.",
+        "summary": "Natt til søndag gjennomførte Russland en rekke kombinerte angrep med både raketter og droner mot ukrainske byer. Ifølge ukrainske myndigheter og nyhetsbyråer har angrepene krevd minst ett menneskeliv og ført til at sju personer er blitt såret. En kvinne omkom som følge av hendelsene. Angrepene rettet seg blant annet mot hovedstaden Kyiv og byen Kryvyj Rih. I Kryvyj Rih meldte lederen for det lokale forsvarsrådet, Oleksandr Vilkul, at to industriområder ble direkte rammet. Dette utløste en omfattende innsats fra redningsmannskaper og brannvesen, samtidig som innbyggerne ble advart om mulige nye angrepsbølger via meldingstjenesten Telegram. I Kyiv ble innbyggerne tidlig søndag morgen bedt om å søke tilfluktsrom etter advarsler om innkommende ballistiske raketter fra byens militærledelse. Like etter ble det hørt flere kraftige eksplosjoner. Det ukrainske luftvernet klarte å skyte ned flere av missilene, men fallende vrakgods førte til at det oppsto branner i både biler og bygninger i hovedstaden, ifølge ordfører Vitalij Klitsjko og militæradministrasjonen. Minst én person skal ha blitt såret i disse hendelsene i Kyiv. Samtidig rapporteres det at Ukraina skal ha rettet et motangrep med rundt 600 droner mot mål i retning Moskva. Situasjonen i de rammede ukrainske områdene beskrives som krevende etter nattens omfattende ødeleggelser.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/en-drept-og-sju-saret-i-angrep-mot-ukraina-1.17991287",
+            "title": "En drept og sju såret i angrep mot Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/branner-etter-rakettangrep-mot-kyiv-1.17991281",
+            "title": "Branner etter rakettangrep mot Kyiv",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/melding-om-angrep-mot-kyiv-1.17991276",
+            "title": "Melding om angrep mot Kyiv",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/3pxe1P/eksplosjoner-hoert-i-kyiv-etter-rakettalarm",
+            "title": "En drept og sju såret i angrep mot Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/7pxoxv/en-drept-og-sju-saaret-i-angrep-mot-ukraina",
+            "title": "En drept og sju såret i angrep mot Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/rakettangrep-utloste-branner-i-kyiv/s/80-95-1233",
+            "title": "Rakettangrep utløste branner i Kyiv",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "cdf261a8d1e5ed83",
+        "continued_from": null,
+        "headline": "Kommentar om politisk debatt og uttrykk",
+        "ingress": "En kommentarartikkel i Dagens Næringsliv tar for seg norske uttrykk og politisk debatt med et skråblikk på ordtak og samfunnsforhold.",
+        "summary": "I en kommentarartikkel publisert i Dagens Næringsliv reises spørsmålet om hvordan kjente engelske munnhell best kan oversettes og forstås i en norsk kontekst. Teksten, som bærer overskriften «La dem spise blåskjell», åpner med en drøfting av det velkjente folkelige uttrykket om ikke å forurense på det samme stedet hvor man spiser. Dette bidraget representerer en meningsytring og en kommentar, og skiller seg dermed fra tradisjonell, nøytral nyhetsrapportering. Forfatteren benytter et satirisk, spissformulert og humoristisk språk for å belyse aktuelle samfunnsspørsmål og politiske problemstillinger i Norge. Gjennom en bevisst lek med språklige metaforer, ordspill og historiske referanser trekkes det tydelige paralleller til maktforhold, oppførsel og retorikk i den løpende offentlige samtalen. Slike meningsbærende tekster har til hensikt å stimulere til debatt og sette et kritisk søkelys på etablerte holdninger blant både beslutningstakere og samfunnsaktører. Ved å vri på klassiske sitater og kombinere dem med moderne, uformelle uttrykk, utfordres leseren til å reflektere over hvordan ulike aktører forholder seg til sine omgivelser, sitt ansvar og sine velgere. Kommentaren illustrerer på denne måten hvordan språkbruk og kulturelle referanser kan brukes aktivt i norsk samfunnsdebatt for å problematisere maktutøvelse og opptreden. Samlet sett fungerer innlegget som en personlig og subjektiv betraktning over det nåværende politiske klimaet og tendenser i den norske samfunnsutviklingen.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kommentar/oslofjorden/sjomat/andreas-bjelland-eriksen/la-dem-spise-blaskjell/2-1-2026964",
+            "title": "La dem spise blåskjell",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "f72a6d76ade05344",
+        "continued_from": null,
+        "headline": "Kinas voksende makt i det globale oljemarkedet",
+        "ingress": "Ifølge økonomiske analyser har Kina og president Xi Jinping opparbeidet seg betydelig kontroll over det internasjonale oljemarkedet, og landets posisjon utfordrer nå tradisjonelle aktører som Opec.",
+        "summary": "En analyse publisert av E24 og VG peker på at dynamikken i det globale oljemarkedet har endret seg vesentlig, og at Kina nå spiller en helt sentral nøkkelrolle for prisdannelsen på råolje. For å forstå svingningene og utviklingen i oljeprisen er det i dag nødvendig å rette blikket mot Beijing og landets økonomiske disposisjoner. I analysen vurderes det at Kinas president Xi Jinping har skaffet seg en posisjon med mer reell kontroll over oljemarkedet enn hva den tradisjonelle oljekartell-organisasjonen Opec besitter. Dette representerer et markant skifte i den globale energistrukturen, hvor produksjonskuttene og strategiene til tradisjonelle oljeeksporterende land i Midtøsten og andre regioner i større grad må tilpasses etterspørselen, lageroppbyggingen og den strategiske styringen fra kinesiske myndigheter. Kinas enorme industrielle kapasitet og posisjon som en av verdens største energiimportører gir landets ledelse betydelig markedsmakt. Gjennom strategiske oljelagre, langsiktige bilaterale handelsavtaler og kontroll over innenlandsk raffinerikapasitet kan Kina påvirke de globale markedsbalansene direkte. Dette analytiske perspektivet understreker at det tradisjonelle maktforholdet mellom produsenter og konsumenter i råvaremarkedene er i endring, og at Kinas overordnede økonomiske politikk i økende grad dikterer betingelsene for verdens oljehandel fremover. Analysen konkluderer dermed med at globale markedsaktører må følge nøye med på politiske og økonomiske signaler fra Kina for å kunne forutse fremtidige bevegelser i energiprisene.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/43x0BG/kongen-av-oljemarkedet?utm_medium=rss",
+            "title": "Kongen av oljemarkedet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/ArJBXx/kongen-av-oljemarkedet",
+            "title": "Kongen av oljemarkedet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e011521bae26b70d",
+        "continued_from": null,
+        "headline": "Tradingselskap tapte 140 milliarder etter hedgefond-kollaps",
+        "ingress": "Finans- og tradingselskapet Jane Street har gått på et enormt tap på 140 milliarder kroner i juli måned etter kollapsen i et stort hedgefond.",
+        "summary": "Det internasjonale tradingselskapet og finanskjempen Jane Street har registrert et ekstraordinært tap på om lag 140 milliarder kroner i løpet av juli måned. Dette fremgår av opplysninger gjengitt i Dagens Næringsliv. Det massive tapet knyttes direkte til en dramatisk kollaps i hedgefondet Situational Awareness. Jane Street, som er en av de mest prominente og innflytelsesrike aktørene innen global verdipapirhandel og markedspleie, ble hardt rammet da posisjonene knyttet til det aktuelle hedgefondet falt sammen. Slike omfattende tap illustrerer den betydelige risikoen og de finansielle ringvirkningene som kan oppstå i komplekse derivat- og tradingmiljøer når store fond havner i alvorlige likviditets- eller solvensproblemer. Kollapsen i Situational Awareness førte til kraftige markedsreaksjoner som traff Jane Streets porteføljer med full tyngde. Hendelsen belyser hvordan sammenkoblingen mellom spesialiserte hedgefond og store markedsmakere kan utløse kjedereaksjoner i finansmarkedene ved brå markedsendringer eller feilslåtte investeringsstrategier. Finansmiljøet følger nå situasjonen nøye for å vurdere eventuelle videre konsekvenser for det generelle handelsvolumet og risikobildet i markedet, da tap i denne størrelsesordenen hører til sjeldenhetene selv blant verdens største tradinghus. Tapet regnes som et av de mest oppsiktsvekkende enkelttapene i sektoren den siste tiden, og hendelsen understreker sårbarheten som kan prege selv de mest avanserte aktørene når uventede markedshendelser inntreffer i derivatmarkedene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/jane-street/tradingselskap-tapte-140-mrd-i-juli/2-1-2029657",
+            "title": "Tradingselskap tapte 140 mrd. i juli",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ed89ad7097341321",
+        "continued_from": null,
+        "headline": "Kostbar oppussing av Sveriges Riksbank vekker reaksjoner",
+        "ingress": "Planene om å renovere Sveriges sentralbank for 3,3 milliarder kroner har skapt debatt. Inkluderingen av luksuriøse fasiliteter som dampbadstu og marmorgarderobe møter sterk kritikk, mens banken forsvarer prosjektet.",
+        "summary": "Sveriges sentralbank, Riksbanken, står midt i en opphetet offentlig debatt i forbindelse med en omfattende renovering av sitt hovedkontor. Prosjektet har en anslått prislapp på hele 3,3 milliarder svenske kroner, melder E24. Det som særlig har vakt sterke reaksjoner blant kritikere og i offentligheten, er planene om å inkludere eksklusive og påkostede elementer som dampbadstu og garderober kledd i marmor. Kritikere mener at slike fasiliteter fremstår som unødvendig pengebruk og et uheldig signal fra en institusjon som forvalter landets pengepolitikk og oppfordrer til økonomisk moderasjon. Ledelsen i Riksbanken har på sin side gått ut og forsvart den omfattende oppussingen. Banken understreker behovet for å modernisere den eksisterende bygningsmassen, ivareta strenge sikkerhetskrav og sikre at fasilitetene møter fremtidens standarder for en sentralbankbygning. Det pekes også på at renoveringen er nødvendig for å opprettholde bygningens verdi og funksjonalitet på lang sikt. Saken har likevel skapt en bred prinsipiell diskusjon i Sverige om pengebruk, prioriteringer og offentlig representasjon i statlige institusjoner, og debatten forventes å fortsette etter hvert som byggearbeidene skrider frem. Kontroversen reiser spørsmål om hvor grensen bør gå for pengebruk på statlige prestisjebygg, spesielt i tider der samfunnet for øvrig opplever økonomisk usikkerhet og innstramminger. Riksbanken fastholder imidlertid at oppgraderingene er forsvarlige og velbegrunnede.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/k0BQkQ/sveriges-sentralbank-skal-pusses-opp-for-3-3-milliarder?utm_medium=rss",
+            "title": "Sveriges sentralbank skal pusses opp for 3,3 milliarder",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "21360bc96cb29803",
+        "continued_from": null,
+        "headline": "Forskere advarer om utfordringer ved kunstig intelligens",
+        "ingress": "KI-ekspert Inga Strümke mener kunstig intelligens ikke er ufarlig, og at full kontroll neppe er oppnåelig, men påpeker at det likevel kan håndteres på en forsvarlig måte.",
+        "summary": "Kunstig intelligens bringer med seg betydelige samfunnsmessige utfordringer og er ikke ufarlig, ifølge vurderinger fra KI-forsker og forfatter Inga Strümke, omtalt i saker hos E24 og VG. Strümke fremholder i sitt resonnement at menneskeheten neppe vil klare å oppnå fullstendig og absolutt kontroll over utviklingen av kunstig intelligens. Samtidig understreker hun at mangelen på total kontroll ikke nødvendigvis betyr at teknologien må unngås eller forbys, da det kanskje heller ikke er strengt nødvendig for å kunne nyttiggjøre seg verktøyene på en trygg måte. Dette analytiske og faglige perspektivet reiser viktige spørsmål om hvordan samfunnet, næringslivet og lovgivere bør tilnærme seg regulering og etiske rammeverk for maskinlæring og autonome systemer. I stedet for å strebe etter en uoppnåelig full kontroll, argumenteres det for en pragmatisk tilnærming der man fokuserer på risikohåndtering, åpenhet, forståelse av systemenes begrensninger og etablering av gode sikkerhetsmekanismer. Diskusjonen speiler en pågående global debatt blant teknologer og forskere om balansegangen mellom teknologisk innovasjon og nødvendig aktsomhet i møte med stadig mer avanserte algoritmer. Strümkes vurderinger bidrar til å nyansere bildet av fremtidens teknologiutvikling ved å skille mellom hypotetiske trusselscenarier og reelle, håndterbare utfordringer i hverdagen. Budskapet er at samfunnet må lære seg å leve med en viss usikkerhet, samtidig som det stilles strenge krav til ansvarlighet og etisk bruk av kunstig intelligens.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/16xRkW/ai-er-ikke-ufarlig?utm_medium=rss",
+            "title": "– AI er ikke ufarlig",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/Bxzek7/ai-er-ikke-ufarlig",
+            "title": "– AI er ikke ufarlig",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "961622c117bf573e",
+        "continued_from": null,
+        "headline": "To kvinner omkom i flom og jordskred i Spania",
+        "ingress": "To kvinner har mistet livet etter flom og jordskred i regionen Castilla y León nordvest i Spania. To barn ble også skadet i hendelsen, opplyser spanske myndigheter og nødetater.",
+        "summary": "To kvinner har mistet livet som følge av flom og jordskred nordvest i Spania, opplyser spanske nødetater og lokale myndigheter. Tragedien rammet landsbyen Manzanedo de Valdueza, som ligger i regionen Castilla y León. Ifølge myndighetene var de omkomne kvinnene i henholdsvis 60- og 80-årene da uværet og de påfølgende naturødeleggelsene rammet lørdag. I tillegg til de to bekreftede dødsfallene opplyses det at to små barn kom til skade i hendelsen. Barna, som i enkelte rapporter beskrives som spedbarn, ble fraktet til behandling for lettere skader etter at raset og vannmassene skapte store problemer i lokalsamfunnet. Redningsmannskaper og lokalt politi rykket raskt ut til stedet for å bistå innbyggerne og sikre området mot ytterligere farer. Nordvestlige deler av Spania har opplevd voldsomt vær, noe som førte til at store mengder vann og løsmasser satte bebyggelsen i fare. Hendelsen i Castilla y León førte til akutt utrykning fra lokale redningsetater, og representanter for myndighetene bekrefter omstendighetene rundt dødsfallene overfor nyhetsbyrået AFP. Det pågår nå opprydningsarbeid og undersøkelser av skadeomfanget i Manzanedo de Valdueza for å vurdere den videre sikkerheten for innbyggerne i landsbyen etter uværet. De lokale nødetatene oppfordrer befolkningen i de berørte områdene til å utvise stor forsiktighet inntil værforholdene har stabilisert seg fullstendig.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/to-omkom-i-flom-og-ras-i-spania-1.17991263",
+            "title": "To omkom i flom og ras i Spania",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/PdaXye/to-doede-i-flom-og-jordskred-i-spania",
+            "title": "To døde i flom og jordskred i Spania",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "005dcb4ffe94998d",
+        "continued_from": null,
+        "headline": "Spansk jagerfly skjøt ned drone over Romania",
+        "ingress": "Et spansk jagerfly på NATO-oppdrag har skutt ned en ubemannet drone som ulovlig krenket rumensk luftrom. Dette er den fjerde dronen Romania skyter ned i år, ifølge landets forsvarsdepartement.",
+        "summary": "Et spansk jagerfly av typen F-18 på oppdrag for forsvarsalliansen NATO har skutt ned en ubemannet drone over Romania. Det opplyser det rumenske forsvarsdepartementet ifølge nyhetsbyrået Reuters. Hendelsen fant sted etter at dronen fløy ulovlig inn i det rumenske luftrommet, noe som utløste en umiddelbar militær reaksjon fra NATO-styrkene som overvåker regionen. Dette er den fjerde dronen Romania har skutt ned over eget territorium så langt i år. Det er foreløpig ikke kjent hvor dronen opprinnelig kom fra, eller hvem som sto bak flyvingen. Romania deler en lang grense med Ukraina, og det allierte landet har ved flere anledninger opplevd at uidentifiserte droner og fremmede luftfartøyer har krenket luftrommet under den pågående krigen i nabolandet. Nedskytingen ble utført som ledd i NATOs styrkede nærvær og kontinuerlige patruljering langs alliansens østlige flanke. Flere allierte nasjoner, inkludert Spania med sine kampfly, bidrar aktivt til overvåkingen for å trygge luftrommet og håndtere uønskede hendelser. Det rumenske forsvarsdepartementet følger utviklingen fortløpende og opprettholder skjerpet beredskap langs grensene for å sikre rask respons dersom nye uidentifiserte luftfartøyer skulle ta seg inn i landets suverene territorium i tiden fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/drone-skutt-ned-over-romania-1.17991278",
+            "title": "Drone skutt ned over Romania",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/wrVkV1/drone-skutt-ned-i-romanias-luftrom",
+            "title": "Drone skutt ned i Romanias luftrom",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b1b4a5f5e7ee5a9d",
+        "continued_from": null,
+        "headline": "MDG vil kreve tilbake oljepenger etter svake klimakutt",
+        "ingress": "Miljøpartiet De Grønne er skuffet over oljenæringens klimakutt og varsler at de vil kreve tilbake pengene fra krisepakken som ble vedtatt i 2020. Partiet mener sektoren ikke leverer på klimaforpliktelsene.",
+        "summary": "Miljøpartiet De Grønne (MDG) krever at oljenæringen betaler tilbake de økonomiske midlene bransjen ble tildelt gjennom den statlige krisepakken under koronapandemien i 2020. Bakgrunnen for kravet er at partiet er sterkt misfornøyd med oljeselskapenes faktiske kutt i klimagassutslipp. MDG mener næringen ikke har levert på de forutsetningene og forventningene som lå til grunn da politikerne vedtok de omfattende støtteordningene for sektoren. Partiet peker på at oljesektoren mottok betydelige skattelettelser og økonomiske tiltak for å opprettholde aktiviteten og sikre arbeidsplasser under krisen. Samtidig var det en klar politisk forventning om at næringen skulle bidra aktivt til det grønne skiftet og kutte sine egne utslipp betraktelig. MDG vurderer resultatene som utilstrekkelige og argumenterer for at fellesskapets midler ikke har blitt benyttet i tråd med nasjonale klimamål. Kravet fra MDG representerer en markant skjerpelse i den norske energipolitiske debatten rundt olje- og gassnæringens rammevilkår og samfunnsansvar. Partiet understreker at statlige støttepakker må knyttes direkte til forpliktende og målbare utslippsreduksjoner, og at manglende måloppnåelse bør få økonomiske etterspill for operatørene på sokkelen. De varsler derfor at de vil forfølge saken videre i Stortinget for å stille oljeselskapene til ansvar for manglende klimatiltak.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/6qVK1O/mindre-klimakutt-i-oljen-vil-kreve-pengene-tilbake?utm_medium=rss",
+            "title": "Mindre klimakutt i oljen: Vil kreve pengene tilbake",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1d2894b926d18577",
+        "continued_from": null,
+        "headline": "Trump vil gjøre Hormuzstredet til amerikansk territorium",
+        "ingress": "Donald Trump hevder han vil gjøre Hormuzstredet til amerikansk territorium så snart Iran er beseiret. Iranske myndigheter avviser utspillet og fastholder at det strategiske stredet forblir under iransk kontroll.",
+        "summary": "USAs president Donald Trump har uttalt at han har til hensikt å gjøre Hormuzstredet til amerikansk territorium. Ifølge presidenten skal denne overtakelsen finne sted så snart USA eventuelt har beseiret Iran. Utspillet representerer en betydelig opptrapping i den verbale konflikten mellom Washington og Teheran, og berører et av verdens aller viktigste maritime knutepunkter for global energiforsyning og internasjonal skipstrafikk. Iranske myndigheter har på sin side avvist Trumps uttalelser fullstendig. Representanter for Iran fastholder at det strategiske stredet forblir iransk territorium, og understreker at landet ikke under noen omstendigheter vil gi fra seg råderetten over farvannet. Hormuzstredet forbinder Persiabukten med Omanbukten og er den viktigste transportruten for sjøbåren oljeeksport fra Midtøsten til verdensmarkedet, noe som gjør området særlig sårbart for geopolitiske konflikter. Trumps utspill vurderes som et usedvanlig vidtrekkende signal i internasjonal politikk som utfordrer rådende prinsipper om suverenitet og havrett. Kontrollen over det smale stredet har gjennom flere tiår vært en kilde til dype spenninger mellom vestlige land og iranske myndigheter. Den kontante avvisningen fra Teheran understreker at sjøveien forblir et urokkelig strategisk kjerneområde for Iran, og uttalelsene ventes å prege det sikkerhetspolitiske ordskiftet i regionen fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/trump-sier-han-skal-gjore-hormuzstredet-til-amerikansk-territorium/2-1-2029654",
+            "title": "Trump sier han skal gjøre Hormuzstredet til amerikansk territorium",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5d2f9d327fe69e3f",
+        "continued_from": null,
+        "headline": "Diana Shipping trekker budet på Genco Shipping",
+        "ingress": "Greske Diana Shipping gir opp oppkjøpet av Genco Shipping etter ni måneders kamp. Toppsjefen er dypt skuffet og retter skarp kritikk mot Genco-styret etter det han kaller uhørte krav.",
+        "summary": "Det greske tørrlastrederiet Diana Shipping har besluttet å trekke tilbake sitt bud på konkurrenten Genco Shipping. Avgjørelsen setter et endelig punktum for en ni måneder lang og intens oppkjøpskamp om det USA-noterte rederiet. Toppsjefen i Diana Shipping uttrykker at han er dypt skuffet over utfallet, og han går nok en gang hardt ut mot styret i Genco Shipping for håndteringen av forhandlingene. Hovedårsaken til at Diana Shipping nå kaster kortene, er ifølge ledelsen det de karakteriserer som «uhørte krav» fra Genco-styrets side. Det greske rederiet mener at styrets holdning og urimelige betingelser har gjort det umulig å oppnå en konstruktiv dialog eller sluttføre en avtale som ivaretar aksjonærenes interesser. Konflikten mellom de to rederiene har vært preget av gjentatte konfrontasjoner og hard ordveksling gjennom hele prosessen. Oppkjøpsforsøket har møtt betydelig motstand helt siden Diana Shipping først henvendte seg til Genco. Med tilbaketrekkingen av budet strander et av de mest omtalte konsolideringsforsøkene innen internasjonal tørrlastfart på lenge. Begge rederiene må nå belage seg på å fortsette virksomheten hver for seg i et krevende globalt fraktmarked, mens den langvarige striden mellom selskapenes ledelser omsider er over.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/shipping/trekker-bud-etter-uhort-krav-dypt-skuffet/2-1-2029652",
+            "title": "Trekker bud etter «uhørt» krav: – Dypt skuffet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "98bfe58d99346a24",
+        "continued_from": null,
+        "headline": "Sverige etablerer sløserikommisjon for store investeringer",
+        "ingress": "Sverige har behov for omfattende investeringer fremover, men skal finansiere satsingene uten å heve skattene. For å nå målet oppretter den svenske regjeringen nå en egen sløserikommisjon.",
+        "summary": "Sverige står overfor et betydelig behov for store investeringer i årene som kommer, og regjeringen har besluttet å etablere en egen «sløserikommisjon» for å løse finansieringen. Kommisjonens sentrale oppdrag blir å granske offentlig sektor for å avdekke ineffektiv ressursbruk, overflødige utgifter og byråkratisk sløsing på både statlig og kommunalt nivå. Målet er å hente inn nødvendige midler som kan omfordeles til prioriterte formål. De store nasjonale investeringene skal ifølge myndighetene finansieres fullt ut uten at skattenivået i samfunnet økes. Gjennom en grundig gjennomgang av offentlige budsjetter og kutt i unødvendige kostnader, mener svenske beslutningstakere at landet kan frigjøre tilstrekkelig handlingsrom innenfor eksisterende rammer. Kommisjonens arbeid blir dermed et nøkkelverktøy for å sikre økonomisk bærekraft i gjennomføringen av de planlagte satsingene. Opprettelsen av sløserikommisjonen signaliserer en tydelig økonomisk linje der forbedret ressursutnyttelse i offentlig forvaltning prioriteres fremfor skatteøkninger. Kommisjonen forventes å levere konkrete forslag til innstramminger og effektiviseringstiltak i tiden fremover. Tiltaket understreker hvordan svenske myndigheter søker å løse langsiktige investeringsbehov gjennom stram prioritering og systematisk reduksjon av unødvendig pengebruk i samfunnets felleskasse.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/7pxQ6o/oppretter-sloeserikommisjon?utm_medium=rss",
+            "title": "Oppretter «sløserikommisjon»",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 19,
+      "drop_reasons": []
+    }
+  }
+}
