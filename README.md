@@ -66,3 +66,18 @@ forespørsler av de 20. Unngå mange testkjøringer på rad.
 
 Actions-fanen → "Daily News Screener" → "Run workflow", velg `morning`
 eller `evening` for å teste uten å vente på klokkeslettet.
+
+## Når rapporten viser «rå kildeliste»
+
+Det betyr at Gemini ikke svarte. Sjekk Actions-loggen:
+
+- `HTTP 503` – modellen er overbelastet. Klienten venter 5/15/30 sekunder,
+  prøver tre ganger, og bytter så til neste modell i
+  `GEMINI_MODEL_FALLBACKS`. Skjer dette vedvarende, sett repo-variabelen
+  `GEMINI_MODEL` til en annen Flash-modell.
+- `døgnkvoten er brukt opp` – 20 forespørsler er brukt. Kvoten nullstilles
+  kl. 09:00 norsk tid. Merk at 07:30-kjøringen trekker fra FORRIGE døgns
+  kvote; reserve-cron kl. 10:30 fanger opp dagen etter nullstilling.
+
+Har det allerede kommet en ekte rapport samme dag, beholdes den – siden går
+aldri fra sammendrag tilbake til ren overskriftsliste.
