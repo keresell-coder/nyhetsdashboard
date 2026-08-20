@@ -34,6 +34,31 @@ def _write_index(html):
         f.write(html)
 
 
+def _degrade(date_str, filtered, status, generated_label, reason):
+    """Håndterer at Gemini ikke er tilgjengelig.
+
+    Viktig rekkefølge: har vi allerede publisert en ekte rapport i dag,
+    skal den BEHOLDES. Tidligere overskrev en feilet kveldskjøring en
+    vellykket morgenrapport med en rå overskriftsliste - altså gikk siden
+    fra godt innhold til dårligere fordi et senere forsøk feilet.
+    Rå kildeliste brukes bare når vi ikke har noe bedre å vise.
+    """
+    good_stories, good_run_type = state.last_good_stories(date_str)
+    if good_stories:
+        html = render.render_stale(
+            good_stories,
+            generated_label,
+            f"{good_run_type}-rapporten i dag (nyere forsøk feilet)",
+        )
+        _write_index(html)
+        print(f"{reason}; beholder dagens {good_run_type}-rapport.")
+        return
+
+    html = render.render_raw_fallback(filtered, status, generated_label)
+    _write_index(html)
+    print(f"{reason}; ingen tidligere rapport i dag, viser rå kildeliste.")
+
+
 def run():
     run_type = os.environ.get("RUN_TYPE", "morning").strip() or "morning"
     if run_type not in ("morning", "evening"):
@@ -75,15 +100,13 @@ def run():
         classifications = gemini_client.classify_articles(clusters)
     except gemini_client.QuotaExhausted as exc:
         status["quota_exhausted"] = True
-        html = render.render_raw_fallback(filtered, status, generated_label)
-        _write_index(html)
-        print(f"Gemini-døgnkvoten er tom ({exc}); viser rå kildeliste.")
+        _degrade(date_str, filtered, status, generated_label,
+                 f"Gemini-døgnkvoten er tom ({exc})")
         return
     except gemini_client.GeminiError as exc:
         status["gemini_error"] = str(exc)
-        html = render.render_raw_fallback(filtered, status, generated_label)
-        _write_index(html)
-        print(f"Gemini-klassifisering feilet ({exc}); viser rå kildeliste.")
+        _degrade(date_str, filtered, status, generated_label,
+                 f"Gemini-klassifisering feilet ({exc})")
         return
 
     groups_by_key, dropped_for_capacity = validate.build_groups(
@@ -101,15 +124,13 @@ def run():
         draft_raw = gemini_client.draft_stories(list(groups_by_key.values()), status)
     except gemini_client.QuotaExhausted as exc:
         status["quota_exhausted"] = True
-        html = render.render_raw_fallback(filtered, status, generated_label)
-        _write_index(html)
-        print(f"Gemini-døgnkvoten er tom ({exc}); viser rå kildeliste.")
+        _degrade(date_str, filtered, status, generated_label,
+                 f"Gemini-døgnkvoten er tom ({exc})")
         return
     except gemini_client.GeminiError as exc:
         status["gemini_error"] = str(exc)
-        html = render.render_raw_fallback(filtered, status, generated_label)
-        _write_index(html)
-        print(f"Gemini-skriving feilet ({exc}); viser rå kildeliste.")
+        _degrade(date_str, filtered, status, generated_label,
+                 f"Gemini-skriving feilet ({exc})")
         return
 
     previous_ids = state.previous_story_ids(date_str)

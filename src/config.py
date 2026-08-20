@@ -172,6 +172,23 @@ COMMENT_DISCLAIMER = "Kommentarstoff – ikke selvstendig redaksjonell bekreftel
 # aldri hardkodet, siden Gemini sine gratis-modeller endres jevnlig.
 DEFAULT_GEMINI_MODEL = "gemini-flash-latest"
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip() or DEFAULT_GEMINI_MODEL
+
+# Reservemodeller. gemini-flash-latest svarte HTTP 503 fire dager i strekk
+# (17.-20. august 2026) og la hele screeneren i fallback-modus. Én modell
+# som er nede skal ikke stoppe rapporten - klienten prøver disse i
+# rekkefølge. Navn som ikke finnes (404) hoppes automatisk over, og
+# klienten slår opp faktisk tilgjengelige modeller først, slik at listen
+# ikke blir utdatert når Google bytter navn.
+GEMINI_MODEL_FALLBACKS = [
+    "gemini-flash-latest",
+    "gemini-flash-lite-latest",
+    "gemini-2.5-flash",
+    "gemini-2.0-flash",
+]
+
+# Kun modeller i Flash-familien er gratis. Vern mot at oppdagede modeller
+# drar oss over på en betalt Pro-modell.
+FREE_MODEL_MARKER = "flash"
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
@@ -216,7 +233,17 @@ TOP_STORIES_COUNT = 3
 # Det gir 14 forespørsler i reserve til retries og manuelle testkjøringer.
 MAX_TOTAL_STORIES = 12
 DRAFT_BATCH_SIZE = 6
-MAX_GEMINI_CALLS_PER_RUN = 6
+# To ulike budsjetter. Døgnkvoten (20) brukes bare opp av forespørsler som
+# faktisk blir behandlet; en HTTP 503 er en serverfeil og teller ikke mot
+# kvoten. Derfor kan vi prøve igjen mange ganger ved 503 uten å tære på
+# kvoten - men vi trenger fortsatt et tak så en kjøring ikke går i evig
+# løkke.
+MAX_GEMINI_CALLS_PER_RUN = 6      # kvotebærende kall
+MAX_GEMINI_ATTEMPTS_PER_RUN = 24  # inkl. 503-/nettverksforsøk
+
+# Ventetid mellom forsøk ved HTTP 503. Gammel logikk ventet 1 og 2 sekunder
+# og ga opp - alt for kort for en overbelastet modell.
+RETRY_BACKOFF_SECONDS = [5, 15, 30]
 
 # Terskel for at to overskrifter fra ULIKE redaksjoner regnes som samme
 # hendelse (overlap-koeffisient, 0-1). 0.6 er satt bevisst konservativt:
