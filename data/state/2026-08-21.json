@@ -1,0 +1,360 @@
+{
+  "date": "2026-08-21",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "ad1533d1624e52e1",
+        "continued_from": null,
+        "headline": "Karpe tildeles Fritt Ords Honnør",
+        "ingress": "Rapduoen Karpe tildeles prisen Fritt Ords Honnør for å sette ord på unges minoritetserfaringer.",
+        "summary": "Stiftelsen Fritt Ord har besluttet å tildele Fritt Ords Honnør til rapduoen Karpe, bestående av Magdi Omar Ytreeide Abdelmaguid og Chirag Rashmikant Patel. Duoen hedres for sin evne til å sette ord på erfaringer som mange unge med minoritetsbakgrunn bærer på i det norske samfunnet. I begrunnelsen trekker stiftelsens styreleder, Bård Vegar Solhjell, frem at Karpe har gitt en stemme til fortellinger som ofte krever kamp for å bli hørt, og at de har en unik evne til å fange opp samfunnsstemningen samtidig som de stiller kritiske spørsmål. Siden starten har duoens tekster tatt opp temaer som integrering, tilhørighet, utenforskap og rasisme. Tekstene har ved flere anledninger blitt heftig debattert i offentligheten og har reist sentrale spørsmål om menneskeverd, solidaritet, kunstnerisk frihet og diskriminering. Fritt Ords Honnør er en ytringsfrihetspris som ofte deles ut i tilknytning til en aktuell sak, og mottakeren tildeles 150.000 kroner samt en gravert vase.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/karpe-tildeles-fritt-ords-honnor-1.17996691",
+            "title": "Karpe tildeles Fritt Ords Honnør",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/kultur/i/Exmv33/karpe-tildeles-fritt-ords-honnoer",
+            "title": "Karpe tildeles Fritt Ords Honnør",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f8136f2e0916e7e6",
+        "continued_from": null,
+        "headline": "Flygelederstreik i gang etter brudd i meklingen",
+        "ingress": "Flygelederne tar ut ansatte i streik etter at meklingen med Spekter endte i brudd.",
+        "summary": "Meklingen mellom Spekter og Norsk Flygelederforening endte i brudd fredag formiddag, noe som har ført til streik blant flygeledere på Gardermoen og Flesland. Streikeuttaket omfatter i første omgang tolv flygeledere, men Avinor har varslet at aksjonen vil få konsekvenser for flytrafikken i hele landet, med ventede forsinkelser og kanselleringer. Fagforeningsleder Robert Gjønnes opplyser at konflikten ikke handler om økonomi, men om forhold som pauser, livsfasepolitikk og rammer for instruktørvirksomhet, og kritiserer arbeidsgiver for manglende dialog. Spekter på sin side betegner streiken som uforståelig, og riksmekler Mats Wilhelm Ruland har uttrykt skuffelse over at parterne ikke klarte å finne en løsning. Luftambulansetjenesten har satt grønn beredskap og følger situasjonen tett i dialog med Avinor, som opplyser at ambulanseflyginger skal prioriteres under konflikten. Passasjerer som rammes, bes om å forholde seg til beskjeder fra sine respektive flyselskaper angående rettigheter og endringer i reisene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/flygelederstreiken_-luftambulansetjenesten-setter-beredskap-1.17996806",
+            "title": "Flygelederstreiken: Luftambulansetjenesten setter beredskap",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/avinor-sier-flygeleder-streik-vil-ramme-hele-landet-1.17996750",
+            "title": "Avinor sier flygeleder-streik vil ramme hele landet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/flygelederforeningen_-_-svaert-uheldig-at-dette-rammer-en-uskyldig-tredjepart-1.17996741",
+            "title": "Flygelederforeningen: – Svært uheldig at dette rammer en uskyldig tredjepart",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/riksmekleren-til-nrk_-_-jeg-er-skuffet-1.17996710",
+            "title": "Riksmekleren til NRK: – Jeg er skuffet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/spekter_-flygelederforeningen-gar-ut-i-streik-1.17996708",
+            "title": "Spekter: Flygelederforeningen går ut i streik",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/luftfart/luftfart/fly/streik/flyveledere-i-streik-slik-rammes-du/2-1-2032130",
+            "title": "Flyveledere i streik – slik rammes du",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/7py75o/risikerer-flygelederstreik-partene-megler-paa-overtid?utm_medium=rss",
+            "title": "Flygelederne går ut i streik",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/zOk9wv/siste-nytt-om-flygelederstreiken",
+            "title": "Siste nytt om flygeleder­streiken",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/pBl9m1/naa-kan-flyreisen-din-ryke",
+            "title": "Nå kan flyreisen din ryke",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/XMEzpx/blaatur-stanset-av-streik",
+            "title": "Blåtur stanset av streik",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/lneJ8e/flygelederstreik-slik-rammes-flytrafikken-gardermoen-og-flesland",
+            "title": "Varsler full stengning av Gardermoen: – Mest uforståelige streiken jeg har vært med på",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19148561",
+            "title": "Flystreiken: Her er dine rettigheter",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19148455",
+            "title": "Flystreik: Slik blir du rammet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19147820",
+            "title": "Flygelederne går ut i streik",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1d4d14799371e107",
+        "continued_from": null,
+        "headline": "Jusprofessor mener habilitetsbrudd kan kreve ny E-sjef-behandling",
+        "ingress": "Forsvarssjefen var inhabil under arbeidet med å velge ny E-sjef, mener jusprofessor.",
+        "summary": "Det er reist alvorlige spørsmål rundt ansettelsesprosessen av en ny sjef for Etterretningstjenesten. Bakgrunnen for saken er at forsvarssjefen var erklært inhabil i saken. Til tross for dette fortsatte hans direkte underordnede det videre arbeidet med å velge ut hvem som skulle bli den nye E-sjefen. Ifølge en vurdering fra jusprofessor Jan Fridthjof Bernt er denne fremgangsmåten et klart brudd på gjeldende habilitetsregler. Professor Bernt analyserer situasjonen dit hen at dette regelbruddet er så alvorlig at det kan utløse et reelt behov for å gjennomføre hele ansettelsesprosessen på nytt. Det understrekes at dette er en juridisk vurdering av situasjonen, og det er foreløpig ikke konkludert offisielt fra øvrig hold om behandlingen vil bli erklært ugyldig. Saken berører sentrale prinsipper om habilitet og korrekt saksbehandling i statlige lederansettelser, og det gjenstår å se om forsvarsledelsen vil ta grep som følge av jusprofessorens uttalelser og regelbruddet som har kommet fram i lyset gjennom mediene.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/jusprofessor-om-inhabilitet-i-ansettelse-av-e-sjef-kan-utlose-behov-for-ny-behandling/2-1-2031767",
+            "title": "Jusprofessor om inhabilitet i ansettelse av E-sjef: – Kan utløse behov for ny behandling",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "76bcdaed8072ad63",
+        "continued_from": null,
+        "headline": "Politiet advarer mot aggressive og oppsøkende håndverkere",
+        "ingress": "Politiet i Stavanger advarer folk mot å slippe til pågående og aggressive håndverkere på døren.",
+        "summary": "Politiet i Stavanger går ut med en generell advarsel til innbyggerne etter å ha mottatt flere bekymringsmeldinger den siste tiden. Meldingene dreier seg om oppsøkende og aggressive håndverkere som oppsøker folk på deres egne adresser for å tilby tjenester. Ifølge politiets opplysninger oppstår det ofte konflikter og uenigheter i forbindelse med disse besøkene, noe som har skapt uro blant beboerne. Det påpekes fra politiets side at denne typen oppsøkende virksomhet kan være ubehagelig og potensielt problematisk for huseiere som blir presset til å ta raske avgjørelser på dørmatten. Politiet råder publikum til å være på vakt mot slike aktører og vurdere om de skal takke nei til uanmeldte tilbud om håndverkstjenester. Det foreligger ingen offisielle tall på hvor mange som er rammet, men sakene vurderes som et ordensproblem og en potensiell kilde til svindel eller konflikter som politiet nå ønsker å forebygge gjennom sin offentlige advarsel.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/d4jGbO/advarer-mot-aggressive-haandverkere-konflikter-og-uenighet",
+            "title": "Advarer mot aggressive håndverkere: - Konflikter og uenighet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/e7ekRK/politiet-i-stavanger-advarer-mot-aggressive-oppsoekende-haandverkere",
+            "title": "Politiet i Stavanger advarer mot aggressive, oppsøkende håndverkere",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "dbd08b036d8c0dad",
+        "continued_from": null,
+        "headline": "Siri Kalvig gir seg som toppleder i Nysnø Klimainvesteringer",
+        "ingress": "Siri Kalvig har sagt opp sin stilling som administrerende direktør i det statseide fondet Nysnø.",
+        "summary": "Siri Kalvig har meddelt at hun gir seg som administrerende direktør i det statseide investeringsselskapet Nysnø Klimainvesteringer. Kalvig var selskapets aller første ansatte da hun startet opp i rollen i 2018, og hun har dermed ledet organisasjonen gjennom hele dens eksistens frem til nå. I en pressemeldinger og intervjuer uttrykker hun at hun har satt stor pris på tiden i selskapet, og peker på at Nysnø i løpet av disse årene har vokst til å bli et av de største klimafondene i hele Norden. Selskapet forvalter i dag en organisasjon på rundt 20 ansatte og har direkte eller indirekte investeringer i omtrent 450 forskjellige selskaper som jobber med utslippsreduksjon og grønn omstilling. Ifølge Kalvig selv er det nå naturlig å overlate stafettpinnen, ettersom selskapet går inn i en ny strategisk fase som krever et nytt fundament og en ny toppleder til å ta de neste stegene. Styret i Nysnø har dermed startet arbeidet med å rekruttere en etterfølger. Det bekreftes at Kalvig vil fortsette å skjøtte sine plikter i sjefsstolen inntil en ny toppleder er på plass og klar til å overta ansvaret for det statlige klimafondet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/rogaland/siri-kalvig-gir-seg-som-leder-for-nysno-1.17996795",
+            "title": "Siri Kalvig gir seg som leder for Nysnø",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/nysno-klimainvesteringer/siri-kalvig-slutter-som-sjef-i-nysno/2-1-2027902",
+            "title": "Siri Kalvig slutter som sjef i Nysnø",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/wr49e5/siri-kalvig-slutter-i-nysnoe?utm_medium=rss",
+            "title": "Siri Kalvig slutter i Nysnø: – En tid for alt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/aJq8qA/siri-kalvig-slutter-i-nysnoe",
+            "title": "Siri Kalvig slutter i Nysnø: – En tid for alt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/lneQek/siri-kalvig-slutter-som-sjef-i-nysnoe",
+            "title": "Siri Kalvig slutter som sjef i Nysnø",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/wr49e5",
+            "title": "Slutter som toppsjef i Nysnø",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c9b40070aaac7b0e",
+        "continued_from": null,
+        "headline": "Støre krever stans i israelske bosetninger på Vestbredden",
+        "ingress": "Norge krever at Israel stanser planene om nye bosetninger som vil dele Vestbredden.",
+        "summary": "Statsminister Jonas Gahr Støre har i en e-post til NTB gjort det klart at Norge krever at Israel umiddelbart stanser planene om å bygge ut enda en kontroversiell bosetting på okkupert palestinsk land. Ifølge Støre vil et slikt bosettingsprosjekt ikke bare stride mot internasjonal lov, men det vil også dele Vestbredden i to og undergrave de palestinske myndighetenes posisjon og funksjonsevne. Det bekreftes at kravet kommer i kjølvannet av at den israelske regjeringen har publisert et nytt byggeanbud knyttet til det såkalte E1-prosjektet. Dette anbudet omfatter bygging av om lag 1200 boliger, mens de langsiktige planene til sammen rammer et område på tolv kvadratkilometer med potensial for opp mot 3400 boliger totalt. Reaksjonene mot utvidelsen er bredt forankret internasjonalt; ledere fra Storbritannia, Frankrike, Tyskland, Italia, Nederland, Canada og Norge har i fellesskap sendt ut en offisiell uttalelse som fordømmer det israelske bosettingsprosjektet. Denne felles fronten understreker alvoret i situasjonen slik den oppfattes av de vestlige regjeringene, mens israelske myndigheter foreløpig står ved sine planer til tross for det internasjonale presset.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/store-krever-at-israel-stanser-bosettingsprosjekt-pa-vestbredden-1.17996700",
+            "title": "Støre krever at Israel stanser bosettingsprosjekt på Vestbredden",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a742ccbaa75f026f",
+        "continued_from": null,
+        "headline": "Ekspert tipser om spillere før Fantasy Premier League-start",
+        "ingress": "Fjorårets vinner av Fantasy Premier League deler sine beste spilletips foran seriestarten.",
+        "summary": "Med sesongstart og deadline for påmelding like rundt hjørnet, retter mange oppmerksomheten mot det populære spillet Fantasy Premier League. Ifølge artikkelen, som er ment som en guide og vurdering for deltakere, har fjorårets vinner av hele spillet delt sine personlige anbefalinger for hvilke spillere man absolutt bør inkludere på laget sitt før fristen går ut fredag 21. august. Innholdet bærer preg av å være et redaksjonelt tips- og debattinnlegg snarere enn en nøytral nyhetsrapport, der ulike eksperter gir råd om spillere i samtlige posisjoner og i forskjellige prisklasser for å hjelpe leserne med å maksimere poengfangsten. Det understrekes at slike ekspertråd er subjektive vurderinger og analyser, og at utfallet på lagene vil variere avhengig av hver enkelt spillers egne preferanser og strategiske valg frem til deadline. Saken oppfordrer leserne til å bruke tid på finpussen av troppen, men minner om at ingen tips gir en garanti for suksess i det svært uforutsigbare og konkurranseutsatte spillet.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/6qVyRo/fantasy-premier-league-2026-27-disse-spillerne-boer-du-velge",
+            "title": "Nordmannen vant Fantasy Premier League i fjor. Nå deler han spillerne du må ha.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 36,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
