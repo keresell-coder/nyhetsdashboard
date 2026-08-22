@@ -1,0 +1,473 @@
+{
+  "date": "2026-08-22",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "d99cc3708c47e9c5",
+        "continued_from": null,
+        "headline": "Dødstallene stiger etter russisk angrep i Ukraina",
+        "ingress": "Minst 14 personer er bekreftet dødd og over 120 såret etter et russisk angrep mot et kjøpesenter i Ukraina.",
+        "summary": "Flere russiske angrep har rammet Ukraina, med særskilt harde konsekvenser i Volodymyr Zelenskyjs hjemby Kryvyi Rig. Ifølge statlige medier og lokale myndigheter har det blitt utført angrep som har rammet et vanlig kjøpesenter i byen. Det er bekreftet at dødstallene har steget til 14 omkomne, mens over 120 personer er såret, deriblant flere barn. Ukrainas president Volodymyr Zelenskyj har gått hardt ut mot angrepet på X, der han betegner det som et kynisk og avskyelig angrep mot sivile. Ifølge opplysningene skal angrepet ha skjedd i to bølger, hvor den andre bølgen angivelig var rettet direkte mot redningsmannskapene som forsøkte å håndtere situasjonen og brannen etter det første nedslaget. Videre melder lokale myndigheter at ytterligere angrep andre steder i landet har krevd minst to menneskeliv i løpet av natten. Det understrekes at opplysningene om antall drepte og sårede stammer fra offisielle ukrainske kilder og medier, mens analysen av hendelsesforløpet indikerer en bevisst taktikk med oppfølgende angrep på redningspersonell. Slike situasjoner belyser den vedvarende og brutale trusselen mot sivilbefolkningen og infrastruktur i landet, hvor redningsmannskapenes arbeid stadig blir vanskeliggjort og satt i direkte livsfare av etterfølgende drone- eller missilangrep fra russisk side under de pågående militære operasjonene i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dodstallene-stiger-etter-kjopesenterangrep-1.17997746",
+            "title": "Dødstallene stiger etter kjøpesenterangrep",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/seks-drept-og-over-90-saret-i-russisk-angrep-mot-kjopesenter-i-ukraina-1.17997668",
+            "title": "Seks drept og over 90 såret i russisk angrep mot kjøpesenter i Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/L4enRV/minst-to-drept-i-russiske-angrep-sier-ukraina",
+            "title": "Minst to drept i russiske angrep, sier Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/minst-to-drept-i-russiske-angrep-sier-ukraina/s/80-95-5999",
+            "title": "Ukraina: Minst to drept i angrep",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d8308922a17258aa",
+        "continued_from": null,
+        "headline": "Norgespris kan koste milliarder for staten",
+        "ingress": "En ny ordning med norgespris kan koste opptil 55 milliarder kroner i et tørrår, ifølge nye anslag.",
+        "summary": "Diskusjonen rundt en potensiell norgespris har skutt fart, og analysesjefer anslår at ordningen kan beløpe seg til opptil 55 milliarder kroner i et tørrår. Dette blir av aktører som Mani Hussaini fra Arbeiderpartiet fremstilt som et politisk valg, der formålet nettopp er å sikre forutsigbarhet når prisene på strøm svinger kraftig og potensielt kan gå i været. Samtidig viser vurderinger fra Fornybar Norge at staten likevel vil sitte igjen med betydelige inntekter fra kraftsektoren. Det er anslått at statlige inntekter kan lande på mellom 55 og 60 milliarder kroner i året, selv etter at utgiftene til norgesprisen er regnet med. Dette er en analyse som viser at staten opprettholder store inntekter til tross for subsidie- eller prisordninger. Debatten belyser avveiningen mellom politiske mål om å beskytte forbrukere mot høye strømpriser og de faktiske kostnadene samt inntektene det offentlige genererer gjennom kraftmarkedet. Det er bred enighet om at ordningen har en høy prislapp, men vurderingene spriker når det gjelder hvorvidt belastningen for statskassen oppveies av de generelle inntektene fra energisektoren i løpet av et gitt år. Sakene belyser dermed både de økonomiske beregningene og de politiske prioriteringene knyttet til fremtidens strømpriser i Norge.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/Okmapk/norgespris-kan-koste-55-milliarder-et-politisk-valg?utm_medium=rss",
+            "title": "Norgespris kan koste 55 milliarder: – Et politisk valg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/0pX4nE/norgespris-kan-koste-55-milliarder-et-politisk-valg",
+            "title": "Norgespris kan koste 55 milliarder: – Et politisk valg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/okonomi/i/6q8zG3/fornybar-norge-staten-tjener-milliarder-paa-hoeye-stroempriser",
+            "title": "Fornybar Norge: Staten tjener milliarder på høye strømpriser",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ea4400b6c7aa06f6",
+        "continued_from": null,
+        "headline": "USA øker militæreskorte i Hormuzstredet",
+        "ingress": "Amerikanske styrker eskorterer oljetankere gjennom Hormuzstredet for å motvirke iranske angrep.",
+        "summary": "USA har trappet opp sin militære tilstedeværelse og eskortering av oljetankere gjennom det strategisk viktige Hormuzstredet. Hensikten med tiltaket er å motvirke potensielle iranske angrep og sikre at energiforsyningene ikke blir blokkert. Ifølge tilgjengelige rapporter har den amerikanske militæreskorten ført til at store mengder råolje, tilsvarende fem millioner fat daglig, har kunnet passere stredet uten å bli stanset. Dette skjer på tross av at Iran angivelig skal ha forsøkt å stenge eller kontrollere passasjen. Det foreligger her en situasjon preget av geopolitiske spenninger i et av verdens mest kritiske knutepunkter for oljetransport. Analyser av situasjonen tilsier at den økte amerikanske tilstedeværelsen er avgjørende for å opprettholde flyten i den globale oljehandelen, og for å forhindre at regionale konflikter fører til fullstendig stans i skipstrafikken. Det er bekreftet gjennom observasjoner at millioner av fat ukentlig sluses ut midt på natten under militær beskyttelse. Dette viser hvordan den internasjonale skipsfarten i området er direkte avhengig av ekstern militær makt for å opprettholde normal drift, og understreker den vedvarende risikoen for forstyrrelser i energimarkedet som følge av den spente geopolitiske situasjonen mellom USA og Iran i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/aJaAod/krigsskip-fra-usa-faar-stadig-mer-olje-ut-gjennom-hormuzstredet",
+            "title": "Iran trodde de hadde stengt stredet. Men midt på natten sluses millioner av fat med olje ut.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0ddcfd7552a97c1a",
+        "continued_from": null,
+        "headline": "Wall Street hentet seg inn etter tøff uke",
+        "ingress": "Amerikanske børser endte uken med oppgang til tross for vedvarende rente- og inflasjonsfrykt.",
+        "summary": "Etter flere dager med uro preget av stigende renter, inflasjonsfrykt og tøffe markedsforhold, endte amerikanske børser på Wall Street uken med oppgang. Drahjelp fra blant annet oppgang i kryptovalutaer som Bitcoin, samt selskaper innen guld og teknologi, bidro til å løfte de grønne indeksene ved ukes slutt. Blant annet opplevde selskaper relatert til krypto og visse legemiddelselskaper en positiv utvikling. Samtidig peker analyser mot at fremveksten av kunstig intelligens (KI) allerede begynner å påvirke makroøkonomiske faktorer, der tidlige data tyder på en langsommere lønnsvekst i enkelte utsatte yrker, selv om det foreløpig ikke er snakk om masseoppsigelser. På den politiske og handelsmessige fronten diskuteres også mulige konsekvenser av amerikanske tollmurer, der Canada ser ut til å ha avverget de nyeste tollene fra Donald Trump, selv om avtalen potensielt kan svekke tilliten og skape varig skade på USMCA-samarbeidet og nordamerikansk industri. Videre pekes det på ressursproblemer, slik som krisen rundt Colorado River som står overfor store utfordringer med å møte fremtidens etterspørsel i Vesten. Rapporteringen gir et samlet bilde av et finansmarked som reagerer positivt på kortsiktige drivere som krypto, samtidig som det navigerer i et landskap preget av dypere strukturelle bekymringer knyttet til renter, teknologiendringer og geopolitiske handelsavtaler.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/wall-street/rekyl-pa-wall-street-men-rentefrykt-preget-uken/2-1-2032608",
+            "title": "Rekyl på Wall Street, men rentefrykt preget uken",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/RjEqRJ/oppgang-paa-wall-street?utm_medium=rss",
+            "title": "Oppgang på Wall Street",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/RjEqRJ",
+            "title": "Amerikanske børser opp etter tøff uke på Wall Street",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/live/guld-och-krypto-lyfte-pa-wall-street/",
+            "title": "Guld och krypto lyfte på Wall Street",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Kauppalehti",
+            "link": "https://www.kauppalehti.fi/uutiset/a/eab8b9fe-e96b-405a-9f6a-051762a24afe?utm_source=rss",
+            "title": "Wall Street ei säikkynyt korkeita korkoja",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
+            "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bff4a312999b4445",
+        "continued_from": null,
+        "headline": "En person omkom i sverdangrep på svensk skole",
+        "ingress": "En person er død og tre er skadet etter et sverdangrep ved en skole i Fagersta.",
+        "summary": "En alvorlig voldshendelse fant sted ved en skole i Fagersta i Sverige, hvor en person ble angrepet med sverd og senere bekreftet omkommet. I tillegg ble tre personer skadet, hvorav to av dem betegnes som alvorlig skadd og ble fraktet til sykehus for medisinsk behandling. Ifølge svensk politi ble meldingen om angrepet mottatt klokken 14.06. Kun ti minutter etter at meldingen kom inn, ble den antatte gjerningspersonen skutt og pågrepet av politiet på stedet. Den pågrepne skal være en 18 år gammel mann, og svenske medier opplyser at han er en tidligere elev ved den aktuelle skolen. Politiet har opplyst at de per nå ikke har grunn til å tro at det var flere gjerningspersoner involvert i aksjonen. Det er foreløpig ikke gitt ytterligere detaljer fra politiet rundt motivet eller hendelsesforløpet ut over de offisielle bekreftelsene. Hendelsen har preget lokalsamfunnet dypt, og nødetatene rykket massivt ut til skolen for å håndtere situasjonen. Vurderinger fra mediene og politiets innsats viser en rask respons som stanset angrepet få minutter etter at alarmen gikk, noe som forhindret at enda flere ble rammet av det brutale sverdangrepet i svenske Västmanland.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/en-person-dod-etter-sverdangrep-i-sverige-1.17997813",
+            "title": "En person død etter sverdangrep i Sverige",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/to-alvorlig-skadd-ved-svensk-skole-1.17997628",
+            "title": "To alvorlig skadd ved svensk skole",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19150248",
+            "title": "En person død etter sverdangrep i Sverige",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "934299ed948784df",
+        "continued_from": null,
+        "headline": "Vil hente milliarder til KI-datasentre i Norden",
+        "ingress": "Nscale vurderer å hente opptil 28 milliarder kroner for å bygge ut datasentre i Norge.",
+        "summary": "De nordiske regionene har seilet opp som noen av de mest sentrale områdene i verden for etablering av store kunstig intelligens-datasentre. I lys av denne massive tilstrømningen av KI-giganter til Norden, vurderer selskapet Nscale, som har tilknytning til Røkke-siren og allerede er i gang med en stor utbygging i Narvik, å hente inn opptil 28 milliarder kroner i frisk kapital. Denne kapitalinnhentingen sees i sammenheng med planene om en fremtidig børsnotering i USA. Analyser viser at Norden er spesielt attraktivt for slike energikrevende datasentre på grunn av tilgangen på fornybar kraft og stabile rammevilkår. Slike initiativer understreker den raske veksten innen teknologisektoren knyttet til kunstig intelligens, hvor infrastruktur og datakraft har blitt flaskehalser som krever enorme investeringer. Det påpekes at prosjekter som det i Narvik kan plassere regionen i hjertet av den globale utviklingen innen maskinlæring og datalagring. Samtidig er det knyttet kommersielle vurderinger til risikoen og potensialet ved slike gigantinvesteringer i det internasjonale finansmarkedet, hvor milliardbeløpene som hentes inn skal finansiere den videre utvidelsen av den fysiske infrastrukturen som kreves for å møte den eksplosive etterspørselen etter KI-tjenester i årene som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/nscale/rokke-partner-vil-hente-milliarder-mens-ki-gigantene-strommer-til-norden/2-1-2032711",
+            "title": "Røkke-partner vil hente milliarder mens KI-gigantene strømmer til Norden",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "40a385af9265b173",
+        "continued_from": null,
+        "headline": "USA og Canada innfører gjensidig toll på 50 prosent",
+        "ingress": "USA og Canada innfører 50 prosent toll på hverandres varer etter at handelsforhandlingene brøt sammen før fristen.",
+        "summary": "Det er bekreftet at USA og Canada har innført en gjensidig toll på 50 prosent etter at nabolandene ikke klarte å komme til enighet om en handelsavtale innen fristen satt til midnatt natt til lørdag. USAs president Donald Trump hadde satt fristen, og kort tid før denne gikk ut, kunngjorde USAs handelsrepresentant Jamieson Greer at Canada hadde avvist å ferdigstille avtalen. Canadas statsminister Mark Carney uttalte i denne forbindelse at det ikke var gjort tilstrekkelig med fremgang til å kunne ivareta canadiske interesser i avtalen. Som en direkte konsekvens av dette vil USA ilegge en toll på 50 prosent på alle kanadiske varer, noe som ifølge kildene rammer import verdt 20 milliarder dollar. Kanadiske myndigheter svarte raskt med samme mynt og kunngjorde at de vil gjengjelde den amerikanske tollen dollar for dollar, for dermed å ramme amerikansk import til Canada like hardt. Situasjonen markerer en skarp eskalering i handelskonflikten mellom de to landene etter at forhandlingene strandet helt på oppløpssiden. Det foreligger foreløpig ingen analyser av de langsiktige makroøkonomiske konsekvensene, men situasjonen følges tett av markedene i begge land.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/canada-og-usa-gir-hverandre-toll-pa-50-prosent-1.17997925",
+            "title": "Canada og USA gir hverandre toll på 50 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/Pde9z7/usa-og-canada-klarte-ikke-aa-inngaa-avtale-straffer-hverandre-med-toll",
+            "title": "USA og Canada klarte ikke å inngå avtale - straffer hverandre med toll",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/okonomi/i/pB4A2o/usa-og-canada-klarte-ikke-aa-inngaa-avtale-straffer-hverandre-med-toll",
+            "title": "USA og Canada klarte ikke å inngå avtale – straffer hverandre med toll",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19151323",
+            "title": "50 prosent toll mellom USA og Canada iverksettes",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d213d74ae6298dec",
+        "continued_from": null,
+        "headline": "Emil Iversen fortviler etter svakt langløp",
+        "ingress": "Emil Iversen opplevde et svært skuffende langløp og ba publikum om unnskyldning.",
+        "summary": "Det er bekreftet at langrennsløperen Emil Iversen opplevde et kraftig tilbakeslag under fredagens langløp. Ifølge kildene var Iversen selv ganske høyt oppe og optimistisk før start, men underveis krasjlandet han sportslig på en måte som førte til sterk fortvilelse. Etter målgang la han seg ikke flate for å skjule skuffelsen, og han omtalte sin egen prestasjon som pinlig overfor pressen og publikum. Iversen fikk trøst etter det svake løpet, men situasjonen fremstår i kildene primært som en personlig sportslig nedtur for 35-åringen. Det er ikke lagt frem noen bredere idrettsfaglig analyse av hva som gikk galt rent teknisk eller anstrengelsesmessig, utover utøverens egne umiddelbare og sterke reaksjoner på egen innsats i sporet. Saken bærer preg av å være et øyeblikksbilde basert på utøverens egne følelser og beklagelser til publikum like etter at rennet var over.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/6qyGXO/fortvilet-iversen-fikk-troest-og-beklaget-til-publikum-pinlig",
+            "title": "Fortvilet Iversen fikk trøst og beklaget til publikum: – Pinlig",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f20467f2b1f21832",
+        "continued_from": null,
+        "headline": "USA godkjenner våpensalg til Sør-Korea",
+        "ingress": "Det amerikanske utenriksdepartementet har godkjent salg av luft-til-luft-missiler til Sør-Korea.",
+        "summary": "Det er bekreftet at det amerikanske utenriksdepartementet har gitt sin godkjennelse til en stor våpenleveranse til Sør-Korea. Avtalen omfatter salg av taktiske luft-til-luft-missiler, og den samlede verdien på leveransen er estimert til om lag 125 millioner dollar. Denne godkjennelsen kommer samtidig med at det er knyttet spenning til de militære relasjonene i regionen. Tidligere i uken varslet nemlig USAs president Donald Trump at han har planer om å redusere USAs aktive deltakelse i de felles militærøvelsene som gjennomføres sammen med det sørkoreanske militæret. Det foreligger foreløpig ingen offisiell analyse i kildene om hvorvidt våpensalget er ment å veie opp for den varslede nedtrappingen av militærøvelsene, eller om dette er ledd i en større strategisk endring for USAs militære fotavtrykk i Sør-Korea. Saken baserer seg utelukkende på de offisielle meldingene om godkjennelsen fra utenriksdepartementet samt Trumps nylige uttalelser om militærøvelsene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/godkjenner-stor-vapenleveranse-til-sor-korea-1.17997707",
+            "title": "Godkjenner stor våpenleveranse til Sør-Korea",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bc6dc8c287fe8845",
+        "continued_from": null,
+        "headline": "Flygelederstreik kan stenge Gardermoen søndag",
+        "ingress": "Avinor varsler store problemer på Gardermoen på grunn av flygelederstreik.",
+        "summary": "Det er bekreftet at tolv flygeledere er tatt ut i en streik som får store konsekvenser for flytrafikken i Norge. Avinor har gått ut og varslet at konflikten vil føre til omfattende forsinkelser og et høyt antall kanselleringer for reisende. Situasjonen er så alvorlig at Oslo lufthavn Gardermoen kan bli fullstendig stengt i løpet av søndagen, med en potensiell stengeperiode på opptil fem timer. Dette vil ramme flytrafikken og passasjerene hardt på en ukedag som normalt har stor pågang. Det foreligger ingen grundig analyse av streikens bakenforliggende årsaker eller økonomiske konsekvenser i kildene, utover Avinors egne operative advarsler om de praktiske følgene for flytrafikken. Passasjerer som skal ut og fly i helgen blir oppfordret til å følge med på oppdateringer fra flyselskapene og Avinor for å få med seg eventuelle endringer i reiseplanene sine som følge av den pågående streiken blant flygelederne.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/8p761A/flygelederstreiken-rammer-flytrafikken-gardermoen-kan-bli-stengt-soendag",
+            "title": "Gardermoen stenges søndag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19151376",
+            "title": "Gardermoen kan bli stengt søndag",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3cae76dc5b4dd383",
+        "continued_from": null,
+        "headline": "Eksperter advarer mot feil fondssparing og risiko",
+        "ingress": "Mange sparere betaler for mye i gebyrer eller tar feil risiko i fond.",
+        "summary": "Denne artikkelen fremstår som en vurdering og en meningsytring fra eksperter som gir råd til private fondssparere. Ifølge kildene er det en utbredt tendens til at mange nordmenn betaler for høye kostnader eller feilaktig tar på seg feil type risiko gjennom sin sparing. For å hjelpe forbrukerne utarbeider ekspertene en sjekkliste som skal avdekke om man er i et ugunstig spareprodukt. Rådene fokuserer på hva man bør undersøke i sin egen portefølje, samt konkrete indikasjoner på når det faktisk kan lønne seg å bytte fond. Dette er ikke en nøytral nyhetsrapport om en hendelse, men en forbrukerveiledning basert på ekspertenes faglige vurderinger av finansmarkedet. Det understrekes at sparere bør foreta en gjennomgang av egne avtaler for å unngå unødvendige kostnader over tid. Slike vurderinger kan variere ut fra individuell økonomisk situasjon, og ekspertenes sjekkliste fungerer som en generell rettesnor for bedre fondsforvaltning i privathusholdningene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/privatoekonomi/i/d4r7Ez/sparer-du-i-feil-fond-her-er-ekspertenes-sjekkliste?utm_medium=rss",
+            "title": "Sparer du i feil fond? Her er ekspertenes sjekkliste",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/K8ep3G/sparer-du-i-feil-fond-her-er-ekspertenes-sjekkliste",
+            "title": "Sparer du i feil fond? Her er ekspertenes sjekkliste",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e9cbcd1bb33ee83e",
+        "continued_from": null,
+        "headline": "Fly havarerte i vannet i Danmark med nordmann om bord",
+        "ingress": "Et sjøfly veltet opp ned av sidevind i Danmark, men pilot og norsk passasjer slapp unna uten fysiske skader.",
+        "summary": "Det er bekreftet at et sjøfly har havarert og havnet opp ned i vannet like utenfor den norddanske øyen Læsø. Ifølge Nordjyllands beredskap, som fikk melding om hendelsen i 18-tiden, skjedde ulykken da flyet var i ferd med å lette og ble rammet av en kraftig sidevind som veltet det rundt. Om bord befant det seg en svensk pilot og en norsk passasjer. Begge personene maktet å komme seg ut av det veltede flyet ved egen hjelp og svømte deretter i land. Da de nådde land, var begge mennene sterkt nedkjølte og frøs, men de ble umiddelbart tatt hånd om av tilkalt ambulansepersonell på stedet. Det er ikke rapportert om noen fysiske skader som følge av dramatikken. Etter å ha blitt sjekket av helsepersonell, ble begge mennene kjørt videre til et hotell for hvile. Hendelsen fikk dermed en utgang uten alvorlige personskader, til tross for det dramatiske hendelsesforløpet der flyet gikk rundt i vannskorpen under avgang.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fly-havnet-opp-ned-i-vannet-i-danmark-_-nordmann-var-om-bord-1.17997802",
+            "title": "Fly havnet opp ned i vannet i Danmark – nordmann var om bord",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19151043",
+            "title": "Fly havnet opp ned i vannet i Danmark – nordmann var om bord",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 25,
+      "drop_reasons": []
+    }
+  }
+}
