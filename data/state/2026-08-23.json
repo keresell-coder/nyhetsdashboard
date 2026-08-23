@@ -420,5 +420,410 @@
         "unknown_group"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "368b6e8de0ecad75",
+        "continued_from": null,
+        "headline": "Støre besøker Kyiv i Ukraina",
+        "ingress": "Statsminister Jonas Gahr Støre er søndag i Kyiv sammen med nordisk-baltiske ledere for å delta på toppmøte og markere Ukrainas flaggdag.",
+        "summary": "Statsminister Jonas Gahr Støre ankom søndag Kyiv i Ukraina for å delta på et toppmøte med ukrainske myndigheter samt ledere fra de nordiske og baltiske landene. Besøket faller sammen med markeringen av Ukrainas nasjonale flaggdag og uavhengighetsdag. Under oppholdet ble Støre vist rundt i en bydel som ble rammet av et massivt russisk angrep i mai, noe han beskrev som sjokkerende å overvære. Støre peker på at det ukrainske folket daglig lever med konsekvensene av en brutal krig, hvor sivile rammes systematisk gjennom opptrapping av missil- og droneangrep mot byer og kritisk infrastruktur. Norske myndigheter understreker viktigheten av å stå samlet med Ukraina i deres kamp for frihet, selvstendighet og retten til å bestemme over egen framtid. I forbindelse med besøket varslet statsministeren også at Norge skal signere en helt ny avtale om gjensidig samarbeid med landet. Det er foreløpig ikke kjent alle detaljer rundt den kommende avtalen, men besøket fungerer som en markering av solidaritet og støtte i en krevende tid preget av harde prøver for den ukrainske sivilbefolkningen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "nordisk_politikk",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/store-er-i-kyiv-1.17998463",
+            "title": "Støre er i Kyiv",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/store-i-ukraina-signerer-ny-samarbeidsavtale/2-1-2032781",
+            "title": "Støre i Ukraina: Signerer ny samarbeidsavtale",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/politikk/i/zOQzmK/stoere-paa-vandring-i-kyiv-dette-er-sjokkerende-aa-se",
+            "title": "Støre på vandring i Kyiv: – Dette er sjokkerende å se",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19151678",
+            "title": "Støre er i Ukraina: – Det er ganske harde prøver",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "513ca6e5c05e2f93",
+        "continued_from": null,
+        "headline": "Alvorlig ulykke mellom bil og MC i Møre og Romsdal",
+        "ingress": "Nødetatene har rykket ut til en alvorlig trafikkulykke mellom en motorsykkel og en bil ved Linge i Fjord kommune.",
+        "summary": "Søndag ettermiddag ble det meldt om en alvorlig trafikkulykke i Fjord kommune i Møre og Romsdal. Hendelsen, som involverte en personbil og en motorsykkel, fant sted ved fergekaia på Linge. Nødetatene ble varslet om hendelsen klokken 13.56. Politiet opplyser at ulykken fremstår som alvorlig. En luftambulanse ble raskt sendt til stedet for å bistå i rednings- og oppfølgingsarbeidet. Som følge av hendelsen har politiet advart om at det kan oppstå forsinkelser samt midlertidig stenging av veier i det aktuelle området. Trafikanter som har mulighet til å velge alternative ruter, er blitt oppfordret til å gjøre dette for å avlaste trafikkflyten og hjelpe nødetatenes arbeid på ulykkesstedet. Det foreligger på nåværende tidspunkt ikke ytterligere opplysninger om skadeomfanget til de involverte personene, og hendelsesforløpet er ennå ikke fullstendig klarlagt av politiet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/mr/trafikkulykke-mellom-motorsykkel-og-bil-1.17998679",
+            "title": "Trafikkulykke mellom motorsykkel og bil",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/GxnJa9/trafikkulykke-mellom-bil-og-mc-i-moere-og-romsdal-fremstaar-alvorlig",
+            "title": "Trafikkulykke mellom bil og MC i Møre og Romsdal: – Fremstår alvorlig",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19153639",
+            "title": "Ulykke mellom MC og bil: – Fremstår alvorlig",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d286936e008a859f",
+        "continued_from": null,
+        "headline": "Flykaos etter omfattende stenging av Gardermoen",
+        "ingress": "Oslo lufthavn Gardermoen har åpnet igjen etter å ha vært stengt i fem timer, noe som rammer reisende hardt.",
+        "summary": "Oslo lufthavn Gardermoen har gjenåpnet etter å ha vært stengt i fem timer, men konsekvensene merkes fortsatt sterkt for tusenvis av reisende. Avinor opplyser at hele 147 av 346 planlagte flyvninger ble kansellert søndag som følge av situasjonen, og advarer om at en ny type reisende nå rammes av problemene. Tavlene på flyplassen er preget av tallrike kanselleringer, og det ventes fremdeles store forsinkelser i flytrafikken framover. Situasjonen har ført til krevende forhold og tilløp til kaos også ved andre flyplasser, blant annet på Flesland i Bergen, hvor flere reisende må forberede seg på lange ventetider og potensielt overnatting på flyplassgulvet. Samtidig viser det seg at enkelte reisende får uventet hjelp av privatpersoner. Streiken blant flygeledere trekkes frem som bakgrunnen for problemene som nå ruller gjennom luftfarten. Reisende oppfordres til å holde seg oppdatert på status for sine avganger direkte med flyselskapene, da følgene av innstillingene vil ta tid å rydde opp i selv om hovedflyplassen nå er åpnet for trafikk igjen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/luftfart/avinor-147-fly-kansellert-sondag-og-tusenvis-berort/2-1-2032778",
+            "title": "Avinor: 147 fly kansellert søndag og tusenvis berørt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/K8eldo/tok-nattbuss-for-aa-rekke-fly-kjedelig?utm_medium=rss",
+            "title": "Nå gjenåpner Gardermoen etter fem timer stengt: – Det er bare flaks",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/zOQzd5/hittil-er-helgetrafikken-og-turister-blitt-rammet-naa-rammes-en-ny-type-reisende-advarer-avinor",
+            "title": "Nå rammes en «ny» type reisende, advarer Avinor",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19152964",
+            "title": "Gardermoen er åpen for trafikk – venter store forsinkelser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19152197",
+            "title": "Kaos på Flesland: – Tror jeg må sove på gulvet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "39e2437fdaaae803",
+        "continued_from": null,
+        "headline": "18-åring varetektsfengslet etter skolespissing i Sverige",
+        "ingress": "En 18 år gammel mann er varetektsfengslet i fire uker etter sverdangrepet på en skole i Fagersta.",
+        "summary": "Den svenske påtalemyndigheten har besluttet at den 18 år gamle mannen som er pågrepet for det tragiske skolespillet i Fagersta, skal varetektsfengsles i fire uker. Angrepet fant sted fredag ettermiddag på en videregående skole. En 17 år gammel jente miste livet som følge av hendelsen, og tre andre elever ble påført skader da en gjerningsperson gikk til angrep med sverd inne på skoleområdet. Den siktede 18-åringen var selv elev ved den aktuelle skolen og ble raskt pågrepet av politiet på stedet. Han er siktet og mistenkt for både drap og drapsforsøk i forbindelse med det voldelige angrepet. Saken har vakt sterke reaksjoner, og det pågår nå en videre etterforskning i regi av svensk politi for å avklare motiv og hendelsesforløp rundt ugjerningen. Myndighetene samarbeider tett for å støtte de berørte elevene og skolens ansatte i denne krevende situasjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/18-aring-varetektsfengsla-etter-skuleangrep-i-sverige-1.17998646",
+            "title": "18-åring varetektsfengsla etter skuleangrep i Sverige",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "23e37b6600a3cb4e",
+        "continued_from": null,
+        "headline": "Åtte døde migranter funnet etter båtforlis ved Tunisia",
+        "ingress": "Den tunisiske kystvakten har hentet opp åtte døde migranter etter at en båt på vei mot Italia sank.",
+        "summary": "Den tunisiske kystvakten har funnet og hentet opp åtte døde migranter etter at båten deres sank utenfor kysten av Tunisia. Ifølge opplysninger fra nyhetsbyrået Reuters var migrantene på vei mot Italia i et forsøk på å krysse Middelhavet. Søndag fortsetter redningsmannskapene det krevende søket etter ytterligere seks migranter som fremdeles er savnet etter forliset. Det opplyses at kystvakten, forsvaret og sivilforsvaret deltar i den pågående leteaksjonen. For å styrke innsatsen i området, blir det brukt ressurser fra luften i form av to helikoptre som bistår båtene på sjøen. Hendelsen understreker den vedvarende og livsfarlige risikoen migranter tar når de legger ut på sjøreiser i usikre fartøy for å ta seg over til Europa. Myndighetene i landet fortsetter søkene i håp om å finne de savnede, selv om sjansene for å finne overlevende svekkes etter som tiden går.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/atte-dode-migranter-funnet-1.17998699",
+            "title": "Åtte døde migranter funnet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3b41d16a0cc1e1cb",
+        "continued_from": null,
+        "headline": "Nedtur for Jakob Ingebrigtsen på favorittdistansen",
+        "ingress": "Jakob Ingebrigtsens comeback på favorittdistansen 1500-meter endte med en skuffende fjerdeplass under søndagens Diamond League-stevne i Schlesien.",
+        "summary": "Jakob Ingebrigtsens etterlengtede comeback på favorittdistansen 1500-meter under søndagens Diamond League-stevne i polske Schlesien endte med en sportslig nedtur. Løperen maktet ikke å kjempe helt i toppen da det dro seg til mot slutten av løpet. Ifølge kildene holdt det ikke hele veien inn til mål, og comebacket endte til slutt med en fjerdeplass, noe som betyr at han glapp plassen på pallen. Det er foreløpig ikke knyttet noen dypere analyser eller offisielle vurderinger fra støtteapparatet rundt årsaken til plasseringen i kildematerialet, utover at resultatet er bekreftet som en fjerdeplass på distansen i Polen. Samtlige kilder, deriblant VG, Aftenposten og Nettavisen, er samstemte om at det ble en tøff utfordring og at comebacket ikke resulterte i seier eller pallplassering denne gangen for den norske stjernen under stevnet i Polen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/3pXelv/comeback-sjanseloes-paa-seieren",
+            "title": "Comeback:  Sjanseløs på seieren",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/GxnJBV/comeback-sjanseloes-paa-seieren",
+            "title": "Comeback:  Sjanseløs på seieren",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/knuste-rivalene-jakob-ingebrigtsen-til-topp-i-polen/s/80-95-6989",
+            "title": "Nedtur for Ingebrigtsen: Glapp seieren i Polen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ec83ab7996e0b775",
+        "continued_from": null,
+        "headline": "Regjeringen vil gi 85 nye milliarder til Ukraina",
+        "ingress": "Statsminister Jonas Gahr Støre opplyser at regjeringens neste statsbudsjett vil inneholde 85 milliarder kroner i støtte til Ukraina.",
+        "summary": "Regjeringen har kunngjort at den ønsker å videreføre den massive støtten til det krigsherjede Ukraina med ytterligere 85 milliarder kroner over neste års statsbudsjett. Dette blir det tredje året på rad at Norge bevilger nettopp dette beløpet, noe som bekrefter en langsiktig og stabil linje i den norske støtten. Ifølge opplysninger fra NTB og statsminister Jonas Gahr Støre vil midlene fordeles med 70 milliarder kroner til militære formål, mens 15 milliarder kroner skal gå til sivile tiltak. Støre uttrykker i en kommentar at Ukraina går en svært tøff vinter i møte, og at bevilgningen er et tydelig politisk signal om at Norge vil fortsette å stille opp i landets forsvarskamp. Støtten fremstår som en bekreftet politisk beslutning fra regjeringens side, og analysen i kildene viser at dette opprettholder det økonomiske og militære nivået fra tidligere år. Det er ingen motsetninger i kildematerialet om at beløpet er på plass eller hvordan det er tenkt fordelt mellom sivil og militær støtte framover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "okonomi_makro",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/regjeringa-vil-gje-85-nye-milliardar-til-ukraina-1.17998469",
+            "title": "Regjeringa vil gje 85 nye milliardar til Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/norge-gir-85-nye-milliarder-til-ukraina-neste-ar/2-1-2032792",
+            "title": "Norge gir 85 nye milliarder til Ukraina neste år",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19153071",
+            "title": "Støre: Vil videreføre støtte til Ukraina med nye milliarder",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6c82e70eb5b975dd",
+        "continued_from": null,
+        "headline": "Storstilt leteaksjon etter savnet person i Bodø",
+        "ingress": "Politiet, Røde Kors, redningshunder og redningshelikopter leter søndag ettermiddag etter en savnet person i Mjelle-området ved Bodø.",
+        "summary": "En person er meldt savnet av pårørende i området rundt Mjelle, like utenfor Bodø, noe som har utløst en storstilt og omfattende leteaksjon søndag ettermiddag. Politiet leder aksjonen og har fått betydelig bistand fra en rekke redningsaktører i terrenget. De involverte ressursene inkluderer Røde Kors, Norske redningshunder, Norsk Folkehjelp samt et redningshelikopter som deltar i søket fra luften. Det er foreløpig ikke kjent hva som har skjedd med den savnede personen, da dette er en pågående redningsoperasjon. Politiet har kommet med en klar oppfordring til allmennheten om at folk som ikke deltar i selve leteaksjonen, eller som befinner seg på tur i det aktuelle området, må trekke seg ut. Vurderingen fra politiet er at uvedkommende i området kan forstyrre det krevende letearbeidet. Situasjonen er foreløpig preget av aktiv søkeinnsats, og ytterligere detaljer om hendelsesforløpet er ikke kjent eller bekreftet utover at personen er meldt savnet av sine pårørende.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nordland/storstilt-sok-etter-savnet-person-i-bodo-1.17998829",
+            "title": "Storstilt søk etter savnet person i Bodø",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2935d5cf569e06db",
+        "continued_from": null,
+        "headline": "Flygelederstreiken: Parter møtes til samtale mandag morgen",
+        "ingress": "Spekter har tatt initiativ til nye samtaler med Flygelederforeningen, som møtes mandag morgen til tross for steile fronter.",
+        "summary": "Mandag morgen skal partene i den pågående flygelederstreiken møtes til nye samtale etter at arbeidsgiverforeningen Spekter tok initiativ til å gjenopprette dialogen. Konflikten brøt ut etter at Norsk Flygelederforening tok 12 flygeledere ut i streik fredag morgen. Frontene har vært svært steile, særlig knyttet til uenighet rundt pauser. Leder Anne-Kari Bratten i Spekter avviser blankt å diskutere pausekravene, og hun understreker at dette er en arbeidstidsordning foreningen allerede har tapt i to rettsinstanser, og at saken derfor ikke hører hjemme i dette oppgjøret. På den annen side har leder Robert Gjønnes i Norsk Flygelederforening tidligere uttalt at situasjonen med opptil 16 timers arbeid uten pause er uakseptabel. Det har i forkant av møtet vært uenighet om fremdriften, hvor Spekter har uttrykt misnøye med at foreningen ikke hadde tid til å møtes allerede søndag, mens riksmekler Mats Ruland tidligere har vurdert at det ikke var grunnlag for nye møter. Det er per nå ingen indikasjoner på at noen av partene har endret sine grunnleggende standpunkter, og møtet mandag morgen skjer i et fortsatt spent klima mellom partene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/vil-ikke-snakke-om-pauser-1.17998732",
+            "title": "Vil ikke snakke om pauser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
+            "title": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/k0yx5j/flygelederforeningen-sier-til-nrk-at-de-moeter-spekter-mandag-morgen?utm_medium=rss",
+            "title": "Flygelederstreiken: Partene møtes mandag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19153417",
+            "title": "Rammes av egen streik: – Ikke sikkert alle når frem",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c63d9b6ca9f391ae",
+        "continued_from": null,
+        "headline": "Over 300 druknet under sommerens hetebølge i Frankrike",
+        "ingress": "Idretts- og ungdomsminister Marina Ferrari opplyser at over 300 mennesker har druknet i Frankrike i sommerens hetebølge.",
+        "summary": "Frankrike har gjennom sommeren vært preget av ekstreme værforhold med langvarige hetebølgjer, høye temperaturer, tørke og skogbrannar. Siden midten av juni har landet opplevd 52 dager med hetebølge. De ekstreme temperaturene har ført til en markant økning i antall dødsulykker knyttet til bading og opphold ved vann. Ifølge tall framlagt av idretts- og ungdomsminister Marina Ferrari, har over 300 mennesker druknet i løpet av sommermånedene. Dette representerer en økning på 14 prosent i ulykker sammenlignet med den samme perioden året før. Ministeren analyserer årsaken til den tragiske utviklingen med at mange mennesker har søkt seg til vann for avkjøling, ofte i kombinasjon med risikopreget adferd. Det blir særskilt pekt på at en stor del av ulykkene har skjedd på steder der bading verken er godkjent eller overvåket av badevakter. Tallene og vurderingene er offisielt bekreftet av myndighetene gjennom intervjuer med radiokanalen France Inter og videreformidlet av NTB.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/over-300-drukna-under-hetebolgja-i-frankrike-1.17998608",
+            "title": "Over 300 drukna under hetebølgja i Frankrike",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 29,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
