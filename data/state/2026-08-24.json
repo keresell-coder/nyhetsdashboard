@@ -420,5 +420,192 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "13a37e6a8449ce99",
+        "continued_from": null,
+        "headline": "Trump varsler 50 prosent toll på canadiske biler fra 2027",
+        "ingress": "USAs president Donald Trump varsler en dramatisk økning i tollen på biler, lastebiler, bildeler og stål fra Canada. Fra 1. januar 2027 vil satsen øke til 50 prosent.",
+        "summary": "USAs president Donald Trump har publisert nye handelspolitiske trusler på sitt sosiale medium, Truth Social. Ifølge utspillet vil tollen på alle biler, lastebiler, bildeler og stål importert fra nabolandet Canada bli økt til 50 prosent fra og med 1. januar 2027. Trump begrunner den kraftige økningen med at Canada angivelig er blant de verste landene i verden å forhandle og handle med. Videre oppfordrer han selskaper til å flytte produksjonen direkte til USA for å unngå tollbelastningen fullstendig, ved å bruke budskapet om at det ikke vil være noen avgifter dersom produksjonen foregår på amerikansk jord. Denne meldingen inngår i en lengre rekke av kritiske uttalelser og tirader rettet mot den canadiske naboen i nord fra den amerikanske administrasjonen. Det foreligger foreløpig ingen formelle reaksjoner eller offisielle motregnestykker fra canadiske myndigheter knyttet til de konkrete konsekvensene av denne varslede tolløkningen, men utspillet skaper uro rundt det bilaterale handelsforholdet mellom de to landene som i lang tid har hatt vidtrekkende handelsavtaler og et tett integrert industrielt samarbeid på tvers av grensene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump_-biler-fra-canada-far-50-prosent-toll-fra-2027-1.17999908",
+            "title": "Trump: Biler fra Canada får 50 prosent toll fra 2027",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/BxvERw/trump-tollen-paa-alle-biler-fra-canada-skal-oekes-til-50-prosent",
+            "title": "Trump: Tollen på alle biler fra Canada skal økes til 50 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/okonomi/trump-innforer-biltoll-pa-50-prosent/s/80-95-8786",
+            "title": "Trump varsler biltoll på 50 prosent for Canada",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "975842c315ea366b",
+        "continued_from": null,
+        "headline": "Bodø/Glimt tar sikkerhetsgrep rundt stjernespilleren Patrick Berg",
+        "ingress": "Etter hendelser i Sandefjord har Bodø/Glimt sett seg nødt til å innføre spesielle sikkerhetstiltak rundt sin profilerte stjernespiller Patrick Berg.",
+        "summary": "Fotballklubben Bodø/Glimt har i samsvar med situasjonen funnet det nødvendig å iverksette konkrete sikkerhetstiltak rundt midtbaneanker og stjernespiller Patrick Berg. Bakgrunnen for at klubben nå velger å ta slike grep, er en konkret opplevelse de hadde under et tidligere opphold i Sandefjord. Hovedpersonen selv uttaler at disse tiltakene handler om hans egen personlige sikkerhet. Det blir i kildene ikke presentert ytterligere detaljer om hva slags spesifikke trusler eller hendelser som utløste situasjonen, men det understrekes at klubben tar situasjonen på største alvor for å beskytte sin profilerte spiller under fremtidige reiser og opphold i forbindelse med kamper. Slike sikkerhetsvurderinger blir stadig vanligere i toppfotballen, der spillere og klubber må tilpasse seg et endret risikobilde knyttet til arrangementer og offentlig oppmerksomhet rundt enkeltpersoner i troppen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/fotball/i/oE8Q7a/tar-grep-rundt-patrick-berg-handler-om-min-egen-sikkerhet",
+            "title": "Tar grep rundt Berg: – Handler om min egen sikkerhet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3d9e17c40652126c",
+        "continued_from": null,
+        "headline": "Krigen i Iran og droneangrep skyter fart i fraktratene",
+        "ingress": "Stigende konflikter i Midtøsten og Svartehavet rammer skipsfarten hardt, og sender transportratene på alternative ruter kraftig opp.",
+        "summary": "Geopolitiske spenninger og væpnede konflikter skaper nå store utfordringer for den globale skipsfarten og internasjonal handel. Konsekvensene av krigen i Iran samt gjentatte droneangrep i Svartehavsområdet har ført til at sentrale maritime ferdselsårer blir rammet eller regnet som utrygge. Dette har resultert i at ratene på alternative fraktruter har skutt i været og blitt dobbelt så dyre for aktørene som må legge om sine seilingsmønstre. Samtidig meldes det om at Iran har opprettet sin helt egne svarteliste over skip som de anser som uønskede eller fiendtlige, noe som ytterligere kompliserer situasjonen for rederier som opererer i disse farvannene. Disse utviklingstrekkene bidrar samlet til økte kostnader for internasjonal varetransport, lengre seilingstider og en generell økning i usikkerheten knyttet til forsyningslinjene for energi og tørrlast i de berørte regionene.",
+        "content_type": "analyse_vurderende",
+        "content_group": "kommentar_debatt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/shipping/tankmarkedet/hormuzstredet/iran/denne-handelsruten-er-blitt-dobbelt-sa-dyr/2-1-2033003",
+            "title": "Denne handelsruten er blitt dobbelt så dyr",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "68699ec8fc678005",
+        "continued_from": null,
+        "headline": "Anbefaler boligutbyggere å glemme tomteprisen i treg marked",
+        "ingress": "Når boligprisene flater ut og kostnadene stiger, synker tomteprisene. Rådene er å godta tapet og gå videre med planene.",
+        "summary": "Det norske boligmarkedet opplever en periode preget av at prisene flater ut samtidig som de generelle byggekostnadene fortsetter å stige. Denne markedsdynamikken fører naturlig nok til at verdien på ubebygde tomter faller. I denne situasjonen er det faglige rådet til tomteeiere og utbyggere at de må klare å legge den historiske kjøpesummen bak seg, svelge eventuelle tap og heller fokusere på å realisere sine planlagte boligprosjekter. Analysen peker på at en fastlåst holdning til hva tomten opprinnelig kostet, kan føre til at tiltrengte byggeprosjekter stopper helt opp, noe som verken er hensiktsmessig for markedet eller eierne på sikt. Ved å tilpasse seg det nye kostnads- og prisnivået kan utbyggerne få i gang aktiviteten igjen, til tross for at marginene har blitt betydelig strammere som følge av den makroøkonomiske utviklingen med høyere rentenivå og økte materialkostnader.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kronikk/eiendom/bolig/boligbygging/glem-tomteprisen-ga-videre/2-1-2032536",
+            "title": "Glem tomteprisen, gå videre",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 51,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
