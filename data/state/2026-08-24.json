@@ -1,0 +1,424 @@
+{
+  "date": "2026-08-24",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "da03a49de3644041",
+        "continued_from": null,
+        "headline": "Russisk netthandelselskap rammet av brann etter droneangrep",
+        "ingress": "Det har brutt ut brann i et logistikksenter i Krasnodar-regionen.",
+        "summary": "Ifølge det russiske netthandelselskapet Ozon selv, har det brutt ut en brann i et av deres logistikkbaser lokalisert i Krasnodar-regionen i Russland. Selskapet opplyser at brannen startet som følge av et droneangrep mot anlegget. Ledelsen i Ozon har overfor nyhetsbyrået Reuters bekreftet at hendelsen ikke har krevd noen menneskeliv, og at det foreløpig ikke er meldt om omkomne. Angrepet føyer seg inn i rekken av hendelser i regionen knyttet til luftaktivitet. Opplysningene som foreligger om hendelsesforløpet og konsekvensene, er basert på meldinger fra selskapets egen ledelse og det internasjonale nyhetsbyrået. Det er ikke kommet frem ytterligere detaljer om materielle skader eller omfanget av ødeleggelsene på logistikksenteret utover at det brøt ut brann etter droneangrepet. Saken oppdateres etter hvert som mer informasjon blir tilgjengelig fra offisielle hold eller selskapet selv.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russisk-netthandelselskap_-brann-etter-droneangrep-1.17998995",
+            "title": "Russisk netthandelselskap: Brann etter droneangrep",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a80ef083dd6934f4",
+        "continued_from": null,
+        "headline": "Mann i 20-årene omkom etter garasjebrann i Hamar",
+        "ingress": "En person ble erklært død etter en brann i en leilighet i en garasje på Hamar.",
+        "summary": "En person, nærmere bestemt en mann i 20-årene, er bekreftet omkommet etter en brann som oppsto i en garasje på Hamar. Røykdykkere tok seg inn i en leilighet tilhørende garasjen der personen ble funnet. Det ble umiddelbart iverksatt livreddende førstehjelp på stedet, men livet stod ikke til å redde, og vedkommende ble erklært død på stedet. De pårørende til den omkomne er blitt varslet om dødsfallet. Politi og andre nødetater rykket ut til stedet, og politiet er i gang med å gjennomføre undersøkelser på brannstedet for å avklare omstendighetene rundt hendelsen. Per nå er brannårsaken ukjent, og det gjenstår tekniske og taktikalske undersøkelser før man kan si noe sikkert om hva som utløste brannen. Mediene VG, Aftenposten, Nettavisen og NRK dekker saken og bekrefter at etterforskningen på stedet pågår for fullt for å skape klarhet i saken.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/innlandet/person-dod-etter-brann-i-hamar-1.17999088",
+            "title": "Person død etter brann i Hamar",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/y5KpgK/en-person-doed-etter-brann-paa-hamar",
+            "title": "Mann i 20-årene død etter brann på Hamar",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/q67rPm/person-omkom-i-brann-paa-hamar",
+            "title": "Person omkom i brann på Hamar",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/en-person-omkom-i-brann-i-hamar/s/80-95-7367",
+            "title": "En person omkom i brann i Hamar",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a12dcb2ed7c5f2a9",
+        "continued_from": null,
+        "headline": "USA gir verden ultimatum og varsler historiske Iran-sanksjoner",
+        "ingress": "Scott Bessent varsler historiske sanksjoner for å knekke Irans økonomi.",
+        "summary": "USAs finansminister Scott Bessent vil mandag legge frem det han omtaler som de tøffeste sanksjonene i historien rettet mot Iran. Det oppgitte målet med de omfattende straffetiltakene er å fremprovusere en fullstendig kollaps i den iranske økonomien. I forbindelse med dette pakkes det inn et tydelig ultimatum til resten av verden: land må velge side, enten med USA eller mot dem. Dette kommer frem i en analyse av situasjonen som belyser det harde diplomatiske og økonomiske presset administrasjonen i Washington nå legger på internasjonale aktører. Sanksjonspakken og det tilhørende ultimatumet representerer en markant opptrapping i konflikten mellom USA og Iran. Det gjenstår å se hvordan globale markeder og andre nasjoner vil respondere på det krevende valget USA stiller dem overfor i denne geopolitiske storkonflikten. Rapporteringen baserer seg på foreløpige opplysninger fra Dagens Næringsliv om de planlagte tiltakene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/usa/iran/donald-trump/med-oss-eller-mot-oss-usa-gir-verden-et-iran-ultimatum/2-1-2032841",
+            "title": "«Med oss eller mot oss»: USA gir verden et Iran-ultimatum",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6e2df30a446d8650",
+        "continued_from": null,
+        "headline": "KI-kappløp tapper milliarder og gjør investorer mer forsiktige",
+        "ingress": "Asiatiske markeder faller mens teknologiselskaper henter enorme summer til kunstig intelligens.",
+        "summary": "De asiatiske markedene har innledet uken med å falle i minus, noe som knyttes direkte til det kostbare og ressurskrevende kappløpet innen kunstig intelligens. Teknologiselskaper henter inn massive summer til KI-utvikling, og investorene fremstår som mer forsiktige og avventende. En sentral hendelse er at Alibaba faller kraftig på børser som følge av en rekordstor emisjon. Markedet preges generelt av at aktørene sitter på gjerdet i venting på nye impulser. Blant annet rettes oppmerksomheten mot den kommende utviklingen rundt selskapet Nvidia, samt fremtidige signaler fra den amerikanske sentralbanken, Federal Reserve. Analytikere peker på at de enorme investeringene i kunstig intelligens skaper en spent situasjon i finansmarkedene, der investorer veier potensialet opp mot den finansielle risikoen ved de store kapitalinnhentingene. Saken belyser de finansielle ringvirkningene av den teknologiske utviklingen slik den fremstilles i markedsoppdateringer fra Dagens Næringsliv ved ukesstart.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/dn-ekspress/japan/kina/alibaba/ki-kapplopet-tapper-milliarder-investorene-blir-mer-forsiktige/2-1-2032846",
+            "title": "KI-kappløpet tapper milliarder – investorene blir mer forsiktige",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a193d24365eb9875",
+        "continued_from": null,
+        "headline": "Svensk utenriksminister besøker Kiev på Ukrainas selvstendighet",
+        "ingress": "Maria Malmer Stenergard reiser til Ukraina for å markere nasjonaldagen.",
+        "summary": "Sveriges utenriksminister Maria Malmer Stenergard fra Moderaterna legger i dag turen til Ukrainas hovedstad Kiev. Besøket skjer i forbindelse med markeringen av Ukrainas selvstendighetssdag, og har til hensikt å vise støtte og oppmerksomhet rundt landet på denne spesifikke merkedagen. Det meldes fra svenske medier, deriblant Dagens Industri og Svenska Dagbladet, at ministeren er på plass for å delta i markeringene. Besøket understreker den svenske regjeringens fortsatte diplomatiske og politiske tilstedeværelse samt solidaritet med Ukraina i en krevende tid med krig og konflikt. Utenriksministerens reise til Kiev er et ledd i å opprettholde sterke bånd og markere viktige historiske og nasjonale milepæler for landet. Det foreligger foreløpig ikke detaljerte opplysninger om hele programmet for besøket, utover at hovedfokuset er knyttet til markeringen av selvstendighetsdagen i landet, basert på rapportene fra de svenske dagsavisene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/utrikesministern-besoker-ukraina/",
+            "title": "Utrikesministern besöker Ukraina",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/d4b0kq/utrikesministern-besoker-ukraina",
+            "title": "Utrikesministern besöker Ukraina",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "00bfa589d68fade6",
+        "continued_from": null,
+        "headline": "Flere norske offentlige tjenester rammet av tekniske problemer",
+        "ingress": "ID-porten, MinID og Altinn var utilgjengelige natt til mandag.",
+        "summary": "Natt til mandag oppsto det tekniske problemer som gjorde flere sentrale offentlige digitale tjenester utilgjengelige for brukerne. Digitaliseringsdirektoratet (Digdir) bekreftet i en melding på sine nettsider at systemer som ID-porten, MinID og Altinn var rammet av nedetid. Direktoratet sendte ut varsel om problemene klokken 03.41 natt til mandag, og drøyt en time senere, rundt klokken 04.50, var tjenestene fremdeles preget av ustabilitet og trøbbel. I tillegg til de statlige innloggingstjenestene og portalene, meldte Helsenett om særskilte problemer knyttet til nettapotekene i samme tidsrom. Hendelsen skapte utfordringer for brukere som trengte tilgang til de digitaliserte offentlige løsningene i de tidlige nattetimene. NRK, Aftenposten og TV2 omtalte situasjonen basert på informasjonen som ble lagt ut av Digdir og NTB. Det ble i de første meldingene ikke gitt noen spesifikk årsak til hvorfor feilen oppsto, og arbeidet med å få normalisert driften pågikk mens problemene stod på som verst for de berørte systemene og brukerne landet over.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/flere-offentlige-tjenester-utilgjengelige-1.17998998",
+            "title": "Flere offentlige tjenester utilgjengelige",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/8p71Jx/flere-offentlige-tjenester-er-utilgjengelige-blant-dem-id-porten-og-altinn",
+            "title": "Flere offentlige tjenester er utilgjengelige",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19154717",
+            "title": "Flere offentlige tjenester utilgjengelige",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5437cb6df949af49",
+        "continued_from": null,
+        "headline": "Flyalarm i Kyiv under Støres besøk",
+        "ingress": "Statsminister Jonas Gahr Støre opplevde flyalarm i Kyiv søndag kveld mens han deltok på et besøk med nordiske og baltiske ledere.",
+        "summary": "Statsminister Jonas Gahr Støre (Ap) befant seg i den ukrainske hovedstaden Kyiv søndag kveld sammen med andre nordiske og baltiske ledere da en flyalarm ble utløst. Ifølge kildene gikk alarmen under en middag, og både Støres mobiltelefon og lokalene varslet om situasjonen. Støre opplyser at de hadde et tilfluktsrom like i nærheten som de var klare til å oppsøke om det skulle bli nødvendig. Årsaken til flyalarmen viste seg imidlertid å være knyttet til hendelser i utkanten av byen, og situasjonen ble avklart etter omtrent et kvarter. Som følge av dette ble middagen aldri avbrutt. Statsministeren uttaler at han har erfart lignende episoder under tidligere reiser til byen, og peker på hendelsen som en alvorlig påminnelse om de krevende hverdagsforholdene som befolkningen i Kyiv og de ansatte ved Norges ambassade må leve med over tid. Den bekreftede informasjonen i saken er basert på rapporter fra NTB og NRK, som beskriver hendelsesforløpet slik det utspilte seg søndag kveld i den ukrainske hovedstaden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/flyalarm-i-kyiv-under-stores-besok-1.17998952",
+            "title": "Flyalarm i Kyiv under Støres besøk",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "72ee92b16bdcc600",
+        "continued_from": null,
+        "headline": "Uefa-sjefen avviser å overta etter Infantino",
+        "ingress": "Aleksander Ceferin vil ikke ta over for Gianni Infantino, men krever at den pressede Fifa-presidenten enten trekker seg eller utfordres.",
+        "summary": "Uefa-sjef Aleksander Ceferin avviser blankt at han har ambisjoner om å erstatte Gianni Infantino som øverste leder for det internasjonale fotballforbundet Fifa. Det bekreftes i flere medier, blant annet gjennom intervjuer og podkasten «The Rest is Politics». Samtidig retter Uefa-toppen sterk kritikk mot den pressede Fifa-presidenten. Infantino har den siste tiden møtt økende misnøye og krav om avgang, i hovedsak utløst av den kontroversielle og senere skrinlagte planen om å åpne opp for private investorers inntreden i store Fifa-turneringer, inkludert VM for både menn og kvinner. Som en konsekvens av krisen har europeisk fotball, gjennom Uefa, kommet med trusler om boikott av forbundets konkurranser, og en rekke nasjonale og kontinentale organer har trukket tilbake sin støtte. Ceferin, den 58 år gamle sloveneren som leder europeisk fotball, slår fast at Infantino enten må velge å trekke seg frivillig eller forberede seg på en reell ledelsesutfordring og kamp om presidentposten i mars. Den europeiske fotballtoppen understreker samtidig at han selv ikke er interessert i jobben. Han forklarer dette med at han trives svært godt med arbeidet i Uefa og mener hans egen troverdighet styrkes betraktelig ved å holde seg unna kandidaturet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/sport/uefa-sjefen-vil-ikke-ta-over-1.17999052",
+            "title": "Uefa-sjefen vil ikke ta over",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/m0ynL4/uefa-sjef-aleksander-ceferin-om-fifa-president-gianni-infantino",
+            "title": "Uefa-sjef Ceferin vil ikke ta over etter Infantino",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/Wve2gL/uefa-sjef-ceferin-vil-ikke-ta-over-etter-infantino",
+            "title": "Uefa-sjefen vil ikke ta over etter Infantino",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/uefa-sjef-ceferin-vil-ikke-ta-over-etter-infantino/s/5-95-3210401",
+            "title": "Uefa-sjefen vil ikke ta over etter Infantino",
+            "is_secondary": false
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/sport/20260824-uefa-chief-ceferin-calls-for-infantino-to-quit-but-not-interested-in-replacing-him",
+            "title": "UEFA chief Ceferin calls for Infantino to quit, but 'not interested' in replacing him",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e190d8ab467776a0",
+        "continued_from": null,
+        "headline": "Regjeringen foreslår sliterpensjon på 34.000 kroner",
+        "ingress": "Regjeringen vil innføre et slitertillegg på rundt 34.000 kroner i året for personer som må gå av tidlig.",
+        "summary": "Regjeringen har lagt fram et forslag om et nytt «slitertillegg» rettet mot pensjonister som har bakgrunn fra et langt arbeidsliv. Tillegget er beregnet til å være på om lag 34.000 kroner årlig, tilsvarende 0,25 grunnbeløp per år. For å være berettiget til denne ordningen, stilles det konkrete krav om at man må ha minst 35 års fartstid i arbeidslivet, samt at den årlige inntekten ikke må ha oversteget 970.000 kroner. Ifølge arbeids- og inkluderingsminister Kjersti Stenseng (Ap) er formålet å sikre en trygg og verdig tilværelse for dem som etter mange år på arbeidsmarkedet er nødt til å forlate yrkeslivet før den ordinære pensjonsalderen, selv om det samtidig understrekes som positivt at folk flest står lenger i jobb. Forslaget springer ut fra det bredt anlagte pensjonsforliket fra 2024, som samlet nesten hele det politiske miljøet på Stortinget, med unntak av Rødt og Fremskrittspartiet. De oppgitte rammene for ordningen og bakgrunnen for den fremgår av pressemeldinger fra regjeringen og dekning fra flere norske nyhetsmedier som VG, Aftenposten, Nettavisen og NRK.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/regjeringa-foreslar-slitarpensjon-1.17999078",
+            "title": "Regjeringa foreslår slitarpensjon",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrzp6l/regjeringen-foreslaar-sliterpensjon-34-000-kroner-ekstra-i-aaret",
+            "title": "Regjeringen foreslår sliterpensjon: 34.000 kroner ekstra i året",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/3pXwB0/regjeringen-foreslaar-sliterpensjon-34000-kroner-ekstra-i-aaret",
+            "title": "Regjeringen foreslår sliterpensjon: 34.000 kroner ekstra i året",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/regjeringen-foreslar-sliterpensjon-34-000-kroner-ekstra-i-aret/s/80-95-7370",
+            "title": "Regjeringen foreslår sliterpensjon: 34.000 kroner ekstra i året",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "184030719b906726",
+        "continued_from": null,
+        "headline": "DN mener: Norge må kanskje vente på Trumps etterfølger",
+        "ingress": "Dagens Næringsliv argumenterer i en lederkommentar for at Norge kan bli nødt til å avvente en ny amerikansk president.",
+        "summary": "Denne teksten representerer en redaksjonell kommentar og meningsytring fra Dagens Næringsliv, og må følgelig leses som en analytisk vurdering snarere enn tradisjonell nyhetsrapportering. Avisens lederskribent drøfter i innlegget de politiske og diplomatiske realitetene knyttet til USAs politiske ledelse. Hovedkonklusjonen og analysen som presenteres i kommentaren, er at Norge i gitte situasjoner eller på spesifikke politiske felt kan risikere å ikke nå fram med sine interesser, og at det derfor kan vise seg å være nødvendig å avvente situasjonen til Donald Trump har forlatt presidentembetet og en etterfølger er på plass. Vurderingen er basert på en generell politisk analyse av transatlantiske relasjoner og den sittende amerikanske administrasjonens kurs, slik den tolkes av avisens redaksjon. Innholdet bærer preg av å være en spisset kommentar med klare synspunkter på utenrikspolitisk strategi for norske myndigheter i møte med USA, og reflekterer ikke nødvendigvis nøytrale eller bredt aksepterte fakta, men er avisens egne redaksjonelle betraktninger rundt temaet.",
+        "content_type": "leder",
+        "content_group": "kommentar_debatt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/leder/toll/usa/handelsavtale/dn-mener-det-kan-vare-at-norge-rett-og-slett-ma-vente-pa-trumps-etterfolger/2-1-2031857",
+            "title": "DN mener: Det kan være at Norge rett og slett må vente på Trumps etterfølger",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "505a13bc7f5dfe7b",
+        "continued_from": null,
+        "headline": "EØS utelukker ikke ekstraskatt for norske datasentre",
+        "ingress": "Jens Stoltenberg peker på EØS-utfordringer, men EU-domstolens praksis åpner for å utfordre elavgift for datasentre.",
+        "summary": "Innføring av en forhøyet elavgift spesifikt rettet mot datasentre reiser prinsipielle spørsmål opp mot EØS-retten. Ifølge uttalelser fra Jens Stoltenberg knytter det seg klare EØS-rettslige problemstillinger til en slik ekstraskatt. Samtidig viser analyser og gjennomganger av praksis fra EU-domstolen, samt konkrete erfaringer fra både Norge og Finland, at det finnes handlingsrom og juridiske argumenter som gir et grunnlag for å prøve ut og utfordre disse reglene. Saken berører skjæringspunktet mellom nasjonal næringspolitikk, miljøavgifter og de forpliktelsene som følger av EØS-avtalen for medlemslandene. Det er verdt å merke seg at vurderingene som gjøres rundt EØS-problematikk og mulighetene for å innføre særskilte skatter eller avgifter for datasenterindustrien, inneholder elementer av juridisk skjønn og analyse av fremtidig rettspraksis. Informasjonen bygger på oppgitte kilder fra Dagens Næringsliv, som belyser hvordan nasjonale myndigheter kan navigere innenfor det europeiske regelverket for å regulere kraftkrevende digital infrastruktur.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innlegg/energi/datasenter/datasentre/eos-stenger-ikke-doren-for-ekstraskatt-for-datasentrene/2-1-2032158",
+            "title": "EØS stenger ikke døren for ekstraskatt for datasentrene",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 51,
+      "drop_reasons": [
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
