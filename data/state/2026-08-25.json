@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-25",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "4a7d93712a00d10f",
+        "continued_from": null,
+        "headline": "Høyre vil stramme inn handlingsregelen",
+        "ingress": "Ine Eriksen Søreide går hardt ut mot finansministeren og krever strengere rammer for handlingsregelen.",
+        "summary": "Høyre-leder Ine Eriksen Søreide tar til orde for å stramme inn den nødvenige handlingsregelen for bruk av oljepenger, og retter sterk kritikk mot finansministeren. Ifølge Høyre-lederen befinner regjeringen seg i en situasjon som kan beskrives som at Jens Stoltenberg anno 2026 møter Jens Stoltenberg fra 2001 i døra, noe som blir brukt for å illustrere det partiet oppfatter som en urovekkende kursendring i økonomisk politikk. Diskusjonen dreier seg om hvordan statens inntekter og utgifter skal balanseres i årene som kommer for å unngå overoppheting av norsk økonomi og sikre langsiktig bærekraft. Høyre presenterer i denne sammenhengen flere mulige løsninger og modeller for hvordan innstrammingene kan gjennomføres i praktisk politikk. Dette er en politisk vurdering og debatt knyttet til forvaltningen av landets finanser, hvor opposisjonen krever en strengere og mer forutsigbar linje enn det regjeringens nåværende opplegg legger til rette for. Kritikerne peker på at dagens praksis utfordrer rammene som ble etablert for å beskytte norsk økonomi mot oljeavhengighet og svingninger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/pBVwAV/hoeyre-vil-stramme-inn-handlingsregelen?utm_medium=rss",
+            "title": "Høyre vil stramme inn handlings­regelen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/xrwv18/hoeyre-vil-stramme-inn-handlingsregelen",
+            "title": "Høyre vil stramme inn handlings­regelen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/pBVwAV",
+            "title": "Vil stramme inn handlingsregelen. Ser tre mulige løsninger.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "40cdc39f92c1be1c",
+        "continued_from": null,
+        "headline": "Svært lav trafikk gjennom Hormuzstredet",
+        "ingress": "Mandag ble det registrert den laveste skipstrafikken gjennom Hormuzstredet på tre måneder.",
+        "summary": "Skipstrafikken gjennom det strategisk viktige Hormuzstredet falt mandag til det laveste nivået siden 7. mai, viser foreløpige skipsfartsdata. Ifølge Kpler, som leverer sporingstjenester og analyser av skipsfart, passerte det kun ett eller to kommersielle fartøy gjennom stredet denne dagen. Blant annet ble det observert at et stort gasskip tok seg inn i stredet fra Omanbukta. Til sammenligning ble det dagen før, søndag, registrert seks fartøy av ulike typer som krysset det samme området. Analytikere og dataleverandører understreker imidlertid at disse tallene er usikre og kan endre seg over tid. Årsaken er at enkelte skip velger å slå av posisjonssenderne sine underveis av sikkerhetsmessige eller taktiske grunner, noe som gjør det vanskelig å få et fullstendig og helt nøyaktig bilde av den faktiske maritime aktiviteten i regionen til enhver tid. Situasjonen i området overvåkes nøye av aktører som følger den globale skipsfarten og energiforsyningen tett.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/laveste-trafikk-i-hormuzstredet-pa-tre-maneder-1.18000349",
+            "title": "Laveste trafikk i Hormuzstredet på tre måneder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/8p7kb2/laveste-trafikk-i-hormuzstredet-paa-tre-maaneder",
+            "title": "Laveste trafikk i Hormuzstredet på tre måneder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/laveste-trafikk-i-hormuzstredet-pa-tre-maneder/s/80-95-9266",
+            "title": "Laveste trafikk i Hormuzstredet på tre måneder",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9d774a31f012f40f",
+        "continued_from": null,
+        "headline": "Salmar leverer sterk resultatvekst, men skuffer markedet",
+        "ingress": "Oppdrettsgiganten Salmar viser kraftig bedring i resultatet, men treffer ikke markedsforventningene.",
+        "summary": "Den norske oppdrettsgiganten Salmar har lagt frem tall som viser en betydelig og kraftig bedring i det økonomiske resultatet sammenlignet med tidligere perioder. Til tross for denne positive fremgangen på bunnlinjen, klarte ikke selskapet å innfri de prognosene og forventningene som analytikere og markedet på forhånd hadde satt opp. Dette skaper en situasjon der selskapet rapporterer om solid operasjonell framgang, samtidig som markedsmottakelsen preges av at tallene falt noe under det som var ventet. Rapporten gir et innblikk i den generelle situasjonen for havbruksnæringen, hvor høye priser og god drift gir sterke resultater, men hvor kostnader og biologiske utfordringer også spiller inn på totalbildet. Markedets reaksjon er en analyse av forholdet mellom faktiske tall og forhåndsutsikter, noe som er vanlig ved resultatframleggelser for børsnoterte selskaper. Salmar fortsetter dermed å være en sentral aktør å følge med på for investorer som vurderer helsetilstanden i den norske sjømatsektoren.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/vrz16j/laksegiganten-salmar-hadde-driftsresultat-paa-1-2-milliarder-kroner-i-andre-kvartal?utm_medium=rss",
+            "title": "Salmar med kraftig resultatbedring",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/K8e9E5/laksegiganten-salmar-hadde-driftsresultat-paa-1-2-milliarder-kroner-i-andre-kvartal",
+            "title": "Salmar med kraftig resultatbedring",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ef28cd38c3364c2d",
+        "continued_from": null,
+        "headline": "Kommentar: Island på Europas vippepunkt",
+        "ingress": "Et samlet Norden i EU kan styrke regionens interesser i en verden preget av økt maktkamp.",
+        "summary": "Denne teksten er en meningsytring og en politisk vurdering som argumenterer for at Island befinner seg på et vesentlig vippepunkt i europeisk sammenheng. Forfatteren hevder at et samlet nordisk medlemskap i Den europeiske union vil kunne styrke både de nordiske landenes og Europas samlede posisjon og interesser i en internasjonal situasjon der rå maktpolitikk spiller en stadig større rolle. Innlegget representerer en subjektiv analyse av geopolitiske utviklingstrekk og fremmer et bestemt syn på regionalt samarbeid og integrasjon, heller enn å være en nøytral nyhetsrapport. Det blir pekt på at verden er i endring, og at tradisjonelle samarbeidsformer kan trenge en oppdatering for å møte fremtidens sikkerhets- og handelspolitiske utfordringer. Vurderingen retter søkelyset mot Islands spesifikke rolle og plass i dette større europeiske bildet, og teksten oppfordrer til dypere refleksjon rundt verdien av tettere europeisk fellesskap for de nordiske nasjonene i årene som kommer.",
+        "content_type": "kronikk",
+        "content_group": "kommentar_debatt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innlegg/island/eu/eu-debatt/island-pa-europas-vippepunkt/2-1-2033180",
+            "title": "Island på Europas vippepunkt",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "6936129ff1badd97",
+        "continued_from": null,
+        "headline": "Ukraina: Russland tester KI-droner som velger mål",
+        "ingress": "En russisk drone som drepte tre ukrainere, ble angivelig styrt av kunstig intelligens.",
+        "summary": "Ukrainske myndigheter hevder, ifølge opplysninger som først ble omtalt av The New York Times, at Russland har tatt i bruk ny teknologi i form av droner styrt av kunstig intelligens. Ifølge disse rapportene ble en slik KI-drevet drone benyttet i et angrep i sommer, der tre ukrainske statsborgere miste livet. Dronen skal ha blitt styrt fullstendig av kunstig intelligens og selv hatt evnen til å velge sine mål under operasjonen. Dette blir av ukrainske kilder beskrevet som en skremmende og ny utvikling i krigføringen, hvor autonome systemer i større grad tas i bruk for å gjennomføre angrep uten direkte menneskelig styring i alle levekampfaser. Opplysningene er basert på ukrainske vurderinger og etterretningsfunn som er formidlet til internasjonale medier, og de understreker en bekymring for at teknologikappløpet på droneområdet beveger seg raskt mot mer avanserte og uforutsigbare kampsystemer. Norske medier har videreformidlet disse påstandene som en del av dekningen av den teknologiske utviklingen i krigen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/QJ3kxA/russland-tester-fullstendig-ki-styrte-angrepsdroner-mener-ukraina",
+            "title": "Ukraina: Russland tester AI-droner som selv velger mål",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/wr0j8n/russland-tester-fullstendig-ki-styrte-angrepsdroner-mener-ukraina",
+            "title": "Gjorde skremmende funn i russisk drone",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19158113",
+            "title": "Hevder Russland har tatt nytt KI-grep",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "84a173a0964507f2",
+        "continued_from": null,
+        "headline": "Regjeringen vurderer å lovpålegge husforsikring etter storbrann",
+        "ingress": "Justisdepartementet ser på muligheten for lovpålagt husforsikring etter storbrannen i Krokstadelva.",
+        "summary": "Justis- og beredskapsdepartementet vurderer om det skal innføres en lovpålagt plikt for huseiere til å forsikre egen bolig. Initiativet kommer i kjølvannet av den dramatiske storbrannen i Krokstadelva utenfor Drammen den 17. juli, der totalt 116 boliger gikk tapt. Ifølge Finans Norge manglet to av boligeierne i området husforsikring. Departementet har i den forbindelse avholdt møter med sentrale aktører som Finans Norge og Huseierne for å undersøke mulige regelendringer. Samtidig er det møtt med skepsis. Kommunikasjonsrådgiver Andreas Bondevik understreker at spørsmålet reiser en rekke problemstillinger som må utredes nøye, inkludert om andre tiltak kan være bedre egnet. Organisasjonen Huseierne, representert ved Carsten Pihl, uttrykker klar motstand og kaller en lovfesting en dårlig idé. Også Finans Norge peker på praktiske utfordringer knyttet til et eventuelt kontroll- og sanksjonsapparat. Som et alternativ vurderer forsikringsnæringen en løsning der data fra Kartverket og forsikringsselskapene benyttes for å avdekke uforsikrede boliger og varsle eierne direkte.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/regjeringen-vurderer-lovpalagt-husforsikring-1.18000301",
+            "title": "Regjeringen vurderer lovpålagt husforsikring",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/okonomi/i/lnl567/regjeringen-vurderer-lovpaalagt-husforsikring",
+            "title": "Regjeringen vurderer lovpålagt husforsikring",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 42,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
