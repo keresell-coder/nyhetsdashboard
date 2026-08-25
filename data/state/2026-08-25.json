@@ -273,5 +273,446 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "e372757485a8336c",
+        "continued_from": null,
+        "headline": "Amerikansk militærfly landet uventet i Moskva",
+        "ingress": "Et amerikansk militærfly fløy fra Riga til Moskva tirsdag morgen.",
+        "summary": "Tirsdag morgen tok et transportfly tilhørende det amerikanske militæret, av typen Boeing C-17A, av fra Riga i Latvia og satte kursen østover mot Russlands hovedstad. Litt over en time etter avgang landet flyet ved Vnukovo-flyplassen i Moskva, noe som ble bekreftet gjennom åpne flydata fra tjenesten Flightradar24. Hendelsen har vakt oppmerksomhet ettersom flygningen framstår som uvanlig i den rådende sikkerhetssituasjonen. Kreml har imidlertid uttalt at de ikke sitter på noen informasjon om den spesifikke flygningen, ifølge opplysninger fra nyhetsbyrået Reuters. Det foreligger på tidspunktet for rapporten ingen bekreftede offisielle forklaringer fra amerikanske myndigheter på hvorfor transportflyet befant seg i Moskva. Situasjonen er foreløpig preget av knappe offisielle kommentarer og åpne data som eneste primærkilde til selve flyreisen. Analytikere vil trolig avvente ytterligere informasjon før man kan vurdere om dette dreier seg om rutinepreget diplomatisk eller militær logistikk, eller om det ligger andre årsaker bak landingen. Det er slått fast at flyet krysset grensen og landet, men detaljer rundt last eller eventuelle passasjerer om bord er ikke kjent gjennom åpne kilder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/amerikansk-militaerfly-landet-i-moskva-1.18000780",
+            "title": "Amerikansk militærfly landet i Moskva",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "45367d6ccd5c26e3",
+        "continued_from": null,
+        "headline": "Barn kritisk skadd etter påkjørsel på parkeringsplass i Sandefjord",
+        "ingress": "Et barn ble påkjørt av en bil på en parkeringsplass i Sandefjord.",
+        "summary": "Et barn ble tirsdag involvert i en alvorlig ulykke da det ble påkjørt av en bil på en parkeringsplass tilknyttet et kjøpesenter i Sandefjord. Hendelsen utløste en stor utrykning med nødetater til stedet. Politiet og helsepersonell rykket ut, og det ble raskt klart at situasjonen var svært alvorlig for den unge gutten som ble rammet. Ifølge opplysninger fra operasjonsleder Espen Reite i politiet ble barnet betegnet som kritisk skadd etter ulykken. Barnets foresatte var til stede på ulykkesstedet da hendelsen fant sted, og ble ivaretatt. Etter å ha blitt behandlet og stabilisert på stedet med ambulanse, ble den kritisk skadde gutten hastefraktet videre til Ullevål sykehus for å motta intensiv og spesialiserte helsetjenester. Politiet startet umiddelbart etterforskning og undersøkelser på stedet for å avklare de nøyaktige omstendighetene rundt påkjørselen. Som en del av den rutinemessige oppfølgingen etter alvorlige trafikkulykker, har bilens fører fått sitt førerkort midlertidig beslaglagt av politiet mens etterforskningen pågår. Det foreligger foreløpig ikke ytterligere opplysninger om barnets tilstand utover at den betegnes som kritisk, eller detaljer om hendelsesforløpet utover at det skjedde på en kjøpesenterparkering.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/vestfoldogtelemark/et-barn-kritisk-skadd-etter-a-ha-blitt-pakjort-av-bil-1.18001255",
+            "title": "Et barn kritisk skadd etter å ha blitt påkjørt av bil",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/V6eE4d/barn-kritisk-skadet-etter-paakjoersel-i-sandefjord",
+            "title": "Barn kritisk skadet etter påkjørsel i Sandefjord",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/5pO2Gz/barn-paakjoert-av-bil-i-sandefjord-kritisk-skadet",
+            "title": "Barn påkjørt – kritisk skadet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19160100",
+            "title": "Barn kritisk skadd etter påkjørsel",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/barn-kritisk-skadet-etter-pakjorsel-i-sandefjord/s/5-95-3211941",
+            "title": "Barn kritisk skadet etter påkjørsel i Sandefjord",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bd211b822b200f72",
+        "continued_from": null,
+        "headline": "Full oljestrid om nye letemuligheter i Nordland 6",
+        "ingress": "Oljebransjen krever leting i omstridte Nordland 6, noe som skaper debatt.",
+        "summary": "En samlet norsk olje- og gassnæring, i fellesskap med LO og aktører som Offshore Norge, presser nå på for å få åpnet opp det politisk betente og omstridte området Nordland 6 for olje- og gassleting. Fra næringens side argumenteres det for at dette er det raskeste sporet for å skaffe mer gass til energitrstrengende europeiske markeder, og det lokkes samtidig med utsikter til et stort gassfunn i regionen. Dette initiativet har umiddelbart vakt sterke politiske reaksjoner og debatt på Stortinget. Høyre uttrykker stor glede over at bransjen ønsker å undersøke disse havområdene, mens Fremskrittspartiet går enda lenger og krever at et enda større areal blir åpnet for petroleumsvirksomhet. På den andre siden av det politiske spekteret møter utspillet kraftig motbør. Miljøpartiet De Grønne (MDG) er blant dem som reagerer skarpt på kravet, og betegner situasjonen og kravene som patetiske. Dette viser at saken har potensial til å blusse opp til en ny og opphetet norsk oljestrid mellom på den ene siden industrien og borgerlige partier som ønsker utvidet leting, og på den andre siden miljøpartier som advarer mot konsekvensene av å åpne nye sårbare havområder nær Lofoten. Debatten bærer preg av sterke interessekonflikter der økonomiske og energipolitiske hensyn står mot miljø- og klimaperspektiver.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/energi/nytt-forslag-om-a-apne-politisk-betente-nordland-vi-ga-i-gang/2-1-2033910",
+            "title": "Nytt forslag om å åpne politisk betente Nordland VI: – Gå i gang",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/m0yJLO/vil-lete-i-nordland-6-eier-ingen-skam?utm_medium=rss",
+            "title": "Vil lete i Nordland 6: – Eier ingen skam",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/43XPPq/kan-bli-ny-oljestrid-vil-lete-utenfor-roest?utm_medium=rss",
+            "title": "Kan bli ny oljestrid",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/Wveraa/vil-lete-i-nordland-6-eier-ingen-skam",
+            "title": "Vil lete i Nordland 6: – Eier ingen skam",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/OkeM6k/kan-bli-ny-oljestrid-vil-lete-utenfor-roest",
+            "title": "Kan bli ny oljestrid",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/m0yJLO",
+            "title": "Vil lete i omstridte Nordland 6: – Eier ingen skam",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19159770",
+            "title": "Samlet oljebransje krever boring nær Lofoten",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1eb6276603d45569",
+        "continued_from": null,
+        "headline": "Vil ha forbud mot ansiktsgjenkjenning i KI-briller",
+        "ingress": "Digitaliseringsministeren vil vurdere forbud mot ansiktsgjenkjenning i Meta-briller.",
+        "summary": "Digitaliseringsminister Karianne Tung uttaler til medier at hun nå vil vurdere å innføre et forbud mot ansiktsgjenkjenningsfunksjonen i smartbriller utstyrt med kunstig intelligens og innebygd filmefunksjon, slik som produktene utviklet av teknologigiganten Meta. Statsråden tar dermed til orde for en betydelig strengere regulering og klarere retningslinjer for hvordan smartbriller og annet bærbart forbrukerutstyr kan samle inn data. Bakgrunnen for bekymringen er at ny teknologi som kombinerer kunstig intelligens, mikrofoner og kameraer i hverdagsgjenstander som briller, ørepropper og capser, legger til rette for skjult filming og massiv innsamling av privat informasjon om innbyggerne. Dette utspillet markerer en viss kursendring eller nyansering fra ministerens tidligere uttalelser. Så sent som i sommer uttalte hun til Klassekampen at norske myndigheter «ikke kan forby alt vi ikke liker» i forbindelse med spørsmål om et potensielt brilleforbud. Diskusjonen aktualiseres av at amerikanske medier tidligere i år kunne avsløre at Meta har arbeidet aktivt med å utvikle nettopp en funksjon for ansiktsgjenkjenning beregnet på sine smartbriller. Saken illustrerer økende politisk bekymring rundt personvern og teknologi, hvor det vurderes hvor grensene skal gå for overvking og datainnsamling fra forbrukerelektronikk.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/digitaliseringsministeren-vil-forby-ansiktsgjenkjenning-i-ki-briller-1.18000958",
+            "title": "Digitaliseringsministeren vil forby ansiktsgjenkjenning i KI-briller",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "23537c534d14ef96",
+        "continued_from": null,
+        "headline": "Svensk fond velger å droppe Elon Musks SpaceX",
+        "ingress": "Manglende rutiner for ulovlig innhold oppgis som årsak.",
+        "summary": "Et svensk fond har tatt beslutningen om å avslutte sitt engasjement og trekke seg ut fra romfartsselskapet SpaceX, som ledes av Elon Musk. Årsaken som oppgis for denne exiten er at selskapet mangler tilstrekkelige interne rutiner og kontrollmekanismer for å stanse ulovlig innhold. Denne vurderingen gjenspeiler en økende bevissthet blant institusjonelle investorer rundt etiske retningslinjer og plattformansvar hos teknologiselskaper de velger å plassere kapital i. Det foreløpig knappe nyhetsbildet rundt denne saken gir ikke detaljer om nøyaktig hvilke fond det gjelder eller det finansielle omfanget av nedsalget, men det illustrerer en bredere tendens der finansaktører i Skandinavia stiller strengere krav til selskaper de investerer i, særlig når det gjelder moderering og overholdelse av regelverk knyttet til ulovlig materiale på tvers av digitale plattformer og tilknyttede tjenester.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/bOaVav/svensk-fond-dropper-spacex?utm_medium=rss",
+            "title": "Svensk fond dropper SpaceX",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "099eda21a4b340c9",
+        "continued_from": null,
+        "headline": "Manchester United henter midtbanespilleren Carlos Baleba fra Brighton",
+        "ingress": "Carlos Baleba er klar for overgang til Manchester United.",
+        "summary": "Den 22 år gamle midtbanespilleren Carlos Baleba har skiftet klubb og er nå klar for en overgang til storklubben Manchester United. Spilleren har fram til nå vært under kontrakt med ligarivalen Brighton, hvor han har gjort seg bemerket med gode prestasjoner på midtbanen. Det opplyses fra kilder at overgangen innebærer betydelige økonomiske utbetalinger, og at Brighton angivelig mottar svært gode penger for salget av den unge midtbanemannen. Dette kjøpet inngår i Manchester Uniteds sportslige arbeid med å forsterke stallen og tilføre ny kraft på midtbanen for kommende kamper og sesonger. Overgangen bekrefter den sterke økonomiske aktiviteten i engelsk fotball, der spillere fra mellomstore klubber ofte hentes til toppklubbene for store summer når de viser høyt potensial. Det gjenstår å se hvordan Baleba tilpasser seg sin nye tilværelse på Old Trafford og hvilken rolle han blir tiltenkt under manageren i Manchester United, men forventningene fra klubbens hold er tradisjonelt høye ved slike investeringer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/3pX2VA/manchester-united-kjoeper-midtbanestjernen-carlos-baleba-fra-brighton",
+            "title": "Manchester United kjøper midtbanestjernen Carlos Baleba fra Brighton",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ebd18122e2d152e3",
+        "continued_from": null,
+        "headline": "Lørenskog-siktet varetektsfengslet i narkotikasak",
+        "ingress": "En mann i 50-årene, siktet i Lørenskog-saken, er varetektsfengslet i fire uker for en grov narkotikasak.",
+        "summary": "En mann i 50-årene som er siktet i forbindelse med forsvinningen til Anne-Elisabeth Hagen i Lørenskog i 2018, er av Oslo tingrett varetektsfengslet i fire uker i en separat narkotikasak. Dette fremgår av en fersk kjennelse fra retten. Ifølge politiet har de to sakene ingen tilknytning til hverandre. Mannen ble pågrepet i en planlagt aksjon etter et narkotikabeslag i Norge i mars, og han ble automatisk siktet i Lørenskog-saken etter å ha blitt informert om at han hadde vært under hemmelig etterforskning. Det er bekreftet at narkotikasaken gjelder en stor mengde beslaglagt narkotika. Siktede nekter straffskyld i narkotikasaken og avviser enhver befatning med forsvinningen til Anne-Elisabeth Hagen. Siktelsen i Lørenskog-saken er foreløpig ikke nærmere spesifisert av politiet. Forsvareren har uttalt seg om sakens alvorlighetsgrad. Det presiseres at sakene formelt behandles separat av rettssystemet, og at mannen stiller seg uforstående til anklagene som rettes mot ham på begge fronter. Politiet fortsetter sin etterforskning for å avklare alle omstendigheter rundt narkotikabeslaget og den mulige koblingen til den tidligere etterforskningen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/lorenskog-siktet-fengsles-i-fire-uker-i-narkotikasak-1.18001429",
+            "title": "Lørenskog-siktet fengsles i fire uker i narkotikasak",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JOR0Lb/loerenskog-siktet-fengsles-i-fire-uker-i-narkosak",
+            "title": "NRK: Lørenskog-siktet fengsles i fire uker i narkosak",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19158896",
+            "title": "Lørenskog-siktet knyttes til beslag i mars – pågrepet i planlagt aksjon",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/lorenskog-siktet-fengsles-i-fire-uker-i-narkosak/s/80-95-10889",
+            "title": "Lørenskog-siktet fengsles i fire uker i narkosak",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7bd3942d317a3689",
+        "continued_from": null,
+        "headline": "Oppgang på Wall Street mens kjente investorer advarer",
+        "ingress": "Betydelig oppgang på Wall Street drevet av chipaksjer, samtidig som legendariske investorer kommer med kritiske markedskommentarer.",
+        "summary": "Aksjemarkedet på Wall Street opplever oppgang, der Nasdaq leder an hjulpet av sterke brikke- og chipaksjer. Utviklingen skjer dagen før Nvidia skal legge fram en etterlengtet oppdatering. Samtidig faller flere andre aksjer, deriblant enkelte forbruksaksjer som opplever markant nedgang. På den makroøkonomiske siden har investarlegenden Stanley Druckenmiller kommet med sterk kritikk av sin tidligere protegé Scott Bessent, spesielt knyttet til inngripende tiltak på obligasjonsmarkedet. Druckenmiller argumenterer i en kommentar til Wall Street Journal for at kunstig nedpressede renter fungerer som en subvention som bare skyter problemene ut i fremtiden, og slår fast at markedet må få snakke fritt. Denne typen markedsanalyser og ekspertuttalelser utgjør en vurdering av den økonomiske politikken, og skiller seg fra de faktiske børskursene som rapporteres fra handelssentrene. Det er bekreftet at teknologisektoren preger handelen positivt i forkant av de store rapportene, mens ekspertene er uenige om effekten av statlige og sentralbankmessige intervensjoner i finansmarkedene fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/wall-street/wall-street-i-pluss-chipaksjer-lofter-nasdaq/2-1-2033975",
+            "title": "Wall Street i pluss – chipaksjer løfter Nasdaq",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/2pXWLy/oppgang-paa-wall-street?utm_medium=rss",
+            "title": "Oppgang på Wall Street",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/live/wall-street-legendarens-kanga-till-bessent-lat-marknaden-tala/",
+            "title": "Wall Street-legendarens känga till Bessent: Låt marknaden tala",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "72b42a2ffaea1a02",
+        "continued_from": null,
+        "headline": "Digdir rammet av langvarig dataangrep",
+        "ingress": "Digitaliseringsdirektoratet utsettes for et pågående dataangrep som gir tidvis ustabilitet for ID-porten og Altinn.",
+        "summary": "Digitaliseringsdirektoratet (Digdir) er rammet av et dataangrep som har pågått siden natt til mandag. Ifølge direktoratets direktør Frode Danielsen jobbes det intensivt med å avgrense konsekvensene, og det er iverksatt tiltak som holder tjenestene oppe og tilgjengelige nesten kontinuerlig. Likevel kan brukerne oppleve noe ustabilitet i perioder. Angrepet har blant annet gjort det vanskelig for brukere å logge seg på sentrale fellesløsninger som ID-porten og Altinn. Digdir opplyser at dette er tredje gang på kort tid at en slik type angrep rettes mot deres systemer. Situasjonen betegnes som stabil til tross for det pågående angrepet, men ettersom hendelsen fremdeles pågår, er det knyttet usikkerhet til hvor lenge angrepet vil vedvare og hvilke langsiktige konsekvenser det kan få for den digitale infrastrukturen. Direktoratet overvåker situasjonen nøye og samarbeider med relevante aktører for å sikre systemene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/digdir_-jobbar-med-a-avgrense-dataangrep-1.18000931",
+            "title": "Digdir: Jobbar med å avgrense dataangrep",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f20b270f47fad53f",
+        "continued_from": null,
+        "headline": "Canada svarer USA med massiv toll på varer",
+        "ingress": "Canada svarer Donald Trumps tollgrep med å innføre straffetoll på over 700 amerikanske varer.",
+        "summary": "Handelskrigen mellom USA og Canada tilspisser seg etter at den canadiske regjeringen har besluttet å svare USAs varslede tollmurer med egne mot-tiltak. Canada innfører straffetoll på over 700 varer fra USA, der varer som stål, meieriprodukter, hvitevarer, golfkøller og trevirke rammes hardt. Tollsatsene på flere av disse varene økes kraftig, blant annet opp til 50 prosent. Finansminister François-Philippe Champagne har uttalt at landet matcher den amerikanske tollen dollar for dollar med virkning fra 8. september. Dette blir vurdert som en markant eskalering av handelskonflikten mellom de to nabolandene, hvor USAs president Donald Trumps opprinnelige planer om toll på canadiske kjøretøy og bildeler utløste det harde svaret fra Ottawa. Analytikere og observatører vurderer situasjonen som opprinnelsen til en potensielt ødeleggende handelskrig for begge parters industri og næringsliv. Det er bekreftet fra offisielt hold at tiltakene vil bli implementert som planlagt, og partene står foreløpig steilt mot hverandre uten at det er meldt om noen umiddelbare løsninger for å avverge den eskalerende handelssituasjonen mellom de nære handelspartnerne i Nord-Amerika.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/canada-svarer-usa-_-innforer-straffetoll-pa-over-700-varer-fra-usa-1.18001396",
+            "title": "Canada svarer USA – innfører straffetoll på over 700 varer fra USA",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/8p72EW/canada-svarer-usa-oeker-tollen-paa-flere-varer-til-50-prosent?utm_medium=rss",
+            "title": "Canada svarer USA: Øker tollen på flere varer til 50 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/k0ykQk/handelskrigen-med-usa-og-canada-blir-hardere",
+            "title": "Handelskrigen med USA og Canada blir hardere",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/7p42m8/canada-svarer-usa-oeker-tollen-paa-flere-varer-til-50-prosent",
+            "title": "Canada svarer USA: Øker tollen på flere varer til 50 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/8p72EW",
+            "title": "Svarer på Trumps grep – innfører kjempetoll",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19160164",
+            "title": "Carney svarer Trump – Canada innfører straffetoll på varer fra USA",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/canada-svarer-trump-innforer-straffetoll-pa-over-700-varer-fra-usa/s/5-95-3211944",
+            "title": "Canada svarer Trump – innfører straffetoll på over 700 varer fra USA",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 33,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
