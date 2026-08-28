@@ -1,0 +1,474 @@
+{
+  "date": "2026-08-28",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "694bb7a5794a6922",
+        "continued_from": null,
+        "headline": "Kong Haralds båre har ankommet Slottet",
+        "ingress": "Kong Haralds båre ble fredag ettermiddag fraktet fra Rikshospitalet til Slottet, fulgt av kongefamilien og tusenvis av sørgende.",
+        "summary": "Fredag ettermiddag ble avdøde kong Haralds båre fraktet fra Rikshospitalet til Slottet. Store folkemengder hadde samlet seg langs ruten og på Slottsplassen for å ta et siste farvel og hedre den avdøde monarken. Kongefamilien, inkludert dronning Sonja, kronprins Haakon og andre nære familiemedlemmer, fulgte kortesjen til Slottskapellet. Politiet var tungt til stede for å ivareta sikkerheten under de store folkemengdene i hovedstaden. Politiet og Nasjonal sikkerhetsmyndighet minnet samtidig om at det gjelder strenge droneforbud i Oslo sentrum i forbindelse med markeringene. Riksregaliene, som kongekronen, rikssverdet, septeret og rikseplet, er brakt fra Trondheim til Oslo og vil bli plassert på kisten. Kong Haralds bortgang har utløst dyp sorg og reaksjoner over hele landet fra både næringslivstoppe, idrettsprofiler og politikere, deriblant statsminister Jonas Gahr Støre. Samfunnet preges av den nasjonale sørgeperioden, og det er åpnet kondolanseprotokoller flere steder i landet. Med kong Haralds død overtar kronprins Haakon tronen under navnet kong Haakon VIII. Kongehuseksperter peker på at dette markerer slutten på en historisk epoke for Norge, og at den nye kongefamilien står overfor andre typer utfordringer i en tid i endring.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kong-harald-si-bare-har-kome-til-slottet-1.18006622",
+            "title": "Kong Harald si båre har kome til Slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kong-haralds-bare-er-pa-vei-til-slottet-1.18006592",
+            "title": "Kong Haralds båre er på vei til Slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/hoiby-har-kommet-til-slottet-1.18006589",
+            "title": "Høiby har kommet til Slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongen-og-kronprinsessen-ved-kapellet-pa-rikshospitalet-1.18006577",
+            "title": "Kongen og kronprinsessen ved kapellet på Rikshospitalet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/tusener-til-slottsplassen-for-a-hedre-kong-harald-1.18006524",
+            "title": "Tusener til Slottsplassen for å hedre kong Harald",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/riksregaliene-er-pa-plass-i-oslo_-opplyser-politiet-til-aftenposten-1.18006486",
+            "title": "Riksregaliene er på plass i Oslo, opplyser politiet til Aftenposten",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/muslimske-ledere-la-ned-blomster-pa-slottsplassen-1.18006472",
+            "title": "Muslimske ledere la ned blomster på Slottsplassen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/magnus-carlsen-minnes-kong-harald-1.18006430",
+            "title": "Magnus Carlsen minnes kong Harald",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/magasinet/profil/kongehuset/kongen/det-kongelige-hoff/var-deg-selv-finn-din-egen-vei/2-1-2035122",
+            "title": "«Vær deg selv. Finn din egen vei»",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kommentar/en-nasjon-av-folelser/2-1-2035902",
+            "title": "En nasjon av følelser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/slik-satte-kong-harald-norge-pa-kartet/2-1-2035907",
+            "title": "Slik satte kong Harald Norge på kartet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/video/m/Rhzcgvor/han-har-alltid-visst-at-denne-dagen-skulle-komme?play=1",
+            "title": "Han har alltid visst at denne dagen skulle komme",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/rigg/norske-skip-over-hele-verden-hedrer-kong-harald/2-1-2035974",
+            "title": "Norske skip over hele verden hedrer kong Harald",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/rrbAJm/dnb-ber-ansatte-ta-vare-paa-hverandre?utm_medium=rss",
+            "title": "DNB ber ansatte ta vare på hverandre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/7pQdG9/kong-harald-er-doed-stoere-uttaler-seg?utm_medium=rss",
+            "title": "Kong Haakon VIII: «Alt for Norge»",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/GxqQ6x/et-langt-kapittel-i-norsk-historie-er-over?utm_medium=rss",
+            "title": "Et langt kapittel i norsk historie er over",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/d4b3eA/naeringslivets-konge?utm_medium=rss",
+            "title": "Næringslivets konge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/aJpwK7/kongens-jaktkompis-eivind-reiten-en-flott-person-som-det-er-tungt-aa-miste?utm_medium=rss",
+            "title": "Kongens jaktkompis Eivind Reiten: – En flott person som det er tungt å miste",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/430q3e/kong-harald-er-doed-her-flagger-boersen-paa-halv-stang?utm_medium=rss",
+            "title": "Kong Harald er død: Her flagger Børsen på halv stang",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/XMpgJm/hva-skjer-naar-kongen-doer?utm_medium=rss",
+            "title": "Kong Harald er død: Dette skjer nå",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/k0bJEv/viet-hele-livet-sitt-til-oss?utm_medium=rss",
+            "title": "– Viet hele livet sitt til oss",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/d4pOd1/aker-topp-om-kongens-bortgang-rex-faktor?utm_medium=rss",
+            "title": "Næringslivet minnes kong Harald: – Fylles med takknemlighet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/m0yAV1/kong-harald-gjorde-grunnmuren-sterkere?utm_medium=rss",
+            "title": "Kong Harald gjorde grunnmuren sterkere",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/Oke4xV/kongen-er-doed?utm_medium=rss",
+            "title": "Kongen er død",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/q6beBm/baaren-har-ankommet-slottet-dette-skjer-naa",
+            "title": "Båren har ankommet slottet: Dette skjer nå",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/JOq3rJ/se-bildene-fra-kortesjen",
+            "title": "Se bildene fra kortesjen:",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/L4qmAR/kong-harald-baare-har-ankommet-slottet",
+            "title": "Kong Harald båre har ankommet slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/bOoj9e/kong-harald-er-doed-her-baeres-kisten-inn-i-bilen",
+            "title": "Kong Harald er død: Her bæres kisten inn i bilen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/5pwokW/kong-haralds-baare-foeres-mot-slottet",
+            "title": "Kong Haralds båre føres mot slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/xrbVwj/nrk-hoeiby-har-ankommet-slottet",
+            "title": "NRK: Høiby har ankommet slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/gkBrw0/blomsterhav-i-bergen",
+            "title": "Blomsterhav i Bergen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/ExqB62/venter-paa-baaren-ved-slottet",
+            "title": "Venter på båren ved Slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/j0bwpb/kronjuvelene-er-paa-plass-i-oslo",
+            "title": "Kronjuvelene er på plass i Oslo",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/meninger/kommentar/i/q6b13e/nordmenn-som-soerger",
+            "title": "De som sørger nå, utgjør bredden av det Norge er i dag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/rrbpr3/kong-haralds-baare-fraktes-fra-rikshospitalet-til-slottet",
+            "title": "Tusenvis fulgte kong Harald hjem",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/historie/i/5pwWxz/kong-harald-historien-om-kronregaliene",
+            "title": "De er selve symbolet på kongeriket",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/M7qR1m/kong-haralds-private-venner-aapner-opp-om-seiling-og-jaktturer-han-var-en-av-gutta",
+            "title": "– Vi hadde planlagt jakter i høst. Han ville holde det gående til det tok slutt.",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=123797",
+            "title": "Riksregaliene er på plass i Oslo",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19172451",
+            "title": "– Håper den kan være trøstende for mange",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19171620",
+            "title": "Disse stenger ned og disse holder åpent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19172644",
+            "title": "Båren har ankommet slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19172531",
+            "title": "Politiet: Forberedt på at hele Slottplassen fylles opp",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19171946",
+            "title": "Lange køer for å gi en siste hilsen til kong Harald: – Vakkert",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19170732",
+            "title": "Fjernet reklamen: – En verdig hyllest",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19166385",
+            "title": "Kommunene kong Harald ikke fikk besøkt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19171511",
+            "title": "Støre om kong Harald: – Han stod på til siste slutt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19170447",
+            "title": "Dette er hennes nye rolle",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19170277",
+            "title": "Ekspert: – Slutten på en helt spesiell epoke",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19169650",
+            "title": "«Gutta på tur» minnes kong Harald: – Han var en av guttene",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19169870",
+            "title": "Nasjonal sørgeperiode: Dette skjer nå",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19162432",
+            "title": "Dette lurer folk på nå – her er svaret",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/direkte-kong-harald-fraktes-slottet/v/80-95-38879",
+            "title": "DIREKTE: Kong Harald fraktes til Slottet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/riksregaliene-er-pa-plass-i-oslo/s/80-95-38891",
+            "title": "Riksregaliene er på plass i Oslo",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 7,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "52f1cda3cf98fd26",
+        "continued_from": null,
+        "headline": "Norsk maktdemonstrasjon og etappeseier i Spania rundt",
+        "ingress": "Andreas Leknessund vant den sjuende etappen av Vuelta a España på en dag preget av markering for kong Haralds bortgang.",
+        "summary": "Den sjuende etappen av Vuelta a España ble en historisk norsk triumf, preget av dyp sorg og respekt. Før start ble det avholdt ett minutts stillhet for å hedre avdøde kong Harald, hvor de sju norske syklistene sto fremst i feltet med svarte sørgebånd. Da etappen startet, fant det norske Uno-X Mobility-laget frem kjempekreftene. Rundt sju kilometer før målgang på Aramón Valdelinares rykket Andreas Leknessund fra sine fire bruddkompanjonger og sikret en suveren seier. Bak ham fulgte belgiske Wout Van Aert og lagkamerat Tobias Halland Johannessen, som sørget for en sensasjonell dobbelt norsk plassering på etappen. Seieren ble av eksperter og syklister beskrevet som svært spesiell og emosjonell, gitt omstendighetene med kongens bortgang. Med denne triumfen har Uno-X oppnådd etappeseire i alle de tre største Grand Tour-rittene denne sesongen, noe som markerer et historisk høydepunkt for norsk sykkelsport. Sist en nordmann vant en etappe i Spania rundt var Thor Hushovd i 2010, noe som understreker prestasjonens størrelse.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/sport/norsk-maktdemonstrasjon-i-spania-rundt-_-kong-harald-ble-hedret-for-etappen-1.18005529",
+            "title": "Norsk maktdemonstrasjon i Spania rundt – kong Harald ble hedret før etappen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/uno-x-rytter-andreas-leknessund-med-etappeseier-i-vueltaen-kong-harald-ble-hedret-for-start/s/5-95-3213793",
+            "title": "Hedret kong Harald før start",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7eceefffeeaf9e99",
+        "continued_from": null,
+        "headline": "Rapporter fastslår brudd på menneskerettighetene på Grønland",
+        "ingress": "Tvangssterilisering av kvinner på Grønland på 1960- og 70-tallet var menneskerettsbrudd, ifølge nye rapporter.",
+        "summary": "To nylig publiserte rapporter konkluderer med at tvangssteriliseringen av kvinner på Grønland på 1960- og 70-tallet var et brudd på menneskerettighetene. Samtidig slår rapportene fast at handlingene ikke defineres som folkemord. Undersøkelsene ble lagt fram på en pressekonferanse etter å ha blitt bestilt i 2024 av den daværende regjeringen i Nuuk. Dokumentasjonen viser at mellom 1966 og 1991 fikk minst 4.000 grønlandske jenter og kvinner satt inn spiral eller gitt prevensjonssprøytemidler uten eget samtykke. Tidligere gransking har avdekket at formålet med denne omfattende spiralkampanjen var å redusere fødselstallene i befolkningen. Saken har vakt sterke reaksjoner, og det ble i fjor vedtatt av Danmark at det skal utbetales en erstatning på 300.000 danske kroner til hver av de berørte kvinnene som ble utsatt for disse inngrepene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/rapporter_-tvangssterilisering-pa-gronland-var-brudd-pa-menneskerettigheter-1.18006402",
+            "title": "Rapporter: Tvangssterilisering på Grønland var brudd på menneskerettigheter",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 15,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
