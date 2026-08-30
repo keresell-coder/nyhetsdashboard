@@ -569,5 +569,375 @@
       "dropped_count": 35,
       "drop_reasons": []
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "56cf63e89472531f",
+        "continued_from": null,
+        "headline": "Kongefamilien deltok på sørgegudstjeneste i Asker",
+        "ingress": "Familien samlet seg for å minnes kong Harald.",
+        "summary": "Kongefamilien ankom søndag Asker kirke for å delta på en offisiell sørgegudstjeneste i forbindelse med kong Haralds bortgang. Til stede var blant andre kong Haakon, dronning Sonja, kronprinsesse Ingrid Alexandra og prins Sverre Magnus. Kirken var stappfull av sørgende, og mange fremmøtte fikk ikke plass ettersom køen utenfor var lang. Under gudstjenesten ble det bedt for den nye kongefamilien, og det ble uttrykt håp om samhold i en vanskelig tid. Etter seremonien forlot kongefamilien kirken like etter klokken 12 og takket prestene som stod utenfor. Det ble i tillegg rapportert om varme møter mellom sørgende og kongehusets medlemmer, der dronning Sonja blant annet ble møtt med kondolanser og en klem av en oppmøtt. Til tross for at store deler av kongefamilien var til stede, ble det observert at det ikke var noen tegn til prinsesse Märtha Louise under gudstjenesten. Mediene rapporterte bredt om det folkelige engasjementet og den sterke sorgen som preget lokalsamfunnet og landet for øvrig denne søndagen, hvor nasjonen samlet seg for å vise sin medfølelse og ta et verdig farvel med den avdøde kongen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongefamilien-har-forlatt-asker-kirke-1.18007938",
+            "title": "Kongefamilien har forlatt Asker kirke",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongefamilien-pa-plass-ved-asker-kirke-1.18007884",
+            "title": "Kongefamilien på plass ved Asker kirke",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/kong-harald/kong-haakon/kongehuset/asker-kirke-ba-for-kongefamilien-hjelp-oss-a-ta-vare-pa-hverandre/2-1-2036498",
+            "title": "Asker kirke ba for kongefamilien: – Hjelp oss å ta vare på hverandre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/kong-harald/kongehuset/kongefamilien-pa-plass-pa-sorgegudstjeneste-i-asker/2-1-2036447",
+            "title": "Kongefamilien på plass på sørgegudstjeneste i Asker",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124298",
+            "title": "Kongefamilien deltok på sørgegudstjeneste i Asker kirke – ingen tegn til prinsesse Märtha Louise",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19176263",
+            "title": "Ga dronning Sonja en klem: – Hva skal man si når noen akkurat har blitt enke?",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7b8dfabf57f256bb",
+        "continued_from": null,
+        "headline": "Kunstig intelligens endrer arbeidslivet og kompetansekampen",
+        "ingress": "Virksomheter må se ferdigheter utover tradisjonelle stillingstitler.",
+        "summary": "Kommentarer og analyser knyttet til fremtidens arbeidsliv peker på at kunstig intelligens er i ferd med å endre måten vi arbeider på i bunn og grunn. Samtidig hardner kampen om den rette kompetansen til i næringslivet. Eksperter og meningsbærere fremhever i denne debatten at tradisjonelle stillingstitler ikke lenger strekker til for å beskrive hva en moderne medarbeider faktisk kan bidra med. Virksomheter og ledere oppfordres derfor til å bli flinkere til å avdekke skjulte ferdigheter og bredere kompetanse hos sine ansatte, illustrert gjennom spørsmål knyttet til hvor godt man egentlig kjenner sine kolleger. Denne typen innhold må betraktes som vurderinger og debattinnlegg heller enn nøytral nyhetsrapportering, ettersom de retter et kritisk blikk mot fremtidige organisasjonsstrukturer og HR-strategier. Analysene advarer om at bedrifter som ikke klarer å tilpasse seg denne nye virkeligheten, vil risikere å tape konkurransen om de beste hodene i en tid der teknologi og automatisering setter standarden for arbeidsmarkedets utvikling.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/karriere-og-ledelse/i/2pXE3G/kjenner-du-egentlig-din-kollega-lise?utm_medium=rss",
+            "title": "Kjenner du egentlig din kollega Lise?",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/zObaQO/kjenner-du-egentlig-din-kollega-lise",
+            "title": "Kjenner du egentlig din kollega Lise?",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/2pXE3G",
+            "title": "Kjenner du egentlig din kollega Lise?",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "02701fa2b9d84bb5",
+        "continued_from": null,
+        "headline": "Island sier nei til å gjenoppta EU-forhandlinger",
+        "ingress": "Folkeavstemning og regjeringen bekrefter at prosessen stopper opp.",
+        "summary": "Søndag formiddag ble det klart at den islandske befolkningen sier nei til å gjenoppta forhandlingene om et eventuelt medlemskap i Den europeiske union. Resultatet, som ble kjent søndag morgen etter det som ble beskrevet som en politisk thriller, betyr at prosessen settes på pause eller avvises for øyeblikket. Den islandske regjeringen har i etterkant varslet at de vil avholde en pressekonferanse for å redegjøre for den videre politiske veien og hva utfallet vil bety for landets fremtidige relasjoner til EU. Foreløpige bekreftelser fra rikskringkasteren RÚV slår fast at nei-siden har vunnet frem i denne runden av debatten, noe som viser at skepsisen til medlemskap fremdeles står sterkt blant velgerne på Island. Analytikere peker på at dette var et omstridt tema som engasjerte sterkt, og regjeringens oppfølging vil bli fulgt nøye av både nasjonale og internasjonale aktører i tiden fremover for å forstå de fulle konsekvensene av beslutningen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/aJp6XL/folkeavstemning-om-eu-paa-island-resultatet?utm_medium=rss",
+            "title": "RUV: Island sier nei til EU-forhandlinger",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/430MXR/den-islandske-regjeringen-varsler-pressekonferanse-om-veien-videre",
+            "title": "Den islandske regjeringen varsler pressekonferanse om veien videre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19176040",
+            "title": "Rúv: Island sier nei til EU-forhandlinger",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0d688712cfe13433",
+        "continued_from": null,
+        "headline": "Passasjerferge synker utenfor Kypros med 270 om bord",
+        "ingress": "Redningsaksjon pågår etter at båt fikk problemer i dårlig vær.",
+        "summary": "En passasjerferge med rundt 270 personer om bord har kantret og er i ferd med å synke nord for Kypros. Ulykken skjedde kort tid etter avgang, omtrent to kilometer nord for kysten av Kyrenia. Ifølge rapporter fra tyrkisk-kypriotiske medier og lokale myndigheter begynte skipet å ta inn vann i baugen, og ordføreren i Kyrenia har bekreftet at situasjonen er svært alvorlig. Det skal ha vært dårlig vær i området i forkant av forliset, noe som kan ha bidratt til dramatikken. En storstilt søk- og redningsaksjon ble umiddelbart satt i gang, og redningsmannskaper rykket ut til havaristedet. Foreløpige tall og meldinger fra kilder som Hurriyet og lokale myndigheter tyder på at et betydelig antall personer, rundt 159 til 160 passasjerer, er blitt reddet opp av vannet og fraktet i land i sikkerhet. Samtidig melder enkelte medier om frykt for at flere kan ha omkommet i ulykken, selv om det endelige omfanget av tilskadekomne og savnede fremdeles ikke er fullt ut avklart. Bilder og øyenvitneskildringer fra stedet har vist folk som klamrer seg til den synkende båten mens redningsarbeidet pågikk for fullt. Myndighetene og redningstjenestene arbeider fremdeles på spreng i området for å gjøre helhetlig rede for alle om bord og bistå overlevende etter det dramatiske forliset.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/passasjerferge-med-270-om-bord-synker-utenfor-kypros-1.18008024",
+            "title": "Passasjerferge med 270 om bord synker utenfor Kypros",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/d4pyGX/passasjerbaat-med-270-personer-om-bord-har-sunket-utenfor-kypros",
+            "title": "Passasjerbåt med 268 personer om bord har kantret utenfor Kypros",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/JOqjpj/passasjerbaat-med-rundt-267-personer-om-bord-har-kantret-utenfor-kypros",
+            "title": "270 skal være ombord: Her klamrer folk seg til den synkende hurtigbåten",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19177117",
+            "title": "Kypros: Ferje med over 200 kantret – flere omkommet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/passasjerbat-med-270-personer-om-bord-har-sunket-utenfor-kypros/s/80-95-41606",
+            "title": "Passasjerbåt med 270 personer om bord har kantret utenfor Kypros",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c401b04a012d66e5",
+        "continued_from": null,
+        "headline": "Michael Owen kritiserer Liverpools prestasjoner",
+        "ingress": "Tidligere stjernespiller reagerer kraftig på det han ser.",
+        "summary": "I et intervju med VG uttrykker tidligere Liverpool-spiller og Gullballen-vinner Michael Owen sterk bekymring for klubbens sportslige situasjon. 46-åringen, som har en fortid som legendarisk spiss for Merseyside-klubben, uttaler at laget har falt fullstendig sammen. Kommentarene må betraktes som en personlig vurdering og meningsytring fra en profilert fotballekspert og tidligere spiller, snarere enn en objektiv nyhetsrapport. Owen legger ikke skjul på sin frustrasjon over det han opplever som en urovekkende sportslig utvikling, og hans uttalelser har vakt oppmerksomhet blant supportere og i sportsmedia. Slike synspunkter er vanlige i kjølvannet av svake resultater for storklubber, der tidligere profiler ofte inviteres til å analysere hva som svikter i laget. Kritikerne og ekspertene vil fortsette å debattere om Liverpool kan snu den negative trenden, eller om krisen vil vedvare gjennom resten av sesongen basert på de nylige prestasjonene på banen.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/rrboll/liverpools-sesongstart-michael-owen-er-for-sesongen",
+            "title": "Liverpools Gullballen-vinner til VG: - De har falt sammen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/V6p0oW/liverpools-gullballen-vinner-til-vg-de-har-falt-sammen",
+            "title": "Liverpools Gullballen-vinner til VG: - De har falt sammen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3f10070ce261710a",
+        "continued_from": null,
+        "headline": "Støre indikerer at kong Harald gravlegges i uke 37",
+        "ingress": "Statsministeren opplyser om tidspunktet for gravferden.",
+        "summary": "Statsminister Jonas Gahr Støre har i et intervju med NRK gitt en indikasjon på når kong Harald skal begraves. Ifølge Støre vil kongen bli stilt til hvile i uken etter neste, noe som tilsvarer uke 37. I tråd med etablert norsk kongelig tradisjon er det ventet at gravferdsfølget vil bevege seg fra Slottet og videre til Oslo domkirke, slik praksis har vært ved tidligere anledninger. Det endelige og siste hvilestedet for kongen blir i Det kongelige mausoleum, som ligger plassert under Akershus slottskirke. Disse opplysningene er videreformidlet av flere medier, deriblant Aftenposten og TV 2, som alle viser til Støres uttalelser til rikskringkastingen. Det understrekes at dette er en foreløpig indikasjon basert på statsministerens uttalelser, og de formelle detaljene rundt seremonien vil bli kunngjort offisielt i tråd med protokollen for kongelige gravferder i Norge.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/store-sier-kong-harald-skal-begraves-i-uke-37-1.18007979",
+            "title": "Støre sier kong Harald skal begraves i uke 37",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124300",
+            "title": "Støre om begravelsen: Indikerer uken etter neste",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19176892",
+            "title": "Støre: – Vi skal stede til hvile kongen i uken etter neste",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "03f617bd560bc4fc",
+        "continued_from": null,
+        "headline": "Ekspert advarer om hardere EU-linje etter islandsk nei",
+        "ingress": "Folkeavstemningen på Island kan føre til et tøffere klima fra EU.",
+        "summary": "Etter at nei-siden gikk seirende ut av folkeavstemningen på Island, risikerer EØS-landene at EU vil skjerpe tonen og bli hardere i klypa. Det er vurderingen til eksperter som uttaler seg i medier som Dagens Næringsliv og TV 2. Utfallet av avstemningen på Island tolkes av analytikere som en politisk markering som kan skape et mer anstrengt forhold mellom EU og de landene som er tilnyttet gjennom EØS-avtalen. Det understrekes at dette dreier seg om ekspertvurderinger og analyser av mulige fremtidige konsekvenser, snarere enn offisielle vedtak fra EU-systemet selv. EU har foreløpig ikke kommet med formelle sanksjoner eller endringer i sin politikk som direkte konsekvens av den islandske folkeavstemningen, men observatører påpeker at unionen kan ønske å stramme inn rammene for å forhindre liknende skepsis i andre tilknyttede markeder fremover.",
+        "content_type": "analyse_vurderende",
+        "content_group": "kommentar_debatt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/eu/island/ekspert-eu-vil-skjerpe-tonen-etter-islands-nei/2-1-2036478",
+            "title": "Ekspert: – EU vil skjerpe tonen etter Islands nei",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19176839",
+            "title": "Ekspert: – EU vil skjerpe tonen etter Islands nei",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "9b2383d2e6b29993",
+        "continued_from": null,
+        "headline": "Sterke reaksjoner og sorg i USA etter kong Haralds bortgang",
+        "ingress": "Mange amerikanere føler de har mistet sin egen konge.",
+        "summary": "Bortgangen av kong Harald har vakt dyp sorg i USA, som av mange omtales som hans andre hjem. Historisk sett bodde han i Det hvite hus da han var tre år gammel, og har blant annet blitt omtalt for å ha lekt gjemsel under presidentens skrivebord i oppveksten. Ifølge dekning i både E24 og VG føler et stort antall amerikanere i dag at de har mistet sin egen konge på grunn av disse tette historiske båndene. Reaksjonene preges av personlig vemod og sterke emosjonelle bånd til den norske monarken. Det må bemerkes at beskrivelsene av den utbredte sorgen og følelsen av å ha mistet en egen statsoverhode er journalistiske skildringer av folkelige reaksjoner og stemninger, snarere enn formelle diplomatiske uttalelser. Slike meningsbaserte inntrykk gjenspeiler det tette personlige og kulturelle forholdet som har eksistert mellom kongefamilien og det amerikanske samfunnet gjennom flere tiår, noe som forsterker savnet i kjølvannet av dødsfallet.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/16dKXG/sorg-i-kong-haralds-andre-hjem-usa-foelte-han-var-deres-konge?utm_medium=rss",
+            "title": "Sorg i kong Haralds «andre hjem»: – Følte han var deres konge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/zObnPq/sorg-i-kong-haralds-andre-hjem-usa-foelte-han-var-deres-konge",
+            "title": "Sorg i Kong Haralds «andre hjem»: – Følte han var deres konge",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 47,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
