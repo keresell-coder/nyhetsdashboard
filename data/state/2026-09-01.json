@@ -268,5 +268,490 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "2e06acbd7bad1bf8",
+        "continued_from": null,
+        "headline": "Ny russisk taktikk vekker frykt i Kyiv",
+        "ingress": "Russland har den siste tiden tatt i bruk en ny angrepstaktikk mot Ukrainas hovedstad.",
+        "summary": "Russiske styrker har i løpet av de siste dagene endret fremgangsmåte ved angrep mot Kyiv, noe som har skapt økt bekymring og frykt i hovedstaden. Ifølge kilder fra Aftenposten har nedskytningsprosenten for innkommende trusler kollapset i forbindelse med disse nye angrepene. Den endrede taktikken representerer en ny utfordring for Ukrainas luftvern i regionen, selv om de fulle konsekvensene av omleggingen fremdeles analyseres av militære eksperter. Rapporter fra stedet bekrefter at situasjonen i Kyiv oppleves som svært krevende som følge av de uvanlige angrepsmønstrene som nå observeres. Nøyaktige detaljer om hvilke spesifikke våpentyper som utgjør denne nye taktikken, gjenstår å bli fullt ut bekreftet av offisielle militære kilder. Det er imidlertid bred enighet om at denne utviklingen kan få store følger for sikkerhetssituasjonen i området fremover. Analytikere peker på at ukrainske myndigheter må tilpasse sitt forsvar raskt for å møte denne trusselen, gitt at nedskytningsraten har falt så drastisk som tilfelle er. Hvorvidt dette er starten på en mer vedvarende kampanjestruktur fra russisk side, er foreløpig for tidlig å konkludere med, men situasjonen overvåkes med største alvor.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/rrXplK/12-drept-i-russiske-luftangrep-mot-kyiv-og-omraadene-rundt",
+            "title": "Nedskytningsprosenten kollapset. Nå sprer ny russisk taktikk frykt i Kyiv.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "76e49200d82b992a",
+        "continued_from": null,
+        "headline": "Kong Haakon har avlagt ed i Stortinget",
+        "ingress": "Kong Haakon VIII ankom Stortinget for å avlegge sin ed i nærvær av kongefamilien og folket.",
+        "summary": "Mandag eller tirsdag avla kong Haakon VIII sin ed i Stortingets vandrehall og stortingssal i en høytidelig seremoni. Kongen ankom Stortinget i en åpen bil, nærmere bestemt i bryllupsbilen A-5, til jubel fra fremmøtte tilskuere og vakter langs ruten. I stortingssalen avla han eden som symboliserer at monarkens makt er konstitusjonelt begrenset. Stortingspresident Masud Gharahkhani holdt en minnetale over avdøde kong Harald, etterfulgt av ett minutts stillhet i salen. Blant de fremmøtte var dronning Sonja, kronprinsesse Ingrid Alexandra og prins Sverre Magnus, mens dronning Mette-Marit uteble av helsemessige årsaker. Etter seremonien mottok kongen full applaus på Eidsvolls plass da han forlot bygningen, der dronning Sonja ble observert idet hun tok seg til hjertet. Flere nordiske og internasjonale ledere, deriblant Sveriges kong Carl Gustaf, har sendt kondolanser og gratulasjoner i forbindelse med tronskiftet, og beskrevet bortgangen til kong Harald som et hardt slag for Norge. Kongehuseksperter og redaksjoner fulgte begivenhetene tett gjennom direktesendinger, og understreket at dagen var historisk for det norske kongehuset. Seremonien markerer starten på en ny epoke for monarkiet, hvor den nye kongen skal bekle rollen i tråd med landets lover og konstitusjon, slik det ble bekreftet under edsavleggelsen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kong-carl-gustaf-i-telegram-til-kong-haakon_-_-et-hardt-slag-har-rammet-norge-1.18010480",
+            "title": "Kong Carl Gustaf i telegram til kong Haakon: – Et hardt slag har rammet Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongen-har-avlagt-eden-i-stortinget-1.18010403",
+            "title": "Kongen har avlagt eden i Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kong-haakon-har-ankommet-stortinget-1.18010299",
+            "title": "Kong Haakon har ankommet Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/lnX179/her-kjoeres-kongen-til-stortinget",
+            "title": "Her kjøres kongen til Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/Rj8xJx/kong-carl-gustaf-har-sendt-telegram-til-kong-haakon",
+            "title": "Kong Carl Gustaf har sendt telegram til kong Haakon",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2pK12R/deltar-med-aerefrykt-og-stolthet",
+            "title": "Deltar med ærefrykt og stolthet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/QJOl6V/paa-vei-hjem",
+            "title": "På vei hjem",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/XMJw1g/dronning-sonja-tok-seg-til-hjertet",
+            "title": "Dronning Sonja tok seg til hjertet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/XMJwQm/mange-foelger-edsavleggelsen",
+            "title": "Mange følger edsavleggelsen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/BxdJ1g/ett-minnutts-stillhet",
+            "title": "Ett minutts stillhet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/wrXEmM/her-avlegger-kong-haakon-ed-i-stortinget",
+            "title": "Her avlegger kong Haakon ed i Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19182872",
+            "title": "Kongen har avlagt eden i Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19181911",
+            "title": "Skal avlegge ed for Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/kong-carl-gustaf-i-telegram-til-kong-haakon-et-hardt-slag-har-rammet-norge/s/80-95-46289",
+            "title": "Kong Carl Gustaf i telegram til kong Haakon: – Et hardt slag har rammet Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/her-avlegger-kong-haakon-viii-ed/v/80-95-45992",
+            "title": "Her avlegger kong Haakon ed",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/her-ankommer-kong-haakon-viii-stortinget/v/80-95-45917",
+            "title": "Her ankommer kongen Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/kong-haakon-avlegger-ed-i-stortinget/v/80-95-45758",
+            "title": "SE DIREKTE: Kong Haakon avlegger ed i Stortinget",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9a626d131a2bc920",
+        "continued_from": null,
+        "headline": "Obos-prisene i Oslo opp 0,8 prosent",
+        "ingress": "Boligprisene for Obos-boliger i Oslo opplevde en beskjeden oppgang i august.",
+        "summary": "Tall fra Obos viser at prisene på boliger i hovedstaden steg med 0,8 prosent i løpet av august måned. Til tross for at det er snakk om en prisøkning, understreker sjeføkonom Sissel Monsvold i Obos at oppgangen var langt svakerere enn det som er normalt og gjennomsnittlig for en augustmåned i Oslo. Tallknusingen fra E24, Dagens Næringsliv og Aftenposten viser samstemt til at markedet oppfører seg svakere enn historisk sesongmønster skulle tilsi. Analytikere og eksperter knytter ofte disse svingningene til generelle makroøkonomiske forhold, rentenivået og tilbud og etterspørsel i det lokale boligmarkedet. Selv om prisene samlet sett peker svakt oppover, er den lave veksttaktvridningen et signal om et mer dempet marked enn det man har sett i enkelte tidligere perioder. Det påpekes at det er for tidlig å slå fast om denne svake augustveksten vil vedvare gjennom høsten, men situasjonen følges tett av både utbyggere og økonomiske observatører for å vurdere de videre utsiktene for boligkjøpere og selgere i Oslo-området fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/obos/boligsalg/boligkjop/obos-prisene-i-oslo-steg-08-prosent-i-august/2-1-2037192",
+            "title": "Obos-prisene i Oslo steg 0,8 prosent i august",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/9pnmxp/obos-prisene-paa-brukte-boliger-i-oslo-steg-0-8-prosent-i-august?utm_medium=rss",
+            "title": "Obos-prisene i Oslo steg 0,8 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/9pnmxp",
+            "title": "Obos-prisene i Oslo steg 0,8 prosent",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8dd27638a592e10e",
+        "continued_from": null,
+        "headline": "Danske kong Frederik hyller avdøde kong Harald",
+        "ingress": "Danmarks konge uttaler seg om tronskiftet i Norge og minnes sin avdøde onkel.",
+        "summary": "Under et besøk på en romfartskonferanse i København uttalte danske kong Frederik seg for første gang om det norske tronskiftet og bortgangen til kong Harald. Den danske kongen beskrev avdøde kong Harald som et elskelig menneske og en god onkel som alltid møtte omgivelsene med lunt og godt humør samt treffende kommentarer. Videre kommenterte kong Frederik hvordan han tror den nye norske monarken vil klare seg i rollen. Han uttrykte en vurdering av at kong Haakon må gis tilstrekkelig med tid til å etablere seg ordentlig i sin nye kongerolle. Samtidig understreket den danske monarken at han ser frem til å hjelpe og støtte sin norske kollega på alle mulige måter i tiden som kommer. Uttalelsene gir et innblikk i de tette familiære og nasjonale båndene mellom de nordiske kongehusene i en tid preget av endring og sorg over kong Haralds bortgang, etterfulgt av at kong Haakon har overtatt tronen og avlagt sin ed i det norske Stortinget.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/danske-kong-frederik_-_-harald-var-et-elskelig-menneske-1.18009976",
+            "title": "Danske kong Frederik: – Harald var et elskelig menneske",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6e5b1cc56ba59362",
+        "continued_from": null,
+        "headline": "Keir Starmer trekker seg fra det britiske parlamentet",
+        "ingress": "Den tidligere britiske statsministeren forlater parlamentet seks uker etter sin avgang.",
+        "summary": "Seks uker etter at han ble tvunget til å gå av som statsminister i Storbritannia, har Keir Starmer besluttet å trekke seg helt fra det britiske parlamentet. Dette melder flere medier, deriblant The Telegraph og Aftenposten. Starmer trakk seg opprinnelig fra statsministerposten i sommer etter et sterkt internt press fra eget parti, Labour. Etter hans avgang var det Andy Burnham som tok over rollen som både partileder og statsminister for landet. Starmers beslutning om nå også å forlate parlamentet markerer slutten på hans tid i aktiv britiskrikspolitikk for denne omgang. Observatører og politiske analytikere vurderer dette trekket som en naturlig konsekvens av det bitre maktomskiftet internt i Labour, som svekket hans politiske plattform betraktelig. Det er foreløpig ikke knyttet noen ytterligere offisielle kommentarer fra Starmer selv utover nyheten om hans parlamentariske exit, men saken markerer et betydelig kapittelers slutt for den tidligere regjeringssjefen som nå overlater scenen fullstendig til sine etterfølgere i partiet og nasjonalforsamlingen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/keir-starmer-trekker-seg-fra-parlamentet-1.18010433",
+            "title": "Keir Starmer trekker seg fra parlamentet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/BxdJ87/keir-starmer-vil-trekke-seg-fra-parlamentet",
+            "title": "Keir Starmer vil trekke seg fra Parlamentet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "31d72540c74f275e",
+        "continued_from": null,
+        "headline": "Finsk langrennsstjerne legger opp",
+        "ingress": "Kerttu Niskanen gir seg med toppidretten etter en lang karriere.",
+        "summary": "Den finske langrennsstjernen Kerttu Niskanen (38) har tatt den endelige beslutningen om å legge skiene på hylla og avslutte sin aktive karriere som langrennsløper på toppnivå. Det bekreftes av både Aftenposten og Nettavisen. Niskanen har gjennom mange år vært en markant skikkelse i internasjonal langrennssport og representert Finland i en årrekke med flere fremtredende plasseringer i mesterskap og verdenscupen. Med en alder av 38 år har veteranen vurdert at tiden er inne for å avslutte satsingen. Hennes avgjørelse markerer avslutningen på en æra for finsk herre- eller damelangrenn, der hun har vært en sentral kultur- og medaljebærer. Beslutningen har vakt oppmerksomhet i langrennsmiljøet, hvor kolleger og eksperter trekker frem hennes dedikasjon og sterke prestasjoner gjennom en lang og krevende idrettskarriere. Det gjenstår å se hva Niskanen vil foreta seg etter at toppidrettssatsingen nå er over, men hun etterlater seg uansett en solid merittert arv i internasjonal vinteridrett.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/0p0E0G/finsk-langrennsstjerne-legger-opp",
+            "title": "Finsk langrennsstjerne legger opp",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/den-finske-langrennsstjernen-kerttu-niskanen-legger-opp/s/80-95-46142",
+            "title": "Finsk langrennsstjerne legger opp",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5ae410d853209791",
+        "continued_from": null,
+        "headline": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+        "ingress": "Dronning Mette-Marit må droppe edsavleggelsen i Stortinget på grunn av komplikasjoner etter sin tidligere lungetransplantasjon.",
+        "summary": "Kongehuset opplyser at dronning Mette-Marit ikke vil delta under dagens edsavleggelse i Stortinget, hvor kong Haakon skal avlegge sin ed. Årsaken er at dronningen har opplevd komplikasjoner etter lungetransplantasjonen hun gjennomførte i midten av juni. Operasjonen ble den gang beskrevet som vellykket og var nødvendig for å redde hennes liv etter at lungefibrosen hadde forverret seg. Lungelege Are Holm ved Rikshospitalet uttaler at slike komplikasjoner ikke er uvanlige etter et slikt inngrep, og at dronningen må observeres gjennom dagen. Ifølge kongehuset vil kronprinsesse Ingrid Alexandra ledsage kong Haakon under selve seremonien, mens dronning Sonja og prins Sverre Magnus vil overvære hendelsen fra stortingssalen. Aftenposten påpeker i sin dekning at fraværet i seg selv gir lite informasjon om den helhetlige helsetilstanden, men situasjonen krever altså medisinsk oppfølging i dag. De bekreftede opplysningene kommer direkte fra offisielle kilder som kongehuset og behandlende helsepersonell ved Rikshospitalet. Hendelsen markerer en midlertidig stopp i dronningens offentlige gjøremål i forbindelse med markeringen i Stortinget, og familien stiller samlet for øvrig under seremonien for kongen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
+            "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124457",
+            "title": "Dronningen uteblir: – Sier lite om tilstanden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19183437",
+            "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a846a0653d712865",
+        "continued_from": null,
+        "headline": "Askeladden Boats er konkurs",
+        "ingress": "Båtprodusenten Askeladden Boats AS har begjært seg konkurs etter et dramatisk fall i omsetningen og flere år med store underskudd.",
+        "summary": "Den kjente norske båtprodusenten Askeladden Boats AS har tirsdag 1. september begjært seg konkurs. Styreleder Henrik J. Askvik uttaler i en pressemelding at det er med stor sorg og et betydelig vemod at beslutningen er tatt, og slår fast at seilasen nå er over. Saken ble først omtalt av Bergens Tidende. Regnskapstall viser at selskapets omsetning har stupt kraftig fra 336 millioner kroner i 2022 til 52 millioner kroner i fjor. Videre har selskapet hatt et samlet underskudd på over 40 millioner kroner de siste tre årene. Styrelederen beskriver situasjonen som emosjonelt krevende for alle involverte. Konkursbegjæringen markerer slutten for en veletablert aktør i den norske maritime bransjen, rammet av krevende markedsforhold og sviktende salg over tid. Nedturen har bygd seg opp gjennom flere år, noe som til slutt gjorde videre drift umulig. Dette bekreftes av offisielle selskapsrapporter og uttalelser fra styringen i bedriften, gjenfortalt av flere medier.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kjent-batprodusent-konkurs-1.18010024",
+            "title": "Kjent båtprodusent konkurs",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/industri/batbransjen/konkursbegjaring/norsk-batprodusent-begjarer-seg-konkurs-stor-sorg/2-1-2037133",
+            "title": "Norsk båtprodusent begjærer seg konkurs: – Stor sorg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/aJL16A/askeladden-boats-er-konkurs?utm_medium=rss",
+            "title": "Askeladden boats er konkurs",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1d385d29d0988bed",
+        "continued_from": null,
+        "headline": "Fornybarsjef advarer om at Europa er ekstremt sårbare",
+        "ingress": "Sjefen for Wind Europe advarer om at Europa er ekstremt sårbare og trenger mer hjemmelaget energi.",
+        "summary": "Europa er i en situasjon der kontinentet er ekstremt sårbart når det gjelder energiforsyning, ifølge sjefen for Wind Europe. Organisasjonssjefen peker på at det er et presserende behov for mer hjemmelaget energi for å sikre stabilitet og uavhengighet. Spesielt trekkes det fram at utviklingen innen havvind ikke går fort nok til å møte fremtidige behov og utfordringer. Dette er en strategisk vurdering og analyse fra fornybarbransjens øverste hold, basert på dagens tempo i utbyggingen av grønn infrastruktur. Uttalelsene understreker en bekymring for at den europeiske energipolitikken henger etter i forhold til det som er nødvendig for å avverge fremtidige kriser. Det understrekes at tempoet må økes betraktelig, særlig innen havbasert vindkraft, dersom man skal tette gapet og oppnå reell energisikkerhet. Analysen fremheves som en klar advarsel til europeiske myndigheter om å påskynde investeringer og politiske beslutninger på fornybarfeltet.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/BxqAP0/fornybarsjef-ekstremt-saarbare?utm_medium=rss",
+            "title": "Fornybarsjef: – Ekstremt sårbare",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/BxqAP0",
+            "title": "Fornybarsjef: – Ekstremt sårbare",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8922109b44d8bb3a",
+        "continued_from": null,
+        "headline": "Deadline Day: Disse stjernene kan bytte klubb",
+        "ingress": "På overgangsvinduets siste dag spekuleres det i om Manchester City vil gjøre Enzo Fernández til historiens dyreste salg.",
+        "summary": "I forbindelse med overgangsvinduets siste dag, populært kalt Deadline Day, er det stor spenning knyttet til hvilke stjernespillere som kan komme til å bytte klubb. Blant de mest omtalte ryktene er spekulasjoner om at Manchester City kan gjøre den argentinske midtbanespilleren Enzo Fernández til den første spilleren i historien som blir solgt for over 100 millioner euro ved to ulike anledninger. Dette fremstår primært som overgangsspekulasjoner og medieanalyser av spillermarkedet i innspurten av vinduet, fremfor bekreftede overganger. Det gjenstår å se om ryktene materialiserer seg i faktiske klubbskifter før fristen utløper. Slike situasjoner er preget av hektisk aktivitet bak kulissene, der agenter, klubber og spillere forsøker å få på plass avtaler i siste liten. Mediene følger situasjonen tett med løpende oppdateringer om hvem som potensielt kan bli solgt eller kjøpt for enorme summer før overgangsvinduet stenger for denne gang.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/5pMVkE/deadline-day-disse-stjernene-kan-bytte-klubb",
+            "title": "Deadline Day: Disse stjernene kan bytte klubb",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c41d3e7f4b524cbb",
+        "continued_from": null,
+        "headline": "Mann alvorlig skadd i boligbrann i Halden",
+        "ingress": "En mann er fraktet til sykehus med store brannskader etter en boligbrann i Halden tirsdag formiddag.",
+        "summary": "Nødetatene rykket ut til en boligbrann i Halden klokken 10.09 tirsdag formiddag etter melding om flammene. Én mann ble på stedet bekreftet alvorlig skadd og deretter fraktet til sykehus med store brannskader. Politiet opplyser at det var flere personer til stede i boligen da brannen brøt ut, noe som har ført til at det er iverksatt etterforskning for å klarlegge hendelsesforløpet og årsaken til brannen. Opplysningene er bekreftet av både NRK og Aftenposten basert på rapporter fra nødetatene og politiet på stedet. Omfanget av skadene og den nøyaktige tingenes tilstand for øvrige tilstedeværende er foreløpig ikke fullt ut detaljert utover at én person er hardt skadd. Politiet arbeider videre med tekniske og taktikken undersøkelser på branntomten for å finne ut hvordan brannen startet. Hendelsen preger lokalsamfunnet i Halden denne tirsdagen, og redningsmannskapene avsluttet sin innsats på stedet etter at situasjonen var brakt under kontroll.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/ostfold/mann-alvorlig-skadd-i-boligbrann-i-halden-1.18010198",
+            "title": "Mann alvorlig skadd i boligbrann i Halden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/WvdL0Q/boligbrann-i-halden-en-til-sykehus-med-store-brannskader",
+            "title": "Boligbrann i Halden – én til sykehus med store brannskader",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 41,
+      "drop_reasons": []
+    }
   }
 }
