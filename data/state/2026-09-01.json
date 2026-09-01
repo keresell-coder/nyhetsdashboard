@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-01",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "4952812eb52a4ebb",
+        "continued_from": null,
+        "headline": "Dronning Mette-Marit uteblir fra kongens edsavleggelse",
+        "ingress": "Dronning Mette-Marit må droppe edsavleggelsen i Stortinget på grunn av komplikasjoner etter lungetransplantasjonen.",
+        "summary": "Dronning Mette-Marit er nødt til å avlyse sin deltakelse under kong Haakons edsavleggelse i stortingssalen på grunn av helsemessige årsaker. Ifølge kongehuset og lungelege Are Holm ved Rikshospitalet skyldes fraværet komplikasjoner etter dronningens vellykkede lungetransplantasjon i midten av juni, en operasjon som var nødvendig for å redde hennes liv fra forverret lungefibrose. Lungelegen understreker at slike komplikasjoner ikke er uvanlige etter denne typen inngrep, og dronningen må derfor observeres gjennom dagen. Stortingspresident Masud Gharahkhani uttrykker forstått medfø」。 at dronningen ønsket å delta, men at man nå først og fremst tenker på hennes helse og ønsker god bedring. Som følge av fraværet vil kronprinsesse Ingrid Alexandra ledsage kong Haakon under seremonien, mens dronning Sonja og prins Sverre Magnus følger begivenheten fra stortingssalen, der folk har samlet seg i Oslo sentrum for å overvære markeringen av at monarkens makt er begrenset. Kongehuset og en rekke medier som NRK, TV2, Nettavisen og Aftenposten dekker hendelsen løpende.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/stortingspresidenten_-_-god-bedring-1.18010147",
+            "title": "Stortingspresidenten: – God bedring",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
+            "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124457",
+            "title": "Dronningen uteblir: – Sier lite om tilstanden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/oEBLOj/kong-haakon-avlegger-ed-for-stortinget-uten-dronningen",
+            "title": "Oslo sentrum klare for edsavleggelsen: Folk samles foran Stortinget",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19183437",
+            "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen/s/80-95-45536",
+            "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "daf4bbf8bdf25ddf",
+        "continued_from": null,
+        "headline": "Alvorlig boligbrann i Halden",
+        "ingress": "En mann er sendt til sykehus med store brannskader etter boligbrann i Halden.",
+        "summary": "En alvorlig boligbrann fant sted i en enebolig på Damhaugen i Halden tirsdag formiddag. Nødetatene rykket ut til stedet etter melding om brannen klokken 10.09. Bekreftede opplysninger fra politiet slår fast at én mann er fraktet til sykehus med store brannskader. Det befant seg flere personer på stedet da flammene brøt ut, noe som har ført til at politiet nå har iverksatt en full etterforskning for å avklare hendelsesforløpet og brannårsaken. Både politi, ambulanse og brannvesen var raskt på plass for å håndtere situasjonen og sikre området. Omfanget av materielle skader på eneboligen er ennå ikke nøyaktig kvantifisert i de foreliggende rapportene fra skadestedet. Politiets etterforskning vil fremover fokusere på tekniske og taktiske undersøkelser for å forstå hva som utløste brannen i boligen. Situasjonen på stedet krevde innsats fra samtlige nødetater, og helsevesenet har tatt hånd om de involverte personene som var til stede da dramatikken utspilte seg.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/ostfold/mann-alvorlig-skadd-i-boligbrann-i-halden-1.18010198",
+            "title": "Mann alvorlig skadd i boligbrann i Halden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/WvdL0Q/boligbrann-i-halden-en-til-sykehus-med-store-brannskader",
+            "title": "Boligbrann i Halden – én til sykehus med store brannskader",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/brann-i-enebolig-pa-damhaugen-halden/s/80-95-45671",
+            "title": "Boligbrann i Halden: En med store brannskader",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bd2668ceba37cd63",
+        "continued_from": null,
+        "headline": "Svak oppgang i Obos-prisene i Oslo",
+        "ingress": "Obos-prisene i Oslo steg 0,8 prosent i august, men oppgangen var svakere enn normalt.",
+        "summary": "Tall for boligmarkedet viser at Obos-prisene i Oslo hadde en oppgang på 0,8 prosent i august. Dette bekreftes i ferske tall fra E24, VG og Dagens Næringsliv. Til tross for at det er snakk om en prisvekst, understreker sjeføkonom Sissel Monsvold i Obos at årets oppgang var betydelig svakere enn det som er gjennomsnittlig normalt for en august måned. Analytikere og eksperter påpeker i sine vurderinger at den dempede veksten kan indikere endringer i det generelle boligmarkedet i hovedstaden, selv om prisene samlet sett peker oppover. Det er en entydig konklusjon på tvers av kildene om at månedsveksten på 0,8 prosent ligger under det historiske gjennomsnittet for perioden. Markedsvurderingene tyder på at kjøpere og selgere opplever en noe mer avventende holdning enn tidligere, noe som gjenspeiles i de moderate tallene. Videre prisutvikling utover høsten vil bli fulgt nøye av markedsaktørene for å se om den svakere tendensen vedvarer eller om det dreier seg om en midlertidig korreksjon i et ellers aktivt marked i Oslo.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/obos/boligsalg/boligkjop/obos-prisene-i-oslo-steg-08-prosent-i-august/2-1-2037192",
+            "title": "Obos-prisene i Oslo steg 0,8 prosent i august",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/9pnmxp/obos-prisene-paa-brukte-boliger-i-oslo-steg-0-8-prosent-i-august?utm_medium=rss",
+            "title": "Obos-prisene i Oslo steg 0,8 prosent",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/Rj8xaO/obos-prisene-paa-brukte-boliger-i-oslo-steg-0-8-prosent-i-august",
+            "title": "Obos-prisene i Oslo steg 0,8 prosent",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a41f0827c2e43c44",
+        "continued_from": null,
+        "headline": "Svensk matmoms-kutt har kommet kundene til gode",
+        "ingress": "Sveriges kutt i matmomsen har ifølge ferske opplysninger kommet kundene fullt ut til gode.",
+        "summary": "En vurdering av situasjonen i Sverige viser at kuttet i matmomsen foreløpig ikke har ført til at dagligvarekjedene har beholdt pengene selv. Ifølge analyser og rapporter er det ingenting som tyder på at kjedene har puttet momskutt-pengene i egen lomme. Tvert imot konkluderes det med at kuttet fullt ut har kommet forbrukerne og kundene til gode gjennom lavere eller stabiliserte priser på matvarer. Denne typen vurderinger baserer seg på pristester og oppfølging av markedet etter at politiske tiltak for å lette på prispresset ble iverksatt i nabolandet. Det er likevel verdt å merke seg at dette er en foreløpig observasjon av markedsdynamikken, og bildet kan endre seg over tid ettersom konkurransesituasjonen i dagligvarebransjen utvikler seg. Forbrukere og myndigheter følger nøye med på om prisreduksjonene vedvarer på sikt, og om kjedene opprettholder den kundevennlige prisprofilen. Analytikere understreker at det kreves kontinuerlig overvåking for å fastslå den langvarige effekten av slike skatte- og avgiftsgrep på makronivå.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/j0X9pL/sverige-kuttet-i-matmomsen-har-fullt-ut-kommet-kundene-til-gode?utm_medium=rss",
+            "title": "Sverige: Kuttet i matmomsen har fullt ut kommet kundene til gode",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1dd95f76f6bdc688",
+        "continued_from": null,
+        "headline": "Over 1000 bekreftet omkommet etter flomkatastrofe",
+        "ingress": "Over 1000 mennesker er bekreftet omkommet etter en voldsom flom i Nepal.",
+        "summary": "Den 26. august rammet en ekstrem og voldsom flom grensetraktene mellom Tibet og Nepal. Flomvannet feide gjennom regionen og rev med seg både hus, broer og mennesker i en naturkatastrofe av enorme proporsjoner. Ifølge nyhetsbyrået AFP bekrefter lokale myndigheter nå at over 1000 mennesker har mistet livet i katastrofen. I tillegg til de omkomne er om lag 4000 personer fremdeles registrert som savnet. Disse dramatiske tallene har steget gradvis etter hvert som redningsmannskaper og myndigheter har fått bedre oversikt og kartlagt det faktiske omfanget av ødeleggelsene i de rammede områdene. Redningsarbeidet har vært krevende på grunn av vanskelige forhold og omfattende infrastrukturødeleggelser. Myndighetene arbeider fortsatt på spreng med søk og redning, selv om håpet om å finne overlevende svinner for hver dag som går. Situasjonen betegnes som en av de alvorligste naturkatastrofene i regionen på lang tid, med store lidelser for lokalsamfunnene som er rammet av vannmassene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/myndighetene_-over-1000-dode-etter-flommen-i-nepal-1.18009875",
+            "title": "Myndighetene: Over 1000 døde etter flommen i Nepal",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f04d5d635832f222",
+        "continued_from": null,
+        "headline": "Avis: Glimt-juvel (17) nærmer seg overgang",
+        "ingress": "Stortalentet Mikkel Bro Hansen (17) skal være på vei bort fra Bodø/Glimt.",
+        "summary": "Ifølge opplysninger fra Aftenposten kan det gå mot et klubbskifte for Bodø/Glimts unge stortalent Mikkel Bro Hansen. Avisen melder at den 17 år gamle spilleren skal være på vei til en større storklubb, noe som indikerer at unggutten har satt dype spor med sine prestasjoner. En slik overgang vil i så fall være nok et bevis på Bodø/Glimts evne til å utvikle spillere som vekker interesse hos europeiske eller nasjonale giganter. Det presiseres at det foreløpig dreier seg om avisrykter og medieopplysninger, og en endelig bekreftelse fra klubbene gjenstår før overgangen er et faktum. Spillerens unge alder tatt i betraktning, vil en eventuell overgang til en storklubb kreve grundig oppfølging med tanke på videre sportslig utvikling. Supportere og fotballinteresserte følger nå spent med på om ryktene materialiserer seg i en faktisk overgang i det kommende transfervinduet. Det gjenstår å se hvilken klubb som eventuelt sikrer seg underskriften til 17-åringen, og hvilke økonomiske og sportslige betingelser som i så fall avtales mellom partene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/d4Pdnw/avis-glimt-juvel-17-naermer-seg-storklubb",
+            "title": "Avis: Glimt-juvel (17) nærmer seg storklubb",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 36,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
