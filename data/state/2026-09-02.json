@@ -1,0 +1,333 @@
+{
+  "date": "2026-09-02",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "b724039ad76601b7",
+        "continued_from": null,
+        "headline": "Palantir-topp går inn i ukrainsk forsvarssatsing",
+        "ingress": "Alex Karp blir første store investor i Mykhailo Fedorovs forsvarstek-selskap.",
+        "summary": "Den sparkede ukrainske forsvarsministeren Mykhailo Fedorov har fått med seg Palantir-topp Alex Karp som den første store investoren i sin nye forsvarsteknologisatsing. Dette bekreftes i ferske opplysninger som ble kjent nylig. Partnerskapet markerer en betydelig utvikling for teknologisatsingen knyttet til forsvarssektoren i Ukraina, der internasjonale investorers involvering blir trukket fram som en sentral faktor. Det understrekes i rapportene at Karp, som er kjent fra sin rolle i programvareselskapet Palantir, går inn med kapital og støtte i selskapet som Fedorov leder. Det foreligger foreløpig få ytterligere detaljer om de finansielle rammene rundt investeringen, men nyheten har vakt oppmerksomhet i både nasjonale og internasjonale medier med tanke på forbindelsen mellom ukrainsk politikk, forsvarsteknologi og profilerte amerikanske teknologitopper. Videre opplyses det ikke om noen konkrete tidsplaner for selskapets produktlanseringer eller videre utrulling, annet enn at Karp nå inntrer i rollen som den aller første større investoren i prosjektet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/vrXObm/sparket-ukrainsk-forsvarsminister-faar-med-palantir-topp-paa-forsvarssatsing?utm_medium=rss",
+            "title": "Sparket ukrainsk forsvarsminister får med Palantir-topp på forsvarssatsing",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/wrXO3P/sparket-ukrainsk-forsvarsminister-faar-med-palantir-topp-paa-forsvarssatsing",
+            "title": "Sparket ukrainsk forsvarsminister får med Palantir-topp på forsvarssatsing",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a604d00f134d8a82",
+        "continued_from": null,
+        "headline": "Osloskolene og gravferdstiltak i forbindelse med kong Haralds død",
+        "ingress": "Skolene i Oslo oppfordres til å innvilge permisjon til elever som ønsker å delta i kong Haralds gravferd.",
+        "summary": "I forbindelse med kong Haralds gravferd onsdag 9. september har Oslo kommune og Utdanningsetaten kommet med klare retningslinjer for både skoler og innbyggere. Skoler i hovedstaden, inkludert grunnskoler, videregående opplæring og voksenopplæring, oppfordres sterkt til å innvilge permisjon til elever som ønsker å følge gravferden og prosesjonen i sentrum sammen med sine foreldre. Det presiseres at fraværet vil bli regnet som «velferdsforhold» og dermed holdes utenfor den ordinære fraværsgrensen, selv om skolene vil holde åpent som vanlig på selve dagen. Samtidig forbereder Oslo lufthavn seg på ekstraordinære dager med stor pågang, ettersom en rekke gjester og statsoverhoder ventes å ankomme med fly for å delta i seremonien. Som et ledd i logistikken rundt arrangementet har Oslo Kirkelige Fellesråd og Gravplassetaten i Oslo besluttet at alle andre ordinære gravferdsseremonier i hovedstadens kirker og lokaler må flyttes til andre dager. Jølstad begravelsesbyrå, som har fått oppdraget med å håndtere kongens gravferd, bekrefter disse endringene. TV 2 og andre medier har fått opplyst at kommunen legger til rette for at flest mulig som ønsker det skal få anledning til å overvære seremonien i Oslo domkirke uten at det går ut over elevenes skolefravær, mens transportsektoren ruster seg for et høyt antall tilreisende gjester de kommende dagene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/vil-gi-oslo-elever-fri-for-kong-haralds-gravferd-1.18011598",
+            "title": "Vil gi Oslo-elever fri for kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongens-gravferd_-alle-gravferder-i-oslo-flyttes-til-andre-dager-1.18011490",
+            "title": "Kongens gravferd: Alle gravferder i Oslo flyttes til andre dager",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/OkPrgV/osloskolene-anbefales-aa-gi-elever-fri-for-aa-reise-til-sentrum-for-kong-haralds-gravferd",
+            "title": "Osloskolene anbefales å gi elever fri for å reise til sentrum for kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/M7WLRE/kongens-gravferd-alle-andre-gravferdsseremonier-i-oslo-flyttes-til-andre-dager",
+            "title": "Kongens gravferd: Alle andre gravferdsseremonier i Oslo flyttes til andre dager",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/3pQ4Bd/osloskolene-anbefales-aa-gi-elever-fri-for-aa-reise-til-sentrum-for-kong-haralds-gravferd",
+            "title": "Osloskolene anbefales å gi elever fri for å reise til sentrum for kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124492",
+            "title": "Oslo lufthavn forbereder seg på «ekstraordinære dager» rundt kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124491",
+            "title": "Kongens gravferd: Alle andre gravferdsseremonier i Oslo flyttes",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19180342",
+            "title": "Oppfordrer skolene til å innvilge permisjon",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/osloskolene-anbefales-a-gi-elever-fri-for-a-reise-til-sentrum-for-kong-haralds-gravferd/s/80-95-48533",
+            "title": "Osloskolene oppfordres til å gi elever fri for kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "97d0eaa75221296b",
+        "continued_from": null,
+        "headline": "Nordea spår rentehopp i høst og kutt først i 2028",
+        "ingress": "Inflasjonen vil trolig ta seg opp igjen, og styringsrenten kan heves til 4,5 prosent.",
+        "summary": "Nordea spår i en ny makrorapport at styringsrenten vil bli satt opp til 4,5 prosent i løpet av høsten, og at den deretter vil bli liggende på dette nivået helt ut 2028. Sjeføkonom Kjetil Olsen og seniorstrateg Sara Midtgaard peker på at usikkerheten rundt det underliggende prispresset har økt på bakgrunn av de nylige inflasjonstallene som kom i sommer. Bankens vurdering er at inflasjonen trolig vil ta seg opp igjen, noe som gjør at de lener seg mot at Norges Bank vil heve renten en gang til i løpet av høsten. Videre indikerer prognosene fra Nordea Markets at det ikke vil komme noen rentekutt med det første, og at en eventuell lettelse i pengepolitikken ligger langt frem i tid. Analysen viser en klar forventning om et vedvarende høyt rentenivå i flere år fremover, til tross for de stadige svingningene og usuksessfulle spådommene i det generelle rentemarkedet. Rapporten understreker at husholdninger og bedrifter må belage seg på stramme økonomiske tilder i en lengre periode. Det er verdt å merke seg at dette er bankens egne analyser og spådommer, basert på nåværende makroøkonomiske indikatorer og den siste tids prisvekst, og at faktiske beslutninger fra Norges Bank vil avhenge av den videre den økonomiske utviklingen utover høsten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nordea-spar-rentehopp-i-september-_-og-ingen-kutt-for-i-2028-1.18011252",
+            "title": "Nordea spår rentehopp i september – og ingen kutt før i 2028",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/rente/norges-bank/nordea-spar-rentehopp-i-september-og-ingen-kutt-for-i-2028/2-1-2037734",
+            "title": "Nordea spår rentehopp i september – og ingen kutt før i 2028",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028?utm_medium=rss",
+            "title": "Nordea Markets: Ingen rentekutt før 2028",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19186109",
+            "title": "Nordea spår rentehopp i september – og ingen kutt før i 2028",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3fbac6429cbd1afe",
+        "continued_from": null,
+        "headline": "Hele den svenske kongefamilien deltar i kong Haralds gravferd",
+        "ingress": "Det svenske hoffet bekrefter at kongefamilien kommer til Oslo for å delta.",
+        "summary": "Hele den svenske kongefamilien vil være til stede når kong Haralds gravferd finner sted i Oslo domkirke den 9. september. Det svenske hoffet har overfor pressen bekreftet at både kong Carl Gustaf, dronning Silvia, kronprinsesse Victoria, prins Carl Philip og prinsesse Madeleine kommer til Norge for å delta i seremonien. Gravferden, som starter klokken 13, ventes å samle en lang rekke kongelige og statsledere fra hele verden. I denne forbindelse minnes det om at det under kong Olavs gravferd i 1991 var et tilsvarende massivt sikkerhetsoppbud i hovedstaden, da prosesjonen tok seg gjennom Oslos gater og han ble stedt til hvile i den samme domkirken. Det er bred enighet blant kildene om at arrangementet vil kreve omfattende sikkerhetstiltak på grunn av det høye antallet tilreisende VIP-gjester. Tilstedeværelsen av den svenske kongefamilien understreker de sterke båndene mellom de nordiske kongehusene i en tung sorgens tid for Norge. Planleggingen av den offisielle seremonien og gjestelisten pågår for fullt, og myndighetene forbereder et strengt sikkerhetsregime i Oslo sentrum i forbindelse med begravelsesdagen som trekker representanter fra internasjonale elitekretser og nabolandenes kongefamilier.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/hele-sveriges-kongefamilie-deltar-i-kong-haralds-gravferd-1.18011274",
+            "title": "Hele Sveriges kongefamilie deltar i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19186185",
+            "title": "Hele Sveriges kongefamilie skal delta i kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5d39def8a69cbc0b",
+        "continued_from": null,
+        "headline": "Dysons nye avanserte tannbørste koster over fem tusen",
+        "ingress": "CameraJet skal benytte både kamera og kunstig intelligens for pussen.",
+        "summary": "Teknologiprodusenten Dyson har lansert en ny og svært spesiell tannbørste som har fått en prislapp på 5499 kroner. Produktet, som bærer navnet CameraJet, skiller seg merkbart ut fra tradisjonelle elektriske tannbørster ved at den tar i bruk både innebygd kamera og kunstig intelligens for å optimalisere tannpussen. Ifølge tilgjengelige opplysninger skal teknologien hjelpe brukerne med å oppnå bedre munnhygiene gjennom digital overvåking og analyse av pussevanene. Det er foreløpig knyttet stor spenning til hvordan forbrukerne vil motta en såpass kostbar og teknologisk avansert dings i et marked som hittil har vært dominert av enklere modeller. Prisen på 5499 kroner plasserer produktet i det absolutte sjiktet for personlig pleie-teknologi. Selv om det ennå ikke foreligger omfattende uavhengige tester av produktets faktiske effektivitet, viser spesifikasjonene at Dyson satser tungt på å integrere smarte løsninger i hverdagsprodukter. Selskapet har tidligere markert seg med innovative og høyt prisede forbrukerartikler innen blant annet hårpleie og støvsugere, og lanseringen av CameraJet er en videreføring av denne strategien i helse- og hygiene-segmentet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/Wvdj0Q/dysons-nye-tannboerste-koster-5499-kroner",
+            "title": "Dysons nye tannbørste koster 5499 kroner",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2ce87ef319789e78",
+        "continued_from": null,
+        "headline": "FN-rapport erkjenner at 1,5-gradersmålet trolig er tapt",
+        "ingress": "En ny rapport fra FNs miljøprogram advarer om alvorlige skader i en varmere verden.",
+        "summary": "En ny klimarapport fra FNs miljøprogram (Unep) slår fast at verden høyst sannsynlig ikke lenger vil klare å begrense den globale oppvarmingen til 1,5 grader. Rapporten advarer om at mennesker helse, matsikkerhet, vannforsyning, byer og økonomier vil bli påført alvorlig skade ettersom planeten fortsetter å varmes opp. FNs generalsekretær António Guterres uttaler at sommerens ekstreme vær med brennende hete, voldsomme skogbranner og dødelige flommer fungerer som en alvorlig advarsel om hva som venter i fremtiden. Å holde oppvarmingen under 1,5-gradersgrensen har lenge vært et av verdenssamfunnets aller viktigste og mest sentrale klimamål, men de mest optimistiske scenarioene i Uneps nye rapport peker nå i stedet mot en temperaturøkning på 1,8 grader. FN-direktør Inger Andersen understreker i en kommentar at det ikke finnes noen gode utfall dersom verden blir værende over 1,5-gradersmålet. Analysen i rapporten er basert på en nøktern gjennomgang av dagens utslippstrender og manglende globale kutt, noe som gjør at ekspertene nå må konstatere at det opprinnelige målet i praksis fremstår som uoppnåelig. Dette betyr at fokuset i økende grad må rettes mot tilpasning til et uunngåelig varmere klima og de konsekvensene det vil føre med seg for samfunnet globalt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ny-klimarapport-fra-fn-_-erkjenner-at-1_5-gradersmalet-ryker-1.18011386",
+            "title": "Ny klimarapport fra FN – erkjenner at 1,5-gradersmålet ryker",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19186775",
+            "title": "Ny klimarapport fra FN – erkjenner at 1,5-gradersmålet ryker",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "447bae2fd3ef0917",
+        "continued_from": null,
+        "headline": "Fleire drepne i angrep i Midtøsten",
+        "ingress": "Ei rekkje valdshendingar har krevd fleire menneskeliv i Midtøsten.",
+        "summary": "Midtøsten har vore råka av fleire valdshendingar og angrep dei siste dagane, noko som har ført til at fleire menneske har mist livet. Ifølgje eit shippingselskap vart to personar drepne då eit saudiarabisk oljefraktskip vart angripe i Hormuzstredet tidleg i veka. Det er enno ikkje stadfest kven som stod bak dette skipasangrepet, sjøvik Iran tidlegare har operert i same område. Vidare melder iranske styresmakter at elleve personar vart drepne i amerikanske flyangrep som fann stad natt til onsdag. Desse hendingane kjem i tillegg til eit omtalt angrep mot ein bryllupsfest sør i Iran tidlegare i veka, der fire personar skal halate to liv. Den iranske Røde Halvmåne har teke skritt for å bede Den internasjonale straffedomstolen om å granska bryllupsangrepet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/flere-drept-i-en-rekke-angrep-i-midtosten-de-siste-dagene-1.18011516",
+            "title": "Flere drept i en rekke angrep i Midtøsten de siste dagene",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 56,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
