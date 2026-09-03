@@ -1,0 +1,426 @@
+{
+  "date": "2026-09-03",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "a7cadf8df5ab5225",
+        "continued_from": null,
+        "headline": "Putin kaller arrest på russisk skip for statsterrorisme",
+        "ingress": "Russlands president Vladimir Putin kaller beslagleggingen av det russiske skipet på Svalbard for statsterrorisme.",
+        "summary": "Russlands president Vladimir Putin reagerer sterkt etter at det russiske skipet Professor Molchanov ble tatt i arrest på Svalbard, og karakteriserer handlingen som statsterrorisme. Det russiske utenriksdepartementet har i tillegg anklaget Norge for piratvirksomhet i forbindelse med saken. Skipet ligger for tiden til kai i Barentsburg. Fra norsk hold avvises det at Norge er part i saken. Seniorrådgiver Frank Lynum i Justisdepartementet forklarer at skipet ble tatt i arrest etter en begjæring fra det ukrainske statlige selskapet Naftogaz, og at Nord-Troms og Senja tingrett har truffet beslutningen. Ifølge Justisdepartementet har Sysselmesteren på Svalbard utelukkende handlet i rollen som namsfogd og vært forpliktet til å gjennomføre tingrettens avgjørelse, akkurat slik en namsfogd ville ha gjort dersom dette hadde skjedd på fastlandet. Tingretten tok denne avgjørelsen uten først å orientere Russland. Norske myndigheter påpeker at Russland som part i saken har anledning til å kreve at tingretten vurderer saken på nytt, slik de har gjort i tidligere utleggssaker. Det foreligger dermed en situasjon der russiske myndigheter retter skarpe anklager mot Norge, mens norsk departement og politi understreker at dette er en sivil sak mellom Naftogaz og Russland der Norge bare utfører en formell namsfunksjon.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ntb_-putin-kallar-arrest-av-russisk-skip-for-statsterrorisme-1.18012862",
+            "title": "NTB: Putin kallar arrest av russisk skip for statsterrorisme",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/justisdepartementet-om-russisk-skip-i-arrest-pa-svalbard-1.18012755",
+            "title": "Justisdepartementet om russisk skip i arrest på Svalbard",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19190772",
+            "title": "Putin om Svalbard-beslag: – Statsterrorisme",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19189900",
+            "title": "Russisk UD ut mot Norge: – Det er sjørøveri",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19189153",
+            "title": "Russisk fartøy tatt i beslag på Svalbard",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0e0abc8a38ff3ab7",
+        "continued_from": null,
+        "headline": "Omfattende sikkerhet og beredskap før kong Haralds gravferd",
+        "ingress": "Omtrent 3500 soldater, tallrike internasjonale gjester og omfattende restriksjoner preger forberedelsene til kong Haralds gravferd onsdag.",
+        "summary": "Forberedelsene til kong Haralds gravferd onsdag 9. september preges av massiv nasjonal og internasjonal mobilisering. Om lag 3500 soldater fra Forsvaret vil være i aksjon på gravferdsdagen. Rundt 1900 av disse skal stå oppstilt langs ruten for båren fra Slottet til Oslo domkirke og videre til Akershus festning, mens om lag 1500 soldater skal delta som æresvakter, flaggvakter og med saluttering. I tillegg har Forsvaret kalt inn om lag 600 soldater fra Heimevernet for perioden fra søndag til onsdag. En rekke utenlandske statsoverhoder og kongelige deltar i gravferden. Det danske kongehuset har bekreftet at både dronning Margrethe, kong Frederik, dronning Mary, kronprins Christian og prinsesse Benedikte kommer. Også den svenske kongefamilien samt prins Alois og prinsesse Sophie av Liechtenstein vil delta, og Stortingets toppledere og partigrupper er invitert. Begivenheten vil merkes sterkt i hovedstaden. Oslo lufthavn varsler ekstraordinær VIP-trafikk og oppfordrer reisende til å beregne ekstra tid, selv om flyplassen holdes åpen. Sentrum vil bli avstengt for biltrafikk med streng visitering, og hoteller melder om kanselleringer. Kollektivtrafikken vil bli involvert når hele landet stanser opp for å holde ett minutts stillhet, og universiteter og høgskoler over hele landet innstiller all aktivitet. I forkant av gravferden har tusenvis av mennesker benyttet anledningen til å defilere forbi kongens båre i Slottskapellet, der åpningstidene ble utvidet på grunn av stor pågang.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/rundt-3500-fra-forsvaret-skal-bidra-i-kong-haralds-gravferd-1.18012856",
+            "title": "Rundt 3500 frå Forsvaret skal bidra i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/heimevernssoldater-kalles-inn-til-gravferden-1.18012825",
+            "title": "Heimevernssoldater kalles inn til gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/kongens-gravferd-kan-fa-konsekvenser-for-flytrafikken-1.18012771",
+            "title": "Kongens gravferd kan få konsekvenser for flytrafikken",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dronning-margrethe-kjem-til-kong-haralds-gravferd-1.18012737",
+            "title": "Dronning Margrethe kjem til kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/4300-defilerte-ved-bara-til-kong-harald-onsdag-1.18012670",
+            "title": "4300 defilerte ved båra til kong Harald onsdag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/oEBW8g/varsler-ekstraordinaere-dager-under-kongens-gravferd?utm_medium=rss",
+            "title": "Varsler ekstraordinære dager under kongens gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/j0Xmp0/prinsen-og-prinsessen-av-liechtenstein-kommer-i-kong-haralds-gravferd",
+            "title": "Prinsen og prinsessen av Liechtenstein kommer i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrXwWw/partiene-paa-stortinget-fikk-invitasjon-til-kong-haralds-gravferd",
+            "title": "Stortinget har mottatt invitasjoner til kongens gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JOMlw8/oslo-sentrum-stenges-ned-slik-vil-kong-haralds-gravferd-paavirke-byen",
+            "title": "Sentrum stenges ned: Slik vil gravferden påvirke byen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124560",
+            "title": "3500 fra Forsvaret skal bistå i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124559",
+            "title": "Prinsen og prinsessen av Liechtenstein kommer i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124558",
+            "title": "Tog, trikk og buss tar også ett minutts stillhet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124556",
+            "title": "Universiteter og høgskoler stanser all aktivitet under kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124553",
+            "title": "Dronning Margrethe kommer til kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19179270",
+            "title": "Hotellgjester har fått oppholdet kansellert",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19180565",
+            "title": "Klar beskjed før gravferden: – Norge vil stoppe opp",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/3500-fra-forsvaret-skal-bista-i-kong-haralds-gravferd/s/80-95-51572",
+            "title": "3500 fra Forsvaret skal bistå i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/universiteter-og-hogskoler-stanser-all-aktivitet-under-kong-haralds-gravferd/s/80-95-51389",
+            "title": "Universiteter og høgskoler stanser all aktivitet under kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d008920d8d11ce15",
+        "continued_from": null,
+        "headline": "Vestlandshallen snur i konflikten om Guttavibezzz-cup",
+        "ingress": "Vestlandshallen avlyste først TikTok-duoen Tobias Aasheim og Chris Formos fotballcup, men snur nå etter konflikten.",
+        "summary": "Etter å ha avlyst TikTok-duoen Tobias Aasheim og Chris Formos fotballcup, har Vestlandshallen snudd i saken. Avlysningsbeslutningen skapte oppmerksomhet og en konflikt som nå har ført til at hallen endrer standpunkt. Saken har vakt engasjement blant fans av duoen, som er kjent under navnet Guttavibezzz. Det er foreløpig ikke kjent nøyaktig når arrangementet vil finne sted, men partene har funnet en løsning som gjør at cupen likevel kan avholdes i hallen slik det først var planlagt. Denne vendingen kommer etter at avlysningen først ble begrunnet med interne hensyn, noe som ble møtt med reaksjoner fra både arrangører og deltakere som hadde sett frem til begivenheten. Nærmere detaljer rundt det videre samarbeidet og den praktiske gjennomføringen vil bli avklart av de involverte partene i tide før arrangementet går av stabelen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/bOWqAe/vestlandshallen-snur-etter-avlyst-guttavibezzz-cup",
+            "title": "Vestlandshallen snur etter avlyst Guttavibezzz-cup",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/m0azR1/vestlandshallen-snur-etter-avlyst-guttavibezzz-cup",
+            "title": "Vestlandshallen snur etter avlyst Guttavibezzz-cup",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d9e5e0c48b7d20ff",
+        "continued_from": null,
+        "headline": "Kraftig oppgang i boligprisene i august, men store forskjeller",
+        "ingress": "Boligprisene i Norge steg med 2,1 prosent i august. Samtidig viser tallene store regionale forskjeller med svakere utvikling i Oslo.",
+        "summary": "Tall fra Eiendom Norge viser at boligprisene i Norge økte med 2,1 prosent i august. Sjefen for organisasjonen betegner oppgangen som oppsiktsvekkende sterk, spesielt med tanke på at juli var den svake måneden i statistikkens historie. Gjennomsnittlig omsetningstid for en bolig falt til 50 dager i august, en nedgang fra 62 dager i juli. Analytikere peker på at Norges Banks helomvending har fungert, selv om prisene ikke har reversert all tidligere nedgang fullstendig. Det er imidlertid store geografiske ulikheter i markedet. Mens det går raskt unna og er god fart i nord og vest, sliter hovedstaden tyngre. Oslo fremstår som svakest i landet i denne perioden, og situasjonen preges av at usolgte boliger hoper seg opp. Tilbudet av boliger i Oslo stiger til det høyeste nivået som er registrert i statistikkens historie, noe som skaper en svært hard konkurkurranse blant selgerne i markedet. Dette viser at det norske boligmarkedet er sammensatt, med ulik dynamikk i forskjellige regioner til tross for den generelle nasjonale oppgangen i august.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/bustadprisane-steig-med-2_1-prosent-i-august-1.18012758",
+            "title": "Bustadprisane steig med 2,1 prosent i august",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/boligprisene-steg-i-august-helomvendingen-fra-norges-bank-har-funket/2-1-2038571",
+            "title": "Boligprisene steg i august: – Helomvendingen fra Norges Bank har funket",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/usolgte-boliger-hoper-seg-opp-i-oslo-stor-konkurranse-om-a-selge/2-1-2038718",
+            "title": "Usolgte boliger hoper seg opp i Oslo: – Stor konkurranse om å selge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/boligpriser/eiendom-norge/boligmarkedet/kraftig-oppgang-i-boligprisene-svakest-i-oslo/2-1-2038539",
+            "title": "Kraftig oppgang i boligprisene – svakest i Oslo",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/oEBk1W/boligprisene-steg-2-1-prosent-i-august?utm_medium=rss",
+            "title": "Boligprisene steg 2,1 prosent i august",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/oEBk1W",
+            "title": "Boligprisene steg mer enn normalt i august",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5e7028f95a4be881",
+        "continued_from": null,
+        "headline": "PST følger trusselbildet tett foran kong Haralds gravferd",
+        "ingress": "Politiets sikkerhetstjeneste forbereder seg på potensielle utenlandske trusler og følger situasjonen nøye frem mot onsdagens gravferd.",
+        "summary": "Politiets sikkerhetstjeneste, PST, opplyser at de følger trusselbildet svært tett i forkant av kong Haralds gravferd, som finner sted kommende onsdag. I en vurdering fra tjenesten understrekes det at internasjonale gjester og dignitærer som deltar under seremonien, potensielt kan utgjøre mål for trusselaktører. Av den grunn er sikkerhetsapparatet trappet opp, og det gjennomføres kontinuerlige analyser av mulige sikkerhetsrisikoer knyttet til arrangementet. PST samarbeider med andre etater for å sikre at avviklingen av gravferden kan skje på en trygg og kontrollert måte, uten at det oppstår uønskede hendelser. Sikkerhetsarbeidet omfatter både fysiske tiltak og etterretningsmessige vurderinger for å møte enhver potensiell utfordring i forbindelse med besøk av utenlandske statsoverhoder og andre prominente personer som skal være til stede under seremonien i hovedstaden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/pst-om-kongens-gravferd-tilreisende-gjester-kan-vare-mal-for-trusselaktorer/s/80-95-51005",
+            "title": "PST om kongens gravferd: – Gjester kan være mål for trusselaktører",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f625e588a472badb",
+        "continued_from": null,
+        "headline": "Tre personer siktet for mobil vinningskriminalitet i Førde",
+        "ingress": "Tre rumenske statsborgere fremstilles for varetektsfengsling etter tyverier. Politiet mistenker at de står bak en serie lovbrudd.",
+        "summary": "Tre personer fra Romania, en mann i 50-årene, en mann i 30-årene og en kvinne i 30-årene, ble tirsdag stoppet og arrestert av politiet i Førde. De er siktet for totalt seks grove tyverier og fremstilles for varetektsfengsling. Politiet opplyser at gruppen kan knyttes til et tyveri begått i Førde, samt lignende forhold i Bergen dagen før og to saker på Austlandet før helgen. De tre ble pågrepet i en bil der det ble funnet stjålet gods. Videre ransaking i en campinghytte de disponerte i Førde-området avdekket store mengder beslag, hovedsakelig bestående av parfyme og barberblad. Den samlede verdien på godset er beregnet til å være omtrent 150 000 kroner. Politiet etterforsker saken bredt og har mistanke om at de siktede inngår i et miljø av mobile vinningskriminelle som reiser rundt på en omfattende tyveriturné i landet. Etterforskningen vil avklare om de kan knyttes til ytterligere uløste forhold andre steder i Norge.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/vestland/tre-personar-mistenkt-for-mobil-vinningskriminalitet-1.18012787",
+            "title": "Tre personar mistenkt for mobil vinningskriminalitet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d21d296a93efd953",
+        "continued_from": null,
+        "headline": "Amediastiftelsen kjøper Aschehoug og konsernsjefen går av",
+        "ingress": "Amediastiftelsen overtar forlaget Aschehoug og tilhørende eiendom. Konsernsjef Mads Nygaard fratrer i forbindelse med oppkjøpet.",
+        "summary": "Etter en elleve måneder lang prosess med flere interessenter på banen, er det klart at Amediastiftelsen kjøper det 150 år gamle forlaget Aschehoug. Kjøpet omfatter også forlagets historiske villa i Drammensveien 99 i Oslo. Den formelle overtredelsen er ventet å finne sted rundt årsskiftet. I forbindelse med eierskiftet går konsernsjef og forlegger Mads Nygaard av fra sin stilling. Amediastiftelsen, som ble opprettet som en uavhengig stiftelse i 2016 for å eie mediekonsernet Amedia, begrunner oppkjøpet med forlagets store betydning for norsk kultur, samfunnsliv og ytringsfrihet. Direksjonen i stiftelsen uttrykker at målet med oppkjøpet er å sikre at Aschehoug kan fortsette å utvikle seg som en sentral aktør og landets fremste forlag i tiden fremover. Transakcjiell avklaring markerer slutten på en intens budrunde der flere aktører har kjempet om kontrollen over det tradisjonsrike forlagshuset, som nå altså ender under stiftelsens eierskap ved årsskiftet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/amediastiftelsen-kjoper-aschehoug-1.18012721",
+            "title": "Amediastiftelsen kjøper Aschehoug",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/aschehoug/amedia/amediastiftelsen/mads-nygaard-fratrer-som-konsernsjef-i-aschehoug/2-1-2038610",
+            "title": "Mads Nygaard fratrer som konsernsjef i Aschehoug",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/zOXMpv/aschehoug-kjoepes-av-amediastiftelsen?utm_medium=rss",
+            "title": "Amediastiftelsen kjøper Aschehoug - og sjefen slutter",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19190294",
+            "title": "Amediastiftelsen kjøper Aschehoug",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 33,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
