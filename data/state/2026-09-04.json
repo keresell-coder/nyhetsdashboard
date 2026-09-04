@@ -398,5 +398,406 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "3569034df978bea9",
+        "continued_from": null,
+        "headline": "Forsvarsansatte måtte selge aksjer i leverandørbedrifter",
+        "ingress": "Forsvarsmateriell har gjennomført en intern kartlegging som avdekket innside-risiko.",
+        "summary": "En internasjonal kartlegging av innside-risiko har ført til at Forsvarsmateriell har kalt inn ansatte på teppet. Bakgrunnen er at ansatte i etaten har gjort investeringer i egne leverandører. Som en direkte konsekvens av denne interne gjennomgangen og retningslinjene som gjelder for habilitet og sikkerhet, har de involverte ansatte sett seg nødt til å selge hele sitt aksjeengasjement i disse selskapene. Slike investeringer kan potensielt skape alvorlige interessekonflikter og svekke tilliten til offentlige anskaffelser innen forsvarssektoren, noe som har gjort det nødvendig med raske og bastante reaksjoner fra ledelsens side. Det foreligger foreløpig ikke ytterligere detaljer om hvor mange ansatte som har vært involvert, eller nøyaktig hvilke leverandører det dreier seg om, men saken understreker det økte fokuset på sikkerhet og habilitet i norske forsvarsorganisasjoner i en urolig tid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/forsvarsansatte-investerte-i-egne-leverandorer-matte-selge-alt/2-1-2037796",
+            "title": "Forsvarsansatte investerte i egne leverandører – måtte selge alt",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7919ce11bc4e2b27",
+        "continued_from": null,
+        "headline": "Norge forbereder historisk statsbegravelse for kong Harald",
+        "ingress": "Oslo-politiet forsikrer at byen er trygg under kong Haralds gravferd.",
+        "summary": "Forberedelsene til kong Haralds statsbegravelse er i full gang, og myndighetene legger til rette for det som trolig blir det største diplomatiske oppbudet i moderne norsk historie. Blant de inviterte gjestene som diskuteres internasjonalt, er spekulasjoner om at USAs tidligere president Donald Trump kan sende Melania Trump, og svenskene stiller med en stor delegasjon. Samtidig har regjeringen, med statsminister Jonas Gahr Støre i spissen, samlet seg i Slottskapellet for å defilere forbi kongens båre. Fra offisielt hold opplyser PST og Oslo-politiet, representert ved politimester Ida Melbo Øystese, at trusselbildet vurderes som uendret og at det ikke foreligger noen store endringer. Politiet understreker at byen er trygg, men det innføres strenge sikkerhetssoner og kontroller. En spesiell oppfordring er gitt til publikum om å la bunadskniven ligge hjemme. For å opprettholde sikkerheten får Oslo-politiet ogsårt uventet bistand fra både svenske og danske bombehunder. På den politiske siden er det klart at Fremskrittspartiet har tildelt sine plasser, blant annet til Simen Velle. Saken har også en økonomisk side; regjeringens offisielle melding fra statsrådet viser at bevilgningene i statsbudsjettet for 2026 kan bli overskredet for hele seks ulike departementer, inkludert Utenriksdepartementet og Justis- og beredskapsdepartementet, som følge av de enorme kostnadene knyttet til den historiske begivenheten for det avdøde statsoverhodet som har preget nasjonen i flere tiår.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/politiet_-oslo-er-trygt-under-kong-haralds-gravferd-1.18014369",
+            "title": "Politiet: Oslo er trygt under kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kong-haralds-gravferd-kan-overskride-budsjettet-1.18013804",
+            "title": "Kong Haralds gravferd kan overskride budsjettet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania?utm_medium=rss",
+            "title": "Kongens gravferd: – Trump kan sende Melania",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/oEPVr7/kong-haralds-gravferd-politiet-orienterer-om-sikkerhet-og-tiltak",
+            "title": "Slik skal politiet jobbe under gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/5pky8z/pst-ingen-store-endringer-i-trusselbildet",
+            "title": "PST: Ingen store endringer i trusselbildet",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124580",
+            "title": "Politimesteren i Oslo: – La bunadskniven være hjemme",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124579",
+            "title": "Regjeringen defilerte forbi kongens båre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0p04z0/gravferden-til-kong-harald-dette-vet-vi-om-hvem-som-kommer",
+            "title": "Svenskene stiller sterkt. Dette vet vi om hvem som kommer i gravferden.",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124578",
+            "title": "Seks departementer vil overskride budsjetter i forbindelse med gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124577",
+            "title": "Får hjelp av danske og svenske bombehunder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19194168",
+            "title": "Slik blir sikkerhetstiltakene under gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/politiet-og-pst-slik-blir-sikkerheten-og-tiltakene-under-kong-haralds-gravferd/s/80-95-53960",
+            "title": "Politiet og PST: Slik blir sikkerheten under kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/simen-velle-far-plass-i-kong-haralds-gravferd/s/80-95-54680",
+            "title": "Simen Velle får plass i kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3310d3cb8dad9100",
+        "continued_from": null,
+        "headline": "BankID rammet av langvarig teknisk svikt",
+        "ingress": "Signeringstjenesten til BankID har vært nede i to dager.",
+        "summary": "BankIDs digitale signeringstjeneste har opplevd alvorlige tekniske problemer som har ført til at systemet har vært utilgjengelig over flere dager. Utfallet skaper betydelige utfordringer og praktiske problemer for næringslivet og privatpersoner som er avhengige av elektronisk identifisering og signering i sitt daglige virke. Ifølge kommunikasjonssjef Hege Steinsland i Stø jobbes det intenst og uavbrutt på spreng for å løse situasjonen og få tjenestene tilbake i normal drift så raskt som overhode mulig. Selskapet opplyser at dette er den lengste og mest omfattende forstyrrelsen tjenesten har vært utsatt for i sin historie. Situasjonen belyser den høye sårbarheten som oppstår når kritiske digitale fellesløsninger svikter over lengre tid, og det er ventet at hendelsen vil avstedkomme spørsmål om robustheten i den digitale infrastrukturen som det norske samfunnet lener seg tungt på for sikker digital samhandling og avtalt inngåelse i næringslivet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trobbel-for-bankids-signeringstjeneste-_-nede-pa-andre-dagen-1.18014307",
+            "title": "Trøbbel for BankIDs signeringstjeneste – nede på andre dagen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "58f2d13266423ea1",
+        "continued_from": null,
+        "headline": "Russland anklager Norge for Svalbard-blokade",
+        "ingress": "Det russiske utenriksdepartementet hevder skipet Professor Moltsjanov er stanset.",
+        "summary": "Det russiske utenriksdepartementet retter kraftige anklager mot norske myndigheter og hevder at Russland utsettes for en blokade på Svalbard. Konflikten har tilspisset seg etter at forskningsskipet Professor Moltsjanov ble tatt i arrest i øygruppens farvann. Situasjonen har vakt sterke reaksjoner på russisk hold, hvor det blant annet fra president Vladimir Putin har kommet påstander om at handlingene kan tolkes som brudd på Svalbard-traktaten. Det har til og med blitt brukt sterke karakteristikker som antyder statsterrorisme i kjølvannet av hendelsen. Samtidig viser rettslige dokumenter og kjennelser at ukrainske aktører krever tvangssalg av det russiske skipet, noe som kompliserer det diplomatiske bildet ytterligere i et allerede spent geopolitisk landskap i nordområdene. Norske myndigheter har foreløpig ikke latt seg presse av de hissige uttalelsene fra Moskva, og situasjonen følges tett av utenrikspolitiske eksperter som frykter at tautrekkingen rundt det arresterte skipet kan eskalere den diplomatiske spenningen mellom Norge og Russland ytterligere i tiden som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland-anklager-norge-for-blokade-pa-svalbard-1.18014119",
+            "title": "Russland anklager Norge for blokade på Svalbard",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19193372",
+            "title": "Anklager Norge for brudd på Svalbard-traktaten",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1ab09174710e3d4a",
+        "continued_from": null,
+        "headline": "Sterke reaksjoner etter endret Formel 1-resultat",
+        "ingress": "Pierre Gasly mister tredjeplassen fra Monacos Grand Prix etter anke.",
+        "summary": "Det har oppstått sterke og krassa reaksjoner i kjølvannet av en kontroversiell avgjørelse i Formel 1-sirkuset. Bakgrunnen er en ankebehandling som har konkludert med at Pierre Gasly likevel ikke får beholde den prestisjetunge tredjeplassen han opprinnelig kjørte inn til under det dramatiske Monacos Grand Prix. Plasseringen blir i stedet overlevert til Red Bull-fører Isack Hadjar etter at klagen ble tatt til følge av de sportslige organene. Beslutningen har falt tungt for Gasly og hans støttespillere, som åpent uttrykker at de føler seg urettferdig behandlet av dommerne og systemet som styrer sporten. Denne typen etterfølgende administrative omkamp og endringer i pallplasseringer skaper ofte debatt blant eksperter, lagledere og supportere, ettersom det rokker ved det umiddelbare følelsene og dramatikken som utspiller seg ute på selve banen under søndagens rase. Saken viser hvor marginale og strenge regelverkene er i toppmotorsporten, der situasjoner fra løpet kan bli vurdert på nytt lenge etter at bilene har krysset målstreken.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/5pkyWO/krass-reaksjon-etter-ny-formel-1-vending-foeler-oss-urettferdig-behandlet",
+            "title": "Krass reaksjon etter ny Formel 1-vending: – Føler oss urettferdig behandlet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e8799dc36812f8ce",
+        "continued_from": null,
+        "headline": "Bevæpnet mann forskanset på Dyrøya i Troms",
+        "ingress": "Politiet har vært i aksjon på Dyrøya i tre døgn etter skudd mot patruljen.",
+        "summary": "En dramatiske poltiiaksjon på Dyrøya i Troms har gått inn i sitt tredje døgn med uforminsket styrke. Siden tirsdag ettermiddag har store politistyrker vært til stede i området etter at en mann med våpen har forskanset seg. Situasjonen tilspisset seg tidlig da det ble avfyrt skudd mot polititjenestemennene på stedet, noe som har gjort aksjonen spesielt krevende og risikofylt for innsatsmannskapet. Politiet har opprettholdt en bred avsperring og en stor operativ tilstedeværelse for å sikre området og håndtere den væpnede personen på en kontrollert måte. Hendelsen binder opp betydelige ressurser fra etaten, og det er knyttet spenning til hvordan situasjonen vil løse seg ettersom døgnene har gått uten en endelig avklaring. Lokalsamfunnet preges naturlig nok av den alvorlige hendelsen, og politiet har oppfordret publikum til å holde god avstand til avsperringene mens forhandlinger og operative vurderinger pågår på stedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/Gx8rGq/troms-politiaksjon-inn-i-tredje-doegn-det-er-avfyrt-skudd-mot-politiet",
+            "title": "Troms: Politiaksjon inn i tredje døgn. Det er avfyrt skudd mot politiet.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3b31d84170498118",
+        "continued_from": null,
+        "headline": "Stor pågang for å ta farvel med kong Harald",
+        "ingress": "Slottet opplyser at alle som stiller seg i kø en time før stengetid, vil få slippe inn til defilering forbi kong Haralds kiste.",
+        "summary": "Publikum strømmer til for å ta et siste farvel med kong Harald i Slottskapellet. Køen for å defilere forbi kisten har vokst seg lang, og mennesker i alle aldre står side om side for å delta. På grunn av den enorme pågangen har Slottet kommet med oppdatert informasjon om adgangen. Det bekreftes at alle som befinner seg i køen om lag en time før stengetid, vil bli garantert anledning til å defilere. Dette gjelder selv om selve svennen eller innslippet skjer etter den opprinnelige steketiden. Slottet opplyser imidlertid at det kan bli satt strek i køen tidligere dersom pågangen tilsier det, og ber publikum om forståelse for dette. Det er mulig å defilere i kapellet fram til tirsdag, som er dagen før kong Haralds gravferd finder sted. Situasjonen preges av stor verdighet og lange ventetider for de som ønsker å vise sin siste respekt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/defilering-ved-baren-til-kong-harald_-alle-som-er-i-ko-en-time-for-stengetid_-slipper-inn-1.18014126",
+            "title": "Defilering ved båren til kong Harald: Alle som er i kø en time før stengetid, slipper inn",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/y5yGBE/tre-og-en-halv-time-i-koe",
+            "title": "Tre og en halv time i kø",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124576",
+            "title": "Defilering forbi kong Harald: Alle som er i kø en time før stengetid, slipper inn",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "af6963ecf78d1bcc",
+        "continued_from": null,
+        "headline": "OpenAI lanserer ny KI og erklærer AGI-æraen",
+        "ingress": "OpenAI har lansert en ny generasjon kunstig intelligens og mener bransjen har sviktet.",
+        "summary": "Selskapet OpenAI har formelt erklært starten på en ny epoke de kaller AGI-æraen. Lanseringen omfatter en ny generasjon kunstig intelligens som ifølge selskapet vil gjøre det mulig for mennesker å delegere langt mer komplekst arbeid til digitale systemer. I forbindelse med lanseringen har det kommet sterke uttalelser fra hold i selskapet. Blant annet hevdes det at bransjen som helhet har gjort en elendig jobb med å forberede og utvikle teknologien på en forsvarlig måte. Dette fremstår som en sentral vurdering fra OpenAIs side angående den teknologiske utviklingens tilstand. Det gjenstår å se hvordan denne nye generasjonen kunstig intelligens vil bli mottatt i markedet, og hvilke faktiske konsekvenser den vil få for arbeidsliv og samfunn når mer kompliserte oppgaver overstyres av maskiner. Det er foreløpig ikke kjent alle detaljer rundt implementeringen, men ambisjonene er åpenbart store fra selskapets side i denne nye fasen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/kunstig-intelligens/openai/anthropic/openai-erklarer-starten-pa-agi-araen-bransjen-som-helhet-har-gjort-en-elendig-jobb/2-1-2039140",
+            "title": "OpenAI erklærer starten på «AGI-æraen»: – Bransjen som helhet har gjort en elendig jobb",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "52744ffa0d507fef",
+        "continued_from": null,
+        "headline": "Russland: Ikke klar for fredssamtaler ennå",
+        "ingress": "Kreml avviser konkrete tegn på fredsløsning og avventer eventuelle besøk fra amerikanske utsendinger.",
+        "summary": "Russiske myndigheter uttalte fredag at det fremdeles finnes en mulighet for en fremtidig fredsløsning i Ukraina, men understreket samtidig at det foreløpig ikke er noen konkrete tegn på at en slik løsning er nær. Kreml opplyste at det er for tidlig å snakke om sjansene for en faktisk fredsavtale eller å gå inn på detaljene i en eventuell ny fredsplan. Når det gjelder ryktene om at de amerikanske utsendingene Steve Witkoff og Jared Kushner skal avlegge Moskva et besøk, ville de russiske myndighetene først ikke bekrefte dette. De opplyste imidlertid at de vil gi beskjed dersom en slik visitt finner sted. Uttalelsene fra Kreml gir inntrykket av en avventende holdning fra russisk side, der man verken lukker døren for diplomati helt eller viser tegn til å ville forhaste prosessen med en fredsavtale i den pågående konflikten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland_-ikke-klar-for-fredssamtaler-na-1.18014214",
+            "title": "Russland: Ikke klar for fredssamtaler nå",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "910e68d37181e1d1",
+        "continued_from": null,
+        "headline": "Amerikanske utsendinger besøker Russland og Ukraina",
+        "ingress": "Steve Witkoff og Jared Kushner reiser til Moskva og Kyiv i helgen, ifølge kilder.",
+        "summary": "De amerikanske utsendingene Steve Witkoff og Jared Kushner legger ut på en reise til både Russland og Ukraina i helgen, nærmere bestemt i perioden 5. til 6. september. Dette melder det russiske nyhetsbyrået Tass med henvisning til en anonym kilde. Det er foreløpig ikke kjent hvem utsendingene skal ha samtaler med under sine planlagte besøk i verken Moskva eller Kyiv, ifølge opplysninger fra nyhetsbyrået Reuters. Besøkene skjer i en svært krevende internasjonal situasjon preget av krigen i Ukraina og forsøk på diplomatisk kontakt. Det er knyttet spenning til hva som vil komme ut av disse samtalene, selv om det ikke foreligger offisielle detaljer om agendaen fra amerikansk hold ennå. Ytterligere informasjon om møtene ventes å bli kjent etter hvert som reisene gjennomføres i løpet av helgen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/witkoff-og-kushner-besoker-russland-og-ukraina-i-helgen-1.18014056",
+            "title": "Witkoff og Kushner besøker Russland og Ukraina i helgen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 41,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
