@@ -1,0 +1,402 @@
+{
+  "date": "2026-09-04",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "cb63bf5a77405040",
+        "continued_from": null,
+        "headline": "Nytt sabotasjeforsøk mot strømnettet i Tyskland etterforskes",
+        "ingress": "For tredje gang denne uken etterforsker tysk politi et mulig sabotasjeforsøk mot strømnettet, denne gangen i Dormagen.",
+        "summary": "Tysk politi etterforsker det som fremstår som et nytt forsøk på sabotasje rettet mot landets strømnett. Hendelsen fant sted torsdag like etter klokken 18, da det ble gjort funn av en mistenkelig gjenstand ved en transformatorstasjon i byen Dormagen. Ifølge opplysninger fra den tyske avisen Bild dreide det seg om avfyringsinnretninger for hjemmelagde raketter, som var utstyrt med både tidtakere og påmonterte kobberledninger. En talsperson for politiet opplyser at det her virker å være snakk om en bevisst handling for å fremprovosere en kortslutning. Dette er den tredje hendelsen av samme karakter som etterforskes i løpet av en enkelt uke i Tyskland, noe som skaper økt bekymring for sikkerheten rundt kritisk infrastruktur. Det foreligger foreløpig ingen ytterligere detaljer om hvem som kan stå bak aksjonen eller om det er opprettet konkrete mistanker mot navngitte personer eller organisasjoner i forbindelse med saken.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nytt-mulig-sabotasjeforsok-i-tyskland-1.18013732",
+            "title": "Nytt mulig sabotasjeforsøk i Tyskland",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f9e35d7e4d6c3c97",
+        "continued_from": null,
+        "headline": "Slottet oppdaterer retningslinjene for defilering forbi kong Harald",
+        "ingress": "Slottet opplyser at alle som rekker å stille seg i kø en time før stengetid, vil få slippe inn for å ta farvel med kong Harald.",
+        "summary": "I forbindelse med den store folkeinnsatsen og interessen for å ta et siste farvel med kong Harald i Slottskapellet, har Slottet gått ut med presiseringer rundt logistikken for defileringen. Det er bekreftet at alle som befinner seg i køen om lag en time før stengetid, vil få anledning til å defilere forbi kisten, selv om selve gjennomføringen strekker seg utover de opprinnelige tidspunktene. Slottet understreker imidlertid at det vil bli satt en strek for påfyll i køen, og at dette tidspunktet kan bli fremskyndet avhengig av hvor lang køen faktisk er til enhver tid. Det er derfor oppfordret til forståelse for at innslippet kan bli regulert fortløpende. Samtidig har regjeringen deltatt i markeringen og tatt sitt formelle farvel ved å defilere forbi båren. Slik det fremgår av informasjonen, vil publikum ha mulighet til å vise sin siste æresbevissthet frem til tirsdag, som er dagen før selve gravferden for kongen finner sted.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/defilering-ved-baren-til-kong-harald_-alle-som-er-i-ko-en-time-for-stengetid_-slipper-inn-1.18014126",
+            "title": "Defilering ved båren til kong Harald: Alle som er i kø en time før stengetid, slipper inn",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/pBmKBE/her-tar-regjeringen-farvel",
+            "title": "Her tar regjeringen farvel",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/q6EQLz/regjeringen-defilerer-forbi-kong-harald-vs-baare",
+            "title": "Regjeringen defilerer forbi kong Harald Vs båre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124576",
+            "title": "Defilering forbi kong Harald: Alle som er i kø en time før stengetid, slipper inn",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/defilering-forbi-kong-harald-alle-som-er-i-ko-en-time-for-stengetid-slipper-inn/s/80-95-54470",
+            "title": "Defilering forbi kong Harald: Alle som er i kø en time før stengetid, slipper inn",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f6b9d92a2db5891d",
+        "continued_from": null,
+        "headline": "Russland anklager Norge for blokade og brudd på Svalbard-traktaten",
+        "ingress": "Russiske myndigheter retter kraftige anklager mot Norge etter at skipet Professor Moltsjanov ble holdt tilbake på Svalbard.",
+        "summary": "Det oppsto diplomatiske spenninger etter at det russiske forskningsskipet Professor Moltsjanov ble tatt i arrest i Barentsburg på Svalbard. Russlands utenriksdepartement har via Telegram gått hardt ut og anklaget norske myndigheter for å gjennomføre en blokade samt begå alvorlige folkerettsbrudd. Kritiken har blitt trappet opp, og situasjonen har blitt beskrevet i svært kvasse ordelag, der det fra russisk hold blant annet har blitt fremsatt anklager mot Norge for statsterrorisme i kjølvannet av tilbakeholdelsen. Saken knytter seg til en rettslig kjennelse der det fremgår at ukrainske interesser eller aktører krever et tvangssalg av det russiske skipet. De offisielle russiske reaksjonene representerer en eskalering i den betente situasjonen rundt forvaltningen og aktiviteten på Svalbard, der fortolkningen av Svalbard-traktaten og dens jurisdiksjon igjen settes på spissen gjennom denne konkrete arrestasjonen av fartøyet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland-anklager-norge-for-blokade-pa-svalbard-1.18014119",
+            "title": "Russland anklager Norge for blokade på Svalbard",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/5pkLLb/russland-anklager-norske-myndigheter-for-blokade-paa-svalbard",
+            "title": "Russland anklager norske myndigheter for blokade og folkerettsbrudd på Svalbard",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19193372",
+            "title": "Anklager Norge for brudd på Svalbard-traktaten",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/ukraina-krever-tvangssalg-av-russisk-skip-pa-svalbard/s/80-95-53939",
+            "title": "Russland anklager norske myndigheter for blokade på Svalbard",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ac16eae60c949b52",
+        "continued_from": null,
+        "headline": "Volkswagen kutter 50.000 arbeidsplasser i stor omstilling",
+        "ingress": "Bilgiganten Volkswagen varsler kutt av 50.000 jobber, noe som sender aksjen til værs på børsen.",
+        "summary": "Den tyske bilindustrigiganten Volkswagen har offentliggjort en omfattende omstillingsplan som innebærer at 50.000 arbeidsplasser vil bli kuttet. Selskapet har den siste tiden møtt store utfordringer preget av hard konkurranse fra Kina og uforutsigbare tollsatser som har skapt et krevende markedsklima for tradisjonell europeisk bilproduksjon. Disse tøffe grepene for å sikre fremtidig lønnsomhet og effektivitet blir imidlertid tatt svært godt imot av finansmarkedet. Mens de ansatte rammes av de store nedbemanningsplanene, reagerer investorene med stor optimisme, noe som har ført til at Volkswagen-aksjen har steget kraftig og skutt i været på børsen etter at nyheten ble kjent. Analytikere og markedet vurderer dette som et nødvendig, om enn drastisk, skritt for at giganten skal klare å tilpasse seg et globalt bilmarked i rask endring.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/motor/volkswagen/bil/volkswagen-varsler-storstilt-omstilling-og-ytterligere-jobbkutt/2-1-2039111",
+            "title": "Volkswagen varsler storstilt omstilling og ytterligere jobbkutt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler?utm_medium=rss",
+            "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/M7W0gE/volkswagen-kutter-50-000-jobber?utm_medium=rss",
+            "title": "Volkswagen kutter 50.000 jobber",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/okonomi/volkswagen-kutter-50-000-jobber-aksjen-til-himmels/s/80-95-54362",
+            "title": "Volkswagen kutter 50.000 jobber – aksjen til himmels",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b82259fce01895b9",
+        "continued_from": null,
+        "headline": "Danmark planlegger retursentre utenfor EU innen utgangen av 2027",
+        "ingress": "Den danske regjeringen tar sikte på å sende papirløse migranter til et tredjeland utenfor EU innen 2027.",
+        "summary": "Danmark arbeider videre med sine omstridte planer om å opprette eksterne retursentre. Fredag opplyste den danske regjeringen at de venter å være klare til å sende de første personene uten lovlig opphold ut av landet og til et nytt retursenter plassert utenfor EU før utgangen av 2027. I forbindelse med fremdriften av disse planene avholdt den danske utlendings- og integreringsministeren et møte med sine kolleger fra Tyskland, Østerrike, Nederland og Hellas i København. Målet med møtet var å drøfte og konkretisere det videre arbeidet med sikte på å få på plass en bindende avtale med et utvalgt partnerland som kan huse disse sentrene. Per dags dato er det fremdeles ikke avklart hvilket land som faktisk skal motta flyktningene og migrantene som skal omfattes av denne ordningen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/danmark-vil-sende-papirlose-til-retursentre-utenfor-eu-innen-utgangen-av-2027-1.18013873",
+            "title": "Danmark vil sende papirløse til retursentre utenfor EU innen utgangen av 2027",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "dad0feca92000131",
+        "continued_from": null,
+        "headline": "OpenAI lanserer GPT-6 og erklærer starten på AGI-æraen",
+        "ingress": "OpenAI har sluppet sin nyeste generasjon kunstig intelligens, som selskapet mener vil revolusjonere kompleks databruk.",
+        "summary": "Selskapet OpenAI har formelt erklært starten på en ny epoke de kaller AGI-æraen, i forbindelse med lanseringen av en ny generasjon kunstig intelligens. Blant nyhetene som ble sluppet torsdag kveld, er modellversjonen GPT-6, en teknologi som ifølge utviklerne skal gjøre det mulig for mennesker å delegere langt mer komplekse arbeidsoppgaver til maskiner. Selskapet hevder at den nye teknologien kan utføre et bredt spekter av oppgaver på en datamaskin, og viser blant annet til at den kan betjene regnearkprogrammer som Excel betydelig raskere enn menneskelige eksperter, der den skal operere fire ganger raskere enn den regjerende verdensmesteren. I forbindelse med lanseringen kom det også kritiske uttalelser fra hold i selskapet, som mener at teknologibransjen som helhet har gjort en svært mangelfull jobb med å utvikle og integrere systemene på en forsvarlig måte frem til nå.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/kunstig-intelligens/openai/anthropic/openai-erklarer-starten-pa-agi-araen-bransjen-som-helhet-har-gjort-en-elendig-jobb/2-1-2039140",
+            "title": "OpenAI erklærer starten på «AGI-æraen»: – Bransjen som helhet har gjort en elendig jobb",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/kultur/nyhetsanalyse/i/RjQzJx/naa-slippes-gpt-6-openai-hevder-maskiner-naa-er-smartere-enn-mennesker",
+            "title": "GPT-6 er ute. Den kan bruke Excel raskere enn verdensmesteren.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "29bb638b26830f0e",
+        "continued_from": null,
+        "headline": "To personer reddet i Nepal etter ni dager",
+        "ingress": "To anleggsarbeidere ble reddet ut i live fra en vannkrafttunnel i Nepal, ni dager etter en ødeleggende flomkatastrofe.",
+        "summary": "To anleggsarbeidere ble fredag reddet ut i live fra en vannkrafttunnel i Nepal, ni dager etter at katastrofale jordskred og flom rammet grenseområdet mot Kina. Det bekrefter en nepalsk folkevalgt og det nepalske militæret, som publiserte en video av hendelsen. Redningsaksjonen fant sted ved Upper Trishuli 3A-kraftverket, med bistand fra internasjonale rådgivere, deriblant en australsk ingeniør. De to bergede arbeiderne ble fløyet til sykehus i Katmandu. Lokale myndigheter opplyser at den uventede redningen gir håp om å finne flere av de over hundre arbeiderne som fryktes innestengt i tunnelene. Flomkatastrofen i Himalaya har krevd over 1250 menneskeliv, og mer enn 5000 personer er fortsatt savnet etter naturkatastrofen. Redningsmannskaper kjemper derfor videre mot klokken i det krevende søkearbeidet etter overlevende i området.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nepal_-to-personer-reddet-etter-ni-dager-1.18013773",
+            "title": "Nepal: To personer reddet etter ni dager",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19193106",
+            "title": "To personer reddet levende ut av tunnel i Nepal etter flomkatastrofen i Himalaya",
+            "is_secondary": false
+          },
+          {
+            "source_name": "New York Times",
+            "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation.html",
+            "title": "Inside the Nepal Tunnel Rescue Operation",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss",
+            "title": "Nepal search teams rescue two workers from hydropower tunnel",
+            "is_secondary": false
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/video/20260904-nepal-two-flood-survivors-rescued-from-hydropower-tunnel",
+            "title": "#Nepal: Two flood survivors rescued from hydropower tunnel",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "779d33dbdde0c178",
+        "continued_from": null,
+        "headline": "Analytikere advarer mot slutten på billig strøm i Nord-Norge",
+        "ingress": "Nord-Norge kan miste sin posisjon med Europas billigste strøm på grunn av voksende industriforbruk.",
+        "summary": "Europas billigste strøm kan snart være historie i Nord-Norge, skal vi tro analyser fra eksperter. Ifølge en analytiker vil et krympende kraftoverskudd i kombinasjon med en betydelig vekst i det lokale industriforbruket legge et sterkt press på både strømnettet og prisene i landsdelen. Dette vil merkes i form av økte kostnader for forbrukere og næringsliv i årene som kommer. Utviklingen drives frem av det grønne skiftet og en storstilt etablering av ny kraftkrevende industri i nord, som forbruker store mengder elektrisitet raskere enn strømproduksjonen og nettkapasiteten utbygges. Det vurderes at dette ubalanseforholdet mellom tilgjengelig kraft og økt etterspørsel vil tvinge frem en prisøkning. Analytikerens vurdering peker på at det historiske fortrinnet med svært lav strømpris i regionen går mot en snarlig slutt, noe som krever betydelige oppgraderinger av infrastruktur og økt kraftproduksjon for å dempe prisveksten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/energi/analytiker-slutt-pa-billig-strom-i-nord-om-noen-fa-ar/2-1-2039226",
+            "title": "Analytiker: Slutt på billig strøm i nord om noen få år",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/5pkLKK/ekspert-slutt-paa-billig-stroem-i-nord-om-noen-faa-aar",
+            "title": "Ekspert: Slutt på billig strøm i nord om noen få år",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "938e002e88e36e5e",
+        "continued_from": null,
+        "headline": "Håp om romfartshistorie fra Andøya etter feilsøkingsarbeid",
+        "ingress": "Det er knyttet store forhåpninger til at det kan skrives norsk og europeisk romfartshistorie fra Andøya.",
+        "summary": "Det er knyttet store forhåpninger til at det kan skrives både norsk og europeisk romfartshistorie fra Andøya Space i Nordland. Etter tidligere tilbakeslag, som inkluderer fem mislykkede forsøk og flere måneder med grundige feilsøkingstester, er stemningen optimistisk blant aktørene. Ifølge vurderinger fra miljøene på stedet har man aldri vært nærmere suksess enn nå. Parallellt med rymdsatsingen byr medienes helgetipslister på andre anbefalinger, der det påpekes at en ikonisk duo fortjener en ny sjanse, mens en ikonisk trio har blitt skiftet ut. Romfartssatsingen på Andøya representerer likevel hovedfokuset for den teknologiske nyhetsdekningen, hvor feilsøkingsarbeidet og klargjøringen for nye oppskytingstester har vært intensive. Det er en utbredt oppfatning blant ekspertene på stedet at de tekniske utfordringene nå er bedre forstått, noe som gir grunnlag for fornyet optimisme før de kommende forsøkene på å nå verdensrommet fra norsk soil.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/d4pOPw/serietips-har-aldri-vaert-bedre",
+            "title": "– Har aldri vært bedre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19189974",
+            "title": "– Aldri vært nærmere suksess",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 25,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
