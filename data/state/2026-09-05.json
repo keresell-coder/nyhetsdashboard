@@ -312,5 +312,386 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "f9fe92d05b3aa945",
+        "continued_from": null,
+        "headline": "Massiv pågang og lange køer for å hedre kong Harald",
+        "ingress": "Det er opptil sju timers kø for å defilere forbi kong Haralds båre, og hundrevis av journalister vil dekke gravferden.",
+        "summary": "Lørdag formiddag er det lange køer ved Slottet i Oslo for å ta farvel med avdøde kong Harald V. Kongehusets vakter og Slottet anslår at ventetiden for å komme inn i Slottskapellet for å defilere forbi båren er på mellom seks og sju timer, og køen strekker seg over en kilometer. På grunn av den enorme pågangen er åpningstidene utvidet til klokken 23 gjennom helgen og mandag. Samtidig opplyser Utenriksdepartementet at det har kommet 650 akkrediteringssøknader fra pressefolk i 19 land for å dekke den kommende kongelige gravferden på onsdag, der flest journalister kommer fra Sverige, Tyskland, Storbritannia og Nederland. Kommunikasjonssjef Tuva Raanes Bogsnes i UD understreker at arbeidet rettes mot å formidle begivenheten på en måte som gjenspeiler stundens alvor. Utenom storskjermvisninger i Oslo sentrum, meldes det om at få andre norske kommuner tar seg råd til tilsvarende visninger, noe som har vakt noe lokal debatt, blant annet der Trond fikk avslag. I en kommentar påpekes det også prinsipielt at selv om monarker dør, har monarkiene historisk sett en tendens til å overleve det meste.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nesten-sju-timers-ventetid-for-a-defilere-kong-haralds-bare-1.18015232",
+            "title": "Nesten sju timers ventetid for å defilere kong Haralds båre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/650-journalister-fra-19-land-vil-dekke-kong-haralds-gravferd-1.18015228",
+            "title": "650 journalister fra 19 land vil dekke kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/uten-filter/kong-harald/uten-filter/monarki/kong-haralds-norge/2-1-2039467",
+            "title": "Kong Haralds Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124597",
+            "title": "Fikk beskjed om nesten syv timers kø for å ta farvel med kong Harald: – Oi",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124596",
+            "title": "650 journalister fra 19 land har søkt om å dekke kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19196752",
+            "title": "Lange køer ved Slottet – flere timers ventetid",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19192348",
+            "title": "Trond fikk nei: – Det hadde vært i kong Haralds ånd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/sju-timers-ventetid-for-a-defilere-ved-kong-haralds-bare/s/80-95-56345",
+            "title": "Sju timers ventetid for å defilere ved kong Haralds båre",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "63416115d4b7bccf",
+        "continued_from": null,
+        "headline": "Fire av ti sportsbutikker opplever underskudd over tid",
+        "ingress": "Flere norske sportsbedrifter har slitt med svake resultater, men enkelte aktører ser nå lysere på framtiden.",
+        "summary": "Tall viser at fire av ti sportsbutikker i bransjen taper penger, noe som bekrefter en lengre periode med krevende økonomiske forhold og svake resultater for mange aktører. Denne negative trenden har preget sportsbransjen gjennom flere år med det som beskrives som en vedvarende økonomisk motvind. Samtidig som bransjestatistikken viser røde tall for en betydelig andel av virksomhetene, finnes det tegn til snuoperasjoner. Eksempelvis har sportsbedriften Milrab meldt at deres egne interne tiltak og igangsatte snuoperasjoner endelig har begynt å virke, noe som antyder en mulig bedring for enkelte selskaper midt oppe i det generelt krevende markedet. Analytikere og aktører vurderer situasjonen som utfordrende, men det er altså ulikt hvor hardt de enkelte bedriftene er rammet av de langvarige utfordringene i detaljhandelen for sportsutstyr.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/k0X3yk/fire-av-ti-sportsbutikker-taper-penger?utm_medium=rss",
+            "title": "Fire av ti sportsbutikker taper penger",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/zOzQ3w/fire-av-ti-sportsbutikker-taper-penger",
+            "title": "Fire av ti sportsbutikker taper penger",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b01ccb9687b5e708",
+        "continued_from": null,
+        "headline": "Sveriges opposisjonsleder retter hard kritikk mot statsminister Kristersson",
+        "ingress": "Etter avsløringer om en SD-tjenetemanns bånd til Russland, anklager S-leder Magdalena Andersson statsministeren for å svikte landet.",
+        "summary": "I en politisk debatt har Socialdemokraternas leder Magdalena Andersson rettet kraftig kritikk mot Sveriges statsminister Ulf Kristersson. Bakgrunnen for uttalelsene er nye opplysninger om at en tjenestemann tilknyttet Sverigedemokraterna (SD) skal ha hatt forbindelser til russiske interesser. Ifølge Andersson viser statsministeren manglende alvor knyttet til denne sikkerhetssituasjonen. Under en tale stilte opposisjonslederen et direkte og kritisk spørsmål om hvorfor Ulf Kristersson velger å sette Sverigedemokraterna foran Sverige. Denne ordvekslingen utgjør en meningsytring og en politisk angrep fra opposisjonen, der det blir argumentert for at regjeringens håndtering av saken er utilstrekkelig. Det er i kildene ikke lagt frem offisielle konklusjoner fra uavhengige granskingen av tjenestemannens faktiske aktiviteter, men uttalelsene reflekterer et høyt politisk konfliktnivå i svensk politikk rundt sikkerhetsrisikoer knyttet til utenlandsk påvirkning.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/s-ledaren-kristersson-satter-sd-framfor-sverige/",
+            "title": "S-ledaren: Kristersson sätter SD framför Sverige",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/gkxR00/s-ledaren-kristersson-satter-sd-framfor-sverige?utm_medium=rss",
+            "title": "S-ledaren: Kristersson sätter SD framför Sverige",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c0cbf8ad2e01eb86",
+        "continued_from": null,
+        "headline": "Trumps utsendinger ankom Moskva med fredsforslag i krigen",
+        "ingress": "Amerikanske utsendinger har landet i Moskva for å drøfte en plan for å avslutte krigen, mens angrep rammer Ukraina.",
+        "summary": "USAs spesialutsending Steve Witkoff og Donald Trumps svigersønn Jared Kushner landet lørdag formiddag i Moskva, der de ble tatt imot av Russlands spesialutsending Kirill Dmitrijev. Formålet med besøket er å diskutere et nytt amerikansk forslag for å få slutt på krigen, og utsendingene planlegger å reise videre til Ukraina i nær framtid. Samtidig som det diplomatiske initiativet utfolder seg, melder Ukrainas president Volodymyr Zelenskyj om russiske flyangrep mot flyplassene i Kyiv og Boryspil. Luftrommet over landet har vært stengt siden 2022, men det har vært vurdert om utsendingene kunne fly inn. President Zelenskyj karakteriserer angrepene som en direkte reaksjon på disse fredsplanene og uttaler på Telegram at russisk-iranske droner er svaret på amerikansk diplomati. I tillegg har situasjonen krevd menneskeliv og materielle ødeleggelser, blant annet ved at fem personer skal ha blitt drept og produksjonen stanset da et russisk missil rammet et stålverk i Dnipro-regionen lørdag, ifølge stålprodusenten Metinvest. Denne situasjonen belyser et krevende spenn mellom pågående militære handlinger og forsøk på diplomatiske forhandlinger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trumps-menn-pa-plass-i-russland-1.18015299",
+            "title": "Trumps menn på plass i Russland",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/zelenskyj_-russiske-angrep-mot-ukrainske-flyplasser--1.18015176",
+            "title": "Zelenskyj: Russiske angrep mot ukrainske flyplasser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/usa/krigen-i-ukraina/russland/trumps-menn-i-moskva-med-nytt-fredsforslag/2-1-2039724",
+            "title": "Trumps menn i Moskva med nytt fredsforslag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/XMnOeE/trumps-menn-i-moskva-med-nytt-fredsforslag",
+            "title": "Trumps menn i Moskva med nytt fredsforslag",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "39c320b0f9f05620",
+        "continued_from": null,
+        "headline": "Ingebrigtsen møter kraftig kritikk etter uttalelser",
+        "ingress": "Jakob Asserson Ingebrigtsen får hard medfør av sine rivaler etter å ha kommet med kontroversielle uttalelser om Cole Hocker.",
+        "summary": "Det har oppstått opphetede ordskifter i friidrettsmiljøet etter at Jakob Asserson Ingebrigtsen kom med kraftige utspill mot konkurrenten Cole Hocker. Ifølge kildene anklaget Ingebrigtsen sin amerikanske rival for å ha benyttet seg av et såkalt triks i forbindelse med bruken av fartsholdere. I samme omgang skal den norske løperprofilen ha omtalt resten av feltet som en gjeng med tapere. Disse uttalelsene har vakt sterke reaksjoner blant andre utøvere og aktører i idrettsmiljøet. Flere har slått hardt tilbake mot nordmannen og karakterisert oppførselen og ordbruken som flau. Sakens kilder viser at konflikten preges av høyt konfliktnivå og sterke personlige fronter utøverne imellom etter det aktuelle mesterskapet eller løpet. Dette er en bekreftet situasjon basert på uttalelser fremsatt i mediene, hvor det er liten tvil om at ordbruken har skapt dype splittelser og harde fronter i sosiale og tradisjonelle medier. Det er foreløpig ikke kjent om hendelsen vil få offisielle disiplinære følger fra forbundets side, men ordkrigen fortsetter å engasjere publikum og eksperter verden over i stor grad.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/43lr4V/cole-hocker-manager-slaar-hardt-tilbake-mot-ingebrigtsen-det-er-flaut",
+            "title": "Slår hardt tilbake mot Ingebrigtsen: – Det er flaut",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/9peGWd/slaar-hardt-tilbake-mot-ingebrigtsen-det-er-flaut",
+            "title": "Slår hardt tilbake mot Ingebrigtsen: – Det er flaut",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "42631186682d4919",
+        "continued_from": null,
+        "headline": "Norges Bank vurderer å droppe kongelig myntportrett",
+        "ingress": "For første gang på tusen år kan en norsk konge bli utelatt fra landets mynter.",
+        "summary": "En potensielt historisk endring kan være under oppseiling i Norges Bank, hvor det vurderes å bryte en tradisjon som har vart i nesten tusen år. Ifølge rapportene kan Kong Haakon VIII risikere å bli den første regjerende monarken siden Olav den hellige som ikke får sitt portrett preget på norske mynter. Denne mulige beslutningen har vakt sterke reaksjoner og blitt møtt med kritikk fra hold som kaller det hele dypt historieløst. Kildene peker på at mynttradisjonen har vært en sentral del av nasjonale symboler og kongehusets synlighet i samfunnet gjennom århundrer. Det er foreløpig snakk om en vurdering som Norges Bank ser på, og det gjenstår å se om de faktisk kommer til å gå bort fra praksisen med å avbilde landets monark på betalingsmidlene. Analytikere og historikere har uttrykt bekymring for at et sliktgrep vil svekke båndene til landets lange historiske røtter. Samtidig påpeker andre at bruken av fysiske kontanter generelt er på sterk retur i samfunnet, noe som kan ha spilt inn i en eventuell moderniseringsprosess. Beslutningen er ennå ikke endelig spikret, men debatten viser at historiske symboler fortsatt vekker sterke følelser og engasjement i den offentlige samtale i Norge i dag.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest?utm_medium=rss",
+            "title": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/ArqLlx",
+            "title": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fb48d80ac8433b64",
+        "continued_from": null,
+        "headline": "Petter Stordalens sønn satser millionbeløp på børsen",
+        "ingress": "Jakob Stordalen forvalter nå et betydelig millionbeløp uavhengig av familiens tapssluk av et selskap.",
+        "summary": "Mens det tradisjonelle familieinvesteringsekosystemet og holdingselskapet til Stordalen-familien i perioder har fungert som et rent tapssluk, velger den yngste sønnen å gå sine egne veier. Petter Stordalen har gitt sin 29 år gamle sønn, Jakob Stordalen, et beløp på 150 millioner kroner som han nå har fått full ansvarsrett til å forvalte på egen hånd. Ifølge opplysningene fra Finansavisen er den unge investoren godt i gang med å bygge opp sin helt egne aksje- og verdipapirportefølje på Børsen. Dette trekket blir sett på som en spennende og offensiv strategi i et krevende markedslandskap. Det understrekes at selv om familieformuen har opplevd utfordringer og minsket verdi på visse områder, viser denne kapitaltildelingen en tillit til den oppadkesende generasjonens evne til å skape avkastning. Finansanalytikere følger spent med på hvilke selskaper og bransjer 29-åringen velger å satse på i sin nye portefølje. Investeringsvalgene hans vil trolig bli lagt merke til i finansmiljøet fremover, gitt den enorme oppmerksomheten som følger med Stordalen-navnet i norsk næringsliv. Dette er et bekreftet finansielt trekk som markerer en ny fase for den yngste i søskenflokken når det gjelder aktiv deltakelse i næringslivet og kapitalforvaltning.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/petter-a-stordalen/jakob-stordalen/strawberry-capital/petter-stordalen-gir-yngstesonnen-150-mill-til-forvaltning-slik-investerer-29-aringen-pa-borsen/2-1-2039180",
+            "title": "Petter Stordalen gir yngstesønnen 150 mill. til forvaltning – slik investerer 29-åringen på Børsen",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "38e3df405bb52076",
+        "continued_from": null,
+        "headline": "To personer funnet i live etter flomkatastrofe",
+        "ingress": "En kinesisk mann og en nepalsk kvinne ble reddet etter ti døgn i flomrammede områder.",
+        "summary": "Lørdag ble det meldt om et sjeldent lyspunkt da en kinesisk mann og en nepalsk kvinne ble funnet i live hele ti dager etter at Nepal og Tibet ble rammet av en ekstrem og voldsom styrtflom. Ifølge forsvarets talspersoner, som er sitert av nyhetsbyrået AFP, ble mannen reddet ut i fra en dyp vasskrafttunnel i Nepal. Kort tid etter denne første redningsaksjonen kom det inn meldinger om at kvinnen var lokalisert i live inne i et hus i byen Nuwakot. Naturkatastrofen som rammet regionen, besto av voldsomme jordskred og massive flommer i det utsatte grenseområdet mellom Nepal og Kina for over en uke siden. Omfanget av katastrofen er enormt, og situasjonen beskrives som svært alvorlig av hjelpearbeidere på stedet. Det er offisielt bekreftet at over 1250 mennesker har mistet livet i ruinene og vannmassene, mens mer enn 5000 personer fremdeles er registrert som savnede. Redningsarbeidet har vært preget av store utfordringer grunnet uframkommelighet og ødelagt infrastruktur. Funnene av de to overlevende etter så lang tid blir av redningsmannskapene betegnet som et lite mirakel i en ellers bunnløs tragedie som har rammet tusenvis av familier i regionen hardt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kinesisk-mann-og-nepalsk-kvinne-funnen-i-live-i-nepal-1.18015205",
+            "title": "Kinesisk mann og nepalsk kvinne funnen i live i Nepal",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/RjXlnA/flomkatastrofen-i-himalaya-funnet-levende-etter-ti-dager",
+            "title": "To personer funnet i live ti dager etter styrtflommen i Nepal",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/V6XaL1/to-personer-funnet-i-live-ti-dager-etter-styrtflommen-i-nepal",
+            "title": "To personer funnet i live ti dager etter styrtflommen i Nepal",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "045d0d2d94ec9d6c",
+        "continued_from": null,
+        "headline": "Eksperter analyserer Erling Braut Haalands unike spillestil",
+        "ingress": "Erling Braut Haalands spesifikke bevegelser gjør ham til en nærmest umulig spiss å stoppe.",
+        "summary": "Denne artikkelen utgjør en ren analyse og vurdering av fotballspilleren Erling Braut Haalands ekstreme ferdigheter på banen, med særlig fokus på hans løpsmønstre og posisjonering. Ifølge innsiktsfulle analyser publisert i Aftenposten oppstår den virkelige magien rundt Manchester City-stjernen lenge før ballen i det hele tatt når frem til ham. Det er spissens helt unike og uforutsigbare bevegelser flere sekunder før han mottar ballen som gjør ham til en marerittmotstander for forsvarsspillere. Artikkelen argumenterer for at det nettopp er denne evnen til å lese spillet og ligge et skritt foran som gjør den norske landslagsspissen tilnærmet umulig å stoppe for motstandernes bakre rekker. Det dreier seg her om en fotballfaglig vurdering og journalistisk analyse av hans spillestil, heller enn tradisjonell nyhetsformidling om en enkeltstående hendelse. Slike analyser gir et dypere innblikk i hvorfor Haaland konsekvent leverer på høyeste internasjonale nivå, uavhengig av hvem som står på motsatt banehalvdel. Ekspertene peker på at timingen i retningsforandringene hans er det fremste beviset på en ekstraordinær spilleforståelse som skiller ham ut fra de aller fleste andre moderne spisser i internasjonal toppfotball i dag.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/16ey6W/de-unike-bevegelsene-dette-gjoer-haaland-umulig-aa-stoppe",
+            "title": "De unike bevegelsene: Dette gjør Haaland «umulig» å stoppe",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 31,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
