@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-05",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "220be331a056a3ff",
+        "continued_from": null,
+        "headline": "Lang ventetid og enorm interesse for kong Haralds gravferd",
+        "ingress": "Det er opptil sju timers kø for å defilere forbi kong Haralds båre, og 650 journalister vil dekke gravferden.",
+        "summary": "Lørdag formiddag er det lange køer og rundt sju timers ventetid for å komme inn i Slottskapellet for å defilere forbi kong Haralds båre. Kongehuset har utvidet åpningstidene til klokken 23 i helgen og mandag på grunn av den store pågangen. Samtidig melder Utenriksdepartementet at 650 pressefolk fra 19 land har søkt om akkreditering for å dekke den kommende gravferden i Oslo domkirke onsdag 9. september. Sikkerhetstiltakene rundt arrangementet er omfattende, med planer om full stans for biltrafikk i sentrum og en mobilisering på 6500 politifolk og soldater. Blant de internasjonale oppsiktvekkende nyhetene rundt onsdagens seremonier er at USAs president Donald Trump har opplyst at han skal delta på et republikansk arrangement i Dallas i Texas samme dag. Debatter har også oppstått rundt omfanget av storskjermvisninger i landets kommuner utenfor hovedstaden, hvor enkelte har fått avslag på sine søknader. Enkelte av kommentarartiklene i kildematerialet belyser historiske tradisjoner knyttet til monarkiets overlevelse og sørgemarsjer, hvilket representerer vurderinger og meningsbærende innhold fremfor nøytral nyhetsrapportering.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nesten-sju-timers-ventetid-for-a-defilere-kong-haralds-bare-1.18015232",
+            "title": "Nesten sju timers ventetid for å defilere kong Haralds båre",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/650-journalister-fra-19-land-vil-dekke-kong-haralds-gravferd-1.18015228",
+            "title": "650 journalister fra 19 land vil dekke kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump-skal-til-dallas-samme-dag-som-kong-haralds-gravferd-1.18015092",
+            "title": "Trump skal til Dallas samme dag som kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/uten-filter/kong-harald/uten-filter/monarki/kong-haralds-norge/2-1-2039467",
+            "title": "Kong Haralds Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/lnaQP9/lange-koeer-for-defilering",
+            "title": "Lange køer for defilering",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/7pojxo/650-journalister-fra-19-land-har-soekt-om-aa-dekke-kong-haralds-gravferd",
+            "title": "650 journalister fra 19 land har søkt om å dekke kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124597",
+            "title": "Nesten syv timers kø for defilering",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124596",
+            "title": "650 journalister fra 19 land har søkt om å dekke kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JOMlw8/oslo-sentrum-stenges-slik-vil-kong-haralds-gravferd-paavirke-byen",
+            "title": "Kong Haralds gravferd: Alle som skal inn i Oslo sentrum, må gjennom sikkerhetskontroll",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19196752",
+            "title": "Lange køer ved Slottet før defileringen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19192348",
+            "title": "Trond fikk nei: – Det hadde vært i kong Haralds ånd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/650-journalister-fra-19-land-har-sokt-om-a-dekke-kong-haralds-gravferd/s/80-95-56246",
+            "title": "650 journalister fra 19 land har søkt om å dekke kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/norsk-debatt/kong-haralds-begravelse-slik-blir-sorgemarsjen/o/80-95-52193",
+            "title": "Kong Haralds sørgemarsj: Dette kan vi forvente",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6da28c458c6c0958",
+        "continued_from": null,
+        "headline": "Ulike strategier for Viking og Bodø/Glimt på overgangsmarkedet",
+        "ingress": "Nyrike Viking bruker store summer på spillere, mens Bodø/Glimt forholder seg rolige.",
+        "summary": "Det kan tolkes som et stikk til Viking at klubben velger å bruke store summer på overgangsmarkedet. Ifølge tilgjengelige opplysninger kaster den nyrike klubben ut rundt 70 millioner kroner på bare en dag for å forsterke stallen. Samtidig forholder den styrtrike konkurrenten Bodø/Glimt seg helt rolig til situasjonen. Dette viser to vidt forskjellige tilnærminger til klubbdrift og spillerlogistikk mellom to av landets fremste fotballag. Mens Viking velger en offensiv og pengetung strategi for å hente nye spillere, velger Glimt en mer avventende linje. Analytikere og supportere merker seg kontrastene i pengebruken, selv om det gjenstår å se hvilken strategi som vil gi best sportslige resultater i sesongen som kommer. Forskjellene i økonomisk handlingsrom og handlemåte har skapt debatt i fotballmiljøet.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/j0M1Gq/det-kan-tolkes-som-et-stikk-til-viking",
+            "title": "Det kan tolkes som et stikk til Viking",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "7ff1284e00c67872",
+        "continued_from": null,
+        "headline": "Midlertidig våpenhvile ved Zaporizjzja-kraftverket",
+        "ingress": "En lokal våpenhvile er innført for å reparere strømforsyningen til Zaporizjzja kjernekraftverk.",
+        "summary": "Det er bekreftet av Det internasjonale atomenergibyrået (IAEA) at en lokal våpenhvile har trådt i kraft for å reparere den kritiske strømforsyningen til det russiskkontrollerte Zaporizjzja kjernekraftverk i Ukraina. Kraftverket har vært helt uten ekstern strøm siden 20. august, og har i denne perioden vært fullstendig avhengig av nøddieselgeneratorer for å opprettholde sikkerheten. Våpenhvilen faller sammen i tid med at amerikanske utsendinger ventes til både Moskva og Kyiv for å diskutere et mulig forslag om å få en slutt på krigen. I forbindelse med dette besøket har Ukrainas president Volodymyr Zelenskyj beordret sine soldater til å stanse kamphandlingene, og han har samtidig oppfordret Moskva til å gjøre det samme. Til tross for disse diplomatiske initiativene og våpenhvilen ved kraftverket, fortsetter krigshandlingene andre steder i landet. Natt til lørequ ble det meldt at fire mennesker ble drepte i russiske angrep mot Ukraina, noe som understreker at situasjonen på bakken fortsatt er ekstremt ustabil og farlig for sivilbefolkningen midt opp i de pågående diplomatiske samtalene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/iaea_-vapenhvile-ved-zaporizjzja-kraftverket-1.18015159",
+            "title": "IAEA: Våpenhvile ved Zaporizjzja-kraftverket",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "729ac7e239c0588b",
+        "continued_from": null,
+        "headline": "Sjømannskirkene åpner for direkteoverføring av kongegravferden",
+        "ingress": "Nesten alle sjømannskirker vil direkteoverføre gravferden til kong Harald.",
+        "summary": "Det er bekreftet at Kong Haralds gravferd vil bli direkteoverført til nesten alle sjømannskirker verden over, ifølge meldinger fra NTB. Seremonien finner sted i Oslo domkirke onsdag klokken 13. Sjømannskirken opplyser at de har merket stor pågang i sørgetiden, spesielt blant norske studenter som oppholder seg i utlandet. Kommunikasjonssjef Sissel Myklebust Mæland i Sjømannskirken forteller at det er knyttet store forventninger til oppmøtet, og det er ventet spesielt mange besøkende ved kirkene i København, Stockholm og London for å få med seg den høytidelige seremonien i fellesskap med andre landsmenn. Tiltaket gjør det mulig for nordmenn i utlandet å delta i den nasjonale sorgen og følge avskjeden på direkten i trygge og kjente rammer. Sjømannskirkene legger til rette for en verdig ramme rundt sendingen, og åpner dørene for alle som ønsker å minnes kongen sammen med andre.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/sjomannskirkene-holder-apent-for-direkteoverforing-fra-gravferden-1.18015141",
+            "title": "Sjømannskirkene holder åpent for direkteoverføring fra gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124588",
+            "title": "Sjømannskirkene holder åpent for direkteoverføring fra gravferden",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "51c072128613cc95",
+        "continued_from": null,
+        "headline": "Streik avverget i grossistoppgjøret etter nattemekling",
+        "ingress": "En ny avtale i grossistoppgjøret sikrer at det ikke blir streik.",
+        "summary": "Det er bekreftet at det ikke blir streik i grossistoppgjøret etter at Yrkestrafikkforbundet, Fellesforbundet og NHO Service og Handel ble enige om en ny avtale. Enighet ble nådd lørdag morgen etter at partene hadde meklet på overtid i over fem timer. Riksmekleren la frem en skisse klokken 05.15, og samtlige parter har valgt å anbefale denne løsningen. Den nye avtalen innebærer et generelt tillegg på 6,50 kroner i timen med virkning fra 1. april. I tillegg økes minstelønnssatsene med totalt 16,62 kroner i 2026, noe som inkluderer en tidligere regulering på 7,12 kroner samt et særskilt tillegg på 3 kroner. Avtalen sikrer også at ansatte får innført forskuttering av syke-, pleie- og foreldrepenger i en periode på fire måneder, opplyser NTB. Dette har vært en viktig velferdsreform for arbeidstakerne som nå er sikret gjennom den nye grossistavtalen. Partene uttrykker tilfredshet med at en arbeidskonflikt ble avverget gjennom konstruktiv dialog og meklingsinnsats på tampen av fristen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/streik-avverget-i-grossistoppgjoret-1.18015095",
+            "title": "Streik avverget i grossistoppgjøret",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/bO6XOd/streik-avverget-i-grossistoppgjoeret",
+            "title": "Streik avverget i grossistoppgjøret",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19196439",
+            "title": "Streik avverget i grossistoppgjøret",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "55b79e22cd9366cc",
+        "continued_from": null,
+        "headline": "Foreldre og advokater tar opp kampen mot teknologigigantene",
+        "ingress": "Foreldre kjemper og advokater utfordrer tekgigantene i rettssystemet.",
+        "summary": "Denne teksten er en meningsbærende analyse og skildring av en voksende internasjonal kamp mot mektige teknologiselskaper. Mange foreldre har mistet barna sine, og de krever nå rettferdighet gjennom rettssystemet. Ifølge artikkelen mobiliseres det bredt der foreldre kjemper en hard kamp, politikere kommer med kraftige uttalelser og kjefter på industrien, og erfarne advokater med bakgrunn fra krevende rettssaker knyttet til asbest og legemidler nå tar tøylene for å utfordre tekgigantene i domstolene. Saken belyser de enorme menneskelige omkostningene ved tech-industriens praksis, vurdert ut fra et kritisk perspektiv på manglende regulering og ansvarlighet hos gigantene. Dette er ikke en nøytral nyhetsrapport, men en engasjert skildring av et juridisk og moralsk oppgjør som forsøker å holde teknologiselskapene ansvarlige for konsekvensene av sine plattformer. Det påpekes at veien til rettferdighet er lang og krevende, men at bruken av erfarne massesøksmålsadvokater kan markere et taktskifte i måten samfunnet stiller teknologibransjen til ansvar på.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/magasinet/teknologi/meta/snapchat/youtube/-mange-foreldre-har-mistet-barna-sine-de-krever-rettferdighet/2-1-2036519",
+            "title": "– Mange foreldre har mistet barna sine. De krever rettferdighet.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 42,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
