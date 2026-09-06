@@ -483,5 +483,325 @@
       "dropped_count": 33,
       "drop_reasons": []
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "e143ff518f9dafa0",
+        "continued_from": null,
+        "headline": "Internasjonale gjester deltar i kong Haralds gravferd",
+        "ingress": "Kong Abdullah II av Jordan, representanter for den britiske kongefamilien og norsk skisport deltar i kong Haralds gravferd onsdag.",
+        "summary": "Flere prominente gjester vil delta under kong Haralds gravferd onsdag. Det jordanske kongehuset har bekreftet at kong Abdullah II vil være til stede. Det blir også klart at prins William fra den britiske kongefamilien kommer til Oslo. I tillegg skal norsk skisport være representert ved skipresident Roger Finjord. Besøket fra den jordanske kongen bringer fram minner om kong Haralds statsbesøk til Jordan i 2020, som var hans siste før koronapandemien brøt ut. Under det besøket fikk det norske kongeparet blant annet se stedet der Jesus ble døpt i Jordanelva. Dette knytter seg til en tradisjon i det norske kongehuset hvor kong Harald selv ble døpt med hellig vann fra denne elva. Bekreftelsene om gjestelisten har kommet fra ulike hold, inkludert det jordanske kongehuset og norske medier, og markerer en verdig avslutning der både internasjonale statsoverhoder og nasjonale støttespillere samles for å ta farvel med kongen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongen-av-jordan-skal-delta-i-kong-haralds-gravferd-1.18015764",
+            "title": "Kongen av Jordan skal delta i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124605",
+            "title": "Kongen av Jordan deltar i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19195654",
+            "title": "William kommer til kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/skipresidenten-deltar-i-kong-haralds-gravferd/s/80-95-57386",
+            "title": "Skipresidenten deltar i kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c0d5308ff9f99468",
+        "continued_from": null,
+        "headline": "Vellykket rakettoppskytning fra Andøya Space",
+        "ingress": "Lørdag kveld gjennomførte selskapet Isar Aerospace en oppskyting av raketten Spectrum 2.",
+        "summary": "Lørdag kveld ble det gjennomført en historisk og vellykket rakettoppskytning fra Andøya Space av selskapet Isar Aerospace. De sendte opp raketten som har fått navnet «Spectrum 2». Hendelsen blir beskrevet i ordelag som viser stor begeistring, blant annet med sitater om at opplevelsen var helt fantastisk. Dette markert en viktig milepæl for den kommersielle romfarten og for testvirksomheten på Andøya. Det er foreløpig bekreftet at oppskytingens tekniske mål ble nådd i henhold til planene, noe som styrker Norges posisjon innen europeisk romvirksomhet. Analyser og vurderinger knyttet til hendelsen peker på at vellykkede tester som dette er avgjørende for videre utvikling av bæreraketter i Europa, og det åpner opp for fremtidige kommersielle oppsendasjoner fra norsk jord. Lokale og nasjonale aktører uttrykker optimisme for fremtiden til basen, som har jobbet lenge for å nå denne typen operative milepæler.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space?utm_medium=rss",
+            "title": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "12ea1b607dbdedea",
+        "continued_from": null,
+        "headline": "Trump-utsendingene Witkoff og Kushner har ankommet Kyiv",
+        "ingress": "Steve Witkoff og Jared Kushner er i Kyiv for første gang etter fredssamtaler med Putin.",
+        "summary": "De amerikanske utsendingene Steve Witkoff og Jared Kushner har ankommet Kyiv for sine første offisielle samtaler med ukrainske myndigheter, inkludert president Volodymyr Zelenskyj. Besøket skjer i kjølvannet av et møte med Russlands president Vladimir Putin i Moskva lørdag, hvor de la fram et nytt amerikansk fredsforslag for å få i gang igjen forhandlinger midt under en opptrapping av flyangrep fra begge sider. Forventningene til et umiddelbart gjennombrudd beskrives som lave i den ukrainske hovedstaden. Samtidig har Zelenskyj uttalt at Ukraina er rede til å føre en konstruktiv dialog med de amerikke representantene. Besøket markerer en ny diplomatisk offensiv fra USA for å søke en løsning på krigen, derutsendingene forsøker å lytte til begge parter. Det er ennå usikkert hvilke konkrete resultater samtalene vil føre til, men reisevirksomheten understreker et høyt diplomatisk aktivitetsnivå for å prøve å dempe konflikten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0pq040/trump-utsendingene-witkoff-og-kushner-har-ankommet-kyiv",
+            "title": "Trump-utsendingene Witkoff og Kushner har ankommet Kyiv",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19198483",
+            "title": "Steve Witkoff og Jared Kushner har ankommet Kyiv",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/trump-utsendingene-witkoff-og-kushner-har-ankommet-kyiv/s/80-95-57458",
+            "title": "Trump-utsendingene Witkoff og Kushner har ankommet Kyiv",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5",
+            "title": "Trump envoys arrive in Ukraine after meeting Putin in Moscow",
+            "is_secondary": false
+          },
+          {
+            "source_name": "BBC",
+            "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Le Monde",
+            "link": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-attendus-a-kiev-apres-apres-avoir-rencontre-vladimir-poutine-samedi-a-moscou_6766818_3210.html",
+            "title": "EN DIRECT, guerre en Ukraine : après Moscou samedi, les émissaires américains Steve Witkoff et Jared Kushner sont arrivés à Kiev pour une première visite",
+            "is_secondary": false
+          },
+          {
+            "source_name": "SCMP",
+            "link": "https://www.scmp.com/news/world/europe/article/3366544/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-putin-moscow?utm_source=rss_feed",
+            "title": "US envoys Witkoff, Kushner arrive in Kyiv after talks to Putin in Moscow",
+            "is_secondary": false
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
+            "title": "🔴 Trump's envoys Witkoff and Kushner arrive in Kyiv after 'substantive' talks with Putin",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 8,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "40227c32a6f4e200",
+        "continued_from": null,
+        "headline": "Premier League-sjefenes spesielle forhistorie fra Baskerland",
+        "ingress": "Det går en rød tråd fra et lite nabolag i Baskerland til den aller største scenen søndag kveld.",
+        "summary": "Det går en oppsiktsvekkende og spesiell rød tråd fra et lite nabolag i Baskerland og hele veien til den aller største scenen søndag kveld, ifølge kildene. Sjefene i Premier League har en felles forhistorie som vekker oppsikt i fotballverdenen. Ifølge rapportene og analysene som presenteres, beskrives denne felles bakgrunnen som helt fenomenal. Dette unike båndet mellom sentrale aktører i engelsk toppfotball viser hvordan geografisk tilhørighet og tidlig utvikling i spesifikke miljøer kan få enorme utslag på den globale fotballscenen. Kildene legger vekt på å fremheve det ekstraordinære i at ledere med en slik bakgrunn nå befinner seg i toppunktene for verdens mest populære fotballiga. Det er bekreftet gjennom omtalene at denne koblingen mellom de involverte sjefene er høyst sjelden i internasjonal idrettssammenheng. Samtidig vurderes denne bakgrunnen som en mulig nøkkel til å forstå deres nåværende lederstil og suksess i engelsk fotball. Nærmere detaljer om hvilke personer det gjelder, fremgår i den oppgitte dekningen, der fenomenet trekkes frem som et av de mest fascinerende sammentreffene i moderne fotballhistorie. Saken belyser et uvanlig perspektiv på hvordan trenere og ledere finner veien til toppen av hierarkiet i Premier League.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/m0aBpg/pl-sjefenes-utrolige-forhistorie-helt-fenomenalt",
+            "title": "PL-sjefenes utrolige forhistorie: – Helt fenomenalt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/JOXMx8/pl-sjefenes-utrolige-forhistorie-helt-fenomenalt",
+            "title": "PL-sjefenes utrolige forhistorie: – Helt fenomenalt",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9544d90e831ba294",
+        "continued_from": null,
+        "headline": "Nesten 7000 personer tok farvel med kong Harald lørdag",
+        "ingress": "Lørdag defilerte 6960 personer forbi kong Haralds båre i Slottskapellet, opplyser Slottet.",
+        "summary": "Lørdag var det stor pågang da til sammen 6960 personer møtte opp for å defilere forbi kong Haralds båre i Slottskapellet, viser offisielle tall fra Slottet som formidlet via NTB. Det meldes om lange køer og en ventetid på opp mot syv timer for de som ønsket å ta et siste farvel med monarken. For å håndtere den store folkemengden ble åpningstidene utvidet til klokken 23 lørdag kveld. Slottet opplyser at utvidede åpningstider også vil gjelde for søndag og mandag. Tirsdag vil være den siste dagen med mulighet for defilering, da i tidsrommet fra klokken 10 til 19. Gravferden for kong Harald er berammet til onsdag klokken 13. Tallene og tidspunktene er offisielt bekreftet av arrangørene og gir et innblikk i det sterke engasjementet og savnet i befolkningen. Den lange ventetiden har ikke holdt folk tilbake, noe som illustrerer den dype respekt og medfølelse som råder i landet. Analyser av situasjonen tilsier at det ventes like store eller større folkemengder de gjenstående dagene frem til begravelsen onsdag. Myndigheter og ansvarlige instanser har derfor lagt til rette med ekstra kapasitet og utvidede rammer for å imøtekomme alle som ønsker å delta i landets offisielle avskjed med kongen i Slottskapellet i Oslo.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nesten-7000-defilerte-ved-kong-haralds-bare-laurdag-1.18015844",
+            "title": "Nesten 7000 defilerte ved kong Haralds båre laurdag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/16ewBG/naer-7000-defilerte-ved-kong-haralds-baare-i-gaar",
+            "title": "Nær 7000 defilerte ved kong Haralds båre i går",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124607",
+            "title": "Nesten 7000 defilerte lørdag",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "43d44a10f3c8cd81",
+        "continued_from": null,
+        "headline": "Jacob Wallenberg advarer sterkt mot svenske venstreplaner",
+        "ingress": "Finansmannen Jakob Wallenberg advarer om at svensk næringsliv kan ta skade dersom opposisjonen vinner valget.",
+        "summary": "Den fremtredende svenske finansmannen Jakob Wallenberg uttrykker dyp uro og advarer mot at det svenske næringslivet og foretaksomheten kan lide overlast dersom venstreopposisjonen vinner det kommende valget. Dette fremgår av intervjuer gitt til aviser som Financial Times, Dagens Industri og Svenska Dagbladet. Wallenberg trekker frem spesifikke skatteplaner hos opposisjonspartiene som en trussel mot investeringsviljen og bedriftenes konkurransekraft i Sverige. Innholdet i disse artiklene er å betrakte som en meningsytring og en politisk vurdering fra en sentral aktør i næringslivet heller enn nøytral nyhetsrapportering. Finansmannens uttalelser har utløst bred debatt i svenske medier om skattepolitikkens betydning for økonomisk vekst. Mens Wallenberg og næringslivssiden vurderer opposisjonens planer som skadelige for økonomien, forsvarer venstresiden sine forslag som nødvendige for omfordeling og velferd. Det er en bekreftet nyhet at Wallenberg har kommet med disse advarslene, men selve påstandene om konsekvensene av en eventuell politisk maktendring er analyser og meninger fremmet av finanseliten. Sakene belyser det spente forholdet mellom svensk storfinans og opposisjonens politiske linje frem mot valgkampen, der skattespørsmålet står i sentrum for uenighetene mellom blokkene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/jacob-wallenberg-varnar-for-skatteplaner-djupt-oroad/",
+            "title": "Jacob Wallenberg varnar för skatteplaner: ”Djupt oroad”",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/0pq0G6/wallenberg-varnar-for-oppositionens-skatteplaner?utm_medium=rss",
+            "title": "Wallenberg varnar för oppositionens skatteplaner",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7b54699c11218525",
+        "continued_from": null,
+        "headline": "Historisk velykket rakettoppskyting fra Andøya i nord",
+        "ingress": "Lørdag kveld ble den tyske raketten Spectrum 2 skutt opp fra Andøya i en historisk milepæl.",
+        "summary": "Lørdag kveld ble en historisk milepæl nådd i norsk romfart da den tyske raketten «Spectrum 2» ble skutt opp fra norsk jord på Andøya, melder TV 2. Oppskytingen beskrives av kildene på stedet som en kjempesuksess. Dette markerer første gang en slik operasjon har funnet sted fra denne lokasjonen, noe som plasserer Andøya på kartet som en sentral aktør innen europeisk romfart og oppskyting av kommersielle raketter. De faktiske hendelsene er bekreftet gjennom vitneobservasjoner og offisielle oppdateringer fra romfartsmiljøet. Analyser av hendelsen viser at suksessen vil kunne åpne opp for store fremtidige muligheter for den norske romsatsingen og skape nye arbeidsplasser knyttet til høyteknologisk industri i regionen. Eksperter og representanter for prosjektet vurderer utfallet som et svært viktig steg for å etablere Norge som en levedyktig lufthavn for satellitter og raketter i nordområdene. Selv om oppskytingen betegnes som vellykket, vil videre arbeid kreve grundige evalueringer av tekniske data for å sikre stabil drift i fremtidige oppskytingsforsøk. Saken oppsummeres som en merkedag for norsk teknologi og internasjonalt samarbeid innen romfart, med betydelig oppmerksomhet fra både nasjonale og utenlandske medier som fulgte begivenheten tett fra Andøya lørdag kveld.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19197709",
+            "title": "Historisk oppskyting fra Andøya: – En kjempesuksess",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 29,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "headline_too_long"
+      ]
+    }
   }
 }
