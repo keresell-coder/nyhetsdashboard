@@ -423,5 +423,252 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "853043a0f3fa3214",
+        "continued_from": null,
+        "headline": "Russland advarer mot amerikansk missilsystem i Norge",
+        "ingress": "Det russiske utenriksdepartementet fordømmer utplasseringen av et amerikansk missilsystem i Norge og kaller det en destabiliserende trussel.",
+        "summary": "Det russiske utenriksdepartementet har kommet med kraftige reaksjoner mot det de hevder er en amerikansk utplassering av et missilsystem på norsk jord. I en uttalelse advarer Russland om at slike systemer vil bli vurdert som legitime mål i en eventuell konflikt, og de karakteriserer hendelsen som nok et ledd i Natos destabiliserende opptreden i nærområdene. \n\nFaktagrunnlaget, slik det oppgis av Forsvarets operative hovedkvarter, viser et noe annet bilde av hendelsesforløpet. Ifølge talsperson Jonny Karlsen fløy Den amerikanske marinen inn systemet til Værnes i Trøndelag i forbindelse med den militære øvelsen kalt Operation Atlantic City. Hensikten med operasjonen var å demonstrere en hurtig evne til å mobilisere og fly inn et slikt mobilt system til ulike steder i verden. Forsvaret presiserer at systemet kun befant seg i Norge i løpet av et par timer, før det ble fløyet ut av landet igjen. \n\nNår det gjelder den operative praksisen, opplyser det norske Forsvaret at norske styrker jevnlig trener sammen med nære allierte. I den forbindelse understreker forsvarsledelsen at det verken er uvanlig eller oppsiktsvekkende at allierte styrker tar med seg ulikt materiell og utstyr når de deltar på slike felles øvelser i Norge. Saken illustrerer dermed spenningen mellom russiske sikkerhetsbekymringer og det regulære, allierte treningssamarbeidet som Norge jevnlig gjennomfører.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland-fordommer-missilsystem-i-norge-1.18016689",
+            "title": "Russland fordømmer missilsystem i Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/RjXnPa/russland-fordoemmer-utplassering-av-amerikansk-missilsystem-i-norge",
+            "title": "Amerikansk missilsystem ble flydd inn i Norge – fordømmes av Russland",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "149139508c5758d8",
+        "continued_from": null,
+        "headline": "NRK: Donald Trump kommer ikke til kong Haralds gravferd",
+        "ingress": "USAs president Donald Trump kommer ikke til kong Haralds gravferd, ifølge opplysninger fra NRK. USA vil i stedet sende representanter på lavere nivå.",
+        "summary": "Det går mot at USA sender politiske representanter på et lavere nivå enn først antatt i forbindelse med kong Haralds gravferd. Etter det NRK erfarer, vil USAs president Donald Trump ikke delta personlig under seremonien. Historisk sett er det verdt å merke seg at da kong Olav V ble begravet i 1991, sendte USA daværende visepresident Dan Quayle. Det er foreløpig ikke endelig avklart hvem den amerikanske administrasjonen vil velge å sende som sine offisielle representanter denne gangen. Timingmessig kolliderer arrangementet med andre politiske begivenheter i USA, ettersom Det republikanske partiet skal etter planen avholde sitt landsmøte i Texas senere i uken. \n\nSamtidig som de norske opplysningene om den amerikke delegasjonen foreligger, er det klart at andre nordiske naboland markerer dødsfallet på ulikt vis. Det svenske hoffet har i en offisiell pressemelding opplyst at kong Harald vil bli hedret med serafimerringing i Riddarholmskyrkan i Stockholm i forbindelse med begravelsen. Dette viser hvordan kongehuset blir minnet i Norden, selv om den eksakte sammensetningen av internasjonale statsoverhoder og høytstående gjester som vil være til stede under selve seremonien fremdeles blir kjent trinnvis gjennom offisielle kanaler.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nrk-erfarer_-donald-trump-kommer-ikke-i-kong-haralds-gravferd-1.18016531",
+            "title": "NRK erfarer: Donald Trump kommer ikke i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124625",
+            "title": "Kong Harald hedres i Stockholm under gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/nrk-trump-kommer-ikke-til-gravfeden-til-kong-harald/s/80-95-59636",
+            "title": "NRK: Trump kommer ikke til gravferden til kong Harald",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8ff4e11081aee399",
+        "continued_from": null,
+        "headline": "Iran-konflikten fortsetter etter et halvt år",
+        "ingress": "Det har gått et halvt år uten løsning på Iran-konflikten, og eksperter uttrykker at de ikke er overrasket over at situasjonen drar ut i tid.",
+        "summary": "Konflikten knyttet til Iran har nå vart i et halvt år uten at det har blitt funnet noen løsning på situasjonen. Ifølge analyser som trekkes frem i kjølvannet av tidsmarkeringen, er observatører lite overrasket over at krisen vedvarer over lengde. Vurderinger fra faghold peker på at situasjonen for Iran oppleves som dyptgripende og eksistensiell, noe som bidrar til å forklare hvorfor konflikten viser seg så hardnakket og vanskelig å løse gjennom tradisjonelle diplomatiske kanaler eller raske politiske kompromisser. \n\nDet understrekes i analysene av situasjonen at fraværet av en rask avklaring skaper vedvarende usikkerhet i regionen. Det er verdt å merke seg at denne type langvarige konflikter ofte har brede ringvirkninger for både internasjonal sikkerhet, energimarkeder og den globale økonomien. Mens kildene slår fast som et uomtvistelig faktum at det har gått seks måneder siden krisen startet, forblir spørsmålet om veien videre gjenstand for ulike tolkninger og ekspertsynspunkter. Kommentarene og vurderingene peker samlet sett i retning av at man må belage seg på at konflikten kan forbli uløst en stund til, ettersom de grunnleggende årsakene og partenes posisjoner fremstår som fastlåste og svært krevende å navigere ut av for det internasjonale samfunnet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/9p0Gb5/iran-krigen-drar-ut-ikke-overrasket-i-det-hele-tatt?utm_medium=rss",
+            "title": "Iran-krigen drar ut: – Ikke overrasket i det hele tatt",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f7303aea19290841",
+        "continued_from": null,
+        "headline": "Fransk kalddusj gir børskollaps for panteselskaper",
+        "ingress": "Panteaksjene Tomra og Envipco faller kraftig på Oslo Børs etter at den franske regjeringen har besluttet å skrote planene om lokal tvangspanting.",
+        "summary": "Aksjene til de kjente panteselskapene Tomra og Envipco opplever et kraftig verdifall og blir filleristede på Oslo Børs. Bakgrunnen for børskulden er en politisk beslutning i Frankrike, der den franske regjeringen har valgt å skrote planene om å innføre lokal tvangspanting. Denne nyheten har fungert som en kalddusj for investorene som hadde satset på det franske markedet, og den brå endringen i rammevilkårene slår direkte ut i aksjekursene for selskapene som er tungt eksponert mot denne typen infrastruktur og teknologi. \n\nSamtidig som panteaksjene stuper, viser handelsaktiviteten på børsen andre bevegelser i motsatt retning. Blant annet opplyses det at oljeaksjer stiger bredt i markedet. Denne oppgangen knyttes til nyheter om nye væpnede angrep i det strategisk viktige Hormuz-stredet, noe som tradisjonelt påvirker oljeprisen og dermed løfter energisektoren på Oslo Børs. \n\nSammensetningen av disse markedsreaksjonene viser hvordan uavhengige hendelser innen ulike sektorer slår ut samtidig. På den ene siden har vi en regulatorisk og politisk nyhet fra Frankrike som rammer grønne teknologiselskaper hardt, og på den andre siden har vi geopolitisk uro i Midtøsten som gir umiddelbare utslag for oljeselskapene. Analytikere vil vurdere dette som et typisk eksempel på at børsen reagerer raskt på både politiske vedtak i Europa og sikkerhetspolitiske sjokk i energiproduserende regioner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/oslo-bors/finans/bors/fransk-kalddusj-for-panteaksjer-tomra-og-envipco-raser/2-1-2039809",
+            "title": "Fransk kalddusj for panteaksjer: Tomra og Envipco raser",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/Oke221/oslo-boers-aapner-opp?utm_medium=rss",
+            "title": "Fransk kalddusj for panteselskaper",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b3bcc05eebccaf6a",
+        "continued_from": null,
+        "headline": "Millioner i spill i strid om datasenter på Hamar",
+        "ingress": "Det er duket for et kostbart og bittert rettsoppgjør om Tiktoks datasenter på Hamar, hvor hundrevis av millioner kroner står på spill.",
+        "summary": "Det er bekreftet at det verserer en omfattende og opphetet konflikt rundt et av Norges største datasentre, plassert på Hamar og knyttet til selskapet Tiktok. Saken har nå funnet veien til rettsvesenet, og det er på det rene at det står store økonomiske verdier på spill. Estimatene som trekkes frem i saken tilsier at det dreier seg om hundrevis av millioner kroner, og aktørene i ordskiftet levner liten tvil om at det kommende rettsoppgjøret vil bli svært kostbart for de involverte partene. \n\nSom en del av konflikten har det blitt trukket inn eldre og alvorlige anklager som retter søkelyset mot påståtte manipulerte kostnadsanslag i prosjektet. Disse anklagene utgjør et sentralt element i den juridiske tautrekking mellom partene som nå skal granskes og vurderes av domstolen. Det er foreløpig ikke felt noen endelig dom i saken, og påstandene står dermed mot hverandre inntil rettsapparatet har behandlet bevisene og hørt de ulike sidene i tvisten. \n\nSaken belyser de enorme økonomiske dimensjonene som ofte følger med etablerringen av store, internasjonale teknologidatasenter her til lands. Utfallet av rettssaken kan få stor betydning, ikke bare for de direkte involverte aktørene som kjemper om midlene, men også som et presedensskapende eksempel på hvordan store infrastrukturprosjekter blir tvistehåndtert i Norge når alvorlige anklager om økonomisk uregelmessighet eller feilaktige anslag kommer på bordet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/jus/green-mountain/cts-nordics/tiktok/kjempekonflikt-om-et-av-norges-storste-datasentre-at-det-blir-kostbart-det-er-det-ingen-tvil-om/2-1-2037144",
+            "title": "Kjempekonflikt om et av Norges største datasentre: – At det blir kostbart, det er det ingen tvil om",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f5c59e3f110d4338",
+        "continued_from": null,
+        "headline": "Falske bilder av kong Harald fjernet etter NRK-sak",
+        "ingress": "Ni Facebook-sider som spredde KI-genererte bilder av kong Harald og falske nyheter fra vietnamesiske klikkfabrikker, er nå fjernet.",
+        "summary": "Flere Facebook-sider som har blitt brukt til å spre manipulerende innhold om det norske kongehuset, har blitt slettet. Bakgrunnen for fjerningen er en tidligere avdekking foretatt av statskanalen NRK den 3. september. Undersøkelsene til NRK dokumenterte at det ble spredt kunstig intelligens-genererte bilder av kong Harald i sykesenga, samt fabrikkerte og usanne nyheter om kongefamilien. Det ble i rapportene påvist at dette innholdet ble pøst ut i sosiale medier fra organiserte klikkfabrikker med base i Vietnam. \n\nEtter at saken ble offentlig kjent og belyst gjennom mediene, har det skjedd en opprydding. Det bekreftes nå at de ni spesifikke Facebook-sidene som NRK trakk frem i sin rapportering, har blitt fjernet fra plattformen. Hendelsen illustrerer hvordan utenlandske aktører kan utnytte kunstig intelligens og sosiale medier til å spre desinformasjon knyttet til sårbare temaer som nasjonale overhoders helsetilstand. Samtidig viser utfallet at oppmerksomhet fra journalistikken og søkelys på plattformselskapers ansvar kan føre til at slikt villedende innhold blir lukket og fjernet, selv om problematikken rundt falske nyheter og manipulerte bilder i sosiale medier forblir en vedvarende utfordring for digital sikkerhet og informasjonsflyt fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/sider-fjernet-etter-nrk-sak-1.18016516",
+            "title": "Sider fjernet etter NRK-sak",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 46,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
   }
 }
