@@ -1,0 +1,427 @@
+{
+  "date": "2026-09-07",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "1161c316937d3eea",
+        "continued_from": null,
+        "headline": "Russland fordømmer amerikansk missilsystem i Norge",
+        "ingress": "Russland advarer mot et amerikansk missilsystem som kortvarig var innom Norge i forbindelse med en militærøvelse.",
+        "summary": "Russiske myndigheter retter sterk kritikk mot en angivelig amerikansk utplassering av et missilsystem i Norge, ifølge nyhetsbyrået Reuters. Moskva advarer om at slike systemer vil bli anset som legitime mål i en eventuell konflikt, og kaller hendelsen for et ledd i en destabiliserende opptreden fra NATO. Forsvarets operative hovedkvarter i Norge bekrefter at Den amerikanske marinen fløy et slikt system til Værnes i Trøndelag under øvelsen Operation Atlantic City. Ifølge det norske Forsvaret var hensikten å demonstrere evnen til å hurtig mobilisere og fly inn utstyret hvor som helst i verden. Det presiseres at systemet kun befant seg i Norge i et par timer før det ble fløyet ut igjen. Det er et fast innslag at norske styrker øver sammen med allierte, og det opplyses fra militært hold at det ikke er uvanlig at allierte medbringer ulikt utstyr under disse øvelsene. Sakens kilder består av nøytral nyhetsrapportering basert på uttalelser fra russisk UD og det norske Forsvaret.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland-fordommer-missilsystem-i-norge-1.18016689",
+            "title": "Russland fordømmer missilsystem i Norge",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "66f2835dbbd3b6da",
+        "continued_from": null,
+        "headline": "Omfattende gjesteliste og forberedelser til kong Haralds gravferd",
+        "ingress": "Statsledere, idrettsprofiler og gjester fra hele verden samles i Oslo til kong Haralds gravferd onsdag.",
+        "summary": "Når kong Harald stedes til hvile i Oslo domkirke onsdag, vil seremonien samle en rekke fremtredende personer fra inn- og utland. Det er bekreftet at flere profilerte norske idrettsutøvere, deriblant Ole Einar Bjørndalen, Ståle Solbakken og Therese Johaug, er invitert til å delta i gravferden. Blant de internasjonale gjestene som har meldt sin ankomst er Polens president Karol Nawrocki, mens Nord-Makedonia vil bli representert av sin ambassadør Driton Kuqi. Utenriksdepartementet og Slottet har holdt selve gjestelisten hovedsakelig hemmelig, men det er ventet stor pågang i hovedstaden. Myndigheter og eksperter har i forkant av seremonien kommet med ulike vurderinger og praktiske opplysninger. Blant annet opplyser Meteorologisk institutt at det ligger an til fint vær på gravferdsdagen, og Bane NOR melder at togene vil gå som normalt, med et minutts stillhet like før klokken 13. Datasikkerhetseksperter vurderer det som svært sannsynlig med nye tjenestenektangrep mot Norge i forbindelse med dagen, selv om det ikke forventes at selve seremonien vil bli forstyrret. Kommuner landets rundt legger til rette for at befolkningen kan følge gravferden, og eksperter oppfordrer voksne til å utvise varsomhet når de viser seremonien til barn. Saken dekkes gjennom bred nyhetsrapportering, der enkelte vurderinger rundt sikkerhet og digitale angrep utgjør ekspertenes analyser.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/sport/vg_-ole-einar-bjorndalen-og-stale-solbakken-deltar-i-kong-haralds-gravferd-1.18016492",
+            "title": "VG: Ole Einar Bjørndalen og Ståle Solbakken deltar i kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/polens-president-kommer-til-kong-haralds-gravferd-1.18016369",
+            "title": "Polens president kommer til kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/gkx12L/kongen-reddet-henne-som-barn-naa-er-hun-invitert-i-gravferden",
+            "title": "Kongens ord reddet henne som barn – nå er hun invitert i gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124625",
+            "title": "Kong Harald hedres i Stockholm under gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124624",
+            "title": "Fortalte om sterkt møte med kong Harald – Nå er hun invitert i gravferden",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0p04z0/gravferden-til-kong-harald-dette-vet-vi-om-hvem-som-kommer",
+            "title": "Se hele oversikten: Disse kommer i gravderden onsdag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124623",
+            "title": "Været på gravferdsdagen: – Som en sen sommerdag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19199590",
+            "title": "Dette skjer bak kulissene: – Helt overbevist om det",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19182971",
+            "title": "Skal vise gravferden: – Ikke tving barna",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19200049",
+            "title": "Ekspert venter nye dataangrep rundt kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19190714",
+            "title": "Åpner kulturhuset under gravferden: – Fint og verdig",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/togene-stopper-ikke-under-kong-haralds-gravferd/s/80-95-58937",
+            "title": "Togene stopper ikke under kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "759c13933522a1f7",
+        "continued_from": null,
+        "headline": "Historisk valgseier for ytre høyre i tysk delstat",
+        "ingress": "Alternativ for Tyskland fikk et valgskred i Sachsen-Anhalt, men mangler flertall for å styre alene.",
+        "summary": "Det høyrepopulistiske og ytre høyre-partiet Alternativ for Tyskland (AfD) har sikret seg en historisk valgseier i delstaten Sachsen-Anhalt. Ifølge prognoser og foreløpige resultater ender partiet på rundt 44 prosent av stemmene i den østtyske delstaten. Valgresultatet beskrives av partileder Alice Weidel som et «drømmeresultat», og hun uttaler at partiet har som mål å nå 40 prosent på nasjonalt nivå. Blant internasjonale gratulanter var Tesla-sjef Elon Musk, som sendte sine gratulasjoner via X, noe AfD-politiker Ulrich Siegmund takket for. Til tross for at AfD ble det desidert største partiet og fikk sitt beste valgresultat noensinne, mangler de tre mandater på rent flertall i delstatsforsamlingen. Dette gjør at veien til regjeringsmakt er usikker. Analytikere og nyhetsmedier peker på at andre partier har vært lite villige til å samarbeide med AfD på grunn av deres kontroversielle synspunkter, selv om det meldes om at enkelte partier kan være åpne for samtaler i enkeltsaker. AfD-ledelsen hevder på sin side at «demokratiet krever» at andre partier nå samarbeider med dem. Det foreløpige valgresultatet er bekreftet av flere internasjonale og norske medier, mens politiske reaksjoner og fremtidige regjeringsforhandlinger utgjør analyser og vurderinger fra partiene og kommentatorer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/afd_-_-et-drommeresultat-1.18016472",
+            "title": "AfD: – Et drømmeresultat",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/elon-musk-gratulerer-afd-1.18016254",
+            "title": "Elon Musk gratulerer AfD",
+            "is_secondary": false
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/k0xX1L/afd-med-seier-i-delstatsvalg?utm_medium=rss",
+            "title": "AfD mot seier i delstatsvalg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0pqzPA/afd-vant-valget-i-sachsen-anhalt-kan-faa-stoette-fra-ytre-venstre",
+            "title": "AfD har startet forhandlinger etter valgseier",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/2pgKlr/valgdagsmaaling-afd-ytre-hoeyre-parti-faar-445-prosent",
+            "title": "Ytre høyre-parti innleder regjeringsforhandlinger etter valgskred i tysk delstat",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+            "title": "Far-right AfD surges to victory in German state election",
+            "is_secondary": false
+          },
+          {
+            "source_name": "BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+            "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+            "is_secondary": false
+          },
+          {
+            "source_name": "New York Times",
+            "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+            "title": "After Victory in German State, Far Right Needs Help to Take Power",
+            "is_secondary": false
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
+            "title": "'Jubilation and pain': German far right marches to victory in key state election",
+            "is_secondary": false
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election",
+            "title": "Far-right AfD wins crushing victory in German state election",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 8,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fe7fd2084a261fb8",
+        "continued_from": null,
+        "headline": "Briljans og kraft i norsk fotball",
+        "ingress": "Kilder peker på prestasjoner fra norske profiler og Rosenborgs sjanser i Europa.",
+        "summary": "Kilden trekker fram at Martin Ødegaard har vist strålende form med sin briljans på banen, samtidig som Erling Braut Haaland fortsetter å imponere med sin enorme fysiske kraft. I tillegg rettes fokuset mot Rosenborg og deres mulige sjanser til å kvalifisere seg for spill i Europa. Artikkelen gir et kort overblikk over tilstanden i norsk fotball, hvor sentrale enkeltspillere presterer på høyt internasjonalt nivå, noe som er av stor interesse for norske fotballsupportere og det norske landslaget. Det er verdt å merke seg at innholdet har preg av en oppsummerende vurdering snarere enn en tung nyhetsrapport, og den fremhever profiler som presterer ukentlig i sine respektive klubber i utlandet, samt klubbfotballen her hjemme. Slike prestasjoner er avgjørende for interessen rundt norsk fotball generelt, og gir håp om gode resultater både for klubblag i europeiske turneringer og for landslaget i kommende kamper. Det er bekreftet gjennom prestasjonene at spillerne er i form, mens vurderingen av Rosenborgs sjanser er mer analytisk og fremtidsrettet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/JOXwj4/oedegaard-briljans-haaland-kraft-og-rosenborg-til-europa",
+            "title": "Ødegaard-briljans, Haaland-kraft og Rosenborg til Europa?",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2df02010c43bce28",
+        "continued_from": null,
+        "headline": "Tysk politi fant sprengladninger i strømnettet",
+        "ingress": "Tysk politi har uskadeliggjort 21 sprengladninger knyttet til strømnettet.",
+        "summary": "Politiet i delstaten Sachsen øst i Tyskland har i forbindelse med en etterforskning funnet og uskadeliggjort totalt 21 sprengladninger i strømnettet. Dette opplyser Aftenposten i sin dekning av saken. Funnet av et så høyt antall eksplosiver rettet mot kritisk infrastruktur som strømnettet regnes som svært alvorlig av myndighetene. Det er foreløpig ikke kjent hvem som står bak plasseringen av disse ladningene, eller hva som var det konkrete motivet bak aksjonen, men politiets arbeid har foreløpig ført til at ladningene er gjort ufarlige før de kunne detonere og potensielt påføre samfunnet store skader. Situasjonen følges nøye av lokale og nasjonale myndigheter i Tyskland, som ser en økende trussel mot kritisk infrastruktur. Det understrekes i rapportene at etterforskningen fremdeles pågår med full styrke for å avdekke alle sider ved saken og stille eventuelle gjerningspersoner til ansvar. Myndighetene jobber ut fra flere hypoteser, men det er foreløpig ikke delt ytterligere detaljer om mistenkte gjerningspersoner eller organisasjoner som kan knyttes til hendelsen i Sachsen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/e7RvX4/funn-i-tyskland-21-sprengladninger-mot-stroemnettet",
+            "title": "Tysk politi har uskadeliggjort 21 sprengladninger i strømnettet",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e410d02ddf1727d1",
+        "continued_from": null,
+        "headline": "Alle fire siktet etter Lindeberg-sak er løslatt",
+        "ingress": "De fire siktede i saken om frihetsberøvelse på Lindeberg er nå løslatt av politiet.",
+        "summary": "Alle de fire personene som har vært siktet i forbindelse med den mye omtalte frihetsberøvelsen på Lindeberg, er nå løslatt. Dette opplyser politiadvokat Tharsiga Tess Skavås til kanaler som NRK og TV2. De to siste siktede ble løslatt på fredag, ettersom politiet vurderte at det ikke lenger var rettslig grunnlag for å holde dem varetektsfengslet videre. Samtidig er disse ilagt besøksforbud mot de fornærmede i saken. Sakskomplekset gjelder hendelser som fant sted den 13. august i et kontorlokale på Lindeberg. Ifølge siktelsene skal tre personer ha blitt holdt mot sin vilje og i tillegg utsatt for vold. Når det gjelder de spesifikke siktelsene, er tre av de fire personene siktet for medvirkning til grov frihetsberøvelse. Den fjerde personen i saken er i tillegg siktet for medvirkning til grov utpressing. Løslatingen innebærer ikke at saken er henlagt, men at vilkårene for varetektsfengsling ikke lenger er oppfylt. Politiet fortsetter sitt arbeid med saken, og de siktede må forholde seg til de påleggene de er gitt, inkludert det pålagte besøksforbudet overfor de fornærmede. Saken har vakt oppsikt på grunn av sin alvorlige karakter knyttet til frihetsberøvelse og vold i et kontorlokale.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/frihetsberovelsen-pa-lindeberg_-alle-fire-loslatt-1.18016499",
+            "title": "Frihetsberøvelsen på Lindeberg: Alle fire løslatt",
+            "is_secondary": false
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19200446",
+            "title": "Alle de fire siktede er løslatt",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bf4a16413dfa0884",
+        "continued_from": null,
+        "headline": "Canadas oljefond bygger nytt datasenter i Norge",
+        "ingress": "AtNorth bygger et nytt datasenter i Norge med støtte fra Canadas statlige pensjonsfond.",
+        "summary": "Det canadiske statlige pensjonsfondet, ofte omtalt som landets oljefond, er tungt inne på eiersiden i selskapet AtNorth, som nå bygger et nytt datasenter i Norge. Dette melder E24. Satsingen kommer som en følge av at datasenterbransjen etterspør store mengder elektrisk kraft for å kunne drifte slike energikrevende anlegg. Etableringen viser at Norge fremdeles er et interessant land for utenlandske investorer innen grønn teknologi og digital infrastruktur, mye på grunn av tilgangen på fornybar energi, selv om kraftkrevende etableringer også skaper debatt lokalt om strømpriser og kraftoverskudd. AtNorth sin storsatsing krever betydelige mengder ressurser, og det er ventet at prosjektet vil kreve mye av det lokale og nasjonale nettet. Det er bekreftet at fondet eier en betydelig andel, nærmere bestemt 60 prosent, i selskapet som står bak utbyggingen. Analytikere og kritikere peker på at slike datasentre legger beslag på kraft som ellers kunne gått til annen industri, mens tilhengerne fremhever ringvirkninger og arbeidsplasser. Det gjenstår å se hvordan utbyggingen vil påvirke det norske kraftmarkedet i årene som kommer, gitt den enorme etterspørselen fra denne typen industri.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge?utm_medium=rss",
+            "title": "Canadas «oljefond» bygger datasenter i Norge",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0e2f660da234d8f9",
+        "continued_from": null,
+        "headline": "Anmeldte fem svindelforsøk til politiet – alle henlagt",
+        "ingress": "Frank Wilson har anmeldt fem tilfeller av datakrim, men alle ble henlagt av politiet.",
+        "summary": "Frank Wilson har ved flere anledninger opplevd å bli utsatt for svindelforsøk på internett, og har valgt å levere anmeldelser til politiet for totalt fem ulike tilfeller av datakrim. Ifølge E24 har imidlertid samtlige av disse anmeldelsene blitt henlagt av politiet uten at de har blitt realitetsbehandlet eller etterforsket. Saken setter søkelys på politiets kapasitet og prioriteringer når det gjelder å bekjempe digital kriminalitet og svindel som rammer enkeltpersoner i hverdagen. Mens digitale trusler og nettkriminalitet øker i omfang, opplever mange ofre at anmeldelser raskt blir henlagt på grunn av manglende ressurser eller fordi sakene anses som vanskelige å oppklare, spesielt dersom gjerningspersonene befinner seg i utlandet. Dette skaper en frustrasjon blant dem som rammes, da de føler at det mangler et effektivt vern mot denne typen kriminalitet. Det er en bred oppfatning blant eksperter at mørketallene er store, og at den faktiske risikoen for at nettkriminelle blir tatt er svært lav. Politiet viser som regel til knappe ressurser og prioritering av saker med høyere alvorlighetsgrad eller der det er en konkret mulighet for oppklaring. Situasjonen rundt Wilsons anmeldelser illustrerer de utfordringene mange står overfor i møte med det norske rettsvesenet når de blir utsatt for digital kriminalitet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/Pde755/anmeldte-fem-svindelforsoek-henlagt-hver-gang?utm_medium=rss",
+            "title": "Anmeldte fem svindelforsøk – henlagt hver gang",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e36d9e4b3082e9fa",
+        "continued_from": null,
+        "headline": "FN krever ansvar for døde i amerikanske leirer",
+        "ingress": "Minst 23 migranter har dødd i amerikansk varetekt i år, ifølge FN som krever ansvar.",
+        "summary": "FNs menneskerettssjef Volker Türk melder at minst 23 personer har mistet livet i løpet av året mens de befant seg i varetekt hos de amerikanske immigrasjonsmyndighetene. En bredere gjennomgang utført av FN viser at totalt 57 mennesker har dødd i slike interneringsleirer etter at Trump-administrasjonen besluttet å intensivere arbeidet med pågripelser, internering og utsendelser av migranter i landet. Situasjonen i de såkalte innvandringsinternatene har dermed vakt sterk internasjonal bekymring. På den annen side hevder det amerikanske sikkerhetsdepartementet at fangene og migrantene får den legehjelpen de har krav på under oppholdet i disse leirene. FNs menneskerettssjef mener likevel situasjonen er uholdbar og krever at noen stilles til ansvar for de mange dødsfallene som har funnet sted i varetekt. Dette kommer frem i rapporter fra både NRK og Aftenposten, som dekker saken ut fra FNs uttalelser. Det er en tydelig uenighet mellom FN, som krever gransking og ansvarliggjorte, og de amerikanske myndighetenes fremstilling av situasjonen og helsetilbudet i leirene. Saken belyser de humanitære konsekvensene av en streng migrasjonspolitikk, og FN fortsetter å legge press på amerikanske myndigheter for å sikre bedre forhold og beskyttelse for mennesker som holdes i immigrasjonsfengsler og interneringsleirer i USA.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fn_-minst-23-dode-i-interneringsleirer-i-usa-1.18016620",
+            "title": "FN: Minst 23 døde i interneringsleirer i USA",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/rrO4Km/minst-23-personer-har-doedd-i-innvandringsinternat-i-usa-fn-krever-at-noen-stilles-til-ansvar",
+            "title": "Minst 23 døde i innvandringsinternat i USA. FN krever at noen stilles til ansvar.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 38,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
