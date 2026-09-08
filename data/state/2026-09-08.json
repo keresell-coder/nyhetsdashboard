@@ -336,5 +336,443 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "584eb5e44d68e594",
+        "continued_from": null,
+        "headline": "Tysk politi har pågrepet 48-åring mistenkt for strømsabotasje",
+        "ingress": "Tysk politi har pågrepet en 48 år gammel mann mistenkt for omfattende sabotasje mot det tyske strømnettet.",
+        "summary": "Tysk politi har pågrepet en 48 år gammel mann som mistenkes for å stå bak en rekke sabotasjeaksjoner mot strømnettet i landet, ifølge meldinger fra flere medier. Etterforskningen har avdekket at sabotasjeforsøkene har funnet sted i delstatene Nordrhein-Westfalen, Brandenburg og Sachsen, hvor det utvinnes brunkull. I forbindelse med saken har politiet funnet totalt 21 sprengladninger som alle ble desarmert av påtalemyndigheten. Lørdag gikk etterforskerne ut med en offentlig etterlysning og bilder av den mistenkte etter at han i forrige uke skal ha sendt brev der han tok på seg ansvaret for aksjonene. Fredag gjennomførte politiet et funn av sprengstoff i den mistenktes leilighet. Når det gjelder motivet, er det foreløpig gjort en politisk vurdering. Den tyske innenriksministeren uttalte til nyhetsbyrået DPA at det må antas å være snakk om klimaekstremisme. Det er foreløpig ikke kjent hvilke ytterligere skritt etterforskningen vil ta, men pågripelsen markerer et viktig gjennombrudd for myndighetene som har jaktet på den antatte sabotasjen i flere delstater den siste tiden. Saken har vakt oppsikt med sine angrep på kritisk infrastruktur og bruken av et betydelig antall sprengladninger som nå er uskadeliggjort.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/politiet-har-pagrepet-48-aring-som-mistenkes-for-stromsabotasje-i-tyskland-1.18017822",
+            "title": "Politiet har pågrepet 48-åring som mistenkes for strømsabotasje i Tyskland",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/j0xABo/48-aaring-mistenkt-for-stroemsabotasje-i-tyskland-paagrepet-ifoelge-dpa-kilder",
+            "title": "48-åring mistenkt for strømsabotasje i Tyskland pågrepet, ifølge DPA-kilder",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f1120ce5d88bd489",
+        "continued_from": null,
+        "headline": "Kongefamilien hilser fra slottsbalkongen onsdag ettermiddag",
+        "ingress": "Kongefamilien vil onsdag ettermiddag vise seg på Slottsbalkongen for å hilse til folket etter kong Haralds gravferd.",
+        "summary": "Kongefamilien vil onsdag 9. september klokken 16.45 komme ut på Slottsbalkongen for å hilse på frammøtte på Slottsplassen, opplyser kongehuset i en pressemelding. Hendelsen finner sted samme dag som kong Harald stedes til hvile. Blant dem som vil være til stede for å hilse folket, er Deres Majesteter Kongen og Dronningen, Hennes Kongelige Høyhet Kronprinsessen, dronning Sonja og prins Sverre Magnus. Tidligere på dagen avholdes gravferden for avdøde kong Harald. I forbindelse med arrangementet har kongehuset opplyst at sperringene som har omkranset Slottsplassen i anledning gravferden, vil bli fjernet omtrent klokken 16.30. Dette gjøres for å sikre at allmennheten og publikum får fri tilgang til plassen i forkant av balkonghilsenen. Det er ventet oppmøte av folk som ønsker å delta og vise sin medfølelse på denne minnerike og historiske dagen for kongehuset og nasjonen. Det foreligger ingen ytterligere detaljer om programmet utover det kongehuset selv har bekjentgjort gjennom sine offisielle kanaler i pressemeldingen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kongefamilien-hilser-fra-slottsbalkongen-onsdag-klokken-16.45-1.18017894",
+            "title": "Kongefamilien hilser fra slottsbalkongen onsdag klokken 16.45",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124658",
+            "title": "Hilser folket fra slottsbalkongen kl. 16.45 i morgen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/kjendis/kongefamilien-hilser-folket-fra-slottsbalkongen-klokken-16-45-onsdag/s/80-95-61979",
+            "title": "Kongefamilien hilser folket fra slottsbalkongen klokken 16.45 onsdag",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "00d75f8553575e63",
+        "continued_from": null,
+        "headline": "Bitcoin-tyveri til en verdi av tre milliarder kroner",
+        "ingress": "Kryptovaluta til en verdi av rundt tre milliarder kroner har blitt stjålet i et massivt bitcoin-tyveri.",
+        "summary": "Et omfattende kryptotyveri har rystet markedet etter at verdier estimert til omtrent tre milliarder kroner har kommet på avveie. Ifølge opplysningene dreier det seg om et kvantum på omtrent 4.000 bitcoins som har blitt stjålet i hendelsen. Slike massive digitale tyverier reiser en rekke spørsmål knyttet til sikkerhet, sporing av kryptovaluta og sårbarheter i digitale lommebøker eller plattformer der store summer oppbevares. Selv om de nøyaktige omstendighetene rundt hvordan tyveriet fant sted foreløpig ikke er kjent i detalj, viser omfanget av tapet hvor store økonomiske verdier som er knyttet til kryptomarkedet og blokkjedenettverket. Slike hendelser blir ofte gjenstand for grundige etterforskninger av internasjonale eksperter på digital kriminalitet og politimyndigheter som forsøker å spore transaksjonene før midlene blir hvitvasket eller flyttet gjennom anonymiserende tjenester. Det er foreløpig ikke kommet fram ytterligere opplysninger om hvem som står bak ugjerningen, eller hvilke spesifikke sikkerhetshull som eventuelt har blitt utnyttet for å gjennomføre det gigantiske bitcoin-tyveriet på tre milliarder kroner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/pBxxLV/bitcoin-tyveri-paa-tre-milliarder-kroner?utm_medium=rss",
+            "title": "Bitcoin-tyveri på tre milliarder kroner",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b8e52f48a5a7a540",
+        "continued_from": null,
+        "headline": "København flagger på halv stang for kong Harald onsdag",
+        "ingress": "Flere danske statlige bygninger og Københavns rådhus heiser flagget på halv stang i anledning kong Haralds gravferd.",
+        "summary": "I forbindelse med gravferden til kong Harald i Oslo onsdag, viser Danmark sin deltakelse ved å flagge på halv stang. Blant annet vil en rekke statlige bygninger samt Københavns rådhus markere dagen på denne måten. Dette er en offisiell gest som understreker de tette båndene mellom de nordiske nabolandene og kongehusene. Kong Haralds bortgang har vakt reaksjoner og medfølelse langt utover Norges grenser, noe som nå gjenspeiles i de danske flaggmarkeringene i hovedstaden. Det er bekreftet at markeringen vil finne sted gjennom hele onsdagen mens selve gravferdelseremoniene pågår i Norge. Slike markeringer er tradisjonelle diplomatiske og kongelige tegn på aktelse ved bortgangen til et statsoverhode eller en monark i nabolandene. Det gjenstår å se hvilke andre internasjonale representanter eller offisielle delegasjoner som vil være til stede for å hedre minnet om den avdøde kongen i løpet av det høytidelige og historiske arrangementet onsdag. Flaggingen i København er en bekreftet og synlig del av de nordiske nabotjenestene som markerer den nasjonale sørgedagen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0pqxvG/koebenhavn-flagger-paa-halv-stang-for-kong-harald-onsdag",
+            "title": "København flagger på halv stang for kong Harald onsdag",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124656",
+            "title": "København flagger på halv stang for kong Harald onsdag",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "75a9d23cb64ef480",
+        "continued_from": null,
+        "headline": "Australia vil pålegge teknologigiganter å tilby algoritmefri bruk",
+        "ingress": "Den australske regjeringen foreslår at brukere av sosiale medier skal få muligheten til å slå av algoritmer.",
+        "summary": "Brukere av sosiale medier i Australia bør få en lovpålagt mulighet til å velge bort algoritmestyrdt innhold, ifølge et nytt forslag fra landets regjering. Forslaget tar sikte på å gi enkeltpersoner bedre kontroll over hva de eksponeres for på digitale plattformer, ved å kreve at teknologiselskapene lar brukere deaktivere de underliggende algoritmene som styrer anbefalinger og nyhetsstrømmer. Dette tiltaket inngår i en større diskusjon om regulering av sosiale medier, personvern og tech-gigantenes makt over informasjonsflyten. Myndighetene i landet vurderer at slike verktøy kan redusere avhengighetsskapende adferd og beskytte forbrukerne mot uønsket påvirkning. Forslaget blir nå sendt ut til vurdering og videre politisk behandling, og det gjenstår å se hvordan de store sosiale medier-selskapene vil reagere på kravet om å åpne opp for manuelle alternativer til standardiserte algoritmefeeder. Politisk analyse peker på at dette kan bli en modell også for andre land som ønsker å tøyle teknologibransjens kontroll over brukeropplevelsen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/ArBMEj/australia-vil-gi-brukere-mulighet-til-aa-skru-av-algoritmer",
+            "title": "Australia vil gi brukere mulighet til å skru av algoritmer",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2adf348abcc83b0e",
+        "continued_from": null,
+        "headline": "Vålerenga har svart Norges Fotballforbund om Bjørdal-salget",
+        "ingress": "Norges Fotballforbund har mottatt svar fra Vålerenga etter at de krevde oppklaring rundt Henrik Bjørdals overgang.",
+        "summary": "Norges Fotballforbund (NFF) har omsider fått svar fra Vålerenga etter å ha krevd full oppklaring rundt omstendighetene knyttet til salget av kapteinen og midtbanespilleren Henrik Bjørdal. Saken oppstod som følge av overgangen der spilleren ble solgt til serierivalen Viking, noe som skapte reaksjoner og spørsmål internt i fotballmiljøet. NFF ba om en redegjørelse for å forstå transaksjonen og sikre at regelverket ble fulgt i forbindelse med handelen mellom klubbene. Vålerenga har nå overlevert sitt svar til forbundet, men det er foreløpig ikke offentlig kjent nøyaktig hva klubben har svart på NFFs krav om innsyn og forklaring. Slike saker blir ofte vurdert nøye av fotballforbundets disiplinær- og lisensnemnd for å avklare om det har forekommet brudd på lisenskrav, økonomiske retningslinjer eller overgangsregler i norsk toppfotball. Med tilbakemeldingen på plass ligger ballen nå hos NFF til å vurdere om de er fornøyde med forklaringen eller om det vil bli fulgt opp med ytterligere undersøkelser. Overgangen har vakt stor oppmerksomhet blant supportere og eksperter som følger overgangsmarkedet i norsk fotball tett gjennom sesongen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/0pqx9G/her-er-vaalerengas-svar-til-nff",
+            "title": "Her er Vålerengas svar til NFF",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/i/JOXyB7/her-er-vaalerengas-svar-til-nff",
+            "title": "NFF krevde svar etter at kapteinen ble solgt til Viking. Nå svarer Vålerenga.",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f4dddce635d349f5",
+        "continued_from": null,
+        "headline": "Svensk politi bistår under kong Haralds gravferd",
+        "ingress": "Det svenske sikkerhetspolitiet Säpo bekrefter at de bistår norske kolleger med personell og kjøretøy under kong Haralds gravferd.",
+        "summary": "Det svenske sikkerhetspolitiet, Säpo, bekrefter overfor NRK at de vil bistå sine norske kolleger med både personell og kjøretøy i forbindelse med kong Haralds gravferd onsdag. Säpo opplyser at de ikke går nærmere inn på det nøyaktige omfanget av ressursene som sendes, men viser til at de nordiske landene har hatt et nært og velfungerende samarbeid innen personsikring over flere år. Dette samarbeidet innebærer blant annet gjensidig hjelp ved større arrangementer og hendelser. Det er allerede slått fast fra norske myndigheter at gravferden vil bli den største sikkerhets- og politioperasjonen i Norge gjennom tidene. Bekreftelsen fra Säpo understreker det tverrnordiske sikkerhetssamarbeidet rundt denne historiske og omfattende begivenheten i Oslo, hvor en rekke internasjonale gjester og ledere er ventet å delta for å ta et siste farvel med den avdøde monarken.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/svensk-sikkerhetspoliti-bistar-under-kong-haralds-gravferd-1.18017720",
+            "title": "Svensk sikkerhetspoliti bistår under kong Haralds gravferd",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "58f7590a61dde7d3",
+        "continued_from": null,
+        "headline": "Kina sender ambassadør til kong Haralds gravferd",
+        "ingress": "Kina vil være til stede under kong Haralds gravferd ved sin nye ambassadør, og over 140 kirker viser seremonien.",
+        "summary": "Kina vil være representert under kong Haralds gravferd ved landets nye ambassadør til Norge, Zhou Jingxing. Dette er blitt bekreftet overfor NRK av talspersonens kontor i det kinesiske utenriksdepartementet i Beijing. For den nylig ankomne ambassadøren er dette et av de første offisielle oppdragene i landet, ettersom han ankom Norge kun tre dager før seremonien finner sted. Samtidig er det klart at den historiske begivenheten vil bli tilgjengelig for publikum over hele landet gjennom Den norske kirke. I en pressemelding opplyses det at over 140 kirker og menighetshus vil åpne dørene og vise gravferden på storskjerm onsdag. Tilbudet strekker seg fra Kristiansand i sør til Longyearbyen i nord, samt fra Sotra i vest til Trysil i øst. Dette gir en bred folkelig ramme rundt avskjeden med monarken, der menigheter over hele landet inviterer folk til å samles for å oppleve seremonien i felleskap i kirkerommet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kinas-ambassador-til-kong-haralds-gravferd-1.18017827",
+            "title": "Kinas ambassadør til kong Haralds gravferd",
+            "is_secondary": false
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kong-haralds-gravferd-skal-vises-pa-storskjerm-i-over-140-kirker-1.18017788",
+            "title": "Kong Haralds gravferd skal vises på storskjerm i over 140 kirker",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124654",
+            "title": "Kong Haralds gravferd skal vises på storskjerm i over 140 kirker",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/kong-haralds-gravferd-skal-vises-pa-storskjerm-i-over-140-kirker-landet-rundt/s/80-95-61670",
+            "title": "Over 140 kirker viser kong Haralds gravferd på storskjerm",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "361e15c342726bd6",
+        "continued_from": null,
+        "headline": "Advarer om mulig kollaps i verdenshandelen",
+        "ingress": "Skipsfartsmyndigheter i 18 land slår full alarm om den alvorlige situasjonen til sjøs og truslene mot den globale økonomien.",
+        "summary": "Skipsfartsmyndigheter fordelt på 18 ulike land har slått full alarm angående situasjonen til sjøs, ifølge rapporter fra medier som E24 og VG. Advarselen retter søkelyset mot en overhengende fare for kollaps i verdenshandelen, noe som i neste omgang truer den globale økonomien. Det er foreløpig ikke lagt frem detaljerte analyser om de nøyaktige bakenforliggende årsakene til denne situasjonen i kildeartiklene, men meldingene fra myndighetene indikerer en bred internasjonal bekymring for stabiliteten i de maritime transportrutene. Slike forstyrrelser i skipsfarten kan få omfattende ringvirkninger for den globale vareflyten, forsyningskjedene og den økonomiske veksttakteten internasjonalt. Situasjonen blir beskrevet som svært alvorlig av de involverte landenes skipsfartsmyndigheter, som nå koordinerer sine advarsler for å rette verdenssamfunnets oppmerksomhet mot de voksende truslene mot den internasjonale handelssituasjonen til sjøs.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/K8X7OX/advarer-om-kollaps-i-verdenshandelen-truer-den-globale-oekonomien?utm_medium=rss",
+            "title": "Advarer om kollaps i verdenshandelen: Truer den globale økonomien",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/oExGWK/advarer-om-kollaps-i-verdenshandelen-truer-den-globale-oekonomien",
+            "title": "Advarer om kollaps i verdenshandelen: Truer den globale økonomien",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1f882aa6f295cb72",
+        "continued_from": null,
+        "headline": "Busch: Ikke gitt at Sverigedemokraterna får ministerposter",
+        "ingress": "Kristdemokraternas leder Ebba Busch uttaler på X at det slett ikke er gitt at SD skal ha ministerposter i en blågul regjering.",
+        "summary": "I en uttalelse på plattformen X kommenterer Kristdemokraternas leder, Ebba Busch, regjeringsspørsmålet og den politiske situasjonen i Sverige. Busch understreker at det etter hennes syn ikke er gitt at Sverigedemokraterna (SD) skal tildeles ministerposter i en eventuell kommende borgerlig eller såalt blågul regjering. Dette utspillet er en politisk vurdering og meningsytring fra en partileder midt i en betent regjeringsprosess, og må leses som et ledd i det pågående politiske spillet om makt og posisjoner på svensk høreside. Kommentarene viser at det fremdeles er interne uenigheter eller uavklarte forutsetninger mellom de borgerlige partiene og deres potensielle støtteparti når det gjelder den konkrete regjeringsmakten og hvem som skal bekle de øverste ministerpostene. Analytikere peker på at slike offentlige meldinger fra partiledere ofte brukes strategisk i forhandlingene. Innholdet i uttalelsene er derfor å betrakte som politiske posisjoneringer snarere enn endelige konklusjoner på hvordan et fremtidig svensk regjeringssamarbeid vil bli sammensatt og organisert i praksis de kommende årene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/busch-om-blagul-regering-inte-givet-att-sd-far-ministerposter/",
+            "title": "Busch om ”blågul regering”: Inte givet att SD får ministerposter",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/0p33lG?pinnedEntry=77127&utm_medium=rss",
+            "title": "Busch: Inte givet att SD får ministerposter",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b6b59485044a04d0",
+        "continued_from": null,
+        "headline": "Island kalte inn USAs ambassadør etter Trump-kart",
+        "ingress": "Den islandske regjeringen reagerer kraftig etter at Donald Trump delte et kart der USA tilsynelatende hadde annektert Island.",
+        "summary": "Utenriksdepartementet på Island valgte mandag å kalle inn USAs ambassadør til landet for å overlevere en skarp reaksjon. Bakgrunnen er et bilde som USAs president Donald Trump delte på Truth Social mandag kveld. På dette kartet var USA fremstilt som om landet hadde annektert nesten hele Nord-Amerika, i tillegg til at Island var fargelagt med det amerikanske flagget. Det samme gjaldt områder som Canada, Grønland og Mexico. Den islandske utenriksministeren, Þórdís Kolbrún Reykfjörð Gylfadóttir, benyttet anledningen til å gi den amerikanske utsendingen et tydelig budskap om at publikasjonen var fullstendig upassende. Det islandske departementet har bekreftet hendelsen i en uttalelse til nyhetsbyrået AFP. Reaksjonen fra Island er et uttrykk for diplomatisk misnøye med den kontroversielle publiseringen, som har vakt oppmerksomhet internasjonalt. Saken illustrerer hvordan uformelle eller provoserende utspill i sosiale medier fra det amerikanske statsoverhodet kan utløse formelle diplomatiske reaksjoner og opphetede situasjoner i bilaterale relasjoner med nære allierte nasjoner som Island.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/island-kalte-inn-usas-ambassador-etter-trump-innlegg-1.18017677",
+            "title": "Island kalte inn USAs ambassadør etter Trump-innlegg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/V6XMK6/island-kaller-inn-usas-ambassadoer-etter-trump-innlegg",
+            "title": "Island kaller inn USAs ambassadør etter Trump-innlegg",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bad013dbc89b5fe7",
+        "continued_from": null,
+        "headline": "Fifa mottatt ny klage mot pressede Gianni Infantino",
+        "ingress": "Menneskerettighetsorganisasjonen FairSquare har sendt en ny etisk klage mot Fifa-sjef Gianni Infantino knyttet til Trump-episoder.",
+        "summary": "Menneskerettighetsorganisasjonen FairSquare har formelt sendt inn en ny klage til Det internasjonale fotballforbundets (Fifa) etiske komité rettet mot den hardt pressede Fifa-presidenten Gianni Infantino. Klagen dreier seg konkret om episoder som involverer USAs president Donald Trump. Dette opplyses i artikler publisert av både VG og Nettavisen. Det er foreløpig ikke kommet frem detaljerte opplysninger om nøyaktig hvilke handlinger eller uttalelser klagen omfatter, utover at den relaterer seg til Infantinos befatning med den amerikanske lederen. Saken føyer seg inn i rekken av utfordringer for Fifa-lederen, som fra før opplever et betydelig press fra ulike hold når det gjelder organisasjonens styring og etiske retningslinjer. Klager fra uavhengige organisasjoner som FairSquare blir vanligvis vurdert av Fifas uavhengige organer, men det er knyttet stor spenning til om denne spesifikke henvendelsen vil føre til formelle undersøkelser mot Infantino. Rapporteringen baserer seg på foreløpige opplysninger fra organisasjonens egne utspill og medienes dekning av klagen til Det internasjonale fotballforbundets etiske apparat.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/bO62mk/fifa-har-mottatt-ny-klage-paa-infantino-handler-om-trump-episoder",
+            "title": "Fifa har mottatt ny klage på Infantino – handler om Trump-episoder",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/fifa-har-mottatt-ny-klage-pa-infantino-handler-om-trump-episoder/s/80-95-61790",
+            "title": "Fifa har mottatt ny klage på Infantino – handler om Trump-episoder",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 50,
+      "drop_reasons": []
+    }
   }
 }
