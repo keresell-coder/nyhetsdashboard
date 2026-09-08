@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-08",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "b6c66348d51aa9c9",
+        "continued_from": null,
+        "headline": "Houthiene melder om angrep mot Saudi-Arabia",
+        "ingress": "Houthi-militsen hevdser å ha utført drone- og missilangrep mot saudiarabiske mål, inkludert oljeanlegg og flyplass.",
+        "summary": "Ifølge houthi-militsen er det gjennomført en rekke angrep mot mål i Saudi-Arabia ved hjelp av både droner og missiler. Blant målene som oppgis å være rammet, er en flyplass og flere oljeanlegg. Aksjonen skal ha ført til at minst 73 personer er skadd. Det bekreftes fra militsens side at denne militære aksjonen er ment som et direkte svar på et tidligere bombeangrep mot et fengsel. Lokale myndigheter opplyser at elleve personer miste livet i fengselsangrepet, mens ytterligere 20 personer fremdeles skal være savnet etter hendelsen. Det understrekes at opplysningene foreløpig kommer fra militsen og lokale myndigheter. Saudiarabiske myndigheter har på sin side ennå ikke kommet med noen offisielle kommentarer til meldingene om disse angrepene. Det er dermed foreløpig ikke uavhengig bekreftet fra saudiarabisk hold nøyaktig hvilke skader som har oppstått eller hvordan situasjonen utvikler seg videre i området.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/houthiene-sier-de-har-angrepet-mal-i-saudi-arabia-1.18017376",
+            "title": "Houthiene sier de har angrepet mål i Saudi-Arabia",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fa03bdc9ca9e5dcb",
+        "continued_from": null,
+        "headline": "Island kaller inn USAs ambassadør etter kartpublisering",
+        "ingress": "Island reagerer sterkt etter at USAs president delte et kart der landet var annektert.",
+        "summary": "Utenriksdepartementet på Island valgte mandag kveld å kalle inn USAs ambassadør til landet. Bakgrunnen for innkallingen var et kart som USAs president Donald Trump delte på plattformen Truth Social. På dette kartet var både Canada, Grønland, Mexico og Island fremstilt med det amerikanske flagget, noe som ble presentert som en fiktiv annektering av Nord-Amerika og Island. Den islandske utenriksministeren, Thorgerdur Katrín Gunnarsdóttir, brukte møtet med ambassadøren til å overbringe en klar beskjjed om at bildematerialet ble vurdert som fullstendig upassende. Utenriksdepartementet har i ettertid bekreftet dette overfor nyhetsbyrået AFP. Det er en klar diplomatisk reaksjon fra islandsk hold på et oppsiktsvekkende innlegg i sosiale medier fra Det hvite hus. Det foreligger foreløpig ikke noen offisiell respons fra amerikanske myndigheter angående hvorfor kartet ble delt eller reaksjonen det har utløst på Island.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/island-kalte-inn-usas-ambassador-etter-trump-innlegg-1.18017677",
+            "title": "Island kalte inn USAs ambassadør etter Trump-innlegg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/n1lK8x/island-kaller-inn-usas-ambassadoer-etter-trump-innlegg",
+            "title": "Island kaller inn USAs ambassadør etter Trump-innlegg",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/V6XMK6/island-kaller-inn-usas-ambassadoer-etter-trump-innlegg",
+            "title": "Island kaller inn USAs ambassadør etter Trump-innlegg",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4304b9d4c0befb27",
+        "continued_from": null,
+        "headline": "Stevie Wonder kommer til Norge i høst",
+        "ingress": "Musikerlegenden Stevie Wonder besøker Unity Arena i oktober i forbindelse med jubileumsturné.",
+        "summary": "Musikklegenden Stevie Wonder tar turen til Norge til høsten. Artistlegenden, som er 76 år gammel, skal opptre i Unity Arena utenfor Oslo den 20. oktober. Konserten er en del av en større 50-årsjubileumsturné for å markere et av artistens mest kjente og toneangivende album, nemlig «Songs In The Key Of Life». Dette blir en sjelden mulighet for norske fans til å oppleve den verdenskjente artisten live på norske scener igjen. Videre viser opplysningene at kulturfeltet også opplever andre nyheter, ettersom den norske fotballklubben Bodø/Glimt er lansert som en kandidat til å bli kåret til årets klubb på herresiden under den prestisjetunge og stjernespekkede Gullballen-gallaen som skal avholdes i London. Det er dermed bredde i sakene som omhandler både internasjonal musikkhistorie og norsk idrettssuksess på europeisk nivå. Begge hendelsene markerer markante øyeblikk for henholdsvis norsk kulturliv og idrett.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/k0xz9L/stevie-wonder-til-norge",
+            "title": "Stevie Wonder til Norge",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/kultur/i/M7XkOB/stevie-wonder-til-norge-paa-50-aarsjubileumsturne",
+            "title": "Stevie Wonder til Norge på 50-årsjubileumsturné",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/sport/fotball/i/5pez2m/glimt-kan-vinne-gullballen-kaaring-feilstemplet-som-underdogs",
+            "title": "Bodø/Glimt kan bli årets klubb i Gullballen-utdelingen",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/kjendis/stevie-wonder-kommer-til-norge/s/80-95-61268",
+            "title": "Stevie Wonder kommer til Norge",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "adb065b44512ab34",
+        "continued_from": null,
+        "headline": "Norge har svart USA på krav om lojalitet",
+        "ingress": "Trump-administrasjonen har bedt europeiske Nato-land avklare sin lojalitet før militært nærvær bestemmes.",
+        "summary": "Regjeringen i Norge har nå svart på henvendelsen fra USA der det ble stilt spørsmål ved allierte lands lojalitet. Det er Trump-administrasjonen som har krevd at Norge og øvrige europeiske Nato-land gir en avklaring på om de stiller seg lojale til USAs utenrikspolitikk. Dette kravet fremsettes som en forutsetning før USA tar en endelig beslutning om det framtidige militære nærværet i Europa. Saken berører sentrale sikkerhetspolitiske forhold og alliansestrukturen mellom USA og de europeiske medlemmene i forsvarssamarbeidet. Det er foreløpig ikke detaljert nøyaktig hva den norske regjeringens svar inneholder, utover at det foreligger en offisiell respons på det amerikanske kravet. Slike krav fra amerikansk hold blir vurdert som en markant prøvesten for det transatlantiske samholdet og det fremtidige forsvarssamarbeidet i Europa. Situasjonen følges nøye av eksperter på sikkerhetspolitikk og forsvar.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2pXLdv/usa-stilte-spoersmaal-om-lojalitet-naa-har-regjeringen-svart",
+            "title": "USA stilte spørsmål om lojalitet – nå har regjeringen svart",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5ef12cfe3c35088b",
+        "continued_from": null,
+        "headline": "Sterk vekst i Kinas eksport til USA",
+        "ingress": "Kinas eksport til USA økte kraftig i august med en vekst på over 34 prosent, viser nye tolltall.",
+        "summary": "Tall fra kinesiske tollmyndigheter viser at Kinas eksport til USA tok seg markant opp i august, med en vekst på 34,4 prosent sammenlignet med samme måned året før. Verdien på eksporten landet på 42,5 milliarder dollar, noe som er en betydelig oppgang fra juli da verdien var på 31,6 milliarder dollar. Også den totale kinesiske eksporten økte, med en samlet vekst på 25 prosent i august sammenlignet med fjoråret. Ifølge NTB er en av de sentrale drivkraften bak denne oppgangen den globale etterspørselen etter kinesisk teknologi knyttet til kunstig intelligens-satsing. Disse tallene gir et bilde av en sterk måned for kinesisk utenrikshandel, der særlig det amerikanske markedet og teknologisektoren peker seg ut med økt omsetning. Det gjenstår å se om denne positive trenden vil holde seg gjennom høsten, eller om det dreier seg om en midlertidig svingning i handelsstrømmene mellom de to supermaktene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kinas-eksport-til-usa-okte-34-prosent-1.18017387",
+            "title": "Kinas eksport til USA økte 34 prosent",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "96e4d28c4b6f4f97",
+        "continued_from": null,
+        "headline": "Ungarn utviser ti russiske diplomater",
+        "ingress": "Det ungarske utenriksdepartementet opplyser at ti russiske diplomater er utvist for virksomhet uforenelig med statusen.",
+        "summary": "Det ungarske utenriksdepartementet har tirsdag kunngjort en beslutning om å utvise ti russiske diplomater fra landet. Årsaken som oppgis, er at disse personene har deltatt i virksomheter som vurderes som uforenlige med deres diplomatiske status. Beslutningen markerer en alvorlig diplomatisk handling fra ungarske myndigheter overfor Russland. Hendelsen er bredt omtalt av flere medier, inkludert VG, Aftenposten og Nettavisen, som alle videreformidler det offisielle standpunktet fra det ungarske departementet. Det er foreløpig ikke kjent nøyaktig hvilke konkrete aktiviteter diplomatene skal ha vært involvert i, eller hvordan russiske myndigheter vil svare på utvisningene. Slike diplomatutvisninger skjer gjerne i situasjoner der etterretningsvirksomhet eller sikkerhetsmessige overtredelser avdekkes, men de offisielle rapportene begrenser seg foreløpig til å slå fast at aktivitetene var uforenlige med oppdraget de var tildelt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/aJexRa/ungarn-utviser-ti-russiske-diplomater",
+            "title": "Ungarn utviser ti russiske diplomater",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/2pgkaq/ungarn-utviser-ti-russiske-diplomater",
+            "title": "Ungarn utviser ti russiske diplomater",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/ungarn-utviser-ti-russiske-diplomater/s/80-95-61475",
+            "title": "Ungarn utviser ti russiske diplomater",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "65002fbc5985b9e8",
+        "continued_from": null,
+        "headline": "Bodø/Glimt kan vinne prestisjetung pris i London",
+        "ingress": "Bodø/Glimt er nominert til årets klubb på herresiden under den internasjonale Gullballen-gallaen.",
+        "summary": "Den norske fotballklubben Bodø/Glimt har mulighet til å skrive historie ved å bli kåret til årets klubb på herresiden under den stjernespekkede Gullballen-gallaen i London. Dersom klubben skulle nå helt til topps, vil det være første gang en norsk klubb vinner den prestisjetunge Ballon d'Or-kåringen. I forbindelse med nominasjonen har det kommet fram vurderinger fra miljøet som hevder at klubben er feilstemplet som underdogs på den internasjonale arenaen. Dette blir presentert som en analyse av lagets sportslige utvikling og posisjon de siste årene, der de har prestert på et nivå som vekker oppsikt langt utenfor Norges grenser. Det er ennå ikke avklart hvem som faktisk vil stikke av med prisen under arrangementet, men selve nominasjonen i seg selv blir anerkjent som en milepæl for norsk klubbfotball. Kilder som VG og Nettavisen dekker saken og trekker frem betydningen av denne anerkjennelsen for norsk idrett.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/pBxvwR/bodoe-glimt-fikk-prestisjetung-nominasjon-foran-gullballen-utdelingen",
+            "title": "Glimt kan vinne Gullballen-kåring: – Feilstemplet som underdogs",
+            "is_secondary": false
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/glimt-kan-vinne-gullballen-karing-feilstemplet-som-underdogs/s/80-95-61538",
+            "title": "Glimt kan vinne Gullballen-kåring: – Feilstemplet som underdogs",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "553189f61812ca70",
+        "continued_from": null,
+        "headline": "Ekspert har liten tro på fredssamtalene",
+        "ingress": "En ekspert uttrykker skepsis til om helgens møter vil føre til reelle gjennombrudd.",
+        "summary": "Kommentaren og analysen gjengitt i saken gir uttrykk for at en ekspert på feltet ikke lenger har særlig tro på at de kommende helgemøtene om krigen i Russland og Ukraina vil resultere i noen faktiske gjennombrudd for fredsprosessen. Det understrekes i vurderingen at man ikke bør holde pusten for raske eller dyptgående løsninger på konflikten basert på disse samtalene. Dette er en analytisk vurdering av situasjonen, og representerer et syn på at de diplomatiskesporene som nå følges, per i dag har begrenset sannsynlighet for å lede fram til en umiddelbar avtalt fred. Det er ikke lagt fram nye bekreftede avtaler fra selve samtalene i denne omgang, men heller en nøktern prognose fra hold som følger situasjonen tett. Sakens innhold bærer preg av å være en vurdering rather enn en rapport om et faktisk utfall, noe som er viktig for å skille mellom faktiske hendelser og ekspertens personlige spådommer om det videre diplomatiske arbeidet mellom partene.",
+        "content_type": "analyse_vurderende",
+        "content_group": "kommentar_debatt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19200320",
+            "title": "Fredssamtalene i Russland og Ukraina: – Tror ikke lenger på det",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "10a1a758156100ae",
+        "continued_from": null,
+        "headline": "Nekter straffskyld etter dramatisk hus-eksplosjon i Sarpsborg",
+        "ingress": "Rettssaken har startet for mannen som er tiltalt etter en voldsom boligeksplosjon i Sarpsborg i fjor.",
+        "summary": "Mandag startet rettssaken i Sarpsborg tingrett etter eksplosjonen i et bolighus den 28. mars i fjor, der to personer ble skadet. Mannen som er tiltalt for grovt uaktsomt skadeverk og for å ha fremkalt fare for allmennheten, avviste tvert alle anklager og erklærte seg ikke skyldig da saken åpnet. Dagen etter selve hendelsen i fjor ble den nå tiltalte mannen i 50-årene siktet i saken. Under sin forklaring i retten opplyste han at han hadde blitt rammet av psykisk sykdom i perioden fram mot eksplosjonen, og at han i dag ikke har noen hukommelse av hva som faktisk skjedde den aktuelle dagen. Rettssaken er berammet til å gå over tre dager i tingretten, hvor bevis og vitneutsagn vil bli gjennomgått for å avklare hendelsesforløpet og ansvarsforholdene rundt ulykken. Det er foreløpig ikke felt noen dom, og mannen nyter dermed uskyldspresumsjonen inntil en rettskraftig avgjørelse foreligger. NRK har fulgt oppstarten av rettssaken og gjengitt aktoratets tiltale og tiltaltes egen forklaring i retten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/ostfold/nekter-straffskyld-etter-at-huset-eksploderte-1.18017731",
+            "title": "Nekter straffskyld etter at huset eksploderte",
+            "is_secondary": false
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "status": {
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "dropped_count": 54,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
