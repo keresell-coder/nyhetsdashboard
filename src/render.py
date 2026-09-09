@@ -124,8 +124,34 @@ details.status .body div { margin-bottom: 0.4rem; }
 """
 
 
+HEALTH_MONITOR = """<aside id="source-health-status" role="status" style="padding:12px;margin:12px;border:1px solid currentColor">Kontrollerer datert kildehelse …</aside>
+<noscript><p>Se <a href="health.json">datert kildehelse og siste forsøk</a> før bruk.</p></noscript>
+<script>
+(() => {
+  const banner = document.getElementById('source-health-status');
+  fetch('health.json', {cache: 'no-store'}).then(r => {if (!r.ok) throw Error('missing'); return r.json();}).then(h => {
+    const expires = Date.parse(h.expires_at);
+    const expired = !Number.isFinite(expires) || Date.now() > expires;
+    const state = h.status === 'blocked' || expired ? 'blocked' : h.status;
+    const label = {current:'Kildehelse oppdatert', degraded:'Begrenset kildedekning', blocked:'Ny utgave mangler eller er blokkert'}[state] || 'Kildehelse ikke verifisert';
+    const counts = h.coverage || {};
+    const reason = h.attempt_status === 'failed' ? ' Siste forsøk feilet: ' + ((h.issues || [])[0]?.reason || 'ukjent årsak') + '.' : '';
+    banner.dataset.status = state;
+    banner.textContent = label + '. Utgaven er fra ' + (h.generated_at || h.edition_date || 'ukjent dato') + '. Siste forsøk: ' + (h.latest_attempt_at || 'ukjent') + '. ' + (counts.usable_source_count ?? '?') + '/' + (counts.configured_source_count ?? '?') + ' konfigurerte kilder hadde brukbare daterte artikler i denne utgaven.' + reason + (expired ? ' Oppdateringsfristen er passert; beholdt utgave må ikke leses som fersk.' : '') + ' Dette validerer ikke AI-sammendragene.';
+  }).catch(() => {banner.textContent = 'Kildehelse kan ikke verifiseres. Bruk utgavens opprinnelige dato; et vellykket teknisk forsøk bekrefter ikke ferske kilder.'; banner.dataset.status = 'blocked';});
+})();
+</script>"""
+
+
+def ensure_health_monitor(html):
+    """Add the health notice to legacy editions without rewriting their content/date."""
+    if 'id="source-health-status"' in html:
+        return html
+    return html.replace("</body>", HEALTH_MONITOR + "\n</body>")
+
+
 def _page_shell(title, header_html, nav_html, body_html, footer_html):
-    return f"""<!DOCTYPE html>
+    return ensure_health_monitor(f"""<!DOCTYPE html>
 <html lang="no">
 <head>
 <meta charset="utf-8">
@@ -142,10 +168,10 @@ def _page_shell(title, header_html, nav_html, body_html, footer_html):
 {footer_html}
 </body>
 </html>
-"""
+""")
 
 
-def _header_html(generated_label, all_stories):
+def _header_html(generated_label, all_stories, status=None):
     n_stories = len(all_stories)
     n_sources = len({s["source_name"] for story in all_stories for s in story["sources"]})
     n_categories = len({s["main_category"] for s in all_stories})
@@ -161,14 +187,13 @@ def _header_html(generated_label, all_stories):
     by_tier = {}
     for s in config.SOURCES:
         by_tier.setdefault(s.get("tier", "primary_no"), []).append(s["name"])
+    health = (status or {}).get("source_health", {})
+    counts = health.get("coverage", {})
     coverage = (
-        f"Kilder: {len(by_tier.get('primary_no', []))} norske, "
-        f"{len(by_tier.get('international', []))} internasjonale/nordiske, "
-        f"{len(by_tier.get('secondary', []))} bakgrunnskilder "
-        "(bakgrunnskilder teller ikke som redaksjonell bekreftelse). "
-        f"{len(config.UNAVAILABLE_SOURCES)} ønskede kilder mangler offentlig "
-        "RSS – se «Om denne rapporten»."
-    )
+        f"Kildedekning: {counts.get('usable_source_count', 0)} av {len(config.SOURCES)} konfigurerte utgivere med daterte saker siste {config.LOOKBACK_HOURS} timer. "
+        f"{counts.get('failed_source_count', 0)} hentefeil; {len(config.UNAVAILABLE_SOURCES)} ønskede kilder er utilgjengelige. "
+        "Antall utgivere dokumenterer ikke uavhengig rapportering."
+    ) if health else "Kildedekning for denne utgaven er ikke verifisert."
     return f"""<header class="top">
   <h1>Morgenrapport &amp; Nyhetsscreener</h1>
   <div class="meta">{escape(generated_label)}</div>
@@ -189,7 +214,7 @@ def _badges_html(story):
     elif editorial_count == 1:
         badges.append('<span class="badge single">Enkeltkilde</span>')
     else:
-        badges.append(f'<span class="badge multi">{editorial_count} uavhengige kilder</span>')
+        badges.append(f'<span class="badge multi">{editorial_count} utgivere</span>')
     label = config.CONTENT_TYPE_LABELS.get(story["content_type"], story["content_type"])
     badges.append(f'<span class="badge">{escape(label)}</span>')
     return f'<div class="badges">{"".join(badges)}</div>'
@@ -329,6 +354,8 @@ def _nav_html(nav_groups):
 
 def _status_body_html(status):
     lines = []
+    if status.get("generation_error"):
+        lines.append(f"<div>Oppdatering feilet: {escape(status['generation_error'])}</div>")
     unavailable = status.get("unavailable_sources") or []
     if unavailable:
         names = ", ".join(f'{u["name"]} ({u["reason"]})' for u in unavailable)
@@ -352,7 +379,7 @@ def _status_body_html(status):
     if dropped:
         lines.append(f"<div>{dropped} sak(er) utelatt pga. kvalitetskontroll (f.eks. for langt/kort sammendrag).</div>")
     if not lines:
-        lines.append("<div>Ingen kjente problemer i denne kjøringen.</div>")
+        lines.append("<div>Ingen registrerte kildefeil. Dette er ikke faktakontroll av sammendragene.</div>")
     return "".join(lines)
 
 
@@ -369,7 +396,7 @@ def render_normal(sections, status, generated_label):
     all_stories = [s for _, stories in sections for s in stories]
 
     if not all_stories:
-        header = _header_html(generated_label, all_stories)
+        header = _header_html(generated_label, all_stories, status)
         body = '<p class="empty-state">Ingen saker å vise i denne kjøringen.</p>'
         footer = _status_details_html(status)
         return _page_shell("Morgenrapport & Nyhetsscreener", header, "", body, footer)
@@ -394,7 +421,7 @@ def render_normal(sections, status, generated_label):
         # løftet til "Viktigste saker": ikke vis noen misvisende melding.
         nav_groups.append((title if len(sections) > 1 else None, nav_items))
 
-    header = _header_html(generated_label, all_stories)
+    header = _header_html(generated_label, all_stories, status)
     nav = _nav_html(nav_groups)
     body = "".join(body_parts)
     footer = _status_details_html(status)
@@ -415,19 +442,19 @@ def render_raw_fallback(articles, status, generated_label):
             for a in by_source[source_name]
         )
         parts.append(f'<section class="category"><h2>{escape(source_name)}</h2><ul class="raw-list">{lis}</ul></section>')
-    header = _header_html(generated_label, [])
+    header = _header_html(generated_label, [], status)
     body = "".join(parts)
     footer = _status_details_html(status)
     return _page_shell("Morgenrapport & Nyhetsscreener", header, "", banner + body, footer)
 
 
-def render_stale(stories, generated_label, stale_since_label):
+def render_stale(stories, generated_label, stale_since_label, status=None):
     banner = f'<div class="banner">Kunne ikke oppdatere – viser forrige vellykkede rapport fra {escape(stale_since_label)}.</div>'
     top_stories = _select_highlights(stories)
     top_ids = {s["story_id"] for s in top_stories}
     section_html, nav_items = _section_html("stale", stories, top_ids)
-    header = _header_html(generated_label, stories)
+    header = _header_html(generated_label, stories, status)
     nav = _nav_html([(None, nav_items)])
     body = _highlights_html(top_stories) + section_html
-    footer = _status_details_html({})
+    footer = _status_details_html(status or {"generation_error": "Previous edition retained; latest attempt failed."})
     return _page_shell("Morgenrapport & Nyhetsscreener", header, nav, banner + body, footer)

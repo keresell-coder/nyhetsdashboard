@@ -193,6 +193,7 @@ def validate_stories(draft_raw, groups_by_key, previous_ids=None):
                 "link": a.link,
                 "title": a.title,
                 "is_secondary": not a.is_corroborating,
+                "published_at": a.published.isoformat() if a.published else None,
             }
             for a in used_articles
         ]

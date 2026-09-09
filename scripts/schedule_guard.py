@@ -65,7 +65,7 @@ def already_ran(date_str, run_type):
     except (json.JSONDecodeError, OSError):
         return False
     run = state.get(run_type)
-    return bool(run and run.get("stories"))
+    return bool(run and (run.get("generated_at") or run.get("stories")))
 
 
 def decide(now, forced_run_type="", state_lookup=None):

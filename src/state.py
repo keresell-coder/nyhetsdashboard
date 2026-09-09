@@ -46,12 +46,17 @@ def save_state(date_str, state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-def record_run(date_str, run_type, story_dicts, status):
+def record_run(date_str, run_type, story_dicts, status, *, generated_at=None, source_health=None, displayed_stories=None):
     """Lagrer resultatet av en kjøring (morning/evening) i dagens state-fil."""
     state = load_state(date_str)
     state["date"] = date_str
     state[run_type] = {
         "stories": story_dicts,
+        "displayed_stories": displayed_stories if displayed_stories is not None else story_dicts,
+        "generated_at": generated_at,
+        "edition_date": date_str,
+        "edition_type": run_type,
+        "source_health": source_health or {},
         "status": status,
     }
     save_state(date_str, state)
@@ -138,3 +143,17 @@ def last_good_stories(date_str):
         if run and run.get("stories"):
             return run["stories"], run_type
     return None, None
+
+
+def last_good_edition(date_str):
+    """Retain a valid prior edition across days; never invent its timestamp."""
+    from pathlib import Path
+    for path in sorted(Path(STATE_DIR).glob("*.json"), reverse=True):
+        if path.stem > date_str:
+            continue
+        saved = load_state(path.stem)
+        for run_type in ("evening", "morning"):
+            edition = saved.get(run_type)
+            if edition and edition.get("displayed_stories", edition.get("stories")):
+                return {**edition, "edition_date": path.stem, "edition_type": run_type}
+    return None

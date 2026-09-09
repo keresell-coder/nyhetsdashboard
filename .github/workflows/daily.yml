@@ -42,6 +42,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Test source health and edition preservation
+        run: python -m unittest discover -s tests -v
+
       - name: Vaktpost – bestem kjøretype eller avbryt
         id: guard
         env:
@@ -56,12 +59,22 @@ jobs:
           RUN_TYPE: ${{ steps.guard.outputs.run_type }}
         run: python generate_dashboard.py
 
+      - name: Validate publication health manifest
+        if: steps.guard.outputs.proceed == 'true'
+        run: python -m src.health
+
       - name: Publisér endringer
         if: steps.guard.outputs.proceed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html
+          git add index.html health.json
           if [ -d data/state ]; then git add data/state/; fi
-          git commit -m "Oppdatert nyhetsdashboard (${{ steps.guard.outputs.run_type }})" || exit 0
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Oppdatert nyhetsdashboard (${{ steps.guard.outputs.run_type }})"
+            git push
+          fi
+
+      - name: Fail if the attempted edition was blocked
+        if: steps.guard.outputs.proceed == 'true'
+        run: python -m src.health --require-available

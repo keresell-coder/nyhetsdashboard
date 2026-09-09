@@ -44,8 +44,8 @@ SOURCES = [
     {"id": "wsj", "name": "Wall Street Journal", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "tier": "international", "region": "intl"},
     {"id": "nyt", "name": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "tier": "international", "region": "intl"},
     # Nikkei leverer RSS 1.0/RDF med KUN tittel og lenke - ingen dato eller
-    # ingress. Bidrar derfor svakere enn de øvrige: klassifisering og
-    # klynging må skje på tittel alene, og artiklene kan ikke tidsfiltreres.
+    # ingress. Udaterte elementer ekskluderes og vises som manglende datert
+    # dekning; hentetid er ikke en publiseringsdato.
     {"id": "nikkei", "name": "Nikkei Asia", "url": "https://asia.nikkei.com/rss/feed/nar", "tier": "international", "region": "intl"},
     {"id": "scmp", "name": "SCMP", "url": "https://www.scmp.com/rss/91/feed", "tier": "international", "region": "intl"},
     {"id": "aljazeera", "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "tier": "international", "region": "intl"},
