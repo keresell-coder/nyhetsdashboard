@@ -4,6 +4,7 @@ begrunnelse (unngår kollisjon mellom Jekyll/Liquid-syntaks og LLM-tekst).
 """
 
 from html import escape
+import re
 
 from src import config
 
@@ -144,10 +145,17 @@ HEALTH_MONITOR = """<aside id="source-health-status" role="status" style="paddin
 
 
 def ensure_health_monitor(html):
-    """Add the health notice to legacy editions without rewriting their content/date."""
+    """Place health before the report, preserving the edition content and date."""
+    body = re.search(r"<body\b[^>]*>", html)
+    if body is None:
+        raise ValueError("Cannot attach publication health: HTML has no body")
     if 'id="source-health-status"' in html:
-        return html
-    return html.replace("</body>", HEALTH_MONITOR + "\n</body>")
+        if HEALTH_MONITOR not in html or not html[body.end():html.index(HEALTH_MONITOR)].strip():
+            return html
+        # Migrate the previous footer notice without duplicating it or changing
+        # a single report sentence, source reference, or generation timestamp.
+        html = html.replace(HEALTH_MONITOR + "\n", "", 1) if HEALTH_MONITOR + "\n" in html else html.replace(HEALTH_MONITOR, "", 1)
+    return html[:body.end()] + "\n" + HEALTH_MONITOR + html[body.end():]
 
 
 def _page_shell(title, header_html, nav_html, body_html, footer_html):

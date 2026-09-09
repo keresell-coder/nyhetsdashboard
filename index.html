@@ -121,6 +121,23 @@ details.status .body div { margin-bottom: 0.4rem; }
 </style>
 </head>
 <body>
+<aside id="source-health-status" role="status" style="padding:12px;margin:12px;border:1px solid currentColor">Kontrollerer datert kildehelse …</aside>
+<noscript><p>Se <a href="health.json">datert kildehelse og siste forsøk</a> før bruk.</p></noscript>
+<script>
+(() => {
+  const banner = document.getElementById('source-health-status');
+  fetch('health.json', {cache: 'no-store'}).then(r => {if (!r.ok) throw Error('missing'); return r.json();}).then(h => {
+    const expires = Date.parse(h.expires_at);
+    const expired = !Number.isFinite(expires) || Date.now() > expires;
+    const state = h.status === 'blocked' || expired ? 'blocked' : h.status;
+    const label = {current:'Kildehelse oppdatert', degraded:'Begrenset kildedekning', blocked:'Ny utgave mangler eller er blokkert'}[state] || 'Kildehelse ikke verifisert';
+    const counts = h.coverage || {};
+    const reason = h.attempt_status === 'failed' ? ' Siste forsøk feilet: ' + ((h.issues || [])[0]?.reason || 'ukjent årsak') + '.' : '';
+    banner.dataset.status = state;
+    banner.textContent = label + '. Utgaven er fra ' + (h.generated_at || h.edition_date || 'ukjent dato') + '. Siste forsøk: ' + (h.latest_attempt_at || 'ukjent') + '. ' + (counts.usable_source_count ?? '?') + '/' + (counts.configured_source_count ?? '?') + ' konfigurerte kilder hadde brukbare daterte artikler i denne utgaven.' + reason + (expired ? ' Oppdateringsfristen er passert; beholdt utgave må ikke leses som fersk.' : '') + ' Dette validerer ikke AI-sammendragene.';
+  }).catch(() => {banner.textContent = 'Kildehelse kan ikke verifiseres. Bruk utgavens opprinnelige dato; et vellykket teknisk forsøk bekrefter ikke ferske kilder.'; banner.dataset.status = 'blocked';});
+})();
+</script>
 <header class="top">
   <h1>Morgenrapport &amp; Nyhetsscreener</h1>
   <div class="meta">Oppdatert 09.09.2026 kl. 08:46 (morgenrapport, Europe/Oslo)</div>
@@ -228,22 +245,5 @@ details.status .body div { margin-bottom: 0.4rem; }
   <summary>Om denne rapporten / kildestatus</summary>
   <div class="body"><div>Ikke inkludert i denne versjonen: Dagbladet (Ingen offentlig RSS-feed funnet), Klassekampen (Ingen offentlig RSS-feed funnet), ABC Nyheter (Ingen offentlig RSS-feed funnet), Reuters (Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24), Associated Press (Har stengt offentlig RSS (401)), Jyllands-Posten (Ingen offentlig RSS-feed funnet), Les Echos (Blokkerer automatisert henting (403)), The Times (Ikke tilgjengelig uten abonnement), OSCE (Ingen fungerende RSS-feed), IEA (Ingen fungerende RSS-feed), OPEC (Blokkerer automatisert henting), FN (Feed ustabil ved verifisering)</div><div>28 sak(er) utelatt pga. kvalitetskontroll (f.eks. for langt/kort sammendrag).</div></div>
 </details>
-<aside id="source-health-status" role="status" style="padding:12px;margin:12px;border:1px solid currentColor">Kontrollerer datert kildehelse …</aside>
-<noscript><p>Se <a href="health.json">datert kildehelse og siste forsøk</a> før bruk.</p></noscript>
-<script>
-(() => {
-  const banner = document.getElementById('source-health-status');
-  fetch('health.json', {cache: 'no-store'}).then(r => {if (!r.ok) throw Error('missing'); return r.json();}).then(h => {
-    const expires = Date.parse(h.expires_at);
-    const expired = !Number.isFinite(expires) || Date.now() > expires;
-    const state = h.status === 'blocked' || expired ? 'blocked' : h.status;
-    const label = {current:'Kildehelse oppdatert', degraded:'Begrenset kildedekning', blocked:'Ny utgave mangler eller er blokkert'}[state] || 'Kildehelse ikke verifisert';
-    const counts = h.coverage || {};
-    const reason = h.attempt_status === 'failed' ? ' Siste forsøk feilet: ' + ((h.issues || [])[0]?.reason || 'ukjent årsak') + '.' : '';
-    banner.dataset.status = state;
-    banner.textContent = label + '. Utgaven er fra ' + (h.generated_at || h.edition_date || 'ukjent dato') + '. Siste forsøk: ' + (h.latest_attempt_at || 'ukjent') + '. ' + (counts.usable_source_count ?? '?') + '/' + (counts.configured_source_count ?? '?') + ' konfigurerte kilder hadde brukbare daterte artikler i denne utgaven.' + reason + (expired ? ' Oppdateringsfristen er passert; beholdt utgave må ikke leses som fersk.' : '') + ' Dette validerer ikke AI-sammendragene.';
-  }).catch(() => {banner.textContent = 'Kildehelse kan ikke verifiseres. Bruk utgavens opprinnelige dato; et vellykket teknisk forsøk bekrefter ikke ferske kilder.'; banner.dataset.status = 'blocked';});
-})();
-</script>
 </body>
 </html>
