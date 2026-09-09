@@ -60,6 +60,7 @@ class HealthTests(unittest.TestCase):
         self.assertEqual(manifest["research_validation"], "not_established")
         health.validate_manifest(manifest, require_available=True)
         self.assertIn('id="source-health-status"', self.index.read_text())
+        self.assertLess(self.index.read_text().index('id="source-health-status"'), self.index.read_text().index('<header'))
         self.assertNotIn("uavhengige kilder", self.index.read_text())
         self.assertEqual(state.last_good_edition("2026-09-09")["generated_at"], NOW.isoformat())
 
@@ -143,6 +144,14 @@ class HealthTests(unittest.TestCase):
         self.assertIn("legacy_edition_time_unverified", [x["reason"] for x in result["issues"]])
         self.assertEqual(self.index.read_text(), render.ensure_health_monitor(original))
         self.assertEqual(render.ensure_health_monitor(self.index.read_text()), self.index.read_text())
+
+    def test_footer_notice_moves_before_report_without_changing_existing_edition(self):
+        original = '<html><body>\n<header>Oppdatert 09.09.2026 kl. 08:46</header><main>Original edition with source links.</main>\n' + render.HEALTH_MONITOR + '\n</body></html>'
+        moved = render.ensure_health_monitor(original)
+        self.assertEqual(moved.count('id="source-health-status"'), 1)
+        self.assertLess(moved.index('id="source-health-status"'), moved.index('<header'))
+        self.assertEqual(moved.replace(render.HEALTH_MONITOR, '').replace('\n', ''), original.replace(render.HEALTH_MONITOR, '').replace('\n', ''))
+        self.assertEqual(render.ensure_health_monitor(moved), moved)
 
     def test_empty_evening_delta_is_a_completed_edition_not_another_retry(self):
         self.run_pipeline()
