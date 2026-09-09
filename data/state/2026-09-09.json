@@ -1,0 +1,2195 @@
+{
+  "date": "2026-09-09",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "6b0d5c5f8f11f3eb",
+        "continued_from": null,
+        "headline": "Droneangrep rammer Novorossijsk og grensepost",
+        "ingress": "Fire personer skal være drepte i et ukrainsk droneangrep i russiske Novorossijsk, mens et separat angrep har rammet en grensepost mellom Ukraina og Moldova.",
+        "summary": "Flere hendelser preger situasjonen i regionen. Ifølge guvernør Venjamin Kondratjev i Krasnodar-regionen er fire personer drept, deriblant et barn, i et ukrainsk droneangrep mot Novorossijsk. Ukraina opplyser selv at de har rettet angrep mot marinefartøy i området, samtidig som Russland hevder å ha skutt ned et stort antall ukrainske droner over natten. I en annen hendelse melder ukrainske myndigheter at et russisk droneangrep har rammet et krysningspunkt ved en grensepost mellom Ukraina og Moldova. Dette angrepet skal ha ført til både drepte, sårede og branner ved grenseposten, ifølge den ukrainske grensetjenesten. Det bekreftes fra offisielt hold at angrepene har skapt alvorlige situasjoner på tvers av grensene, men de nøyaktige skadeomfangene er gjenstand for videre verifisering. Analytikere peker på at disse hendelsene viser en vedvarende og intensivert bruk av droner i konflikten, noe som rammer både militære mål og sivil infrastruktur i grenseområdene. Hendelsene skjer samtidig som den politiske situasjonen og internasjonale besøk preger nyhetsbildet, der blant annet Ukraina følger opp sine operasjoner parallelt med at den ukrainske presidenten er på reise.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russisk-guvernor_-fire-drept-i-ukrainsk-droneangrep-i_novorossijsk-1.18018728",
+            "title": "Russisk guvernør: Fire drept i ukrainsk droneangrep i Novorossijsk",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:01:03+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/meldinger-om-drepte-og-sarede-i-droneangrep-ved-ukrainsk-grensepost-1.18018648",
+            "title": "Meldinger om drepte og sårede i droneangrep ved ukrainsk grensepost",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:30:45+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/RjXeQ2/flere-drepte-og-saarede-i-droneangrep-ved-ukrainsk-grensepost",
+            "title": "Flere drepte og sårede i droneangrep ved ukrainsk grensepost",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:34:48+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/russisk-dronenagrep-mot-ukrainsk-grensepost/s/80-95-63521",
+            "title": "Russisk droneangrep mot ukrainsk grensepost",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:28:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c2e773beee81f7df",
+        "continued_from": null,
+        "headline": "Forberedelser og gjester til kong Haralds gravferd",
+        "ingress": "Oslo gjør seg klar til kong Haralds historiske gravferd, hvor en rekke prominente gjester, deriblant Danmarks statsminister, vil delta.",
+        "summary": "Norge forbereder seg på å ta farvel med kong Harald V gjennom en historisk gravferd i Oslo. Seremonien finner sted i Oslo domkirke, og båren fraktes ut fra slottsporten klokken tolv. Det bekreftes at Danmarks statsminister Mette Frederiksen vil delta i gravferden som representant for den danske regjeringen, og hun er en av flere prominente gjester som ventes til hovedstaden. Forberedelsene preger byen, og politiet gjennomfører det som beskrives som den største politioperasjonen i norsk historie. I tillegg til seremonien i domkirken er det lagt til rette for at befolkningen over hele landet kan delta i sorgen. Gravferden vil bli vist på storskjerm i over 160 kirker og menighetshus landet over, slik at folk kan samles for å følge markeringen. De siste dagene har titusenvis av mennesker deltatt i defileringen for å ta et siste farvel med monarken før dørene stengte. Det meldes også om et enormt logistisk apparat i kulissene, med alt fra hotellrom reservert for tilreisende til uventede matbestillinger som trender i lokalmiljøet, noe som understreker omfanget av denne nasjonale sørgedagen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/danmarks-statsminister-mette-frederiksen-kommer-i-kong-haralds-gravferd-1.18018760",
+            "title": "Danmarks statsminister Mette Frederiksen kommer i kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:38:54+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/gravferden-til-kong-harald-vises-pa-storskjerm-i-over-160-kirker-1.18018581",
+            "title": "Gravferden til kong Harald vises på storskjerm i over 160 kirker",
+            "is_secondary": false,
+            "published_at": "2026-09-09T03:04:04+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/slik-blir-kong-haralds-gravferd-en-spesiell-dag-og-verdig-markering/2-1-2040621",
+            "title": "Slik blir kong Haralds gravferd: – En spesiell dag og verdig markering",
+            "is_secondary": false,
+            "published_at": "2026-09-09T02:03:31+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrG7Bp/danmarks-statsminister-mette-frederiksen-kommer-i-kong-haralds-gravferd",
+            "title": "Danmarks statsminister Mette Frederiksen kommer i kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:38:06+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrG77w/forberedelsene-foer-kong-haralds-gravferd",
+            "title": "Forberedelsene før kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:08:45+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124687",
+            "title": "Danmarks statsminister kommer i gravferden",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:38:40+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/6qeejW/se-visuelt-hvordan-kong-haralds-historiske-gravferd-blir-her",
+            "title": "Om få timer starter den historiske seremonien her. Slik blir kong Haralds siste reise.",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:24:59+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19206337",
+            "title": "Fikk ordre på 300 pizzaer til kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-08T21:03:50+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19205512",
+            "title": "Over 46.000 har defilert – Bengt ble én av de siste",
+            "is_secondary": false,
+            "published_at": "2026-09-08T18:10:25+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19203679",
+            "title": "Her skal gjestene bo",
+            "is_secondary": false,
+            "published_at": "2026-09-08T17:26:12+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19204290",
+            "title": "Åpent over hele landet: Her følger du kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-08T16:09:56+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19205304",
+            "title": "Nå er defileringen over",
+            "is_secondary": false,
+            "published_at": "2026-09-08T15:39:48+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/mette-frederiksen-deltar-i-kong-haralds-begravelse/s/80-95-63569",
+            "title": "Mette Frederiksen kommer i kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:35:33+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "10c2055c240f59ae",
+        "continued_from": null,
+        "headline": "Oljeprisen stiger mot 100 dollar og krona styrker seg",
+        "ingress": "Oljeprisen nærmer seg 100 dollar fatet som følge av en opptrapping i Midtøsten, samtidig som den norske krona setter nye rekorder.",
+        "summary": "Oljeprisen har steget markant og nærmer seg 100 dollar fatet, drevet av en alvorlig opptrapping av konflikten i Midtøsten. Meldinger tyder på at USA har ødelagt iranske oljetankere, og at Iran har svart med missilangrep mot Jordan, i tillegg til at Houthi-styrker har gjennomført angrep mot energianlegg. Storbanker og markedsaktører vurderer det slik at markedet i større grad nå priser inn en langvarig og krevende konflikt i regionen, noe som direkte påvirker energiprisene internasjonalt. Parallelt med de høye oljeprisene meldes det om at den norske krona har styrket seg ytterligere. Valutaen noterer seg for nye rekorder mot flere av de store internasjonale valutaene, inkludert dollar, euro, svenske kroner og franc. Analytikere påpeker at de geopolitiske spenningene spiller en avgjørende rolle for de økonomiske svingningene, der kombinasjonen av uro i Midtøsten og særnorske økonomiske faktorer skaper store bevegelser i markedene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/usa/iran/brent/oljeprisen-nar-100-dollar-etter-ny-opptrapping/2-1-2040738",
+            "title": "Oljeprisen nær 100 dollar etter ny opptrapping",
+            "is_secondary": false,
+            "published_at": "2026-09-09T01:59:38+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/QJXkv8/oljeprisen-passerer-99-dollar?utm_medium=rss",
+            "title": "Oljeprisen passerer 99 dollar",
+            "is_secondary": false,
+            "published_at": "2026-09-08T20:15:27+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/bO6bjg/oljeprisen-naermer-seg-100-dollar?utm_medium=rss",
+            "title": "Oljeprisen nærmer seg 100 dollar",
+            "is_secondary": false,
+            "published_at": "2026-09-08T09:19:10+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/okonomi/oljeprisen-stiger-krona-mot-nye-rekorder/s/80-95-63479",
+            "title": "Oljeprisen stiger - krona mot nye rekorder",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:53:07+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2b8a847ccf554e1f",
+        "continued_from": null,
+        "headline": "Iran hevder å ha angrepet ti skip i Persiabukta",
+        "ingress": "Den iranske revolusjonsgarden hevder de har angrepet to amerikanske fartøyer og åtte oljetankere i Persiabukta.",
+        "summary": "Ifølge statlige iranske medier og Reuters hevder Den iranske revolusjonsgarden å ha gjennomført angrep mot to amerikanske fartøyer samt åtte oljetankere i Persiabukta. Angrepene skal angivelig ha skjedd som en direkte reaksjon på at USA nylig ødela fem iranske oljetankere. De ti skipene skal ha blitt målrettet fordi de forsøkte å krysse et maritimt område i Hormuzstredet som Iran har erklært som både utrygt og forbudt å seile i. Det foreligger foreløpig ingen uavhengige bekreftelser på hendelsen fra amerikansk hold, og opplysningene baserer seg på iranske statlige kanaler samt nyhetsbyrået Reuters sine meldinger om saken. Saken må sees i lys av en svært spent sikkerhetspolitisk situasjon i regionen, hvor påstander om militære aksjoner og gjengjeldelser kan ha stor betydning for internasjonal skipsfart og oljetransport gjennom det strategisk viktige stredet. Norske og internasjonale myndigheter overvåker situasjonen nøye for å vurdere de faktiske konsekvensene av de påståtte angrepene på handelsskipene og den mulige eskaleringen i konflikten mellom USA og Iran.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/iran-hevder-a-ha-angrepet-ti-skip-i-persiabukta-1.18018579",
+            "title": "Iran hevder å ha angrepet ti skip i Persiabukta",
+            "is_secondary": false,
+            "published_at": "2026-09-09T02:16:20+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bfcfd3a41765b7ac",
+        "continued_from": null,
+        "headline": "Oslo stenges ned og sperres av før kong Haralds gravferd",
+        "ingress": "Store deler av Oslo sentrum er stengt for trafikk onsdag i forbindelse med kong Haralds gravferd.",
+        "summary": "Onsdag avholdes kong Haralds gravferd, noe som preger hele hovedstaden med omfattende sikkerhetstiltak, stengte gater og store trafikkutfordringer. Store deler av Oslo sentrum er stengt for bil- og kollektivtrafikk, og det er opprettet en jernring med ti offisielle innslippspunkter. For å komme seg inn i det avsperrede området må publikum gå gjennom politiets visitasjonspunkter, og det meldes om økende køer ved flere av disse inngangene i morgentimene. Det er innført strenge forbud mot bruk av elsparkesykler og sykler i den innerste bykjernen, og 33 av Oslo bysykkels stasjoner er stengt. Politiet oppfordrer folk til å la bilen stå, unngå Nationaltheatret stasjon og la bunadskniv og paraplyer ligge hjemme av hensyn til sikkerheten. Statens vegvesen melder om svært rolig trafikk vest- og sørfra inn mot Oslo sammenlignet med en normaldag, og det er knapt biler på innfartsårene, selv om det er noe kø ved Lørenskog på grunn av sperringer og omkjøringer. E6 nord for Oslo vil tidvis bli stengt helt på grunn av offisiell kortesjekjøring. Samtidig har flere dedikerte oppmøte, deriblant tidlig ute på Karl Johan og utenfor Oslo domkirke for å ta farvel med kongen som stedes til hvile.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/koene-vokser-foran-gravferden-1.18018740",
+            "title": "Køene vokser foran gravferden",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:25:51+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/vegvesenet_-nesten-ikke-biler-inn-mot-oslo-1.18018679",
+            "title": "Vegvesenet: Nesten ikke biler inn mot Oslo",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:35:25+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/oslo-sentrum-sperret-av-1.18018582",
+            "title": "Oslo sentrum sperret av",
+            "is_secondary": false,
+            "published_at": "2026-09-09T03:56:16+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/store-trafikkutfordringer-i-oslo_-_-la-bilen-sta-1.18018606",
+            "title": "Store trafikkutfordringer i Oslo: – La bilen stå",
+            "is_secondary": false,
+            "published_at": "2026-09-09T03:33:25+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0pqy8B/har-faatt-gode-plasser",
+            "title": "Har fått gode plasser",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:25:54+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2pgxzr/koeen-vokser-i-oslo-sentrum",
+            "title": "Køen vokser i Oslo sentrum",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:21:50+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/pBxe2R/vi-har-gruet-oss",
+            "title": "– Vi har gruet oss",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:21:15+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/q6xggz/frode-64-paa-plass-foer-kong-haralds-gravferd",
+            "title": "Frode (64) på plass før kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:20:39+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/GxXLLQ/frode-64-paa-plass-i-karl-johan",
+            "title": "Frode (64) på plass i Karl Johan",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:06:13+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2pgxel/paa-plass-utenfor-domkirken",
+            "title": "På plass utenfor domkirken",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:57:11+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124686",
+            "title": "Køene begynner å vokse foran gravferden",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:36:27+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124682",
+            "title": "Statens vegvesen: – En god del mindre trafikk enn normalt",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:55:38+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/ExEKpa/onsdag-gravlegges-kong-harald-slik-er-oslo-timer-foer-gravferden",
+            "title": "Skulle egentlig på skolen i dag. Nå sitter hun alene nederst på Slottsplassen og venter på gravferden.",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:35:03+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JOMlw8/se-kartet-slik-paavirker-kong-haralds-gravferd-oslo-sentrum",
+            "title": "Nå er Oslo sentrum stengt ned. Dette må du vite.",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:08:17+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19206789",
+            "title": "Nå er det jernring rundt Oslo sentrum",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:12:14+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19206825",
+            "title": "Nå er Oslo sentrum sperret av",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:26:43+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19204075",
+            "title": "Trykket kjennes: – Får klare oss med en skive med brunost",
+            "is_secondary": false,
+            "published_at": "2026-09-08T15:56:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "16757f89de19e181",
+        "continued_from": null,
+        "headline": "Enighet i lønnsoppgjøret for spesialisthelsetjenesten",
+        "ingress": "Virke og 22 fagforbund er enige om en ny overenskomst for spesialisthelsetjenesten.",
+        "summary": "Etter to dagers forhandlinger har Virke og 22 forbund tilknyttet LO, YS, Unio og Akademikerne kommet til enighet om overenskomsten for spesialisthelsetjenesten. Oppgjøret omfatter ansatte hos ideelle aktører i denne tjenesten, inkludert helsefagarbeidere, hjelpepleiere, sykepleiere, helsesekretærer, teknikere, portører og administrativt ansatte. Forhandlingsleder Hanne Kolby i Fagforbundet uttrykker tilfredshet med et resultat som er i tråd med tilsvarende områder, og som gir medlemmene et lønnsløft for å styrke rekruttering og stabilitet. Ifølge Fagforbundet innebærer den økonomiske rammen et generelt tillegg på minimum 18 000 kroner til alle arbeidstakere, noe som er i tråd med frontfaget. Fra arbeidsgiverhold fremhever Virkes forhandlingssjef Ann Torunn Tallaksen at partene er spesielt fornøyde med å ha blitt enige om nødvendige endringer i Forsikret Tjenestepensjon Virke, slik at ordningen nå også vil omfatte fritt investeringsvalg. Den fremforhandlede avtalen er nå sendt ut til medlemmene for uravstemning før den blir endelig vedtatt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/enighet-i-lonnsoppgjoret-for-spesialisthelsetjenesten-1.18018643",
+            "title": "Enighet i lønnsoppgjøret for spesialisthelsetjenesten",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:17:37+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/ExXMEK/enighet-i-loennsoppgjoeret-for-spesialisthelsetjenesten",
+            "title": "Enighet i lønnsoppgjøret for spesialisthelsetjenesten",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:33:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "79fa64a83aeb9ac4",
+        "continued_from": null,
+        "headline": "Svensk spurtdrama før valget og regjeringsmakten",
+        "ingress": "De svenske sosialdemokratene lå an til seier, men taktiske stemmer kan avgjøre.",
+        "summary": "Ifølge Dagens Nyheter lå de svenske sosialdemokratene lenge an til å ta over regjeringsmakten i Sverige med god margin. Situasjonen har imidlertid endret seg, og det vurderes nå som et spennende spurtdrama der taktiske stemmer kan vise seg å bli utslagsgivende for det endelige valgresultatet. Denne analysen viser hvordan velgernes strategiske valg i ellevte time kan rokke ved de tidligere prognosene og skape en uforutsigbar avslutning på den politiske maktkampen i nabolandet. Artikkelen belyser den usikre dynamikken i svensk politikk, der små marginer og velgerbevegelser kan velte flertallsutsiktene for sosialdemokratene. Det understrekes at dette er en analyse av den politiske situasjonen og valgspurten, og utfallet vil avhenge fullstendig av hvordan velgerne faktisk oppfører seg ved urnene i innspurten av valgkampen.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kommentar/sverige/sverigedemokraterna/valg-i-sverige-2026/svensk-spurtdrama/2-1-2040166",
+            "title": "Svensk spurtdrama",
+            "is_secondary": false,
+            "published_at": "2026-09-09T02:08:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "44b51a6b51442d6d",
+        "continued_from": null,
+        "headline": "Trump vil utestenge Canada fra statlige kontrakter",
+        "ingress": "Handelskrangelen mellom USA og Canada trappes opp med nye trusler.",
+        "summary": "Ifølge E24 trappes handelskrangelen mellom de to nabolandene USA og Canada opp ytterligere. USAs pågående politiske linje, representert ved Donald Trump, innebærer et ønske om å kasta ut Canada fra statlige anbud og kontrakter. Dette trekket vil kunne ramme den bilaterale handelsutvekslingen hardt og forverre de økonomiske relasjonene mellom landene. Rapporten fra E24 fremstiller dette som en eskalering av en allerede spent situasjon preget av proteksjonistiske tiltak og uenigheter om markedsadgang. Det er en nyhetssak som baserer seg på utspill knyttet til amerikansk handelspolitikk, og virkningene av slike tiltak vil avhenge av eventuelle formelle vedtak og den videre politiske prosessen mellom Washington og Ottawa. Analytikere vurderer dette som nok et tegn på et tøffere klima i nordamerikansk handelspolitikk, hvor nasjonale interesser i økende grad settes foran tradisjonelt regionalt samarbeid over grensene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/GxXAd9/trump-vil-kaste-ut-canada-fra-statlige-kontrakter?utm_medium=rss",
+            "title": "Trump vil kaste ut Canada fra statlige kontrakter",
+            "is_secondary": false,
+            "published_at": "2026-09-08T20:57:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d692bfa2eb4d0e0f",
+        "continued_from": null,
+        "headline": "Reisebrev fra Stuttgart før Vikings historiske CL-debut",
+        "ingress": "VG leverer reisebrev fra Tyskland foran Vikings mesterligadebut.",
+        "summary": "Foran Vikings kommende debut i Mesterligaen (CL) har VG publisert et reisebrev direkte fra Stuttgart i Tyskland. Artikkelen gir et innblikk i stemningen og rammene rundt den store kampen som ventpert den norske fotballklubben ute i Europa. Slike reisebrev preges gjerne av journalistiske observasjoner og stemningsrapporter fra byen der oppgjøret skal finne sted, uten at det legges opp til en strengt nøysom nyhetsrapport om selve kampforberedelsene på treningsfeltet. Det er en sportslig reportasje som retter søkelyset mot supporterlivet og oppladningen i utlandet. Det oppgis ikke flere detaljer om lagoppstillinger eller sportslige analyser i ingressen, men stoffet retter seg mot tilreisende fans og fotballinteresserte som følger lagets ferd i det gjeveste selskapet i europeisk klubbfotball. Slike publiseringer er vanlige i norske medier når norske lag kvalifiserer seg til de største internasjonale turneringene.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/43le4R/reisebrev-fra-stuttgart-foer-vikings-cl-debut",
+            "title": "Reisebrev fra Stuttgart før Vikings CL-debut",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:36:52+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "6b0d5c5f8f11f3eb",
+        "continued_from": null,
+        "headline": "Droneangrep rammer Novorossijsk og grensepost",
+        "ingress": "Fire personer skal være drepte i et ukrainsk droneangrep i russiske Novorossijsk, mens et separat angrep har rammet en grensepost mellom Ukraina og Moldova.",
+        "summary": "Flere hendelser preger situasjonen i regionen. Ifølge guvernør Venjamin Kondratjev i Krasnodar-regionen er fire personer drept, deriblant et barn, i et ukrainsk droneangrep mot Novorossijsk. Ukraina opplyser selv at de har rettet angrep mot marinefartøy i området, samtidig som Russland hevder å ha skutt ned et stort antall ukrainske droner over natten. I en annen hendelse melder ukrainske myndigheter at et russisk droneangrep har rammet et krysningspunkt ved en grensepost mellom Ukraina og Moldova. Dette angrepet skal ha ført til både drepte, sårede og branner ved grenseposten, ifølge den ukrainske grensetjenesten. Det bekreftes fra offisielt hold at angrepene har skapt alvorlige situasjoner på tvers av grensene, men de nøyaktige skadeomfangene er gjenstand for videre verifisering. Analytikere peker på at disse hendelsene viser en vedvarende og intensivert bruk av droner i konflikten, noe som rammer både militære mål og sivil infrastruktur i grenseområdene. Hendelsene skjer samtidig som den politiske situasjonen og internasjonale besøk preger nyhetsbildet, der blant annet Ukraina følger opp sine operasjoner parallelt med at den ukrainske presidenten er på reise.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russisk-guvernor_-fire-drept-i-ukrainsk-droneangrep-i_novorossijsk-1.18018728",
+            "title": "Russisk guvernør: Fire drept i ukrainsk droneangrep i Novorossijsk",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:01:03+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/meldinger-om-drepte-og-sarede-i-droneangrep-ved-ukrainsk-grensepost-1.18018648",
+            "title": "Meldinger om drepte og sårede i droneangrep ved ukrainsk grensepost",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:30:45+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/RjXeQ2/flere-drepte-og-saarede-i-droneangrep-ved-ukrainsk-grensepost",
+            "title": "Flere drepte og sårede i droneangrep ved ukrainsk grensepost",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:34:48+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/russisk-dronenagrep-mot-ukrainsk-grensepost/s/80-95-63521",
+            "title": "Russisk droneangrep mot ukrainsk grensepost",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:28:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c2e773beee81f7df",
+        "continued_from": null,
+        "headline": "Forberedelser og gjester til kong Haralds gravferd",
+        "ingress": "Oslo gjør seg klar til kong Haralds historiske gravferd, hvor en rekke prominente gjester, deriblant Danmarks statsminister, vil delta.",
+        "summary": "Norge forbereder seg på å ta farvel med kong Harald V gjennom en historisk gravferd i Oslo. Seremonien finner sted i Oslo domkirke, og båren fraktes ut fra slottsporten klokken tolv. Det bekreftes at Danmarks statsminister Mette Frederiksen vil delta i gravferden som representant for den danske regjeringen, og hun er en av flere prominente gjester som ventes til hovedstaden. Forberedelsene preger byen, og politiet gjennomfører det som beskrives som den største politioperasjonen i norsk historie. I tillegg til seremonien i domkirken er det lagt til rette for at befolkningen over hele landet kan delta i sorgen. Gravferden vil bli vist på storskjerm i over 160 kirker og menighetshus landet over, slik at folk kan samles for å følge markeringen. De siste dagene har titusenvis av mennesker deltatt i defileringen for å ta et siste farvel med monarken før dørene stengte. Det meldes også om et enormt logistisk apparat i kulissene, med alt fra hotellrom reservert for tilreisende til uventede matbestillinger som trender i lokalmiljøet, noe som understreker omfanget av denne nasjonale sørgedagen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/danmarks-statsminister-mette-frederiksen-kommer-i-kong-haralds-gravferd-1.18018760",
+            "title": "Danmarks statsminister Mette Frederiksen kommer i kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:38:54+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/gravferden-til-kong-harald-vises-pa-storskjerm-i-over-160-kirker-1.18018581",
+            "title": "Gravferden til kong Harald vises på storskjerm i over 160 kirker",
+            "is_secondary": false,
+            "published_at": "2026-09-09T03:04:04+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/slik-blir-kong-haralds-gravferd-en-spesiell-dag-og-verdig-markering/2-1-2040621",
+            "title": "Slik blir kong Haralds gravferd: – En spesiell dag og verdig markering",
+            "is_secondary": false,
+            "published_at": "2026-09-09T02:03:31+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrG7Bp/danmarks-statsminister-mette-frederiksen-kommer-i-kong-haralds-gravferd",
+            "title": "Danmarks statsminister Mette Frederiksen kommer i kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:38:06+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/vrG77w/forberedelsene-foer-kong-haralds-gravferd",
+            "title": "Forberedelsene før kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:08:45+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124687",
+            "title": "Danmarks statsminister kommer i gravferden",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:38:40+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/6qeejW/se-visuelt-hvordan-kong-haralds-historiske-gravferd-blir-her",
+            "title": "Om få timer starter den historiske seremonien her. Slik blir kong Haralds siste reise.",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:24:59+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19206337",
+            "title": "Fikk ordre på 300 pizzaer til kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-08T21:03:50+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19205512",
+            "title": "Over 46.000 har defilert – Bengt ble én av de siste",
+            "is_secondary": false,
+            "published_at": "2026-09-08T18:10:25+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19203679",
+            "title": "Her skal gjestene bo",
+            "is_secondary": false,
+            "published_at": "2026-09-08T17:26:12+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19204290",
+            "title": "Åpent over hele landet: Her følger du kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-08T16:09:56+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19205304",
+            "title": "Nå er defileringen over",
+            "is_secondary": false,
+            "published_at": "2026-09-08T15:39:48+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/mette-frederiksen-deltar-i-kong-haralds-begravelse/s/80-95-63569",
+            "title": "Mette Frederiksen kommer i kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:35:33+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "10c2055c240f59ae",
+        "continued_from": null,
+        "headline": "Oljeprisen stiger mot 100 dollar og krona styrker seg",
+        "ingress": "Oljeprisen nærmer seg 100 dollar fatet som følge av en opptrapping i Midtøsten, samtidig som den norske krona setter nye rekorder.",
+        "summary": "Oljeprisen har steget markant og nærmer seg 100 dollar fatet, drevet av en alvorlig opptrapping av konflikten i Midtøsten. Meldinger tyder på at USA har ødelagt iranske oljetankere, og at Iran har svart med missilangrep mot Jordan, i tillegg til at Houthi-styrker har gjennomført angrep mot energianlegg. Storbanker og markedsaktører vurderer det slik at markedet i større grad nå priser inn en langvarig og krevende konflikt i regionen, noe som direkte påvirker energiprisene internasjonalt. Parallelt med de høye oljeprisene meldes det om at den norske krona har styrket seg ytterligere. Valutaen noterer seg for nye rekorder mot flere av de store internasjonale valutaene, inkludert dollar, euro, svenske kroner og franc. Analytikere påpeker at de geopolitiske spenningene spiller en avgjørende rolle for de økonomiske svingningene, der kombinasjonen av uro i Midtøsten og særnorske økonomiske faktorer skaper store bevegelser i markedene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/usa/iran/brent/oljeprisen-nar-100-dollar-etter-ny-opptrapping/2-1-2040738",
+            "title": "Oljeprisen nær 100 dollar etter ny opptrapping",
+            "is_secondary": false,
+            "published_at": "2026-09-09T01:59:38+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/QJXkv8/oljeprisen-passerer-99-dollar?utm_medium=rss",
+            "title": "Oljeprisen passerer 99 dollar",
+            "is_secondary": false,
+            "published_at": "2026-09-08T20:15:27+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/bO6bjg/oljeprisen-naermer-seg-100-dollar?utm_medium=rss",
+            "title": "Oljeprisen nærmer seg 100 dollar",
+            "is_secondary": false,
+            "published_at": "2026-09-08T09:19:10+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/okonomi/oljeprisen-stiger-krona-mot-nye-rekorder/s/80-95-63479",
+            "title": "Oljeprisen stiger - krona mot nye rekorder",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:53:07+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2b8a847ccf554e1f",
+        "continued_from": null,
+        "headline": "Iran hevder å ha angrepet ti skip i Persiabukta",
+        "ingress": "Den iranske revolusjonsgarden hevder de har angrepet to amerikanske fartøyer og åtte oljetankere i Persiabukta.",
+        "summary": "Ifølge statlige iranske medier og Reuters hevder Den iranske revolusjonsgarden å ha gjennomført angrep mot to amerikanske fartøyer samt åtte oljetankere i Persiabukta. Angrepene skal angivelig ha skjedd som en direkte reaksjon på at USA nylig ødela fem iranske oljetankere. De ti skipene skal ha blitt målrettet fordi de forsøkte å krysse et maritimt område i Hormuzstredet som Iran har erklært som både utrygt og forbudt å seile i. Det foreligger foreløpig ingen uavhengige bekreftelser på hendelsen fra amerikansk hold, og opplysningene baserer seg på iranske statlige kanaler samt nyhetsbyrået Reuters sine meldinger om saken. Saken må sees i lys av en svært spent sikkerhetspolitisk situasjon i regionen, hvor påstander om militære aksjoner og gjengjeldelser kan ha stor betydning for internasjonal skipsfart og oljetransport gjennom det strategisk viktige stredet. Norske og internasjonale myndigheter overvåker situasjonen nøye for å vurdere de faktiske konsekvensene av de påståtte angrepene på handelsskipene og den mulige eskaleringen i konflikten mellom USA og Iran.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/iran-hevder-a-ha-angrepet-ti-skip-i-persiabukta-1.18018579",
+            "title": "Iran hevder å ha angrepet ti skip i Persiabukta",
+            "is_secondary": false,
+            "published_at": "2026-09-09T02:16:20+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bfcfd3a41765b7ac",
+        "continued_from": null,
+        "headline": "Oslo stenges ned og sperres av før kong Haralds gravferd",
+        "ingress": "Store deler av Oslo sentrum er stengt for trafikk onsdag i forbindelse med kong Haralds gravferd.",
+        "summary": "Onsdag avholdes kong Haralds gravferd, noe som preger hele hovedstaden med omfattende sikkerhetstiltak, stengte gater og store trafikkutfordringer. Store deler av Oslo sentrum er stengt for bil- og kollektivtrafikk, og det er opprettet en jernring med ti offisielle innslippspunkter. For å komme seg inn i det avsperrede området må publikum gå gjennom politiets visitasjonspunkter, og det meldes om økende køer ved flere av disse inngangene i morgentimene. Det er innført strenge forbud mot bruk av elsparkesykler og sykler i den innerste bykjernen, og 33 av Oslo bysykkels stasjoner er stengt. Politiet oppfordrer folk til å la bilen stå, unngå Nationaltheatret stasjon og la bunadskniv og paraplyer ligge hjemme av hensyn til sikkerheten. Statens vegvesen melder om svært rolig trafikk vest- og sørfra inn mot Oslo sammenlignet med en normaldag, og det er knapt biler på innfartsårene, selv om det er noe kø ved Lørenskog på grunn av sperringer og omkjøringer. E6 nord for Oslo vil tidvis bli stengt helt på grunn av offisiell kortesjekjøring. Samtidig har flere dedikerte oppmøte, deriblant tidlig ute på Karl Johan og utenfor Oslo domkirke for å ta farvel med kongen som stedes til hvile.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/koene-vokser-foran-gravferden-1.18018740",
+            "title": "Køene vokser foran gravferden",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:25:51+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/vegvesenet_-nesten-ikke-biler-inn-mot-oslo-1.18018679",
+            "title": "Vegvesenet: Nesten ikke biler inn mot Oslo",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:35:25+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/oslo-sentrum-sperret-av-1.18018582",
+            "title": "Oslo sentrum sperret av",
+            "is_secondary": false,
+            "published_at": "2026-09-09T03:56:16+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/store-trafikkutfordringer-i-oslo_-_-la-bilen-sta-1.18018606",
+            "title": "Store trafikkutfordringer i Oslo: – La bilen stå",
+            "is_secondary": false,
+            "published_at": "2026-09-09T03:33:25+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0pqy8B/har-faatt-gode-plasser",
+            "title": "Har fått gode plasser",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:25:54+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2pgxzr/koeen-vokser-i-oslo-sentrum",
+            "title": "Køen vokser i Oslo sentrum",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:21:50+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/pBxe2R/vi-har-gruet-oss",
+            "title": "– Vi har gruet oss",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:21:15+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/q6xggz/frode-64-paa-plass-foer-kong-haralds-gravferd",
+            "title": "Frode (64) på plass før kong Haralds gravferd",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:20:39+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/GxXLLQ/frode-64-paa-plass-i-karl-johan",
+            "title": "Frode (64) på plass i Karl Johan",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:06:13+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2pgxel/paa-plass-utenfor-domkirken",
+            "title": "På plass utenfor domkirken",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:57:11+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124686",
+            "title": "Køene begynner å vokse foran gravferden",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:36:27+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/wAwywd/siste-nytt-om-kong-harald-vs-bortgang?pinnedEntry=124682",
+            "title": "Statens vegvesen: – En god del mindre trafikk enn normalt",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:55:38+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/ExEKpa/onsdag-gravlegges-kong-harald-slik-er-oslo-timer-foer-gravferden",
+            "title": "Skulle egentlig på skolen i dag. Nå sitter hun alene nederst på Slottsplassen og venter på gravferden.",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:35:03+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JOMlw8/se-kartet-slik-paavirker-kong-haralds-gravferd-oslo-sentrum",
+            "title": "Nå er Oslo sentrum stengt ned. Dette må du vite.",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:08:17+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19206789",
+            "title": "Nå er det jernring rundt Oslo sentrum",
+            "is_secondary": false,
+            "published_at": "2026-09-09T05:12:14+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19206825",
+            "title": "Nå er Oslo sentrum sperret av",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:26:43+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19204075",
+            "title": "Trykket kjennes: – Får klare oss med en skive med brunost",
+            "is_secondary": false,
+            "published_at": "2026-09-08T15:56:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "16757f89de19e181",
+        "continued_from": null,
+        "headline": "Enighet i lønnsoppgjøret for spesialisthelsetjenesten",
+        "ingress": "Virke og 22 fagforbund er enige om en ny overenskomst for spesialisthelsetjenesten.",
+        "summary": "Etter to dagers forhandlinger har Virke og 22 forbund tilknyttet LO, YS, Unio og Akademikerne kommet til enighet om overenskomsten for spesialisthelsetjenesten. Oppgjøret omfatter ansatte hos ideelle aktører i denne tjenesten, inkludert helsefagarbeidere, hjelpepleiere, sykepleiere, helsesekretærer, teknikere, portører og administrativt ansatte. Forhandlingsleder Hanne Kolby i Fagforbundet uttrykker tilfredshet med et resultat som er i tråd med tilsvarende områder, og som gir medlemmene et lønnsløft for å styrke rekruttering og stabilitet. Ifølge Fagforbundet innebærer den økonomiske rammen et generelt tillegg på minimum 18 000 kroner til alle arbeidstakere, noe som er i tråd med frontfaget. Fra arbeidsgiverhold fremhever Virkes forhandlingssjef Ann Torunn Tallaksen at partene er spesielt fornøyde med å ha blitt enige om nødvendige endringer i Forsikret Tjenestepensjon Virke, slik at ordningen nå også vil omfatte fritt investeringsvalg. Den fremforhandlede avtalen er nå sendt ut til medlemmene for uravstemning før den blir endelig vedtatt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/enighet-i-lonnsoppgjoret-for-spesialisthelsetjenesten-1.18018643",
+            "title": "Enighet i lønnsoppgjøret for spesialisthelsetjenesten",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:17:37+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/ExXMEK/enighet-i-loennsoppgjoeret-for-spesialisthelsetjenesten",
+            "title": "Enighet i lønnsoppgjøret for spesialisthelsetjenesten",
+            "is_secondary": false,
+            "published_at": "2026-09-09T04:33:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "79fa64a83aeb9ac4",
+        "continued_from": null,
+        "headline": "Svensk spurtdrama før valget og regjeringsmakten",
+        "ingress": "De svenske sosialdemokratene lå an til seier, men taktiske stemmer kan avgjøre.",
+        "summary": "Ifølge Dagens Nyheter lå de svenske sosialdemokratene lenge an til å ta over regjeringsmakten i Sverige med god margin. Situasjonen har imidlertid endret seg, og det vurderes nå som et spennende spurtdrama der taktiske stemmer kan vise seg å bli utslagsgivende for det endelige valgresultatet. Denne analysen viser hvordan velgernes strategiske valg i ellevte time kan rokke ved de tidligere prognosene og skape en uforutsigbar avslutning på den politiske maktkampen i nabolandet. Artikkelen belyser den usikre dynamikken i svensk politikk, der små marginer og velgerbevegelser kan velte flertallsutsiktene for sosialdemokratene. Det understrekes at dette er en analyse av den politiske situasjonen og valgspurten, og utfallet vil avhenge fullstendig av hvordan velgerne faktisk oppfører seg ved urnene i innspurten av valgkampen.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/kommentar/sverige/sverigedemokraterna/valg-i-sverige-2026/svensk-spurtdrama/2-1-2040166",
+            "title": "Svensk spurtdrama",
+            "is_secondary": false,
+            "published_at": "2026-09-09T02:08:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "44b51a6b51442d6d",
+        "continued_from": null,
+        "headline": "Trump vil utestenge Canada fra statlige kontrakter",
+        "ingress": "Handelskrangelen mellom USA og Canada trappes opp med nye trusler.",
+        "summary": "Ifølge E24 trappes handelskrangelen mellom de to nabolandene USA og Canada opp ytterligere. USAs pågående politiske linje, representert ved Donald Trump, innebærer et ønske om å kasta ut Canada fra statlige anbud og kontrakter. Dette trekket vil kunne ramme den bilaterale handelsutvekslingen hardt og forverre de økonomiske relasjonene mellom landene. Rapporten fra E24 fremstiller dette som en eskalering av en allerede spent situasjon preget av proteksjonistiske tiltak og uenigheter om markedsadgang. Det er en nyhetssak som baserer seg på utspill knyttet til amerikansk handelspolitikk, og virkningene av slike tiltak vil avhenge av eventuelle formelle vedtak og den videre politiske prosessen mellom Washington og Ottawa. Analytikere vurderer dette som nok et tegn på et tøffere klima i nordamerikansk handelspolitikk, hvor nasjonale interesser i økende grad settes foran tradisjonelt regionalt samarbeid over grensene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/GxXAd9/trump-vil-kaste-ut-canada-fra-statlige-kontrakter?utm_medium=rss",
+            "title": "Trump vil kaste ut Canada fra statlige kontrakter",
+            "is_secondary": false,
+            "published_at": "2026-09-08T20:57:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d692bfa2eb4d0e0f",
+        "continued_from": null,
+        "headline": "Reisebrev fra Stuttgart før Vikings historiske CL-debut",
+        "ingress": "VG leverer reisebrev fra Tyskland foran Vikings mesterligadebut.",
+        "summary": "Foran Vikings kommende debut i Mesterligaen (CL) har VG publisert et reisebrev direkte fra Stuttgart i Tyskland. Artikkelen gir et innblikk i stemningen og rammene rundt den store kampen som ventpert den norske fotballklubben ute i Europa. Slike reisebrev preges gjerne av journalistiske observasjoner og stemningsrapporter fra byen der oppgjøret skal finne sted, uten at det legges opp til en strengt nøysom nyhetsrapport om selve kampforberedelsene på treningsfeltet. Det er en sportslig reportasje som retter søkelyset mot supporterlivet og oppladningen i utlandet. Det oppgis ikke flere detaljer om lagoppstillinger eller sportslige analyser i ingressen, men stoffet retter seg mot tilreisende fans og fotballinteresserte som følger lagets ferd i det gjeveste selskapet i europeisk klubbfotball. Slike publiseringer er vanlige i norske medier når norske lag kvalifiserer seg til de største internasjonale turneringene.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/43le4R/reisebrev-fra-stuttgart-foer-vikings-cl-debut",
+            "title": "Reisebrev fra Stuttgart før Vikings CL-debut",
+            "is_secondary": false,
+            "published_at": "2026-09-09T06:36:52+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-09-09T08:46:08.640024+02:00",
+    "edition_date": "2026-09-09",
+    "edition_type": "morning",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 207,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 13
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:06.997755+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:38:54+00:00",
+          "earliest_usable_published_at": "2026-09-09T02:12:56+00:00",
+          "latest_usable_published_at": "2026-09-09T06:38:54+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:07.295790+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T05:29:37+00:00",
+          "earliest_usable_published_at": "2026-09-08T16:00:01+00:00",
+          "latest_usable_published_at": "2026-09-09T05:29:37+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:08.044351+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T05:22:32+00:00",
+          "earliest_usable_published_at": "2026-09-08T08:30:19+00:00",
+          "latest_usable_published_at": "2026-09-09T05:22:32+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:08.401471+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:38:06+00:00",
+          "earliest_usable_published_at": "2026-09-09T05:57:11+00:00",
+          "latest_usable_published_at": "2026-09-09T06:38:06+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:08.889313+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:38:40+00:00",
+          "earliest_usable_published_at": "2026-09-09T04:08:17+00:00",
+          "latest_usable_published_at": "2026-09-09T06:38:40+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:09.381569+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T05:12:14+00:00",
+          "earliest_usable_published_at": "2026-09-08T14:29:37+00:00",
+          "latest_usable_published_at": "2026-09-09T05:12:14+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:10.422851+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:35:33+00:00",
+          "earliest_usable_published_at": "2026-09-09T04:56:18+00:00",
+          "latest_usable_published_at": "2026-09-09T06:35:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:11.490318+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:36:26+00:00",
+          "earliest_usable_published_at": "2026-09-09T06:10:07+00:00",
+          "latest_usable_published_at": "2026-09-09T06:36:26+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:11.963147+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T05:36:06+00:00",
+          "earliest_usable_published_at": "2026-09-09T03:45:12+00:00",
+          "latest_usable_published_at": "2026-09-09T05:36:06+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:12.535091+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:13:36+00:00",
+          "earliest_usable_published_at": "2026-09-08T07:30:44+00:00",
+          "latest_usable_published_at": "2026-09-09T06:13:36+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:13.577894+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:07:38+00:00",
+          "earliest_usable_published_at": "2026-09-09T04:25:40+00:00",
+          "latest_usable_published_at": "2026-09-09T06:07:38+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:14.686057+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:43:00+00:00",
+          "earliest_usable_published_at": "2026-09-09T02:00:00+00:00",
+          "latest_usable_published_at": "2026-09-09T06:43:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:14.905979+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:39:00+00:00",
+          "earliest_usable_published_at": "2026-09-09T05:13:00+00:00",
+          "latest_usable_published_at": "2026-09-09T06:39:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:15.193119+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:33:00+00:00",
+          "earliest_usable_published_at": "2026-09-09T06:01:00+00:00",
+          "latest_usable_published_at": "2026-09-09T06:33:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:15.565450+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T05:28:12+00:00",
+          "earliest_usable_published_at": "2026-09-08T14:51:30+00:00",
+          "latest_usable_published_at": "2026-09-09T05:28:12+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:16.504295+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T04:00:25+00:00",
+          "earliest_usable_published_at": "2026-09-09T02:57:42+00:00",
+          "latest_usable_published_at": "2026-09-09T04:00:25+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:17.343167+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:28:57+00:00",
+          "earliest_usable_published_at": "2026-09-08T21:46:31+00:00",
+          "latest_usable_published_at": "2026-09-09T06:28:57+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:17.488394+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T05:37:33+00:00",
+          "earliest_usable_published_at": "2026-09-08T23:30:10+00:00",
+          "latest_usable_published_at": "2026-09-09T05:37:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-09-09T06:44:17.730095+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:17.973423+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T02:35:16+00:00",
+          "earliest_usable_published_at": "2026-09-08T08:49:18+00:00",
+          "latest_usable_published_at": "2026-09-09T02:35:16+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-09-09T06:44:18.131874+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:18.266431+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:08:03+00:00",
+          "earliest_usable_published_at": "2026-09-09T05:01:10+00:00",
+          "latest_usable_published_at": "2026-09-09T06:08:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:18.841382+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:17:02+00:00",
+          "earliest_usable_published_at": "2026-09-09T05:36:11+00:00",
+          "latest_usable_published_at": "2026-09-09T06:17:02+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:19.055344+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:25:46+00:00",
+          "earliest_usable_published_at": "2026-09-09T00:30:00+00:00",
+          "latest_usable_published_at": "2026-09-09T06:25:46+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:19.447500+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-09T06:37:16+00:00",
+          "earliest_usable_published_at": "2026-09-09T01:44:22+00:00",
+          "latest_usable_published_at": "2026-09-09T06:37:16+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:19.681516+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-09-08T17:38:52+00:00",
+          "earliest_usable_published_at": "2026-09-08T09:36:54+00:00",
+          "latest_usable_published_at": "2026-09-08T17:38:52+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-09-09T06:44:20.581383+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-09-04T14:00:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-09-09T06:44:20.872794+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-09-08T08:45:00+00:00",
+          "earliest_usable_published_at": "2026-09-08T08:45:00+00:00",
+          "latest_usable_published_at": "2026-09-08T08:45:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-09-09T08:44:06.997731+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-09-09T06:44:06.997755+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-09-09T06:44:07.295790+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-09-09T06:44:08.044351+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-09-09T06:44:08.401471+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-09-09T06:44:08.889313+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-09-09T06:44:09.381569+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-09-09T06:44:10.422851+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-09-09T06:44:11.490318+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-09-09T06:44:11.963147+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-09-09T06:44:12.535091+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-09-09T06:44:13.577894+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-09-09T06:44:14.686057+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-09-09T06:44:14.905979+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-09-09T06:44:15.193119+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-09-09T06:44:15.565450+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-09-09T06:44:16.504295+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-09-09T06:44:17.343167+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-09-09T06:44:17.488394+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-09-09T06:44:17.730095+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-09-09T06:44:17.973423+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-09-09T06:44:18.131874+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-09-09T06:44:18.266431+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-09-09T06:44:18.841382+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-09-09T06:44:19.055344+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-09-09T06:44:19.447500+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-09-09T06:44:19.681516+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-09-09T06:44:20.581383+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-09-09T06:44:20.872794+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 207,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 13
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:06.997755+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:38:54+00:00",
+            "earliest_usable_published_at": "2026-09-09T02:12:56+00:00",
+            "latest_usable_published_at": "2026-09-09T06:38:54+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:07.295790+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T05:29:37+00:00",
+            "earliest_usable_published_at": "2026-09-08T16:00:01+00:00",
+            "latest_usable_published_at": "2026-09-09T05:29:37+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:08.044351+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T05:22:32+00:00",
+            "earliest_usable_published_at": "2026-09-08T08:30:19+00:00",
+            "latest_usable_published_at": "2026-09-09T05:22:32+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:08.401471+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:38:06+00:00",
+            "earliest_usable_published_at": "2026-09-09T05:57:11+00:00",
+            "latest_usable_published_at": "2026-09-09T06:38:06+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:08.889313+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:38:40+00:00",
+            "earliest_usable_published_at": "2026-09-09T04:08:17+00:00",
+            "latest_usable_published_at": "2026-09-09T06:38:40+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:09.381569+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T05:12:14+00:00",
+            "earliest_usable_published_at": "2026-09-08T14:29:37+00:00",
+            "latest_usable_published_at": "2026-09-09T05:12:14+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:10.422851+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:35:33+00:00",
+            "earliest_usable_published_at": "2026-09-09T04:56:18+00:00",
+            "latest_usable_published_at": "2026-09-09T06:35:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:11.490318+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:36:26+00:00",
+            "earliest_usable_published_at": "2026-09-09T06:10:07+00:00",
+            "latest_usable_published_at": "2026-09-09T06:36:26+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:11.963147+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T05:36:06+00:00",
+            "earliest_usable_published_at": "2026-09-09T03:45:12+00:00",
+            "latest_usable_published_at": "2026-09-09T05:36:06+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:12.535091+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:13:36+00:00",
+            "earliest_usable_published_at": "2026-09-08T07:30:44+00:00",
+            "latest_usable_published_at": "2026-09-09T06:13:36+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:13.577894+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:07:38+00:00",
+            "earliest_usable_published_at": "2026-09-09T04:25:40+00:00",
+            "latest_usable_published_at": "2026-09-09T06:07:38+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:14.686057+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:43:00+00:00",
+            "earliest_usable_published_at": "2026-09-09T02:00:00+00:00",
+            "latest_usable_published_at": "2026-09-09T06:43:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:14.905979+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:39:00+00:00",
+            "earliest_usable_published_at": "2026-09-09T05:13:00+00:00",
+            "latest_usable_published_at": "2026-09-09T06:39:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:15.193119+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:33:00+00:00",
+            "earliest_usable_published_at": "2026-09-09T06:01:00+00:00",
+            "latest_usable_published_at": "2026-09-09T06:33:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:15.565450+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T05:28:12+00:00",
+            "earliest_usable_published_at": "2026-09-08T14:51:30+00:00",
+            "latest_usable_published_at": "2026-09-09T05:28:12+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:16.504295+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T04:00:25+00:00",
+            "earliest_usable_published_at": "2026-09-09T02:57:42+00:00",
+            "latest_usable_published_at": "2026-09-09T04:00:25+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:17.343167+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:28:57+00:00",
+            "earliest_usable_published_at": "2026-09-08T21:46:31+00:00",
+            "latest_usable_published_at": "2026-09-09T06:28:57+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:17.488394+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T05:37:33+00:00",
+            "earliest_usable_published_at": "2026-09-08T23:30:10+00:00",
+            "latest_usable_published_at": "2026-09-09T05:37:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-09-09T06:44:17.730095+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:17.973423+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T02:35:16+00:00",
+            "earliest_usable_published_at": "2026-09-08T08:49:18+00:00",
+            "latest_usable_published_at": "2026-09-09T02:35:16+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-09-09T06:44:18.131874+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:18.266431+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:08:03+00:00",
+            "earliest_usable_published_at": "2026-09-09T05:01:10+00:00",
+            "latest_usable_published_at": "2026-09-09T06:08:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:18.841382+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:17:02+00:00",
+            "earliest_usable_published_at": "2026-09-09T05:36:11+00:00",
+            "latest_usable_published_at": "2026-09-09T06:17:02+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:19.055344+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:25:46+00:00",
+            "earliest_usable_published_at": "2026-09-09T00:30:00+00:00",
+            "latest_usable_published_at": "2026-09-09T06:25:46+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:19.447500+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-09T06:37:16+00:00",
+            "earliest_usable_published_at": "2026-09-09T01:44:22+00:00",
+            "latest_usable_published_at": "2026-09-09T06:37:16+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:19.681516+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-09-08T17:38:52+00:00",
+            "earliest_usable_published_at": "2026-09-08T09:36:54+00:00",
+            "latest_usable_published_at": "2026-09-08T17:38:52+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-09-09T06:44:20.581383+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-09-04T14:00:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-09-09T06:44:20.872794+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-09-08T08:45:00+00:00",
+            "earliest_usable_published_at": "2026-09-08T08:45:00+00:00",
+            "latest_usable_published_at": "2026-09-08T08:45:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 28,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
