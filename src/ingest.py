@@ -83,7 +83,7 @@ def _parse_pubdate(text):
     if dt is None:
         return None
     if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
+        return None  # A guessed timezone could put an article inside the 24-hour gate.
     return dt.astimezone(timezone.utc)
 
 
@@ -140,6 +140,7 @@ def _decompress(raw, content_encoding):
 def fetch_source(source, status):
     """Henter og parser én RSS-kilde. Feil fanges per kilde og logges i status."""
     articles = []
+    status.setdefault("source_attempts", []).append({"source_id": source["id"], "attempted_at": datetime.now(timezone.utc).isoformat()})
     req = urllib.request.Request(source["url"], headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=15) as response:

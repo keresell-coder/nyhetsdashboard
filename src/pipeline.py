@@ -15,7 +15,8 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-from src import cluster, config, gemini_client, ingest, prefilter, render, state, validate
+from src import cluster, config, gemini_client, health, ingest, prefilter, render, state, validate
+from pathlib import Path
 
 INDEX_PATH = "index.html"
 
@@ -30,33 +31,31 @@ def _generated_label(run_type, now):
 
 
 def _write_index(html):
-    with open(INDEX_PATH, "w", encoding="utf-8") as f:
-        f.write(html)
+    path = Path(INDEX_PATH)
+    temp = path.with_suffix(".html.tmp")
+    temp.write_text(html, encoding="utf-8")
+    os.replace(temp, path)
 
 
 def _degrade(date_str, filtered, status, generated_label, reason):
-    """Håndterer at Gemini ikke er tilgjengelig.
-
-    Viktig rekkefølge: har vi allerede publisert en ekte rapport i dag,
-    skal den BEHOLDES. Tidligere overskrev en feilet kveldskjøring en
-    vellykket morgenrapport med en rå overskriftsliste - altså gikk siden
-    fra godt innhold til dårligere fordi et senere forsøk feilet.
-    Rå kildeliste brukes bare når vi ikke har noe bedre å vise.
-    """
-    good_stories, good_run_type = state.last_good_stories(date_str)
-    if good_stories:
-        html = render.render_stale(
-            good_stories,
-            generated_label,
-            f"{good_run_type}-rapporten i dag (nyere forsøk feilet)",
-        )
-        _write_index(html)
-        print(f"{reason}; beholder dagens {good_run_type}-rapport.")
-        return
-
-    html = render.render_raw_fallback(filtered, status, generated_label)
-    _write_index(html)
-    print(f"{reason}; ingen tidligere rapport i dag, viser rå kildeliste.")
+    edition = state.last_good_edition(date_str)
+    if edition:
+        # Keep the exact displayed edition. Failed attempts must not relabel
+        # its content as newly generated or discard its carried morning items.
+        if not Path(INDEX_PATH).exists():
+            stories = edition.get("displayed_stories", edition.get("stories", []))
+            label = f"Siste gyldige utgave: {edition.get('generated_at') or edition['edition_date'] + ' (klokkeslett ikke verifisert)'}"
+            _write_index(render.render_stale(stories, label, edition["edition_date"], {"generation_error": reason}))
+    elif not Path(INDEX_PATH).exists():
+        _write_index(render.render_raw_fallback(filtered, status, "Ingen gyldig datert utgave tilgjengelig"))
+    existing_html = Path(INDEX_PATH).read_text(encoding="utf-8")
+    monitored_html = render.ensure_health_monitor(existing_html)
+    if monitored_html != existing_html:
+        _write_index(monitored_html)
+    payload = health.manifest(edition, status["attempted_at"], status["source_health"], failure=reason)
+    health.validate_manifest(payload)
+    health.write_manifest(payload)
+    print(f"{reason}; siste gyldige utgave beholdes. health.json viser mislykket forsøk.")
 
 
 def run():
@@ -67,21 +66,16 @@ def run():
     now = _now_oslo()
     date_str = now.strftime("%Y-%m-%d")
     generated_label = _generated_label(run_type, now)
-    status = {}
+    status = {"attempted_at": now.isoformat()}
 
     articles = ingest.fetch_all(status)
-    filtered = prefilter.prefilter(articles)
+    now = _now_oslo()
+    status["source_health"] = health.source_coverage(articles, status, now)
+    usable_source_ids = {s["source_id"] for s in status["source_health"]["sources"] if s["status"] == "current"}
+    filtered = prefilter.prefilter([a for a in articles if a.source_id in usable_source_ids], now=now)
 
     if not filtered:
-        stale_stories, stale_run_type = state.last_good_stories(date_str)
-        if stale_stories:
-            html = render.render_stale(stale_stories, generated_label, f"tidligere {stale_run_type}-kjøring i dag")
-            _write_index(html)
-            print("Ingen artikler hentet denne kjøringen; viser forrige rapport (stale).")
-            return
-        html = render.render_normal([(None, [])], status, generated_label)
-        _write_index(html)
-        print("Ingen artikler hentet, og ingen tidligere rapport finnes. Publiserte tom side.")
+        _degrade(date_str, filtered, status, generated_label, "Ingen brukbare daterte kildeartikler")
         return
 
     # Deterministisk klynging FØR Gemini: slår sammen nær identiske
@@ -114,10 +108,7 @@ def run():
     )
 
     if not groups_by_key:
-        html = render.render_normal([(None, [])], status, generated_label)
-        _write_index(html)
-        state.record_run(date_str, run_type, [], status)
-        print("Ingen saker ble vurdert som relevante nok til publisering.")
+        _degrade(date_str, filtered, status, generated_label, "Klassifisering ga ingen publiserbare saker")
         return
 
     try:
@@ -137,6 +128,9 @@ def run():
     valid_stories, validation_status = validate.validate_stories(
         draft_raw, groups_by_key, previous_ids
     )
+    if not valid_stories:
+        _degrade(date_str, filtered, status, generated_label, "Ingen sammendrag besto validering")
+        return
     continued = sum(1 for s in valid_stories if s.get("continued_from"))
     if continued:
         validation_status["continued_count"] = continued
@@ -158,9 +152,24 @@ def run():
             ]
             valid_stories = new_stories  # det som lagres i state for "evening"
 
-    html = render.render_normal(sections, status, generated_label)
+    generated = _now_oslo()
+    if status.get("draft_batch_failures") or validation_status.get("drop_reasons"):
+        status["source_health"]["status"] = "degraded"
+    displayed = [story for _, stories in sections for story in stories]
+    edition = {
+        "generated_at": generated.isoformat(), "edition_date": date_str, "edition_type": run_type,
+        "stories": valid_stories, "displayed_stories": displayed, "source_health": status["source_health"],
+    }
+    payload = health.manifest(edition, generated.isoformat(), status["source_health"])
+    if payload["status"] == "blocked":
+        _degrade(date_str, filtered, status, generated_label, "Publiseringskontroll mangler daterte kilder i utgaven")
+        return
+    health.validate_manifest(payload, require_available=True)
+    html = render.render_normal(sections, status, _generated_label(run_type, generated))
     _write_index(html)
-    state.record_run(date_str, run_type, valid_stories, status)
+    state.record_run(date_str, run_type, valid_stories, status, generated_at=generated.isoformat(),
+                     source_health=status["source_health"], displayed_stories=displayed)
+    health.write_manifest(payload)
     pruned = state.prune_old_states(date_str)
     if pruned:
         print(f"Ryddet bort {len(pruned)} gamle state-fil(er)")

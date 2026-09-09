@@ -10,11 +10,9 @@ from src import config
 
 
 def within_lookback(article, now):
-    if article.published is None:
-        # Kildene er "siste nyheter"-feeder; uten dato antar vi ferskt
-        # innhold heller enn å risikere å miste dagens saker.
-        return True
-    return now - article.published <= timedelta(hours=config.LOOKBACK_HOURS)
+    if article.published is None or not article.link:
+        return False
+    return timedelta(0) <= now - article.published <= timedelta(hours=config.LOOKBACK_HOURS)
 
 
 def prefilter(articles, now=None):

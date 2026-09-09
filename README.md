@@ -55,9 +55,9 @@ Designet er derfor budsjettert stramt:
 | Reserve til retries og manuelle testkjøringer | 14 |
 
 `MAX_GEMINI_CALLS_PER_RUN` i `src/config.py` er en hard stopper som hindrer
-at en feilsituasjon spiser opp døgnkvoten. Går kvoten likevel tom, faller
-siden tilbake til ren kildeliste med en tydelig forklaring – den krasjer
-ikke, og henter seg inn ved neste kjøring.
+at en feilsituasjon spiser opp døgnkvoten. Går kvoten likevel tom, beholdes
+siste gyldige utgave med opprinnelig dato. En rå kildeliste brukes bare når
+ingen tidligere utgave finnes; den regnes ikke som en gyldig AI-utgave.
 
 **Merk ved testing:** hver manuelle `workflow_dispatch` bruker 3
 forespørsler av de 20. Unngå mange testkjøringer på rad.
@@ -79,5 +79,31 @@ Det betyr at Gemini ikke svarte. Sjekk Actions-loggen:
   kl. 09:00 norsk tid. Merk at 07:30-kjøringen trekker fra FORRIGE døgns
   kvote; reserve-cron kl. 10:30 fanger opp dagen etter nullstilling.
 
-Har det allerede kommet en ekte rapport samme dag, beholdes den – siden går
-aldri fra sammendrag tilbake til ren overskriftsliste.
+Har det allerede kommet en gyldig rapport, også en tidligere dag, beholdes
+den. Helsebanneret viser det nye, mislykkede forsøket uten å endre utgavens
+opprinnelige dato eller sammendrag.
+
+## Datoer, kildedekning og publiseringskontroll
+
+`health.json` er den offentlige kontrakten for portal og helsebanner:
+
+- `generated_at` er siste gyldige utgaves tidspunkt; `latest_attempt_at` og
+  `attempt_status` beskriver siste forsøk. Eldre utgaver uten lagret klokkeslett
+  får `generated_at: null`, ikke et gjettet tidspunkt.
+- `source_observation_start/end` er RSS-publiseringsdatoer i den viste utgaven.
+  Manglende dato/tidssone, fremtidige datoer og artikler eldre enn 24 timer
+  tas ikke inn som ferske kilder. Hentetid erstatter aldri publiseringsdato.
+- `coverage`/`sources` tilhører utgaven; `attempt_coverage`/`attempt_sources`
+  beskriver siste forsøk. Konfigurerte, kontrollerte, brukbare, feilende og
+  ønskede utilgjengelige kilder telles separat. Utgiverantall dokumenterer
+  ikke uavhengig rapportering eller faktakontroll av et sammendrag.
+- `status` er `current`, `degraded` eller `blocked`. `expires_at` er en
+  eksplisitt frist: også en teknisk vellykket, beholdt utgave utløper.
+
+Ved blokkert generering publiserer workflowen helseoppdateringen først,
+beholder utgaven og markerer deretter kjøringen som mislykket. En ny utgave
+skrives bare etter datokontroll og eksisterende kilde-/formatvalidering.
+Dette etablerer ikke at AI-sammendragene er faktamessig eller semantisk riktige.
+
+Regresjoner uten modellkall eller nettverk: `python -m unittest discover -s tests -v`.
+Disse kjøres på PR, main og før planlagt generering.
