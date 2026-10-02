@@ -1,0 +1,2011 @@
+{
+  "date": "2026-10-02",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "e4a9f9314c3e03ca",
+        "continued_from": null,
+        "headline": "Jemens regjeringsstyrker angriper houthier",
+        "ingress": "Jemens væpnede styrker har gjennomført 20 presisjonsangrep mot houthi-mål i Taiz-provinsen.",
+        "summary": "Ifølge en talsperson for Jemens væpnede styrker har det blitt gjennomført 20 presisjonsangrep mot mål tilknyttet houthi-bevegelsen. Angrepene fant sted i løpet av tre timer og var rettet mot houthi-styrker, kjøretøy samt militært utstyr som befant seg i Taiz-provinsen. Det er bekreftet at aksjonen ble utført fredag morgen. Houthi-militsen beskrives som en sjiamuslimsk politisk og militær bevegelse som har kontroll over store deler av Jemen, inkludert hovedstaden Sana. Opplysningene kommer frem via Reuters, og hendelsen markerer en fortsettelse av strididighetene i landet. Det foreligger foreløpig ikke detaljerte rapporter om materielle skader eller mulige tap av menneskeliv som følge av disse spesifikke angrepene, men aksjonen understreker den vedvarende og intense konflikten mellom regjeringsstyrkene og opprørsgruppen i regionen. Situasjonen følges tett av internasjonale nyhetsbyråer som videreformidler rapportene fra de lokale militære kildene i Jemen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/jemen-har-gjennomfort-20-angrep-mot-houthiene-1.18043097",
+            "title": "Jemen har gjennomført 20 angrep mot Houthiene",
+            "is_secondary": false,
+            "published_at": "2026-10-02T05:09:38+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3a709d5679dbba01",
+        "continued_from": null,
+        "headline": "Politiet får milliardløfte og nye droner",
+        "ingress": "Nye politidroner kan snart ta direkte kontakt med mistenkte.",
+        "summary": "Politiet har mottatt et markant løfte om milliarder, noe som åpner for nye teknologiske muligheter i etaten. Blant de foreslåtte tiltakene er bruk av avanserte politidroner som har kapasitet til å ta direkte kontakt med mulige mistenkte personer. Ifølge planene vil disse dronene kunne kommunisere direkte med beskjeder som for eksempel at politiet følger med og ser vedkommende. Dette representerer en ny fase i hvordan politiet kan utnytte ubemannet teknologi i operativt arbeid og i møte med kriminelle miljøer. Det er foreløpig ikke meldt om nøyaktige tidsrammer for når teknologien vil bli fullt ut operativ i alle landets politidistrikter, men løftet om milliardfinansiering legger til rette for en betydelig styrking av politiets teknologiske verktøykasse. Utviklingen reiser også relevante spørsmål knyttet til personvern og etikk ved bruk av slik overvåkingsteknologi, selv om fokuset i meldingen ligger på de operative og forebyggende mulighetene som nå tilføres etaten gjennom de nye midlene og utstyret som skal tas i bruk i tiden fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/43ya2G/budsjettlekkasje-milliardsatsing-paa-droner-og-ki",
+            "title": "Politiet får milliardløfte",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:40:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "df4064e1e741280b",
+        "continued_from": null,
+        "headline": "Aker BP varsler stor nedbemanning",
+        "ingress": "Oljelskapet Aker BP gjør omfattende endringer som kan ramme opp mot 1000 ansatte.",
+        "summary": "Oljeselskapet Aker BP står overfor en omfattende omorganisering som vil føre til en betydelig reduksjon i arbeidsstokken. Nyheten ble meddelt de ansatte under et allmøte fredag, hvor det kom frem at endringene kan resultere i opp mot 1000 færre ansatte. Aker BP-sjef Karl Johnny Hersvik bekrefter overfor DN at det dreier seg om en betydelig reduksjon. Selskapet legger om kursen ved at store prosjekter nå avsluttes, og organisasjonen snus opp ned for å rette fokuset mot mindre prosjekter og en mer strømlinjeformet struktur. I tillegg til endringene på personellsiden foretas det også strukturelle grep internt, noe som blant annet vises ved at Oljefondet samler aktivt eierskap og aktiv forvaltning i én felles avdeling. Analytikere og ledelsen vurderer disse grepene som en nødvendig omstilling for å møte fremtidige markedsforhold, men for de ansatte innebærer situasjonen stor usikkerhet knyttet til fremtidige arbeidsplasser. Det er ventet at prosessen vil kreve oppsigelser og tøffe runder internt i selskapet i tiden som kommer, ettersom den opprinnelige organisasjonsmodellen erstattes av en helt ny driftsform tilpasset en ny virkelighet i olje- og energisektoren.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/olje/aker-bp/aker-bp-snur-opp-ned-pa-selskapet-kan-bli-opp-mot-1000-farre-ansatte/2-1-2052883",
+            "title": "Aker BP snur opp ned på selskapet: Kan bli opp mot 1000 færre ansatte",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:54:31+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/gd7a0B/aker-bp-sjefen-varsler-nedbemanning-blir-en-betydelig-reduksjon-sier-han-til-dn?utm_medium=rss",
+            "title": "Aker BP varsler nedbemanning",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:03:55+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/L3paEq/oljefondet-gjoer-endringer?utm_medium=rss",
+            "title": "Oljefondet gjør endringer",
+            "is_secondary": false,
+            "published_at": "2026-10-01T13:14:42+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/eG8WXO/aker-bp-sjefen-varsler-nedbemanning-blir-en-betydelig-reduksjon-sier-han-til-dn",
+            "title": "Aker BP varsler nedbemanning",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:03:55+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/okonomi/aker-bp-gjor-omfattende-endringer-kan-bli-1000-farre-ansatte/s/80-95-127731",
+            "title": "Aker BP gjør omfattende endringer – kan bli 1000 færre ansatte",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:32:29+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5a4bc50643975448",
+        "continued_from": null,
+        "headline": "Norsk mann død under svensk jakt",
+        "ingress": "En norsk mann i 60-årene ble skutt og døde under jakt i Sverige.",
+        "summary": "En tragisk jaktulykke eller kriminell handling har rystet et norsk jaktlag i Sverige. En norsk mann i 60-årene omkom torsdag under en jakt i Arjeplog kommune. Det svenske nyhetsbyrået TT, som formidler nyheten videre til NTB og norske medier, opplyser at mannen ble skutt. Omstendighetene rundt dødsfallet er på dette tidspunktet fremdeles uavklarte. Saken har imidlertid tatt en alvorlig vending da en annen norsk mann i 60-årene, som var en del av det samme jaktlaget, har blitt pågrepet av svensk politi. Svenske etterforskere behandler saken med høy prioritet og etterforsker hendelsen foreløpig under mistanke om drap eller grovt uaktsomt drap. Det er ikke sluppet ytterligere detaljer om relasjonen mellom de involverte personene eller den nøyaktige sekvensen av hendelser som ledet frem til skuddavlossingen i skogsområdet i Arjeplog. Saken vekker stor oppmerksomhet både i Norge og Sverige, og det pågår intensivt etterforskningsarbeid for å avdekke nøyaktig hva som skjedde under jakten torsdag ettermiddag.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nordmann-dode-under-jakt-i-sverige-1.18043310",
+            "title": "Nordmann døde under jakt i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:08:57+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/kva7gL/nordmann-doede-under-jakt-i-sverige-skal-ha-blitt-skutt?utm_medium=rss",
+            "title": "Nordmann døde under jakt i Sverige – skal ha blitt skutt",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:08:56+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19283739",
+            "title": "Nordmann døde under jakt i Sverige – skal ha blitt skutt",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:20:23+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "320d023f4c9881fb",
+        "continued_from": null,
+        "headline": "Dansk universitet rammet av alvorlig dataangrep",
+        "ingress": "Danmarks Tekniske Universitet er rammet av hackerangrep der data kan være stjålet.",
+        "summary": "Danmarks Tekniske Universitet (DTU) har blitt utsatt for et alvorlig dataangrep som potensielt kan ramme opp mot 200.000 nåværende og tidligere studenter og ansatte. Universitetet opplyser i en pressemelding at uvedkommende kan ha stjålet informasjon knyttet til personer som har benyttet seg av institusjonens datatjenester. Det er foreløpig ikke mulig for universitetet å gi en konkret oversikt over nøyaktig hvilken type informasjon som har kommet på avveie, men det meldes at en større mengde data er blitt kompromittert i angrepet. Universitetsdirektør Bjarke Bak Christensen uttrykker stor bekymring og betegner hendelsen som et svært alvorlig angrep mot institusjonen. Ledelsen beklager offentlig den usikkerheten og uroen som situasjonen skaper for dem som risikerer å få sine personopplysninger spredt eller misbrukt. Eksperter arbeider nå med å kartlegge skadeomfanget og tette sikkerhetshullene som gjorde innbruddet mulig, samtidig som saken blir håndtert etter gjeldende rutiner for alvorlige digitale sikkerhetsbrudd i den utdanningssektoren i Danmark.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dansk-universitet-rammet-av-hackerangrep-1.18043215",
+            "title": "Dansk universitet rammet av hackerangrep",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:01:43+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "75bdb25b78859970",
+        "continued_from": null,
+        "headline": "Over 4000 døde i ebola-utbrudd i Kongo",
+        "ingress": "Det pågående ebola-utbruddet i Kongo har krevd over 4000 menneskeliv.",
+        "summary": "Nye offisielle tall fra kongolesiske myndigheter, formidlet via nyhetsbyrået Reuters, viser at over 4000 mennesker har mistet livet i det omfattende ebola-utbruddet i landet. I tillegg til dødstallene er et stort antall mennesker registrert med smitte av den alvorlige sykdommen. Helsemyndighetene og analyser fra eksperter viser at dette utbruddet er det desidert dødeligste i Den demokratiske republikken Kongos historie. Globalt sett rangerer situasjonen seg som det nest verste ebola-utbruddet som noensinne er registrert i historien, kun overgått av det massive utbruddet som rammet landene Liberia, Sierra Leone og Guinea i perioden mellom 2013 og 2016. Situasjonen krever en betydelig internasjonal helseinnsats for å få kontroll over smittespredningen og behandle de syke. Myndighetene arbeider under svært krevende forhold for å begrense katastrofen, og helsearbeidere melder om vedvarende utfordringer knyttet til infrastruktur, sikkerhet og lokal motstand mot smitteverntiltak i de hardest rammede områdene av landet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/over-4000-dode-i-ebola-utbruddet-i-kongo-1.18043454",
+            "title": "Over 4000 døde i Ebola-utbruddet i Kongo",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:22:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5056ee059244cb2d",
+        "continued_from": null,
+        "headline": "Manchester City bekrefter anke i Premier League-sak",
+        "ingress": "Manchester City har levert sin anke i saken hvor klubben er kjent skyldig i en rekke brudd på Premier Leagues økonomeregelverk.",
+        "summary": "Manchester City har formelt bekreftet at klubben har levert inn en anke i den mye omtalte saken der de tidligere har blitt kjent skyldig i en rekke brudd på Premier Leagues strenge økonomiregler. Dette opplyser klubben selv, uten at det foreløpig foreligger ytterligere detaljer om det nøyaktige innholdet i anken eller en tidslinje for når saken vil bli opphevet i neste rettsinstans. Saken har vakt oppsikt i internasjonal fotball med tanke på de potensielle konsekvensene et slikt regelbrudd kan få for den engelske storklubben. Det er per nå ikke kjent nøyaktig når en ankebehandling vil finne sted, men det er ventet at prosessen vil ta tid gitt sakens kompleksitet og omfanget av anklagene som opprinnelig ble rettet mot klubben fra ligaens hold.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/Abdlpq/manchester-city-bekrefter-har-anket-premier-league-dom",
+            "title": "City bekrefter: Har anket Premier League-dom",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:49:57+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9b3d85d4f5b10774",
+        "continued_from": null,
+        "headline": "Én person drept i russisk luftangrep mot Kyiv",
+        "ingress": "Et russisk luftangrep mot Ukrainas hovedstad har krevd ett menneskeliv og såret to andre, ifølge lokale myndigheter.",
+        "summary": "Lokale myndigheter i Kyiv opplyser fredag morgen at et russisk luftangrep mot Ukrainas hovedstad har resultert i at én person er drept og ytterligere to er såret. Angrepet skal ha truffet en boligblokk i byen, ifølge meldinger som formidles via nyhetsbyrået Reuters. Hendelsen er et nytt eksempel på angrep som rammer sivil infrastruktur og boligområder i Ukraina. Det foreligger foreløpig ingen direkte kommentarer til de spesifikke anklagene fra offisielt russisk hold. Det russiske forsvarsdepartementet har imidlertid bekreftet overfor det russiske nyhetsbyrået Interfax at de har gjennomført militære angrep mot Kyiv i løpet av natten. De hevder imidlertid at disse handlingene var rettet mot et strømanlegg, og ikke sivile mål. Det er dermed motstridende opplysninger om hva som var hensikten med og det faktiske treffpunktet for nattens angrep, der ukrainske kilder melder om skadde sivile og rammede boligblokker, mens Moskva fastholder at energistrukturer var målet for operasjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/en-drept-og-to-saret-i-luftangrep-i-kyiv-1.18043087",
+            "title": "Én drept og to såret i luftangrep i Kyiv",
+            "is_secondary": false,
+            "published_at": "2026-10-02T04:57:04+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2a9998c78a6f2036",
+        "continued_from": null,
+        "headline": "Fire menn tiltalt i omfattende norsk narkotikasak",
+        "ingress": "Statsadvokaten har tiltalt tre nordmenn og en svenske for å ha spilt sentrale roller i et stort, internasjonalt narkotikanettverk.",
+        "summary": "Statsadvokaten har tatt ut tiltale mot fire menn, bestående av tre norske statsborgere og én svensk statsborger. Ifølge påtalemyndigheten har disse hatt ledende og sentrale roller i et omfattende kriminelt nettverk som har operert i Norge med klare forgreininger til andre land. Tiltalen omfatter innførsel og salg av betydelige mengder narkotika over flere år. Nærmere bestemt gjelder anklagene håndtering av store kvanta av ulike ulovlige stoffer. Dette inkluderer om lag 135 kilo amfetamin og metamfetamin, rundt 630 kilo hasjisj og marihuana, omtrent 29 kilo kokain, samt et betydelig antall tabletter av ymse art, nærmere bestemt godt over 200 000 stykker. Saken fremstår som en av de større narkotikasakene i Norge på norgeshistorien hva gjelder volum og organisering på tvers av landegrenser. De tiltalte risikerer streng straff dersom de blir dømt i tråd med statsadvokatens tiltalebeslutning, som dokumenterer en omfattende illegal omsetning over en lengre tidsperiode. Det er foreløpig ikke kjent nøyaktig når rettssaken mot de fire mennene vil starte i det norske rettssystemet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/innlandet/fire-menn-tiltalt-for-alvorlig-narkotikavirksomhet-1.18043572",
+            "title": "Fire menn tiltalt for alvorlig narkotika­virksomhet",
+            "is_secondary": false,
+            "published_at": "2026-10-02T11:06:58+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0BnKzE/fire-menn-tiltalt-for-alvorlig-narkotikavirksomhet",
+            "title": "Fire menn tiltalt for alvorlig narkotika­virksomhet",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:53:17+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/vlQARB/fire-tiltalt-for-alvorlig-narkotikakriminalitet?utm_medium=rss",
+            "title": "Fire tiltalt for alvorlig narkotikakriminalitet",
+            "is_secondary": false,
+            "published_at": "2026-10-02T11:07:26+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4e3579c859c3a66c",
+        "continued_from": null,
+        "headline": "Japansk oppkjøpsforsøk verdsetter Akva Group høyt",
+        "ingress": "Et japansk selskap har fremsatt et kjøpstilbud på Akva Group som verdsetter selskapet til om lag 5,9 milliarder kroner.",
+        "summary": "Akva Group er gjenstand for et oppkjøpsforsøk fra et japansk selskap, der den totale prisingen av selskapet ligger på om lag 5,9 milliarder norske kroner. Styringen i Akva Group har vurdert budet og har valgt å anbefale aksjonærene å akseptere det fremtidige tilbudet. Dette fremgår av børsmeldinger og informasjonen som er formidlet av flere finansmedier. Oppkjøpet vil, dersom det blir gjennomført, bety en betydelig endring for eierstrukturen i det norske selskapet, som er kjent for sin leveranse til oppdrettsnæringen og havbrukssektoren. Det er knyttet spenning til hvordan aksjonærene vil motta tilbudet i tiden som kommer, selv om styrets klare anbefaling gir en sterk indikasjon på at transaksjonen kan bli virkelighet. Markedet har reagert på nyheten, og analytikere følger nå prosessen videre for å se om det dukker opp motbud, eller om den japanske aktøren vil sikre fullføring av handelen i tråd med de fremsatte betingelsene i avtalen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/fiske/japansk-selskap-vil-kjope-akva-group-for-59-mrd-kroner/2-1-2053120",
+            "title": "Japansk selskap vil kjøpe Akva Group for 5,9 mrd. kroner",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:51:22+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/QgoRa4/japansk-selskap-vil-kjoepe-akva-group-for-5-9-milliarder-kroner?utm_medium=rss",
+            "title": "Japansk selskap vil kjøpe Akva Group",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:48:15+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/zlGgO9/japansk-selskap-vil-kjoepe-akva-group-for-5-9-milliarder-kroner",
+            "title": "Japansk selskap vil kjøpe Akva Group",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:48:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "442e09384500def4",
+        "continued_from": null,
+        "headline": "Magdalena Andersson får nytt oppdrag med regjeringsdannelse",
+        "ingress": "Talmann Andreas Norlén har gitt Socialdemokraternas leder Magdalena Andersson oppdraget med å forsøke å danne en ny regjering i Sverige.",
+        "summary": "Talmann Andreas Norlén i den svenske Riksdagen har formelt gitt Socialdemokraternas leder Magdalena Andersson i oppdrag å gjøre et nytt forsøk på å danne en regjering i Sverige. Dette ble opplyst fredag, etter at de borgerlige partiene pekte på Andersson til å fortsette sonderingene. De rød-grønne partiene hadde på sin side ønsket at Ulf Kristersson fra Moderaterna skulle overta ansvaret. Forhandlingene starter formelt kommende mandag, og Andersson har fått en frist til 12. oktober med å lande prosessen. Innen denne datoen må hun enten velge å si fra seg oppdraget eller be om en forlenget frist fra talmannen, slik prosedyrene krever. Dette er andre gang Andersson får oppdraget. Hun sa fra seg det første forsøket på mandagen samme uke fordi hun da ikke hadde klart å samle et nødvendig parlamentarisk flertall bak seg. Socialdemokraterna ble det største partiet i det svenske riksdagsvalget i september med 28 prosent av velgernes oppslutning. Andersson har tidligere erfaring som statsminister, en posisjon hun holdt i under et år i en tidligere periode.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/andersson-far-nytt-oppdrag-med-a-danne-regjering-i-sverige-1.18043341",
+            "title": "Andersson får nytt oppdrag med å danne regjering i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:06:48+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/WgLQ1j/andersson-gjoer-nytt-forsoek-paa-aa-danne-regjering-i-sverige?utm_medium=rss",
+            "title": "Andersson gjør nytt forsøk på å danne regjering i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:07:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "53af913fbab8dbb2",
+        "continued_from": null,
+        "headline": "Regjeringen foreslår 40 millioner til romteknologi i statsbudsjettet",
+        "ingress": "Universitetene i Bergen, Oslo, Tromsø og NTNU får en koordinert satsing på romforskning i statsbudsjettet for 2027.",
+        "summary": "I det kommende statsbudsjettet for 2027 foreslår regjeringen å bevilge 40 millioner kroner øremerket forskning og innovasjon innen romteknologi. Det opplyser Universitetet i Bergen (UiB) i en pressemelding. Satsingen vil skje gjennom et koordinert samarbeid mellom fire norske universiteter: Universitetet i Bergen, Universitetet i Oslo (UiO), Noregs teknisk-naturvitenskapelege universitet (NTNU) og Universitetet i Tromsø (UiT). Midlene skal fordeles likt mellom disse fire institusjonene for å styrke deres respektive fagmiljøer. Rektor Margareth Hagen ved UiB uttrykker i pressemeldingen stor grad av positivitet til regjeringens prioritering av en slik nasjonalt samordnet satsing, og understreker at universitetet vil bidra aktivt gjennom sine sterke fagmiljøer innen både fysikk og informatikk. Videre opplyses det at den helårlige effekten av denne satsingen vil utgjøre 80 millioner kroner årlig fra og med 2028. Statsbudsjettet som helhet vil bli lagt frem for offentligheten den 7. oktober, hvor flere detaljer om tildelingene vil bli kjent.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/vestland/foreslar-40-millionar-til-romteknologi-1.18043623",
+            "title": "Foreslår 40 millionar til romteknologi",
+            "is_secondary": false,
+            "published_at": "2026-10-02T11:05:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "e4a9f9314c3e03ca",
+        "continued_from": null,
+        "headline": "Jemens regjeringsstyrker angriper houthier",
+        "ingress": "Jemens væpnede styrker har gjennomført 20 presisjonsangrep mot houthi-mål i Taiz-provinsen.",
+        "summary": "Ifølge en talsperson for Jemens væpnede styrker har det blitt gjennomført 20 presisjonsangrep mot mål tilknyttet houthi-bevegelsen. Angrepene fant sted i løpet av tre timer og var rettet mot houthi-styrker, kjøretøy samt militært utstyr som befant seg i Taiz-provinsen. Det er bekreftet at aksjonen ble utført fredag morgen. Houthi-militsen beskrives som en sjiamuslimsk politisk og militær bevegelse som har kontroll over store deler av Jemen, inkludert hovedstaden Sana. Opplysningene kommer frem via Reuters, og hendelsen markerer en fortsettelse av strididighetene i landet. Det foreligger foreløpig ikke detaljerte rapporter om materielle skader eller mulige tap av menneskeliv som følge av disse spesifikke angrepene, men aksjonen understreker den vedvarende og intense konflikten mellom regjeringsstyrkene og opprørsgruppen i regionen. Situasjonen følges tett av internasjonale nyhetsbyråer som videreformidler rapportene fra de lokale militære kildene i Jemen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/jemen-har-gjennomfort-20-angrep-mot-houthiene-1.18043097",
+            "title": "Jemen har gjennomført 20 angrep mot Houthiene",
+            "is_secondary": false,
+            "published_at": "2026-10-02T05:09:38+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3a709d5679dbba01",
+        "continued_from": null,
+        "headline": "Politiet får milliardløfte og nye droner",
+        "ingress": "Nye politidroner kan snart ta direkte kontakt med mistenkte.",
+        "summary": "Politiet har mottatt et markant løfte om milliarder, noe som åpner for nye teknologiske muligheter i etaten. Blant de foreslåtte tiltakene er bruk av avanserte politidroner som har kapasitet til å ta direkte kontakt med mulige mistenkte personer. Ifølge planene vil disse dronene kunne kommunisere direkte med beskjeder som for eksempel at politiet følger med og ser vedkommende. Dette representerer en ny fase i hvordan politiet kan utnytte ubemannet teknologi i operativt arbeid og i møte med kriminelle miljøer. Det er foreløpig ikke meldt om nøyaktige tidsrammer for når teknologien vil bli fullt ut operativ i alle landets politidistrikter, men løftet om milliardfinansiering legger til rette for en betydelig styrking av politiets teknologiske verktøykasse. Utviklingen reiser også relevante spørsmål knyttet til personvern og etikk ved bruk av slik overvåkingsteknologi, selv om fokuset i meldingen ligger på de operative og forebyggende mulighetene som nå tilføres etaten gjennom de nye midlene og utstyret som skal tas i bruk i tiden fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/43ya2G/budsjettlekkasje-milliardsatsing-paa-droner-og-ki",
+            "title": "Politiet får milliardløfte",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:40:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "df4064e1e741280b",
+        "continued_from": null,
+        "headline": "Aker BP varsler stor nedbemanning",
+        "ingress": "Oljelskapet Aker BP gjør omfattende endringer som kan ramme opp mot 1000 ansatte.",
+        "summary": "Oljeselskapet Aker BP står overfor en omfattende omorganisering som vil føre til en betydelig reduksjon i arbeidsstokken. Nyheten ble meddelt de ansatte under et allmøte fredag, hvor det kom frem at endringene kan resultere i opp mot 1000 færre ansatte. Aker BP-sjef Karl Johnny Hersvik bekrefter overfor DN at det dreier seg om en betydelig reduksjon. Selskapet legger om kursen ved at store prosjekter nå avsluttes, og organisasjonen snus opp ned for å rette fokuset mot mindre prosjekter og en mer strømlinjeformet struktur. I tillegg til endringene på personellsiden foretas det også strukturelle grep internt, noe som blant annet vises ved at Oljefondet samler aktivt eierskap og aktiv forvaltning i én felles avdeling. Analytikere og ledelsen vurderer disse grepene som en nødvendig omstilling for å møte fremtidige markedsforhold, men for de ansatte innebærer situasjonen stor usikkerhet knyttet til fremtidige arbeidsplasser. Det er ventet at prosessen vil kreve oppsigelser og tøffe runder internt i selskapet i tiden som kommer, ettersom den opprinnelige organisasjonsmodellen erstattes av en helt ny driftsform tilpasset en ny virkelighet i olje- og energisektoren.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/olje/aker-bp/aker-bp-snur-opp-ned-pa-selskapet-kan-bli-opp-mot-1000-farre-ansatte/2-1-2052883",
+            "title": "Aker BP snur opp ned på selskapet: Kan bli opp mot 1000 færre ansatte",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:54:31+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/gd7a0B/aker-bp-sjefen-varsler-nedbemanning-blir-en-betydelig-reduksjon-sier-han-til-dn?utm_medium=rss",
+            "title": "Aker BP varsler nedbemanning",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:03:55+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/L3paEq/oljefondet-gjoer-endringer?utm_medium=rss",
+            "title": "Oljefondet gjør endringer",
+            "is_secondary": false,
+            "published_at": "2026-10-01T13:14:42+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/eG8WXO/aker-bp-sjefen-varsler-nedbemanning-blir-en-betydelig-reduksjon-sier-han-til-dn",
+            "title": "Aker BP varsler nedbemanning",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:03:55+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/okonomi/aker-bp-gjor-omfattende-endringer-kan-bli-1000-farre-ansatte/s/80-95-127731",
+            "title": "Aker BP gjør omfattende endringer – kan bli 1000 færre ansatte",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:32:29+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5a4bc50643975448",
+        "continued_from": null,
+        "headline": "Norsk mann død under svensk jakt",
+        "ingress": "En norsk mann i 60-årene ble skutt og døde under jakt i Sverige.",
+        "summary": "En tragisk jaktulykke eller kriminell handling har rystet et norsk jaktlag i Sverige. En norsk mann i 60-årene omkom torsdag under en jakt i Arjeplog kommune. Det svenske nyhetsbyrået TT, som formidler nyheten videre til NTB og norske medier, opplyser at mannen ble skutt. Omstendighetene rundt dødsfallet er på dette tidspunktet fremdeles uavklarte. Saken har imidlertid tatt en alvorlig vending da en annen norsk mann i 60-årene, som var en del av det samme jaktlaget, har blitt pågrepet av svensk politi. Svenske etterforskere behandler saken med høy prioritet og etterforsker hendelsen foreløpig under mistanke om drap eller grovt uaktsomt drap. Det er ikke sluppet ytterligere detaljer om relasjonen mellom de involverte personene eller den nøyaktige sekvensen av hendelser som ledet frem til skuddavlossingen i skogsområdet i Arjeplog. Saken vekker stor oppmerksomhet både i Norge og Sverige, og det pågår intensivt etterforskningsarbeid for å avdekke nøyaktig hva som skjedde under jakten torsdag ettermiddag.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nordmann-dode-under-jakt-i-sverige-1.18043310",
+            "title": "Nordmann døde under jakt i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:08:57+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/kva7gL/nordmann-doede-under-jakt-i-sverige-skal-ha-blitt-skutt?utm_medium=rss",
+            "title": "Nordmann døde under jakt i Sverige – skal ha blitt skutt",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:08:56+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19283739",
+            "title": "Nordmann døde under jakt i Sverige – skal ha blitt skutt",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:20:23+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "320d023f4c9881fb",
+        "continued_from": null,
+        "headline": "Dansk universitet rammet av alvorlig dataangrep",
+        "ingress": "Danmarks Tekniske Universitet er rammet av hackerangrep der data kan være stjålet.",
+        "summary": "Danmarks Tekniske Universitet (DTU) har blitt utsatt for et alvorlig dataangrep som potensielt kan ramme opp mot 200.000 nåværende og tidligere studenter og ansatte. Universitetet opplyser i en pressemelding at uvedkommende kan ha stjålet informasjon knyttet til personer som har benyttet seg av institusjonens datatjenester. Det er foreløpig ikke mulig for universitetet å gi en konkret oversikt over nøyaktig hvilken type informasjon som har kommet på avveie, men det meldes at en større mengde data er blitt kompromittert i angrepet. Universitetsdirektør Bjarke Bak Christensen uttrykker stor bekymring og betegner hendelsen som et svært alvorlig angrep mot institusjonen. Ledelsen beklager offentlig den usikkerheten og uroen som situasjonen skaper for dem som risikerer å få sine personopplysninger spredt eller misbrukt. Eksperter arbeider nå med å kartlegge skadeomfanget og tette sikkerhetshullene som gjorde innbruddet mulig, samtidig som saken blir håndtert etter gjeldende rutiner for alvorlige digitale sikkerhetsbrudd i den utdanningssektoren i Danmark.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dansk-universitet-rammet-av-hackerangrep-1.18043215",
+            "title": "Dansk universitet rammet av hackerangrep",
+            "is_secondary": false,
+            "published_at": "2026-10-02T08:01:43+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "75bdb25b78859970",
+        "continued_from": null,
+        "headline": "Over 4000 døde i ebola-utbrudd i Kongo",
+        "ingress": "Det pågående ebola-utbruddet i Kongo har krevd over 4000 menneskeliv.",
+        "summary": "Nye offisielle tall fra kongolesiske myndigheter, formidlet via nyhetsbyrået Reuters, viser at over 4000 mennesker har mistet livet i det omfattende ebola-utbruddet i landet. I tillegg til dødstallene er et stort antall mennesker registrert med smitte av den alvorlige sykdommen. Helsemyndighetene og analyser fra eksperter viser at dette utbruddet er det desidert dødeligste i Den demokratiske republikken Kongos historie. Globalt sett rangerer situasjonen seg som det nest verste ebola-utbruddet som noensinne er registrert i historien, kun overgått av det massive utbruddet som rammet landene Liberia, Sierra Leone og Guinea i perioden mellom 2013 og 2016. Situasjonen krever en betydelig internasjonal helseinnsats for å få kontroll over smittespredningen og behandle de syke. Myndighetene arbeider under svært krevende forhold for å begrense katastrofen, og helsearbeidere melder om vedvarende utfordringer knyttet til infrastruktur, sikkerhet og lokal motstand mot smitteverntiltak i de hardest rammede områdene av landet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/over-4000-dode-i-ebola-utbruddet-i-kongo-1.18043454",
+            "title": "Over 4000 døde i Ebola-utbruddet i Kongo",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:22:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5056ee059244cb2d",
+        "continued_from": null,
+        "headline": "Manchester City bekrefter anke i Premier League-sak",
+        "ingress": "Manchester City har levert sin anke i saken hvor klubben er kjent skyldig i en rekke brudd på Premier Leagues økonomeregelverk.",
+        "summary": "Manchester City har formelt bekreftet at klubben har levert inn en anke i den mye omtalte saken der de tidligere har blitt kjent skyldig i en rekke brudd på Premier Leagues strenge økonomiregler. Dette opplyser klubben selv, uten at det foreløpig foreligger ytterligere detaljer om det nøyaktige innholdet i anken eller en tidslinje for når saken vil bli opphevet i neste rettsinstans. Saken har vakt oppsikt i internasjonal fotball med tanke på de potensielle konsekvensene et slikt regelbrudd kan få for den engelske storklubben. Det er per nå ikke kjent nøyaktig når en ankebehandling vil finne sted, men det er ventet at prosessen vil ta tid gitt sakens kompleksitet og omfanget av anklagene som opprinnelig ble rettet mot klubben fra ligaens hold.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/Abdlpq/manchester-city-bekrefter-har-anket-premier-league-dom",
+            "title": "City bekrefter: Har anket Premier League-dom",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:49:57+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9b3d85d4f5b10774",
+        "continued_from": null,
+        "headline": "Én person drept i russisk luftangrep mot Kyiv",
+        "ingress": "Et russisk luftangrep mot Ukrainas hovedstad har krevd ett menneskeliv og såret to andre, ifølge lokale myndigheter.",
+        "summary": "Lokale myndigheter i Kyiv opplyser fredag morgen at et russisk luftangrep mot Ukrainas hovedstad har resultert i at én person er drept og ytterligere to er såret. Angrepet skal ha truffet en boligblokk i byen, ifølge meldinger som formidles via nyhetsbyrået Reuters. Hendelsen er et nytt eksempel på angrep som rammer sivil infrastruktur og boligområder i Ukraina. Det foreligger foreløpig ingen direkte kommentarer til de spesifikke anklagene fra offisielt russisk hold. Det russiske forsvarsdepartementet har imidlertid bekreftet overfor det russiske nyhetsbyrået Interfax at de har gjennomført militære angrep mot Kyiv i løpet av natten. De hevder imidlertid at disse handlingene var rettet mot et strømanlegg, og ikke sivile mål. Det er dermed motstridende opplysninger om hva som var hensikten med og det faktiske treffpunktet for nattens angrep, der ukrainske kilder melder om skadde sivile og rammede boligblokker, mens Moskva fastholder at energistrukturer var målet for operasjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/en-drept-og-to-saret-i-luftangrep-i-kyiv-1.18043087",
+            "title": "Én drept og to såret i luftangrep i Kyiv",
+            "is_secondary": false,
+            "published_at": "2026-10-02T04:57:04+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2a9998c78a6f2036",
+        "continued_from": null,
+        "headline": "Fire menn tiltalt i omfattende norsk narkotikasak",
+        "ingress": "Statsadvokaten har tiltalt tre nordmenn og en svenske for å ha spilt sentrale roller i et stort, internasjonalt narkotikanettverk.",
+        "summary": "Statsadvokaten har tatt ut tiltale mot fire menn, bestående av tre norske statsborgere og én svensk statsborger. Ifølge påtalemyndigheten har disse hatt ledende og sentrale roller i et omfattende kriminelt nettverk som har operert i Norge med klare forgreininger til andre land. Tiltalen omfatter innførsel og salg av betydelige mengder narkotika over flere år. Nærmere bestemt gjelder anklagene håndtering av store kvanta av ulike ulovlige stoffer. Dette inkluderer om lag 135 kilo amfetamin og metamfetamin, rundt 630 kilo hasjisj og marihuana, omtrent 29 kilo kokain, samt et betydelig antall tabletter av ymse art, nærmere bestemt godt over 200 000 stykker. Saken fremstår som en av de større narkotikasakene i Norge på norgeshistorien hva gjelder volum og organisering på tvers av landegrenser. De tiltalte risikerer streng straff dersom de blir dømt i tråd med statsadvokatens tiltalebeslutning, som dokumenterer en omfattende illegal omsetning over en lengre tidsperiode. Det er foreløpig ikke kjent nøyaktig når rettssaken mot de fire mennene vil starte i det norske rettssystemet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "nordisk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/innlandet/fire-menn-tiltalt-for-alvorlig-narkotikavirksomhet-1.18043572",
+            "title": "Fire menn tiltalt for alvorlig narkotika­virksomhet",
+            "is_secondary": false,
+            "published_at": "2026-10-02T11:06:58+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/0BnKzE/fire-menn-tiltalt-for-alvorlig-narkotikavirksomhet",
+            "title": "Fire menn tiltalt for alvorlig narkotika­virksomhet",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:53:17+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/vlQARB/fire-tiltalt-for-alvorlig-narkotikakriminalitet?utm_medium=rss",
+            "title": "Fire tiltalt for alvorlig narkotikakriminalitet",
+            "is_secondary": false,
+            "published_at": "2026-10-02T11:07:26+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4e3579c859c3a66c",
+        "continued_from": null,
+        "headline": "Japansk oppkjøpsforsøk verdsetter Akva Group høyt",
+        "ingress": "Et japansk selskap har fremsatt et kjøpstilbud på Akva Group som verdsetter selskapet til om lag 5,9 milliarder kroner.",
+        "summary": "Akva Group er gjenstand for et oppkjøpsforsøk fra et japansk selskap, der den totale prisingen av selskapet ligger på om lag 5,9 milliarder norske kroner. Styringen i Akva Group har vurdert budet og har valgt å anbefale aksjonærene å akseptere det fremtidige tilbudet. Dette fremgår av børsmeldinger og informasjonen som er formidlet av flere finansmedier. Oppkjøpet vil, dersom det blir gjennomført, bety en betydelig endring for eierstrukturen i det norske selskapet, som er kjent for sin leveranse til oppdrettsnæringen og havbrukssektoren. Det er knyttet spenning til hvordan aksjonærene vil motta tilbudet i tiden som kommer, selv om styrets klare anbefaling gir en sterk indikasjon på at transaksjonen kan bli virkelighet. Markedet har reagert på nyheten, og analytikere følger nå prosessen videre for å se om det dukker opp motbud, eller om den japanske aktøren vil sikre fullføring av handelen i tråd med de fremsatte betingelsene i avtalen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/fiske/japansk-selskap-vil-kjope-akva-group-for-59-mrd-kroner/2-1-2053120",
+            "title": "Japansk selskap vil kjøpe Akva Group for 5,9 mrd. kroner",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:51:22+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/norsk-oekonomi/i/QgoRa4/japansk-selskap-vil-kjoepe-akva-group-for-5-9-milliarder-kroner?utm_medium=rss",
+            "title": "Japansk selskap vil kjøpe Akva Group",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:48:15+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/zlGgO9/japansk-selskap-vil-kjoepe-akva-group-for-5-9-milliarder-kroner",
+            "title": "Japansk selskap vil kjøpe Akva Group",
+            "is_secondary": false,
+            "published_at": "2026-10-02T10:48:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "442e09384500def4",
+        "continued_from": null,
+        "headline": "Magdalena Andersson får nytt oppdrag med regjeringsdannelse",
+        "ingress": "Talmann Andreas Norlén har gitt Socialdemokraternas leder Magdalena Andersson oppdraget med å forsøke å danne en ny regjering i Sverige.",
+        "summary": "Talmann Andreas Norlén i den svenske Riksdagen har formelt gitt Socialdemokraternas leder Magdalena Andersson i oppdrag å gjøre et nytt forsøk på å danne en regjering i Sverige. Dette ble opplyst fredag, etter at de borgerlige partiene pekte på Andersson til å fortsette sonderingene. De rød-grønne partiene hadde på sin side ønsket at Ulf Kristersson fra Moderaterna skulle overta ansvaret. Forhandlingene starter formelt kommende mandag, og Andersson har fått en frist til 12. oktober med å lande prosessen. Innen denne datoen må hun enten velge å si fra seg oppdraget eller be om en forlenget frist fra talmannen, slik prosedyrene krever. Dette er andre gang Andersson får oppdraget. Hun sa fra seg det første forsøket på mandagen samme uke fordi hun da ikke hadde klart å samle et nødvendig parlamentarisk flertall bak seg. Socialdemokraterna ble det største partiet i det svenske riksdagsvalget i september med 28 prosent av velgernes oppslutning. Andersson har tidligere erfaring som statsminister, en posisjon hun holdt i under et år i en tidligere periode.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/andersson-far-nytt-oppdrag-med-a-danne-regjering-i-sverige-1.18043341",
+            "title": "Andersson får nytt oppdrag med å danne regjering i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:06:48+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/WgLQ1j/andersson-gjoer-nytt-forsoek-paa-aa-danne-regjering-i-sverige?utm_medium=rss",
+            "title": "Andersson gjør nytt forsøk på å danne regjering i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-02T09:07:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "53af913fbab8dbb2",
+        "continued_from": null,
+        "headline": "Regjeringen foreslår 40 millioner til romteknologi i statsbudsjettet",
+        "ingress": "Universitetene i Bergen, Oslo, Tromsø og NTNU får en koordinert satsing på romforskning i statsbudsjettet for 2027.",
+        "summary": "I det kommende statsbudsjettet for 2027 foreslår regjeringen å bevilge 40 millioner kroner øremerket forskning og innovasjon innen romteknologi. Det opplyser Universitetet i Bergen (UiB) i en pressemelding. Satsingen vil skje gjennom et koordinert samarbeid mellom fire norske universiteter: Universitetet i Bergen, Universitetet i Oslo (UiO), Noregs teknisk-naturvitenskapelege universitet (NTNU) og Universitetet i Tromsø (UiT). Midlene skal fordeles likt mellom disse fire institusjonene for å styrke deres respektive fagmiljøer. Rektor Margareth Hagen ved UiB uttrykker i pressemeldingen stor grad av positivitet til regjeringens prioritering av en slik nasjonalt samordnet satsing, og understreker at universitetet vil bidra aktivt gjennom sine sterke fagmiljøer innen både fysikk og informatikk. Videre opplyses det at den helårlige effekten av denne satsingen vil utgjøre 80 millioner kroner årlig fra og med 2028. Statsbudsjettet som helhet vil bli lagt frem for offentligheten den 7. oktober, hvor flere detaljer om tildelingene vil bli kjent.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/vestland/foreslar-40-millionar-til-romteknologi-1.18043623",
+            "title": "Foreslår 40 millionar til romteknologi",
+            "is_secondary": false,
+            "published_at": "2026-10-02T11:05:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-10-02T13:19:00.885421+02:00",
+    "edition_date": "2026-10-02",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 209,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 11
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:21.055116+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:08:02+00:00",
+          "earliest_usable_published_at": "2026-10-02T04:42:24+00:00",
+          "latest_usable_published_at": "2026-10-02T11:08:02+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:21.442589+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:57:48+00:00",
+          "earliest_usable_published_at": "2026-10-02T02:10:28+00:00",
+          "latest_usable_published_at": "2026-10-02T10:57:48+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:22.491807+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:48:15+00:00",
+          "earliest_usable_published_at": "2026-10-01T12:54:09+00:00",
+          "latest_usable_published_at": "2026-10-02T10:48:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:22.952503+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:06:48+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:37:28+00:00",
+          "latest_usable_published_at": "2026-10-02T11:06:48+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:23.309517+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:07:26+00:00",
+          "earliest_usable_published_at": "2026-10-02T07:14:31+00:00",
+          "latest_usable_published_at": "2026-10-02T11:07:26+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:23.653656+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:05:32+00:00",
+          "earliest_usable_published_at": "2026-10-01T19:16:13+00:00",
+          "latest_usable_published_at": "2026-10-02T11:05:32+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:24.135254+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:57:28+00:00",
+          "earliest_usable_published_at": "2026-10-02T10:13:41+00:00",
+          "latest_usable_published_at": "2026-10-02T10:57:28+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:25.109200+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:05:17+00:00",
+          "earliest_usable_published_at": "2026-10-02T10:34:40+00:00",
+          "latest_usable_published_at": "2026-10-02T11:05:17+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:25.721139+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:54:45+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:30:00+00:00",
+          "latest_usable_published_at": "2026-10-02T10:54:45+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:26.489476+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:52:36+00:00",
+          "earliest_usable_published_at": "2026-10-02T06:17:32+00:00",
+          "latest_usable_published_at": "2026-10-02T10:52:36+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:27.584829+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:04:00+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:46:29+00:00",
+          "latest_usable_published_at": "2026-10-02T11:04:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:28.518202+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:00:00+00:00",
+          "latest_usable_published_at": "2026-10-02T11:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:29.117320+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:02:00+00:00",
+          "earliest_usable_published_at": "2026-10-02T10:15:00+00:00",
+          "latest_usable_published_at": "2026-10-02T11:02:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:29.917680+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:05:19+00:00",
+          "earliest_usable_published_at": "2026-10-02T10:47:58+00:00",
+          "latest_usable_published_at": "2026-10-02T11:05:19+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:30.043694+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:36:38+00:00",
+          "earliest_usable_published_at": "2026-10-01T12:28:46+00:00",
+          "latest_usable_published_at": "2026-10-02T10:36:38+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:30.157426+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:59:36+00:00",
+          "earliest_usable_published_at": "2026-10-01T17:25:03+00:00",
+          "latest_usable_published_at": "2026-10-02T10:59:36+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:30.807838+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:06:10+00:00",
+          "earliest_usable_published_at": "2026-10-02T03:09:13+00:00",
+          "latest_usable_published_at": "2026-10-02T11:06:10+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:30.859078+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:03:57+00:00",
+          "earliest_usable_published_at": "2026-10-02T07:00:08+00:00",
+          "latest_usable_published_at": "2026-10-02T11:03:57+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-02T11:15:30.971558+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:31.067310+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:09:22+00:00",
+          "earliest_usable_published_at": "2026-10-02T04:00:49+00:00",
+          "latest_usable_published_at": "2026-10-02T11:09:22+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-02T11:15:31.099852+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:31.140791+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:02:05+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:30:11+00:00",
+          "latest_usable_published_at": "2026-10-02T11:02:05+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:31.748576+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T11:00:20+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:26:14+00:00",
+          "latest_usable_published_at": "2026-10-02T11:00:20+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:31.809218+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T10:51:07+00:00",
+          "earliest_usable_published_at": "2026-10-02T03:37:10+00:00",
+          "latest_usable_published_at": "2026-10-02T10:51:07+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:32.173442+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T09:49:33+00:00",
+          "earliest_usable_published_at": "2026-10-02T09:11:50+00:00",
+          "latest_usable_published_at": "2026-10-02T09:49:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:32.226963+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-02T09:22:33+00:00",
+          "earliest_usable_published_at": "2026-10-01T14:23:47+00:00",
+          "latest_usable_published_at": "2026-10-02T09:22:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-02T11:15:33.306968+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-09-30T14:00:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-10-02T11:15:33.492311+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 3,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-02T10:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-02T07:05:00+00:00",
+          "latest_usable_published_at": "2026-10-02T10:00:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-02T13:15:21.055070+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-02T11:15:21.055116+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-02T11:15:21.442589+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-02T11:15:22.491807+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-02T11:15:22.952503+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-02T11:15:23.309517+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-02T11:15:23.653656+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-02T11:15:24.135254+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-02T11:15:25.109200+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-02T11:15:25.721139+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-02T11:15:26.489476+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-02T11:15:27.584829+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-02T11:15:28.518202+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-02T11:15:29.117320+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-02T11:15:29.917680+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-02T11:15:30.043694+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-02T11:15:30.157426+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-02T11:15:30.807838+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-02T11:15:30.859078+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-02T11:15:30.971558+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-02T11:15:31.067310+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-02T11:15:31.099852+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-02T11:15:31.140791+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-02T11:15:31.748576+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-02T11:15:31.809218+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-02T11:15:32.173442+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-02T11:15:32.226963+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-02T11:15:33.306968+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-02T11:15:33.492311+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 209,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 11
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:21.055116+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:08:02+00:00",
+            "earliest_usable_published_at": "2026-10-02T04:42:24+00:00",
+            "latest_usable_published_at": "2026-10-02T11:08:02+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:21.442589+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:57:48+00:00",
+            "earliest_usable_published_at": "2026-10-02T02:10:28+00:00",
+            "latest_usable_published_at": "2026-10-02T10:57:48+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:22.491807+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:48:15+00:00",
+            "earliest_usable_published_at": "2026-10-01T12:54:09+00:00",
+            "latest_usable_published_at": "2026-10-02T10:48:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:22.952503+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:06:48+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:37:28+00:00",
+            "latest_usable_published_at": "2026-10-02T11:06:48+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:23.309517+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:07:26+00:00",
+            "earliest_usable_published_at": "2026-10-02T07:14:31+00:00",
+            "latest_usable_published_at": "2026-10-02T11:07:26+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:23.653656+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:05:32+00:00",
+            "earliest_usable_published_at": "2026-10-01T19:16:13+00:00",
+            "latest_usable_published_at": "2026-10-02T11:05:32+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:24.135254+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:57:28+00:00",
+            "earliest_usable_published_at": "2026-10-02T10:13:41+00:00",
+            "latest_usable_published_at": "2026-10-02T10:57:28+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:25.109200+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:05:17+00:00",
+            "earliest_usable_published_at": "2026-10-02T10:34:40+00:00",
+            "latest_usable_published_at": "2026-10-02T11:05:17+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:25.721139+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:54:45+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:30:00+00:00",
+            "latest_usable_published_at": "2026-10-02T10:54:45+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:26.489476+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:52:36+00:00",
+            "earliest_usable_published_at": "2026-10-02T06:17:32+00:00",
+            "latest_usable_published_at": "2026-10-02T10:52:36+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:27.584829+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:04:00+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:46:29+00:00",
+            "latest_usable_published_at": "2026-10-02T11:04:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:28.518202+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:00:00+00:00",
+            "latest_usable_published_at": "2026-10-02T11:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:29.117320+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:02:00+00:00",
+            "earliest_usable_published_at": "2026-10-02T10:15:00+00:00",
+            "latest_usable_published_at": "2026-10-02T11:02:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:29.917680+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:05:19+00:00",
+            "earliest_usable_published_at": "2026-10-02T10:47:58+00:00",
+            "latest_usable_published_at": "2026-10-02T11:05:19+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:30.043694+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:36:38+00:00",
+            "earliest_usable_published_at": "2026-10-01T12:28:46+00:00",
+            "latest_usable_published_at": "2026-10-02T10:36:38+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:30.157426+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:59:36+00:00",
+            "earliest_usable_published_at": "2026-10-01T17:25:03+00:00",
+            "latest_usable_published_at": "2026-10-02T10:59:36+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:30.807838+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:06:10+00:00",
+            "earliest_usable_published_at": "2026-10-02T03:09:13+00:00",
+            "latest_usable_published_at": "2026-10-02T11:06:10+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:30.859078+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:03:57+00:00",
+            "earliest_usable_published_at": "2026-10-02T07:00:08+00:00",
+            "latest_usable_published_at": "2026-10-02T11:03:57+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-02T11:15:30.971558+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:31.067310+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:09:22+00:00",
+            "earliest_usable_published_at": "2026-10-02T04:00:49+00:00",
+            "latest_usable_published_at": "2026-10-02T11:09:22+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-02T11:15:31.099852+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:31.140791+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:02:05+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:30:11+00:00",
+            "latest_usable_published_at": "2026-10-02T11:02:05+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:31.748576+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T11:00:20+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:26:14+00:00",
+            "latest_usable_published_at": "2026-10-02T11:00:20+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:31.809218+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T10:51:07+00:00",
+            "earliest_usable_published_at": "2026-10-02T03:37:10+00:00",
+            "latest_usable_published_at": "2026-10-02T10:51:07+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:32.173442+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T09:49:33+00:00",
+            "earliest_usable_published_at": "2026-10-02T09:11:50+00:00",
+            "latest_usable_published_at": "2026-10-02T09:49:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:32.226963+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-02T09:22:33+00:00",
+            "earliest_usable_published_at": "2026-10-01T14:23:47+00:00",
+            "latest_usable_published_at": "2026-10-02T09:22:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-02T11:15:33.306968+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-09-30T14:00:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-10-02T11:15:33.492311+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 3,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-02T10:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-02T07:05:00+00:00",
+            "latest_usable_published_at": "2026-10-02T10:00:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 40,
+      "drop_reasons": []
+    }
+  }
+}
