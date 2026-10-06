@@ -1,0 +1,2073 @@
+{
+  "date": "2026-10-06",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "00434da0d9bb0320",
+        "continued_from": null,
+        "headline": "Tidligere tysk etterretningssjef pågrepet for spionasje",
+        "ingress": "August Hanning, tidligere sjef for tysk etterretning, er pågrepet og siktet for forræderi og spionasje.",
+        "summary": "Tidligere sjef for den tyske etterretningstjenesten BND, August Hanning (80), har blitt pågrepet og siktet for spionasje og forsøk på forræderi. Dette er bekreftet gjennom en pressemelding fra den tyske riksadvokaten, etter at saken først ble meldt av medier som Bild. Hanning ledet tjenesten fra 1998 til 2005. Ifølge internasjonale medier som Financial Times, BBC og New York Times, er han mistenkt for å ha skaffet til veie og solgt gradert informasjon og statshemmeligheter til fremmede makter. Saken har vakt oppstuss i den tyske politiske offentligheten, og kilder knytter den til en kidnappingsetterforskning knyttet til en biffhus-arving. Det foreligger så langt offisielle siktelser og pågripelser fra tysk påtalemyndighet, mens selve skyldspørsmålet og detaljene rundt informasjonsdelingen er gjenstand for videre etterforskning. Analytikere og medier vurderer saken som et alvorlig sikkerhetsbrudd for Tyskland gitt Hannings tidligere høytstående posisjon i det tyske sikkerhetsapparatet. Det understrekes i mediene at siktelsen innebærer alvorlige anklager om illojalitet mot staten, og pågripelsen har rystet det politiske miljøet i landet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/tidligere-tysk-etterretningssjef-pagrepet-for-spionasje-1.18046674",
+            "title": "Tidligere tysk etterretningssjef pågrepet for spionasje",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:45:27+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d7n57B/tidligere-tysk-etterretningssjef-paagrepet-for-spionasje?utm_medium=rss",
+            "title": "Tidligere tysk etterretningssjef pågrepet for spionasje",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:45:25+00:00"
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1",
+            "title": "Former German spy chief arrested for treason",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:34:25+00:00"
+          },
+          {
+            "source_name": "BBC",
+            "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+            "title": "Former German spy chief arrested for espionage and treason",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:05:42+00:00"
+          },
+          {
+            "source_name": "New York Times",
+            "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+            "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:28:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "70e8688caf3641f8",
+        "continued_from": null,
+        "headline": "Barn vitne til dobbeltdrap i Halden",
+        "ingress": "Et barn i barneskolealder var vitne til det tragiske dobbeltdrapet i Halden, ifølge nye opplysninger.",
+        "summary": "En alvorlig drapssak i Halden har rystet lokalsamfunnet etter at Per-Ove (47) og faren Rune Engebretsen (72) ble drept under jakt. En mann i 20-årene, identifisert som Martin Braadland (29) i media, er siktet for dobbeltdrapet samt drapsforsøk på en eller flere andre personer i jaktlaget. I tillegg til de omkomne ble en mann i 40-årene skutt og hardt skadet. Nye opplysninger som er brakt på nett av blant andre NRK og TV 2, viser at en av de totalt 14 fornærmede i saken er et barn i barneskolealder som var med en forelder på jakt og var vitne til hendelsen. Det fremstår ifølge opplysningene som tilfeldig hvem som ble rammet og at overleveren ble skutt. Den siktede mannen ble mandag fremstilt for varetektsfengsling og ble fengslet i fire uker med brev- og besøkskontroll. Det understrekes fra mediene at opplysningene om hendelsesforløpet og vitnene bygger på deres kilder i saken, mens etterforskningen pågår for fullt for å avklare motiv og nøyaktig tidslinje rundt skytingen i terrenget.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/opplysninger-til-nrk_-barn-var-vitne-til-dobbeltdrap-i-halden-1.18046677",
+            "title": "Opplysninger til NRK: Barn var vitne til dobbeltdrap i Halden",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:29:50+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19295219",
+            "title": "Opplysninger til TV 2: Tredje skuddoffer framstår tilfeldig",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:44:44+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/barn-var-vitne-til-dobbeltdrapet-i-halden/s/80-95-135393",
+            "title": "Barn var vitne til dobbeltdrapet i Halden",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:16:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "017486053bea5baf",
+        "continued_from": null,
+        "headline": "DNB kutter 400 årsverk og satser på kunstig intelligens",
+        "ingress": "Storbanken DNB kutter rundt 400 årsverk som følge av økt effektivitet og bruk av kunstig intelligens.",
+        "summary": "DNB kutter om lag 400 årsverk i en større omorganisering av virksomheten. Toppsjef Kjerstin Braathen uttaler til Dagens Næringsliv at banken ser betydelige gevinster ved bruk av kunstig intelligens, og at organisasjonen derfor tilpasses en ny virkelighet. Kuttene har vakt reaksjoner, og Finansforbundet har kommet med sterke advarsler og kritikk mot bankens aggressive AI-satsing og kuttpolitikk. Ifølge E24 vil ikke storbanken svare direkte på om selve banktjenestene eller driften vil bli billigere for kundene som følge av at ansatte fjernes og erstattes med teknologiske løsninger. Nyheten belyser en bredere debatt om hvordan ny teknologi endrer tradisjonelle arbeidsplasser i finanssektoren. Analytikere og fagforeninger vurderer utviklingen som en risikofaktor for ansattes jobbsikkerhet, og Finansforbundet advarer om at bankene må trå varsomt når de kutter bemanningen på bekostning av menneskelige ressurser. Det er en bekreftet kjensgjerning at 400 årsverk forsvinner, men effekten på lang sikt og kvaliteten på kundetjenestene gjenstår å se ifølge partene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/dnb-vil-kutte-400-arsverk/2-1-2054096",
+            "title": "DNB vil kutte 400 årsverk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T07:00:52+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/kv325L/kritisk-til-dnbs-ai-kutt-vi-maa-passe-oss?utm_medium=rss",
+            "title": "Kritisk til DNBs AI-kutt: – Vi må passe oss",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:13:19+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/b8zly3/dnb-varsler-nedbemanning-kutter-400-aarsverk?utm_medium=rss",
+            "title": "DNB kutter ansatte – satser på AI",
+            "is_secondary": false,
+            "published_at": "2026-10-06T07:01:39+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "11eeac8163d344a8",
+        "continued_from": null,
+        "headline": "USAs utenriksminister Rubio fremhever Islands sikkerhetsrolle",
+        "ingress": "USAs utenriksminister Marco Rubio understreker Islands avgjørende betydning for sikkerheten i nord under besøk i Reykjavík.",
+        "summary": "USAs utenriksminister Marco Rubio besøkte tirsdag Reykjavík der han hadde møter med Islands statsminister Kristrún Frostadóttir og utenriksminister Katrín Gunnarsdóttir. På en felles pressekonferanse uttalte Rubio at Island er helt sentralt for sikkerheten i nordområdene. Ifølge rapporter fra Reuters fremhevet han øyas strategiske plassering i Nord-Atlanteren og Arktis som avgjørende for å overvåke skjult og ulovlig aktivitet i en tid med økende geopolitisk trusselbilde. Amerikanske myndigheter ønsker dermed et enda tettere militært og sikkerhetsmessig samarbeid med landet, og beskriver øya som en kritisk utpost. Møtet og de diplomatiske samtalene fant sted i en spesiell kontekst, ettersom USAs president Donald Trump nylig publiserte et kart på sosiale medier der Island fremsto som en del av USA, noe som vakte kraftige og skarpe reaksjoner på Island. Analytikere vurderer besøket som et forsøk på å dempe uro og styrke det bilaterale forsvarssamarbeidet i nordområdene. Det er bekreftet fra offisielt hold at samarbeidet skal opprettholdes sterkt, men de politiske reaksjonene på kartutspillet viser at det ligger følsomhet i forholdet mellom de to nasjonene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/usas-utenriksminister_-_-island-er-helt-sentralt-for-sikkerheten-i-nord-1.18046809",
+            "title": "USAs utenriksminister: – Island er helt sentralt for sikkerheten i nord",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:43:16+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/p1WK0V/rubio-paa-island-oensker-tettere-militaert-samarbeid?utm_medium=rss",
+            "title": "Rubio på Island: Ønsker tettere militært samarbeid",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:50:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "999c12a3b77afe4c",
+        "continued_from": null,
+        "headline": "Elon Musk blir dollarbillionær etter opptur for SpaceX",
+        "ingress": "Aksjekursen for SpaceX skyter i været etter vellykkede oppskytninger, noe som løfter Elon Musks formue.",
+        "summary": "Rakattselskapet SpaceX har opplevd en sterk opptur på børsen og aksjene skyter opp til det høyeste nivået siden juni. Dette kommer i kjølvannet av forrige ukes vellykkede oppskytninger og operasjonelle milepæler for selskapet. Den økonomiske oppgangen har medført at Elon Musk igjen passerer store økonomiske milepæler og kan regnes som dollarbillionær. Finansanalytikere peker på at markedsverdien til den private romfartsgiganten er den primære driveren bak veksten i Musks samlede formue. Det er bred enighet blant finansmedier om at selskapets teknologiske fremgang gir direkte utslag i økte verdier for eierne. Det vurderes av eksperter som et tegn på sterk investoroptimisme knyttet til kommersiell romfart og satellittkommunikasjon. Samtidig er det en analyse at verdsettelsen av private selskaper som SpaceX kan svinge raskt basert på fremtidige oppskytningsresultater og regulatoriske godkjenninger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/9kOQJd/musk-blir-igjen-dollarbillionaer-etter-opptur-for-spacex?utm_medium=rss",
+            "title": "Musk blir igjen dollarbillionær etter opptur for SpaceX",
+            "is_secondary": false,
+            "published_at": "2026-10-05T20:59:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1a869d29a0badfb5",
+        "continued_from": null,
+        "headline": "Francis Halzen tildeles Nobelprisen i fysikk",
+        "ingress": "Den belgiske professoren Francis Halzen får årets nobelpris i fysikk for sitt arbeid med partikkelfysikk.",
+        "summary": "Nobelprisen i fysikk for inneværende år tildeles den belgiske forskeren og professoren Francis Halzen (82), som er tilknyttet Wisconsin-Madison universitet. Det svenske Vetenskapsakademien i Stockholm bekjentgjorde at prisen tildeles for hans avgjørende bidrag til IceCube-observatoriet og oppdagelsen av høyenergiske nøytrinoer av astrofysisk opprinnelse. Prissummen er på tolv millioner svenske kroner, noe som representerer en økning på om lag én million fra fjorårets tildeling. Svenska Dagbladet omtaler forskningen som spranget ut fra en opprinnelig spesiell og dristig idé om å bruke en gigantisk isbit på Sydpolen til å fange opp kosmiske signaler og spøkelsesaktige budbærere fra dypet av rommet. Nyheten har blitt bredt dekket av nordiske medier som NRK, Aftenposten og Nettavisen. Det er en allmenn faglig vurdering at oppdagelsen har revolusjonert vår forståelse av astrofysikk og universets mest energirike fenomener. Det fremheves at Halzens langsiktige visjon og arbeid med det enorme detektoranlegget på Antarktis har båret frukter gjennom denne prestisjetunge anerkjennelsen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/francis-halzen-far-nobelprisen-i-fysikk-1.18046773",
+            "title": "Francis Halzen får Nobelprisen i fysikk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:48:22+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/Krzzd4/belgisk-partikkelfysiker-tildeles-nobelprisen-i-fysikk?utm_medium=rss",
+            "title": "Belgisk partikkelfysiker tildeles Nobelprisen i fysikk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:50:32+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/francis-halzen-tildeles-nobelprisen-i-fysikk/s/80-95-135384",
+            "title": "Francis Halzen tildeles Nobelprisen i fysikk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:51:21+00:00"
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/8GQQgG/francis-halzen-far-nobelpriset-i-fysik?utm_medium=rss",
+            "title": "Francis Halzen får fysikpriset – för ”tokig idé”",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:49:49+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f6f9077e4fc7f63e",
+        "continued_from": null,
+        "headline": "Heidi Weng: Tror ikke vi opplever samlet landslag igjen",
+        "ingress": "Heidi Weng (35) tror et samlet langrennslandslag er historie etter full svikt i landslagsopplegget.",
+        "summary": "Heidi Weng uttrykker i et intervju med VG sterk skepsis til fremtiden for det norske langrennslandslaget slik det har vært organisert tidligere. Med en alder på 35 år påpeker hun at strukturene har sviktet, og hun anslår at det er lite sannsynlig at langrennsutøverne noensinne igjen vil oppleve å samles under en felles paraply på samme måte som før. Som et tegn på denne utviklingen trekkes det frem at det kun er to landslagsløpere som velger å delta på den kommende høydesamlingen. Dette er en situasjon som belyser økende splittelse eller endrede treningsvaner blant utøverne på elitenivå. Kilden til denne informasjonen er VG, som har intervjuet Weng om hennes syn på saken. Det er foreløpig ikke slått fast fra offisielt hold hva de langsiktige konsekvensene av denne trenden vil bli for det fremtidige landslagsopplegget, men Wengs uttalelser fremstår som en klar vurdering av at en epoke er over for norsk langrenn.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/JroMe6/heidi-weng-etter-full-svikt-i-samlingsopplegget-til-landslaget-tror-aldri-vi-faar-oppleve-det-igjen",
+            "title": "Weng etter full svikt i landslagsopplegget: – Tror aldri vi får oppleve det igjen",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:27:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1cbe7947cb294802",
+        "continued_from": null,
+        "headline": "To skip truffet i droneangrep i Svartehavet",
+        "ingress": "To skip ble tirsdag rammet av droner i den bulgarske sonen av Svartehavet.",
+        "summary": "Tirsdag ble to skip rapportert å ha blitt truffet av droner i den delen av Svartehavet som faller innenfor Bulgarias territorialfarvann eller økonomiske sone. Hendelsen representerer en alvorlig eskalering eller hendelse knyttet til sikkerhetssituasjonen i regionen, som har vært preget av spenninger og krigshandlinger i kjølvannet av konflikten i Ukraina. Ifølge opplysningene fra Aftenposten dreier det seg om to fartøyer som ble rammet direkte av ubemannete luftfartøyer. Det foreligger på nåværende tidspunkt begrensede detaljer om omfanget av skadene på skipene, eller om det er meldt om omkomne eller skadde blant mannskapet ombord på de aktuelle fartøyene. Bulgasske myndigheter eller andre relevante aktører forventes å følge opp hendelsen for å avklare hvem som står bak angrepet og hvilke sikkerhetsmessige tiltak som vil bli iverksatt i den bulgarske svartehavssonen framover. Saken belyser hvordan sikkerhetsrisikoen i Svartehavet fortsetter å berøre sivil sikte og skipsfart i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/Wgjjr2/skip-senket-i-droneangrep-utenfor-bulgarias-svartehavskyst?utm_medium=rss",
+            "title": "Skip senket i droneangrep utenfor Bulgarias svartehavskyst",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:49:56+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5d21eacf4aa0b5c0",
+        "continued_from": null,
+        "headline": "Rød Ungdom trekker seg fra omstridt 7. oktober-demonstrasjon",
+        "ingress": "Rød Ungdom trekker seg fra den planlagte 7. oktober-demonstrasjonen etter uenigheter om organisasjoner og flaggbruk.",
+        "summary": "Rød Ungdom (RU) har offentliggjort via et innlegg på Facebook at de ikke lenger vil delta i den planlagte demonstrasjonen med tittelen «Støtt den palestinske motstandskampen», som etter planen skulle avholdes den 7. oktober. Bakgrunnen for beslutningen er at partiet Fred og rettferdighet (FOR), som er blant arrangørene bak markeringen, skal ha avvist RUs krav om å ekskludere støtte til organisasjoner som Hamas, samt forby flagg til støtte for det iranske regimet. Den planlagte demonstrasjonen har i forkant møtt sterk kritikk fra flere hold, primært fordi den er satt til nøyaktig samme dato som markeringen av ettårsdagen for terrorangrepet som fant sted i det sørlige Israel den 7. oktober 2023. Medienes dekning av saken, basert på rapporter fra både NRK og Nettavisen, bekrefter at Rød Ungdom nå velger å ta avstand fra arrangementet som en direkte konsekvens av disse prinsipielle uenighetene medarrangørene imellom. Det er en bekreftet nyhet at organisasjonen har trukket sin deltakelse, mens debatten rundt datoen og markeringens form fortsetter å vekke reaksjoner i den offentlige debatten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/ru-trekker-seg-fra-7.-oktober-demonstrasjon-1.18046864",
+            "title": "RU trekker seg fra 7. oktober-demonstrasjon",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:47:14+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/ru-trekker-seg-fra-7-oktober-demonstrasjon/s/80-95-135729",
+            "title": "Rød ungdom trekker seg fra 7. oktober-demonstrasjon",
+            "is_secondary": false,
+            "published_at": "2026-10-06T12:00:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8584089eeef963aa",
+        "continued_from": null,
+        "headline": "Støre varsler økt Norgespris på strøm til neste år",
+        "ingress": "Regjeringen øker Norgespris på strøm, men ordningen vurderes fortsatt som gunstig av eksperter.",
+        "summary": "Statsminister Jonas Gahr Støre (Ap) har varslet at den særnorske strømordningen, kjent som Norgespris, vil bli skrudd opp neste år. Det foreligger imidlertid noe varierende oppgitte tall på nøyaktig pris i kildene, hvor TV2 melder om en økning på fem øre til 45 øre per kilowattime før moms, mens Dagens Næringsliv oppgir at prisen økes til 56 øre per kilowattime, samt at det settes av totalt 16,4 milliarder kroner til samlet strømstøtte. Videre viser beregninger gjengitt i VG at en slik prisjustering vil kunne bety en økning i den årlige strømregningen på om lag tusen kroner for dem som bor i boligtyper som rekkehus eller tomannsbolig. Eksperter og analytikere som er sitert i sakene fra E24 og Aftenposten vurderer det slik at ordningen til tross for prisøkningen vil forbli gunstig for forbrukerne, selv om en analytiker også påpeker at ordningen totalt sett vil bli dyrere fremover. Statsministeren selv karakteriserer ikke justeringen som dramatisk. Artiklene gir samlet et bilde av en politisk avveining der støtten videreføres, men til en noe høyere kostnad for husholdningene basert på regjeringens beslutning for det kommende budsjettåret.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/regjeringen-setter-opp-norgespris-neste-ar/2-1-2054021",
+            "title": "Regjeringen setter opp norgespris neste år",
+            "is_secondary": false,
+            "published_at": "2026-10-06T05:08:04+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/w38M85/boer-velge-norgespris-ogsaa-neste-aar?utm_medium=rss",
+            "title": "– Bør velge Norgespris også neste år",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:25:55+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/9kKly9/sjekk-hvor-mye-dyrere-norgespris-blir-for-deg",
+            "title": "Sjekk hvor mye dyrere Norgespris blir for deg",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:04:32+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/w38M85?utm_medium=rss",
+            "title": "– Bør velge Norgespris også neste år",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:25:57+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19294453",
+            "title": "Norgespris blir dyrere: – Ikke dramatisk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T07:10:55+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8696c8d80413be73",
+        "continued_from": null,
+        "headline": "Finlands president Alexander Stubb besøker Norge torsdag",
+        "ingress": "Finlands president Alexander Stubb skal torsdag 8. oktober møte statsminister Jonas Gahr Støre i Oslo.",
+        "summary": "Statsministerens kontor har gjennom en pressemelding bekreftet at Finlands president Alexander Stubb kommer til Norge for å avlegge et offisielt besøk. Møtet med Norges statsminister Jonas Gahr Støre (Ap) er berammet til torsdag den 8. oktober. Ifølge den offisielle informasjonen fra myndighetene vil samtalene mellom de to regjeringssjefene kretse rundt flere sentrale dagsordenpunkter for nordisk og europeisk samarbeid. Hovedtemaene for besøket er oppfølgingen av det felles oppdraget knyttet til kunstig intelligens (KI), den pågående situasjonen i Ukraina, samt bredere spørsmål knyttet til europeisk sikkerhet i en urolig tid. Besøket understreker det tette bilaterale forholdet mellom Norge og Finland, spesielt i lys av det endrede sikkerhetspolitiske landskapet i nordområdene og Europa for øvrig etter Finlands anmodning om og inntreden i NATO. Møtet fremstår som en rutinemessig, men politisk viktig arena for å styrke den strategiske dialogen mellom de to nordiske nabolandene på tvers av felles utfordringer innen forsvar, teknologi og utenrikspolitikk.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/finlands-president-til-norge-1.18046762",
+            "title": "Finlands president til Norge",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:37:29+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c4863d04040a8c37",
+        "continued_from": null,
+        "headline": "Dagens Næringsliv: Kunstig intelligens gjør vondt for noen",
+        "ingress": "DN-kommentar argumenterer for at kunstig intelligens nå begynner å få negative konsekvenser for utvalgte aktører.",
+        "summary": "Denne teksten, som er publisert som en kommentarartikkel eller analysepreget ytring i Dagens Næringsliv, tar for seg hvordan fremveksten og implementeringen av kunstig intelligens (KI) nå begynner å få mer merkbare og negative utslag for enkelte grupper eller bransjer i samfunnet. Innholdet bærer preg av å være en redaksjonell vurdering og en meningsytring snarere enn en nøytral nyhetsrapport. Forfatteren eller avisen benytter en spissformulert og metaforisk tone for å illustrere at teknologisk utvikling sjelden skjer uten at det rammer noen, stikk i strid med den ukritiske optimismen som ofte preger debatten. Siden dette er en kommentar, er det uttrykk for avisens eller skribentens subjektive analyse av situasjonen, der det advares om at omstillingssmertene knyttet til KI-revolusjonen nå for alvor gjør seg gjelde for visse aktører i arbeidslivet eller markedet. Artikkelen tilfører debatten et perspektiv på skyggesidene ved den raske teknologiske utviklingen, men representerer ikke en objektiv oppstilling av bekreftede hendelser, slik det kreves i ordinær nyhetsformidling.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/borskommentar/na-begynner-ki-a-gjore-skikkelig-vondt-for-noen/2-1-2054144",
+            "title": "Nå begynner KI å gjøre skikkelig vondt – for noen",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:11:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "00434da0d9bb0320",
+        "continued_from": null,
+        "headline": "Tidligere tysk etterretningssjef pågrepet for spionasje",
+        "ingress": "August Hanning, tidligere sjef for tysk etterretning, er pågrepet og siktet for forræderi og spionasje.",
+        "summary": "Tidligere sjef for den tyske etterretningstjenesten BND, August Hanning (80), har blitt pågrepet og siktet for spionasje og forsøk på forræderi. Dette er bekreftet gjennom en pressemelding fra den tyske riksadvokaten, etter at saken først ble meldt av medier som Bild. Hanning ledet tjenesten fra 1998 til 2005. Ifølge internasjonale medier som Financial Times, BBC og New York Times, er han mistenkt for å ha skaffet til veie og solgt gradert informasjon og statshemmeligheter til fremmede makter. Saken har vakt oppstuss i den tyske politiske offentligheten, og kilder knytter den til en kidnappingsetterforskning knyttet til en biffhus-arving. Det foreligger så langt offisielle siktelser og pågripelser fra tysk påtalemyndighet, mens selve skyldspørsmålet og detaljene rundt informasjonsdelingen er gjenstand for videre etterforskning. Analytikere og medier vurderer saken som et alvorlig sikkerhetsbrudd for Tyskland gitt Hannings tidligere høytstående posisjon i det tyske sikkerhetsapparatet. Det understrekes i mediene at siktelsen innebærer alvorlige anklager om illojalitet mot staten, og pågripelsen har rystet det politiske miljøet i landet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/tidligere-tysk-etterretningssjef-pagrepet-for-spionasje-1.18046674",
+            "title": "Tidligere tysk etterretningssjef pågrepet for spionasje",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:45:27+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d7n57B/tidligere-tysk-etterretningssjef-paagrepet-for-spionasje?utm_medium=rss",
+            "title": "Tidligere tysk etterretningssjef pågrepet for spionasje",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:45:25+00:00"
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1",
+            "title": "Former German spy chief arrested for treason",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:34:25+00:00"
+          },
+          {
+            "source_name": "BBC",
+            "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+            "title": "Former German spy chief arrested for espionage and treason",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:05:42+00:00"
+          },
+          {
+            "source_name": "New York Times",
+            "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+            "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:28:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "70e8688caf3641f8",
+        "continued_from": null,
+        "headline": "Barn vitne til dobbeltdrap i Halden",
+        "ingress": "Et barn i barneskolealder var vitne til det tragiske dobbeltdrapet i Halden, ifølge nye opplysninger.",
+        "summary": "En alvorlig drapssak i Halden har rystet lokalsamfunnet etter at Per-Ove (47) og faren Rune Engebretsen (72) ble drept under jakt. En mann i 20-årene, identifisert som Martin Braadland (29) i media, er siktet for dobbeltdrapet samt drapsforsøk på en eller flere andre personer i jaktlaget. I tillegg til de omkomne ble en mann i 40-årene skutt og hardt skadet. Nye opplysninger som er brakt på nett av blant andre NRK og TV 2, viser at en av de totalt 14 fornærmede i saken er et barn i barneskolealder som var med en forelder på jakt og var vitne til hendelsen. Det fremstår ifølge opplysningene som tilfeldig hvem som ble rammet og at overleveren ble skutt. Den siktede mannen ble mandag fremstilt for varetektsfengsling og ble fengslet i fire uker med brev- og besøkskontroll. Det understrekes fra mediene at opplysningene om hendelsesforløpet og vitnene bygger på deres kilder i saken, mens etterforskningen pågår for fullt for å avklare motiv og nøyaktig tidslinje rundt skytingen i terrenget.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/opplysninger-til-nrk_-barn-var-vitne-til-dobbeltdrap-i-halden-1.18046677",
+            "title": "Opplysninger til NRK: Barn var vitne til dobbeltdrap i Halden",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:29:50+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19295219",
+            "title": "Opplysninger til TV 2: Tredje skuddoffer framstår tilfeldig",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:44:44+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/barn-var-vitne-til-dobbeltdrapet-i-halden/s/80-95-135393",
+            "title": "Barn var vitne til dobbeltdrapet i Halden",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:16:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "017486053bea5baf",
+        "continued_from": null,
+        "headline": "DNB kutter 400 årsverk og satser på kunstig intelligens",
+        "ingress": "Storbanken DNB kutter rundt 400 årsverk som følge av økt effektivitet og bruk av kunstig intelligens.",
+        "summary": "DNB kutter om lag 400 årsverk i en større omorganisering av virksomheten. Toppsjef Kjerstin Braathen uttaler til Dagens Næringsliv at banken ser betydelige gevinster ved bruk av kunstig intelligens, og at organisasjonen derfor tilpasses en ny virkelighet. Kuttene har vakt reaksjoner, og Finansforbundet har kommet med sterke advarsler og kritikk mot bankens aggressive AI-satsing og kuttpolitikk. Ifølge E24 vil ikke storbanken svare direkte på om selve banktjenestene eller driften vil bli billigere for kundene som følge av at ansatte fjernes og erstattes med teknologiske løsninger. Nyheten belyser en bredere debatt om hvordan ny teknologi endrer tradisjonelle arbeidsplasser i finanssektoren. Analytikere og fagforeninger vurderer utviklingen som en risikofaktor for ansattes jobbsikkerhet, og Finansforbundet advarer om at bankene må trå varsomt når de kutter bemanningen på bekostning av menneskelige ressurser. Det er en bekreftet kjensgjerning at 400 årsverk forsvinner, men effekten på lang sikt og kvaliteten på kundetjenestene gjenstår å se ifølge partene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/dnb-vil-kutte-400-arsverk/2-1-2054096",
+            "title": "DNB vil kutte 400 årsverk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T07:00:52+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/kv325L/kritisk-til-dnbs-ai-kutt-vi-maa-passe-oss?utm_medium=rss",
+            "title": "Kritisk til DNBs AI-kutt: – Vi må passe oss",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:13:19+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/b8zly3/dnb-varsler-nedbemanning-kutter-400-aarsverk?utm_medium=rss",
+            "title": "DNB kutter ansatte – satser på AI",
+            "is_secondary": false,
+            "published_at": "2026-10-06T07:01:39+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "11eeac8163d344a8",
+        "continued_from": null,
+        "headline": "USAs utenriksminister Rubio fremhever Islands sikkerhetsrolle",
+        "ingress": "USAs utenriksminister Marco Rubio understreker Islands avgjørende betydning for sikkerheten i nord under besøk i Reykjavík.",
+        "summary": "USAs utenriksminister Marco Rubio besøkte tirsdag Reykjavík der han hadde møter med Islands statsminister Kristrún Frostadóttir og utenriksminister Katrín Gunnarsdóttir. På en felles pressekonferanse uttalte Rubio at Island er helt sentralt for sikkerheten i nordområdene. Ifølge rapporter fra Reuters fremhevet han øyas strategiske plassering i Nord-Atlanteren og Arktis som avgjørende for å overvåke skjult og ulovlig aktivitet i en tid med økende geopolitisk trusselbilde. Amerikanske myndigheter ønsker dermed et enda tettere militært og sikkerhetsmessig samarbeid med landet, og beskriver øya som en kritisk utpost. Møtet og de diplomatiske samtalene fant sted i en spesiell kontekst, ettersom USAs president Donald Trump nylig publiserte et kart på sosiale medier der Island fremsto som en del av USA, noe som vakte kraftige og skarpe reaksjoner på Island. Analytikere vurderer besøket som et forsøk på å dempe uro og styrke det bilaterale forsvarssamarbeidet i nordområdene. Det er bekreftet fra offisielt hold at samarbeidet skal opprettholdes sterkt, men de politiske reaksjonene på kartutspillet viser at det ligger følsomhet i forholdet mellom de to nasjonene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/usas-utenriksminister_-_-island-er-helt-sentralt-for-sikkerheten-i-nord-1.18046809",
+            "title": "USAs utenriksminister: – Island er helt sentralt for sikkerheten i nord",
+            "is_secondary": false,
+            "published_at": "2026-10-06T10:43:16+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/p1WK0V/rubio-paa-island-oensker-tettere-militaert-samarbeid?utm_medium=rss",
+            "title": "Rubio på Island: Ønsker tettere militært samarbeid",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:50:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "999c12a3b77afe4c",
+        "continued_from": null,
+        "headline": "Elon Musk blir dollarbillionær etter opptur for SpaceX",
+        "ingress": "Aksjekursen for SpaceX skyter i været etter vellykkede oppskytninger, noe som løfter Elon Musks formue.",
+        "summary": "Rakattselskapet SpaceX har opplevd en sterk opptur på børsen og aksjene skyter opp til det høyeste nivået siden juni. Dette kommer i kjølvannet av forrige ukes vellykkede oppskytninger og operasjonelle milepæler for selskapet. Den økonomiske oppgangen har medført at Elon Musk igjen passerer store økonomiske milepæler og kan regnes som dollarbillionær. Finansanalytikere peker på at markedsverdien til den private romfartsgiganten er den primære driveren bak veksten i Musks samlede formue. Det er bred enighet blant finansmedier om at selskapets teknologiske fremgang gir direkte utslag i økte verdier for eierne. Det vurderes av eksperter som et tegn på sterk investoroptimisme knyttet til kommersiell romfart og satellittkommunikasjon. Samtidig er det en analyse at verdsettelsen av private selskaper som SpaceX kan svinge raskt basert på fremtidige oppskytningsresultater og regulatoriske godkjenninger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/9kOQJd/musk-blir-igjen-dollarbillionaer-etter-opptur-for-spacex?utm_medium=rss",
+            "title": "Musk blir igjen dollarbillionær etter opptur for SpaceX",
+            "is_secondary": false,
+            "published_at": "2026-10-05T20:59:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1a869d29a0badfb5",
+        "continued_from": null,
+        "headline": "Francis Halzen tildeles Nobelprisen i fysikk",
+        "ingress": "Den belgiske professoren Francis Halzen får årets nobelpris i fysikk for sitt arbeid med partikkelfysikk.",
+        "summary": "Nobelprisen i fysikk for inneværende år tildeles den belgiske forskeren og professoren Francis Halzen (82), som er tilknyttet Wisconsin-Madison universitet. Det svenske Vetenskapsakademien i Stockholm bekjentgjorde at prisen tildeles for hans avgjørende bidrag til IceCube-observatoriet og oppdagelsen av høyenergiske nøytrinoer av astrofysisk opprinnelse. Prissummen er på tolv millioner svenske kroner, noe som representerer en økning på om lag én million fra fjorårets tildeling. Svenska Dagbladet omtaler forskningen som spranget ut fra en opprinnelig spesiell og dristig idé om å bruke en gigantisk isbit på Sydpolen til å fange opp kosmiske signaler og spøkelsesaktige budbærere fra dypet av rommet. Nyheten har blitt bredt dekket av nordiske medier som NRK, Aftenposten og Nettavisen. Det er en allmenn faglig vurdering at oppdagelsen har revolusjonert vår forståelse av astrofysikk og universets mest energirike fenomener. Det fremheves at Halzens langsiktige visjon og arbeid med det enorme detektoranlegget på Antarktis har båret frukter gjennom denne prestisjetunge anerkjennelsen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/francis-halzen-far-nobelprisen-i-fysikk-1.18046773",
+            "title": "Francis Halzen får Nobelprisen i fysikk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:48:22+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/Krzzd4/belgisk-partikkelfysiker-tildeles-nobelprisen-i-fysikk?utm_medium=rss",
+            "title": "Belgisk partikkelfysiker tildeles Nobelprisen i fysikk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:50:32+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/francis-halzen-tildeles-nobelprisen-i-fysikk/s/80-95-135384",
+            "title": "Francis Halzen tildeles Nobelprisen i fysikk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:51:21+00:00"
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/8GQQgG/francis-halzen-far-nobelpriset-i-fysik?utm_medium=rss",
+            "title": "Francis Halzen får fysikpriset – för ”tokig idé”",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:49:49+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f6f9077e4fc7f63e",
+        "continued_from": null,
+        "headline": "Heidi Weng: Tror ikke vi opplever samlet landslag igjen",
+        "ingress": "Heidi Weng (35) tror et samlet langrennslandslag er historie etter full svikt i landslagsopplegget.",
+        "summary": "Heidi Weng uttrykker i et intervju med VG sterk skepsis til fremtiden for det norske langrennslandslaget slik det har vært organisert tidligere. Med en alder på 35 år påpeker hun at strukturene har sviktet, og hun anslår at det er lite sannsynlig at langrennsutøverne noensinne igjen vil oppleve å samles under en felles paraply på samme måte som før. Som et tegn på denne utviklingen trekkes det frem at det kun er to landslagsløpere som velger å delta på den kommende høydesamlingen. Dette er en situasjon som belyser økende splittelse eller endrede treningsvaner blant utøverne på elitenivå. Kilden til denne informasjonen er VG, som har intervjuet Weng om hennes syn på saken. Det er foreløpig ikke slått fast fra offisielt hold hva de langsiktige konsekvensene av denne trenden vil bli for det fremtidige landslagsopplegget, men Wengs uttalelser fremstår som en klar vurdering av at en epoke er over for norsk langrenn.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/JroMe6/heidi-weng-etter-full-svikt-i-samlingsopplegget-til-landslaget-tror-aldri-vi-faar-oppleve-det-igjen",
+            "title": "Weng etter full svikt i landslagsopplegget: – Tror aldri vi får oppleve det igjen",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:27:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1cbe7947cb294802",
+        "continued_from": null,
+        "headline": "To skip truffet i droneangrep i Svartehavet",
+        "ingress": "To skip ble tirsdag rammet av droner i den bulgarske sonen av Svartehavet.",
+        "summary": "Tirsdag ble to skip rapportert å ha blitt truffet av droner i den delen av Svartehavet som faller innenfor Bulgarias territorialfarvann eller økonomiske sone. Hendelsen representerer en alvorlig eskalering eller hendelse knyttet til sikkerhetssituasjonen i regionen, som har vært preget av spenninger og krigshandlinger i kjølvannet av konflikten i Ukraina. Ifølge opplysningene fra Aftenposten dreier det seg om to fartøyer som ble rammet direkte av ubemannete luftfartøyer. Det foreligger på nåværende tidspunkt begrensede detaljer om omfanget av skadene på skipene, eller om det er meldt om omkomne eller skadde blant mannskapet ombord på de aktuelle fartøyene. Bulgasske myndigheter eller andre relevante aktører forventes å følge opp hendelsen for å avklare hvem som står bak angrepet og hvilke sikkerhetsmessige tiltak som vil bli iverksatt i den bulgarske svartehavssonen framover. Saken belyser hvordan sikkerhetsrisikoen i Svartehavet fortsetter å berøre sivil sikte og skipsfart i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/Wgjjr2/skip-senket-i-droneangrep-utenfor-bulgarias-svartehavskyst?utm_medium=rss",
+            "title": "Skip senket i droneangrep utenfor Bulgarias svartehavskyst",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:49:56+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5d21eacf4aa0b5c0",
+        "continued_from": null,
+        "headline": "Rød Ungdom trekker seg fra omstridt 7. oktober-demonstrasjon",
+        "ingress": "Rød Ungdom trekker seg fra den planlagte 7. oktober-demonstrasjonen etter uenigheter om organisasjoner og flaggbruk.",
+        "summary": "Rød Ungdom (RU) har offentliggjort via et innlegg på Facebook at de ikke lenger vil delta i den planlagte demonstrasjonen med tittelen «Støtt den palestinske motstandskampen», som etter planen skulle avholdes den 7. oktober. Bakgrunnen for beslutningen er at partiet Fred og rettferdighet (FOR), som er blant arrangørene bak markeringen, skal ha avvist RUs krav om å ekskludere støtte til organisasjoner som Hamas, samt forby flagg til støtte for det iranske regimet. Den planlagte demonstrasjonen har i forkant møtt sterk kritikk fra flere hold, primært fordi den er satt til nøyaktig samme dato som markeringen av ettårsdagen for terrorangrepet som fant sted i det sørlige Israel den 7. oktober 2023. Medienes dekning av saken, basert på rapporter fra både NRK og Nettavisen, bekrefter at Rød Ungdom nå velger å ta avstand fra arrangementet som en direkte konsekvens av disse prinsipielle uenighetene medarrangørene imellom. Det er en bekreftet nyhet at organisasjonen har trukket sin deltakelse, mens debatten rundt datoen og markeringens form fortsetter å vekke reaksjoner i den offentlige debatten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/ru-trekker-seg-fra-7.-oktober-demonstrasjon-1.18046864",
+            "title": "RU trekker seg fra 7. oktober-demonstrasjon",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:47:14+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/ru-trekker-seg-fra-7-oktober-demonstrasjon/s/80-95-135729",
+            "title": "Rød ungdom trekker seg fra 7. oktober-demonstrasjon",
+            "is_secondary": false,
+            "published_at": "2026-10-06T12:00:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8584089eeef963aa",
+        "continued_from": null,
+        "headline": "Støre varsler økt Norgespris på strøm til neste år",
+        "ingress": "Regjeringen øker Norgespris på strøm, men ordningen vurderes fortsatt som gunstig av eksperter.",
+        "summary": "Statsminister Jonas Gahr Støre (Ap) har varslet at den særnorske strømordningen, kjent som Norgespris, vil bli skrudd opp neste år. Det foreligger imidlertid noe varierende oppgitte tall på nøyaktig pris i kildene, hvor TV2 melder om en økning på fem øre til 45 øre per kilowattime før moms, mens Dagens Næringsliv oppgir at prisen økes til 56 øre per kilowattime, samt at det settes av totalt 16,4 milliarder kroner til samlet strømstøtte. Videre viser beregninger gjengitt i VG at en slik prisjustering vil kunne bety en økning i den årlige strømregningen på om lag tusen kroner for dem som bor i boligtyper som rekkehus eller tomannsbolig. Eksperter og analytikere som er sitert i sakene fra E24 og Aftenposten vurderer det slik at ordningen til tross for prisøkningen vil forbli gunstig for forbrukerne, selv om en analytiker også påpeker at ordningen totalt sett vil bli dyrere fremover. Statsministeren selv karakteriserer ikke justeringen som dramatisk. Artiklene gir samlet et bilde av en politisk avveining der støtten videreføres, men til en noe høyere kostnad for husholdningene basert på regjeringens beslutning for det kommende budsjettåret.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/regjeringen-setter-opp-norgespris-neste-ar/2-1-2054021",
+            "title": "Regjeringen setter opp norgespris neste år",
+            "is_secondary": false,
+            "published_at": "2026-10-06T05:08:04+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/energi-og-klima/i/w38M85/boer-velge-norgespris-ogsaa-neste-aar?utm_medium=rss",
+            "title": "– Bør velge Norgespris også neste år",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:25:55+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/9kKly9/sjekk-hvor-mye-dyrere-norgespris-blir-for-deg",
+            "title": "Sjekk hvor mye dyrere Norgespris blir for deg",
+            "is_secondary": false,
+            "published_at": "2026-10-06T11:04:32+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/e24/i/w38M85?utm_medium=rss",
+            "title": "– Bør velge Norgespris også neste år",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:25:57+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19294453",
+            "title": "Norgespris blir dyrere: – Ikke dramatisk",
+            "is_secondary": false,
+            "published_at": "2026-10-06T07:10:55+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8696c8d80413be73",
+        "continued_from": null,
+        "headline": "Finlands president Alexander Stubb besøker Norge torsdag",
+        "ingress": "Finlands president Alexander Stubb skal torsdag 8. oktober møte statsminister Jonas Gahr Støre i Oslo.",
+        "summary": "Statsministerens kontor har gjennom en pressemelding bekreftet at Finlands president Alexander Stubb kommer til Norge for å avlegge et offisielt besøk. Møtet med Norges statsminister Jonas Gahr Støre (Ap) er berammet til torsdag den 8. oktober. Ifølge den offisielle informasjonen fra myndighetene vil samtalene mellom de to regjeringssjefene kretse rundt flere sentrale dagsordenpunkter for nordisk og europeisk samarbeid. Hovedtemaene for besøket er oppfølgingen av det felles oppdraget knyttet til kunstig intelligens (KI), den pågående situasjonen i Ukraina, samt bredere spørsmål knyttet til europeisk sikkerhet i en urolig tid. Besøket understreker det tette bilaterale forholdet mellom Norge og Finland, spesielt i lys av det endrede sikkerhetspolitiske landskapet i nordområdene og Europa for øvrig etter Finlands anmodning om og inntreden i NATO. Møtet fremstår som en rutinemessig, men politisk viktig arena for å styrke den strategiske dialogen mellom de to nordiske nabolandene på tvers av felles utfordringer innen forsvar, teknologi og utenrikspolitikk.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/finlands-president-til-norge-1.18046762",
+            "title": "Finlands president til Norge",
+            "is_secondary": false,
+            "published_at": "2026-10-06T09:37:29+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c4863d04040a8c37",
+        "continued_from": null,
+        "headline": "Dagens Næringsliv: Kunstig intelligens gjør vondt for noen",
+        "ingress": "DN-kommentar argumenterer for at kunstig intelligens nå begynner å få negative konsekvenser for utvalgte aktører.",
+        "summary": "Denne teksten, som er publisert som en kommentarartikkel eller analysepreget ytring i Dagens Næringsliv, tar for seg hvordan fremveksten og implementeringen av kunstig intelligens (KI) nå begynner å få mer merkbare og negative utslag for enkelte grupper eller bransjer i samfunnet. Innholdet bærer preg av å være en redaksjonell vurdering og en meningsytring snarere enn en nøytral nyhetsrapport. Forfatteren eller avisen benytter en spissformulert og metaforisk tone for å illustrere at teknologisk utvikling sjelden skjer uten at det rammer noen, stikk i strid med den ukritiske optimismen som ofte preger debatten. Siden dette er en kommentar, er det uttrykk for avisens eller skribentens subjektive analyse av situasjonen, der det advares om at omstillingssmertene knyttet til KI-revolusjonen nå for alvor gjør seg gjelde for visse aktører i arbeidslivet eller markedet. Artikkelen tilfører debatten et perspektiv på skyggesidene ved den raske teknologiske utviklingen, men representerer ikke en objektiv oppstilling av bekreftede hendelser, slik det kreves i ordinær nyhetsformidling.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/borskommentar/na-begynner-ki-a-gjore-skikkelig-vondt-for-noen/2-1-2054144",
+            "title": "Nå begynner KI å gjøre skikkelig vondt – for noen",
+            "is_secondary": false,
+            "published_at": "2026-10-06T08:11:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      }
+    ],
+    "generated_at": "2026-10-06T14:12:05.182984+02:00",
+    "edition_date": "2026-10-06",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 26,
+        "missing_source_count": 14,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 208,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 12
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:23.096987+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:47:14+00:00",
+          "earliest_usable_published_at": "2026-10-06T08:20:48+00:00",
+          "latest_usable_published_at": "2026-10-06T11:47:14+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:23.581889+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T10:07:07+00:00",
+          "earliest_usable_published_at": "2026-10-05T18:33:51+00:00",
+          "latest_usable_published_at": "2026-10-06T10:07:07+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:24.487336+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:59:00+00:00",
+          "earliest_usable_published_at": "2026-10-05T16:06:39+00:00",
+          "latest_usable_published_at": "2026-10-06T11:59:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:24.897494+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:59:01+00:00",
+          "earliest_usable_published_at": "2026-10-06T10:51:00+00:00",
+          "latest_usable_published_at": "2026-10-06T11:59:01+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:25.462990+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:50:58+00:00",
+          "earliest_usable_published_at": "2026-10-06T08:33:35+00:00",
+          "latest_usable_published_at": "2026-10-06T11:50:58+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:25.945277+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T10:44:44+00:00",
+          "earliest_usable_published_at": "2026-10-05T19:48:31+00:00",
+          "latest_usable_published_at": "2026-10-06T10:44:44+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:26.818244+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:02:50+00:00",
+          "earliest_usable_published_at": "2026-10-06T09:51:21+00:00",
+          "latest_usable_published_at": "2026-10-06T12:02:50+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:27.631659+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:03:03+00:00",
+          "earliest_usable_published_at": "2026-10-06T11:14:21+00:00",
+          "latest_usable_published_at": "2026-10-06T12:03:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:28.179049+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:00:44+00:00",
+          "earliest_usable_published_at": "2026-10-06T09:49:49+00:00",
+          "latest_usable_published_at": "2026-10-06T12:00:44+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:28.771134+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:34:00+00:00",
+          "earliest_usable_published_at": "2026-10-06T08:00:56+00:00",
+          "latest_usable_published_at": "2026-10-06T11:34:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:29.826745+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:09:19+00:00",
+          "earliest_usable_published_at": "2026-10-06T11:43:28+00:00",
+          "latest_usable_published_at": "2026-10-06T12:09:19+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:30.446466+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:51:00+00:00",
+          "earliest_usable_published_at": "2026-10-06T08:59:00+00:00",
+          "latest_usable_published_at": "2026-10-06T11:51:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:30.931126+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:09:00+00:00",
+          "earliest_usable_published_at": "2026-10-06T11:17:00+00:00",
+          "latest_usable_published_at": "2026-10-06T12:09:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:31.562051+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:55:00+00:00",
+          "earliest_usable_published_at": "2026-10-06T11:40:33+00:00",
+          "latest_usable_published_at": "2026-10-06T11:55:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:31.786446+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:28:54+00:00",
+          "earliest_usable_published_at": "2026-10-05T14:29:00+00:00",
+          "latest_usable_published_at": "2026-10-06T11:28:54+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:32.113490+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:30:11+00:00",
+          "earliest_usable_published_at": "2026-10-06T04:00:17+00:00",
+          "latest_usable_published_at": "2026-10-06T11:30:11+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:33.067986+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:53:21+00:00",
+          "earliest_usable_published_at": "2026-10-05T22:28:02+00:00",
+          "latest_usable_published_at": "2026-10-06T11:53:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:33.242367+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:00:27+00:00",
+          "earliest_usable_published_at": "2026-10-06T04:00:14+00:00",
+          "latest_usable_published_at": "2026-10-06T12:00:27+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-06T12:10:33.456416+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:33.672317+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:08:03+00:00",
+          "earliest_usable_published_at": "2026-10-06T04:01:14+00:00",
+          "latest_usable_published_at": "2026-10-06T12:08:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-06T12:10:33.767943+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:33.907305+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:04:16+00:00",
+          "earliest_usable_published_at": "2026-10-06T11:35:05+00:00",
+          "latest_usable_published_at": "2026-10-06T12:04:16+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:34.477039+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:55:47+00:00",
+          "earliest_usable_published_at": "2026-10-06T10:55:46+00:00",
+          "latest_usable_published_at": "2026-10-06T11:55:47+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:34.565933+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T12:03:49+00:00",
+          "earliest_usable_published_at": "2026-10-05T23:13:44+00:00",
+          "latest_usable_published_at": "2026-10-06T12:03:49+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:35.031449+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-06T11:13:12+00:00",
+          "earliest_usable_published_at": "2026-10-06T10:15:00+00:00",
+          "latest_usable_published_at": "2026-10-06T11:13:12+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:35.214369+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 3,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-06T07:20:32+00:00",
+          "earliest_usable_published_at": "2026-10-05T13:11:24+00:00",
+          "latest_usable_published_at": "2026-10-06T07:20:32+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:36.143632+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-10-05T14:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-05T14:00:00+00:00",
+          "latest_usable_published_at": "2026-10-05T14:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-10-06T12:10:36.434747+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 2,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 2,
+          "latest_published_at": "2026-10-06T08:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-05T18:28:00+00:00",
+          "latest_usable_published_at": "2026-10-06T08:00:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-06T14:10:23.096941+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-06T12:10:23.096987+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-06T12:10:23.581889+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-06T12:10:24.487336+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-06T12:10:24.897494+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-06T12:10:25.462990+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-06T12:10:25.945277+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-06T12:10:26.818244+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-06T12:10:27.631659+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-06T12:10:28.179049+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-06T12:10:28.771134+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-06T12:10:29.826745+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-06T12:10:30.446466+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-06T12:10:30.931126+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-06T12:10:31.562051+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-06T12:10:31.786446+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-06T12:10:32.113490+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-06T12:10:33.067986+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-06T12:10:33.242367+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-06T12:10:33.456416+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-06T12:10:33.672317+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-06T12:10:33.767943+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-06T12:10:33.907305+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-06T12:10:34.477039+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-06T12:10:34.565933+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-06T12:10:35.031449+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-06T12:10:35.214369+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-06T12:10:36.143632+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-06T12:10:36.434747+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 26,
+          "missing_source_count": 14,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 208,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 12
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:23.096987+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:47:14+00:00",
+            "earliest_usable_published_at": "2026-10-06T08:20:48+00:00",
+            "latest_usable_published_at": "2026-10-06T11:47:14+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:23.581889+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T10:07:07+00:00",
+            "earliest_usable_published_at": "2026-10-05T18:33:51+00:00",
+            "latest_usable_published_at": "2026-10-06T10:07:07+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:24.487336+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:59:00+00:00",
+            "earliest_usable_published_at": "2026-10-05T16:06:39+00:00",
+            "latest_usable_published_at": "2026-10-06T11:59:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:24.897494+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:59:01+00:00",
+            "earliest_usable_published_at": "2026-10-06T10:51:00+00:00",
+            "latest_usable_published_at": "2026-10-06T11:59:01+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:25.462990+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:50:58+00:00",
+            "earliest_usable_published_at": "2026-10-06T08:33:35+00:00",
+            "latest_usable_published_at": "2026-10-06T11:50:58+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:25.945277+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T10:44:44+00:00",
+            "earliest_usable_published_at": "2026-10-05T19:48:31+00:00",
+            "latest_usable_published_at": "2026-10-06T10:44:44+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:26.818244+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:02:50+00:00",
+            "earliest_usable_published_at": "2026-10-06T09:51:21+00:00",
+            "latest_usable_published_at": "2026-10-06T12:02:50+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:27.631659+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:03:03+00:00",
+            "earliest_usable_published_at": "2026-10-06T11:14:21+00:00",
+            "latest_usable_published_at": "2026-10-06T12:03:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:28.179049+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:00:44+00:00",
+            "earliest_usable_published_at": "2026-10-06T09:49:49+00:00",
+            "latest_usable_published_at": "2026-10-06T12:00:44+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:28.771134+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:34:00+00:00",
+            "earliest_usable_published_at": "2026-10-06T08:00:56+00:00",
+            "latest_usable_published_at": "2026-10-06T11:34:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:29.826745+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:09:19+00:00",
+            "earliest_usable_published_at": "2026-10-06T11:43:28+00:00",
+            "latest_usable_published_at": "2026-10-06T12:09:19+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:30.446466+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:51:00+00:00",
+            "earliest_usable_published_at": "2026-10-06T08:59:00+00:00",
+            "latest_usable_published_at": "2026-10-06T11:51:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:30.931126+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:09:00+00:00",
+            "earliest_usable_published_at": "2026-10-06T11:17:00+00:00",
+            "latest_usable_published_at": "2026-10-06T12:09:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:31.562051+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:55:00+00:00",
+            "earliest_usable_published_at": "2026-10-06T11:40:33+00:00",
+            "latest_usable_published_at": "2026-10-06T11:55:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:31.786446+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:28:54+00:00",
+            "earliest_usable_published_at": "2026-10-05T14:29:00+00:00",
+            "latest_usable_published_at": "2026-10-06T11:28:54+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:32.113490+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:30:11+00:00",
+            "earliest_usable_published_at": "2026-10-06T04:00:17+00:00",
+            "latest_usable_published_at": "2026-10-06T11:30:11+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:33.067986+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:53:21+00:00",
+            "earliest_usable_published_at": "2026-10-05T22:28:02+00:00",
+            "latest_usable_published_at": "2026-10-06T11:53:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:33.242367+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:00:27+00:00",
+            "earliest_usable_published_at": "2026-10-06T04:00:14+00:00",
+            "latest_usable_published_at": "2026-10-06T12:00:27+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-06T12:10:33.456416+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:33.672317+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:08:03+00:00",
+            "earliest_usable_published_at": "2026-10-06T04:01:14+00:00",
+            "latest_usable_published_at": "2026-10-06T12:08:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-06T12:10:33.767943+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:33.907305+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:04:16+00:00",
+            "earliest_usable_published_at": "2026-10-06T11:35:05+00:00",
+            "latest_usable_published_at": "2026-10-06T12:04:16+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:34.477039+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:55:47+00:00",
+            "earliest_usable_published_at": "2026-10-06T10:55:46+00:00",
+            "latest_usable_published_at": "2026-10-06T11:55:47+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:34.565933+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T12:03:49+00:00",
+            "earliest_usable_published_at": "2026-10-05T23:13:44+00:00",
+            "latest_usable_published_at": "2026-10-06T12:03:49+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:35.031449+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-06T11:13:12+00:00",
+            "earliest_usable_published_at": "2026-10-06T10:15:00+00:00",
+            "latest_usable_published_at": "2026-10-06T11:13:12+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:35.214369+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 3,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-06T07:20:32+00:00",
+            "earliest_usable_published_at": "2026-10-05T13:11:24+00:00",
+            "latest_usable_published_at": "2026-10-06T07:20:32+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:36.143632+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-10-05T14:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-05T14:00:00+00:00",
+            "latest_usable_published_at": "2026-10-05T14:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-10-06T12:10:36.434747+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 2,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 2,
+            "latest_published_at": "2026-10-06T08:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-05T18:28:00+00:00",
+            "latest_usable_published_at": "2026-10-06T08:00:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 33,
+      "drop_reasons": []
+    }
+  }
+}
