@@ -1,0 +1,2179 @@
+{
+  "date": "2026-10-09",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "f64eb52cf6cd794f",
+        "continued_from": null,
+        "headline": "Tre drept i angrep mot Riyadh",
+        "ingress": "Tre personer er drept i to angrep mot flyplassen i Saudi-Arabias hovedstad Riyadh, ifølge landets myndigheter.",
+        "summary": "Saudiske myndigheter bekrefter at tre personer har blitt drept i to separate angrep mot flyplassen i Saudi-Arabias hovedstad Riyadh. Houthi-opprørerne i Jemen har tatt på seg ansvaret for handlingene, og opplyser at de blant annet rettet et ballistisk missil mot flyplassen under angrepene. Dette skjer i en tid med økt militær spenning mellom partene. Tidligere i uken ble en sudansk borger drept i et lignende angrep på den samme flyplassen. Angrepene fra houthiene har blitt trappet opp den siste tiden som en direkte respons på en større offensiv som Saudi-Arabia og deres allierte satte i gang mot militsen forrige helg. Det foreligger foreløpig ikke detaljerte analyser om de langsiktige strategiske konsekvensene av opptrappingen, men situasjonen viser at konflikten har spredt seg tydelig til sivil infrastruktur og flyplasser i regionen. Nyheten om dødsfallene og angrepene er basert på offisielle meldinger fra saudiarabiske myndigheter samt houthi-opprørernes egne uttalelser om aksjonene. Offisiell informasjon bekrefter at sikkerhetssituasjonen rundt hovedstaden er svært spent etter at offensiven i Jemen ble innledet, og partene ser ut til å fortsette gjengjeldelsene i ukene som kommer, noe som skaper dyp bekymring for den sivile sikkerheten i hele området.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/tre-drept-i-torsdagens-angrep-mot-riyadh_-ifolge-saudiske-myndigheter-1.18050309",
+            "title": "Tre drept i torsdagens angrep mot Riyadh, ifølge saudiske myndigheter",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:22:50+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/w33RL1/tre-drept-i-torsdagens-angrep-mot-riyadh-ifoelge-saudiske-myndigheter?utm_medium=rss",
+            "title": "Tre drept i torsdagens angrep mot Riyadh, ifølge saudiske myndigheter",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:22:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7ecbc461e3f45b1c",
+        "continued_from": null,
+        "headline": "Voldshendelse i Namsfogdens lokaler",
+        "ingress": "En person er skadet og en mann er pågrepet og siktet for drapsforsøk etter en voldshendelse i Namsfogdens lokaler i Oslo.",
+        "summary": "Nødetatene rykket fredag formiddag ut til Namsfogdens lokaler i Oslo sentrum etter meldinger om en alvorlig voldshendelse. En person ble skadet i hendelsen, men politiet har opplyst at skadene etter det de kjenner til ikke skal være livstruende. En mann er raskt pågrepet av politiet og har blitt siktet for drapsforsøk. Operasjonen ble iverksatt etter at en vaktsentral observere hendelsen direkte via videoovervåking, noe som gjorde at nødetatene fikk rask varsling. Politiet uttaler at det er et betydelig potensial for alvorlige skader basert på det de mener har skjedd på stedet. Videre etterforskning vil inkludere gjennomgang av videoopptak samt avhør av både involverte parter og eventuelle vitner som befant seg i nærheten. Politiet har samtidig gått ut med beroligende beskjeder om at det ikke skal være noen fare for andre personer i området etter at mannen ble pågrepet. Hendelsen har ført til stor utrykning i Oslo sentrum. Saken er fortsatt i en tidlig etterforskningsfase, og politiet understreker at de må gjennomføre de planlagte avhørene før de kan dele mer informasjon om hendelsesforløpet og bakgrunnen for volden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/siktet-for-drapsforsok-etter-voldshendelse-i-oslo-1.18050122",
+            "title": "Siktet for drapsforsøk etter voldshendelse i Oslo",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:29:57+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0BB9P0/voldshendelse-mot-kvinne-i-namsfogdens-lokaler-i-oslo?utm_medium=rss",
+            "title": "Voldshendelse mot kvinne i Namsfogdens lokaler i Oslo",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:30:37+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19306472",
+            "title": "Kvinne skadet i Namsfogdens lokaler – mann siktet for drapsforsøk",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:26:22+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "55a5d8f66b7ae185",
+        "continued_from": null,
+        "headline": "Krevende SAS-mekling kan gi flystreik",
+        "ingress": "Meglingen for kabinansatte i SAS Link har startet, og Fellesforbundet varsler at det kan bli en svært krevende prosess.",
+        "summary": "Meklingen for de kabinansatte i SAS Link er i gang, og Fellesforbundet har gått ut og varslet at prosessen kan bli svært krevende. Partene står overfor tøffe forhandlinger, og det er fare for at det kan bryte ut flystreik allerede neste uke dersom man ikke kommer til en enighet. Representanten Willy Bergsnov fra Fellesforbundet har kommet med sterke uttalelser i forbindelse med oppstarten, og har blant annet beskrevet situasjonen som sosial dumping knyttet til en avtale som etter hans syn allerede er sosialt dumpet. Dette vitner om et høyt konfliktnivå og dype uenigheter mellom arbeidsgiveren og arbeidstakerne rundt lønns- og arbeidsvilkår. Kommentatorer og fagforeningshold vurderer situasjonen som alvorlig, og faren for at konflikten eskalerer til en fullblods streik er reell. SAS Link og de ansatte må nå gjennom en intens meklingsperiode der Riksmekleren forsøker å finne en fellesnevner som kan avverge en arbeidskonflikt. Mangelen på en rask løsning kan ramme reisende hardt dersom kabinansatte legger ned arbeidet. Situasjonen følges tett av både næringsliv og media, som vurderer sannsynligheten for streik som betydelig gitt de harde frontene og de prinsipielle uenighetene som preger årets oppgjør for flybransjen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/Qggg0W/kan-bli-flystreik?utm_medium=rss",
+            "title": "Kan bli flystreik",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:02:31+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://e24.no/i/Qggg0W?utm_medium=rss",
+            "title": "Kan bli flystreik",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:02:33+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19306206",
+            "title": "SAS-meklingen har startet – kan bli streik neste uke",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:50:22+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a3ecd5c2d75c8ec9",
+        "continued_from": null,
+        "headline": "Røkke bygger jaktparadis i Sverige",
+        "ingress": "Kjell Inge Røkke har skapt en egen jaktlekegrind til rundt 250 millioner kroner i Sverige.",
+        "summary": "Finansmannen Kjell Inge Røkke har etablert et storforlangende jaktparadis i Sverige, viser nye dronebilder. Etableringen kommer i stand etter at hans opprinnelige planer på det historiske svenske slottet Ericsberg ble møtt med massiv motstand fra lokalmiljøet og interessenter. Som en reaksjon på motstanden har han i stedet skapt sin egen jaktlekegrind i trygg avstand fra det opprinnelige slottet. Det nye anlegget, som blant annet inneholder en jaktpaviljong og en såkalt skjutbiograf, har en prislapp på rundt 250 millioner kroner. Prosjektet har vakt stor oppmerksomhet i svenske og norske medier, spesielt på bakgrunn av den tidligere konflikten rundt Ericsberg-slottet og de omfattende økonomiske ressursene som er lagt ned i den nye eiendommen. Det foreligger ingen indikasjoner på at det nye anlegget møter samme type motstand som de opprinnelige planene, ettersom det er plassert i trygg avstand og ivaretar eierens ønsker på en annen måte. Byggingen markerer et nytt kapittel for Røkkes svenske eiendomssatsing, der fokuset har flyttet seg fra slottet til det private jaktparadiset. Mediene har dokumentert omfanget av anleggene gjennom eksklusive bilder, som viser hvordan millionene har blitt omsatt til moderne fasiliteter tilrettelagt for jakt og rekreasjon i svenske omgivelser.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/video/m/Qqn1Sq3m/se-dronebildene-av-rokkes-svenske-jaktparadis?play=1",
+            "title": "Se dronebildene av Røkkes svenske jaktparadis",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:20:54+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/the-resource-group-trg/kjell-inge-rokke/jaktpaviljong-og-skjutbiograf-her-er-rokkes-svenske-jaktparadis/2-1-1926767",
+            "title": "Jaktpaviljong og «skjutbiograf»: Her er Røkkes svenske jaktparadis",
+            "is_secondary": false,
+            "published_at": "2026-10-09T10:54:12+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d22b01e12570d865",
+        "continued_from": null,
+        "headline": "Mobiloperatører faller etter nyhet om Starlink",
+        "ingress": "Flere mobiloperatører faller på børsen etter at SpaceX kunngjorde planer om Starlink-satellitter.",
+        "summary": "Flere mobiloperatører opplever børsfall etter at det ble kjent at Elon Musks selskap SpaceX har planer om å bruke sine Starlink-satellitter direkte som mobiloperatører. Nyheten har skapt usikkerhet i markedet rundt tradisjonelle telekom-selskapers fremtidige posisjon og konkurransesituasjon. Analytikere vurderer trekket som en potensiell trussel mot etablerte telekomaktører, ettersom satellittbasert mobildekning kan utfordre tradisjonelle mobilnettverk på sikt. Selv om teknologien ennå ikke er fullt ut rullet ut for alle sluttbrukere på denne måten, reagerer finansmarkedene raskt på potensialet for disruptive endringer i bransjen. Fallet for mobiloperatørene illustrerer hvor sårbare tradisjonelle forretningsmodeller er for ny teknologi som lanseres av store aktører innen romfart og satellittkommunikasjon. Flere markedsaktører forsøker nå å analysere de nøyaktige konsekvensene av SpaceX sine planer, og om det vil kreve omfattende samarbeid eller skape hard konkurranse for de eksisterende telekomgigantene. Dette er en situasjon som overvåkes nøye av investorer og bransjeeksperter, da det kan endre dynamikken i den globale telekomsektoren fundamentalt i årene som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/Wggm7g/mobiloperatoer-fall-etter-musk-nyhet?utm_medium=rss",
+            "title": "Mobiloperatør-fall etter Musk-nyhet",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:44:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6a54776a89e4ea48",
+        "continued_from": null,
+        "headline": "Navi Pillay får fredsprisen – Israel reagerer kraftig",
+        "ingress": "Den sørafrikanske juristen Navi Pillay tildeles Nobels fredspris for 2026, noe som vekker sterke reaksjoner internasjonalt.",
+        "summary": "Nobels fredspris for 2026 er tildelt den 85 år gamle sørafrikanske juristen, dommeren og menneskerettighetsforkjemperen Navanethem «Navi» Pillay. Prisen tildeles for hennes langvarige og avgjørende innsats i kampen mot krigsforbrytelser, forbrytelser mot menneskeheten, folkemord og for å fremme internasjonale rettferdsstrukturer. Pillay har en lang merittert karriere bak seg, inkludert rollen som FNs høykommissær for menneskerettigheter fra 2008 til 2014, og som landets første fargede kvinnelige høyesterettsdommer fra 1994. Reaksjonene på tildelingen har vært sterke og delte. Blant annet har Unicef og FNs nåværende menneskerettighetssjef Volker Türk uttrykt stor glede og beskrevet prisen som en kollektiv seier for globale menneskerettigheter og ansvarlighet i en krevende tid. På den annen side har tildelingen vakt raseri og kraftige protester fra Israel. Israelsk UD har publisert knallharde uttalelser på X der de hevder at komiteen belønner løgner, og anklager prisvinneren i svært harde ordelag med referanser til historiske skikkelser. Reaksjonen henger nært sammen med at Pillay nylig ledet FNs uavhengige granskningskommisjon for de okkuperte palestinske områderrne, der det ble slått fast at Israel begår folkemord i Gaza. Pillay selv uttalte like etter kunngjøringen at hun knapt trodde det var sant, og bekreftet at hun leverte sin rapport om Gaza like før hun fikk beskjeden. Eksperter analyserer tildelingen som et bevisst og viktig signal fra Nobelkomiteen i en tid der multilaterale institusjoner og folkeretten er under sterkt press globalt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/israel-reagerer-kraftig-pa-fredsprisen-1.18050537",
+            "title": "Israel reagerer kraftig på fredsprisen",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:17:16+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fns-menneskerettighetssjef-sier-dette-er-en-pris-for-menneskerettigheter-1.18050486",
+            "title": "FNs menneskerettighetssjef sier dette er en pris for menneskerettigheter",
+            "is_secondary": false,
+            "published_at": "2026-10-09T10:30:19+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/pllay-viste-til-folkemord-rapporten-om-gaza-da-hun-mottok-prisen-1.18050450",
+            "title": "Pllay viste til folkemord-rapporten om Gaza da hun mottok prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:49:10+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/unicef-gratulerer-prisvinneren-1.18050411",
+            "title": "Unicef gratulerer prisvinneren",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:19:57+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/navi-pillay-far-nobels-fredspris-2026-1.18050338",
+            "title": "Navi Pillay får Nobels fredspris 2026",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:01:39+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/navanethem-navi-pillay-tildeles-nobels-fredspris-for-2026/2-1-2056361",
+            "title": "Navanethem «Navi» Pillay tildeles Nobels fredspris for 2026",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:02:58+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/vllwrV/nobels-fredspris-gaar-til-navi-pillay?utm_medium=rss",
+            "title": "Nobels fredspris går til Navi Pillay",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:04:26+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/R5585x/navi-pillay-faar-nobels-fredspris",
+            "title": "Navi Pillay får Nobels fredspris",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:53:48+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/n99B65/fredsprisvinneren-det-maa-vaere-en-spoek",
+            "title": "Fredsprisvinneren: - Det må være en spøk",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:03:25+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/EllpVl/navi-pillay-faar-nobels-fredspris-for-2026-dette-vet-vi-om-henne?utm_medium=rss",
+            "title": "Navanethem «Navi» Pillay (85) vinner Nobels fredspris. Israel reagerer kraftig.",
+            "is_secondary": false,
+            "published_at": "2026-10-09T07:50:45+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19307092",
+            "title": "Israelsk UD om Pillays fredspris: – Goebbels applauderer fra helvete",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:18:40+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19306141",
+            "title": "– Et viktig signal",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:31:09+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19305725",
+            "title": "Navi Pillay får Nobels fredspris for 2026: – Håper ikke det er en spøk!",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:02:08+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19305198",
+            "title": "Nobels fredspris: I natt skjedde det noe",
+            "is_secondary": false,
+            "published_at": "2026-10-09T04:47:46+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/israelsk-ud-om-pillays-fredspris-goebbels-applauderer-fra-helvete/s/80-95-146462",
+            "title": "Israelsk UD om Pillays fredspris: – Goebbels applauderer fra helvete",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:14:29+00:00"
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/gddzy0/navanethem-navi-pillay-tilldelas-nobels-fredspris?utm_medium=rss",
+            "title": "”Navi” Pillay får Nobels fredspris: ”Avgörande”",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:27:34+00:00"
+          },
+          {
+            "source_name": "Politiken",
+            "link": "https://politiken.dk/internationalt/art11016338/Navi-Pillay-er-%C3%A5rets-modtager-af-Nobels-fredspris",
+            "title": "Navi Pillay er årets modtager af Nobels fredspris",
+            "is_secondary": false,
+            "published_at": "2026-10-09T10:32:07+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 9,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c3151652aa6cda3d",
+        "continued_from": null,
+        "headline": "Haaland i rettssak mot polsk elektriker",
+        "ingress": "Erling Braut Haaland er involvert i en navnekrangel med en polsk elektriker som krever rettighetene til navnet hans. Saken skal opp i retten i Luxembourg tidligst i mars, og alle erstatningskrav bestrides av motparten.",
+        "summary": "En rettssak mellom den norske fotballspilleren Erling Braut Haaland og en polsk elektriker er ventet å starte tidligst i mars. Bakgrunnen for konflikten er en uenighet om hvem som har rett til å benytte navnet «Haaland». Den polske elektrikeren mener han innehar rettighetene til navnet, noe den 26 år gamle fotballstjernen bestrider. Tvisten har ført til at saken nå skal opp for retten i Luxembourg for en rettslig avgjørelse. Ifølge opplysninger fra E24 bestrides samtlige krav i saken. Det er per nå ikke kjent hva den nøyaktige utfallet vil bli, men konflikten belyser de utfordringene kjente profiler kan oppleve knyttet til merkevarebygging og navnerettigheter på tvers av landegrenser i Europa. Saken er bekreftet av kilder fra både VG og E24, som følger det rettslige ordskiftet tett frem mot den oppsatte tidsrammen tidlig i vårmånedene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/xllePQ/dagbladet-setter-av-tre-dager-til-haaland-rettssak-mot-norwegian?utm_medium=rss",
+            "title": "Slik blir rettssaken: – Samtlige krav bestrides",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:27:47+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/qyyAzO/erling-braut-haaland-i-rettssak-mot-polsk-elektriker",
+            "title": "Erling Braut Haaland i navnekrangel med polsk elektriker",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:56:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d95de2feda512a8a",
+        "continued_from": null,
+        "headline": "MDG krever stans i bruk av Kina-biler i Forsvaret",
+        "ingress": "Julie Stuestøl i MDG krever at Forsvaret og PST umiddelbart stanser bruken av biler knyttet til Kina, som hun mener utgjør en alvorlig nasjonal sikkerhetsrisiko.",
+        "summary": "Det reises kraftige reaksjoner mot Forsvarets og Politiets sikkerhetstjenestes (PST) bilpark. Ifølge uttalelser fra Julie Stuestøl i MDG, tyder mye på at norske sikkerhetstjenester benytter kjøretøy som kan utgjøre en umiddelbar og reell nasjonal sikkerhetsrisiko. Stuestøl krever på denne bakgrunn at all bruk av disse bilene stanses umiddelbart. Utspillet representerer en politisk vurdering og bekymring rundt potensiell overvåking eller sårbarheter knyttet til teknologi og utstyr med opprinnelse i Kina. Det foreligger foreløpig ingen bekreftelse fra Forsvaret eller PST om en faktisk stans i bruken av de aktuelle bilene, og påstandene om sikkerhetsrisiko står for foreløpig for avsenderens regning som en politisk bekymringmelding. Saken er omtalt av Dagens Næringsliv (DN) som peker på den spente situasjonen rundt digital og fysisk sikkerhet i norske offentlige etater, der forholdet til stormaktssikkerhet og verdikjeder blir stadig strengere vurdert av politikere og opposisjonspartier på Stortinget.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/krever-full-stans-i-forsvarets-og-psts-bruk-av-kina-biler-umiddelbar-nasjonal-sikkerhetsrisiko/2-1-2056100",
+            "title": "Krever full stans i Forsvarets og PSTs bruk av Kina-biler: – Umiddelbar nasjonal sikkerhetsrisiko",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:36:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d6738d99d401904d",
+        "continued_from": null,
+        "headline": "Mann kritisk skadet etter arbeidsulykke i tunnel",
+        "ingress": "En mann i 30-årene ble kritisk skadet etter et fall fra et stillas under arbeid i en tunnel i Gol. Han ble fraktet bort med luftambulanse.",
+        "summary": "En alvorlig arbeidsulykke fant sted i en tunnel i Gol, der en person pådro seg kritiske skader etter å ha falt ned fra et stillas. Operasjonsleder Victoria Hilleveg opplyste i politiloggen og gjennom meldinger til pressen at personen ble fraktet fra stedet med luftambulanse for videre oppfølging av helsevesenet. Aftenposten spesifiserer at den tilskadekomne er en mann i 30-årene. Hendelsen skjedde i forbindelse med anleggs- eller vedlikeholdsarbeid inne i selve tunnelen. Da politiet først meldte om ulykken like over klokken ni om morgenen, var den tilskadekomne ved bevissthet og ble undersøkt av helsepersonell på stedet før den raske transporten til sykehus. Saken er basert på offisielle opplysninger fra politiloggen formidlet via NTB og dekket av blant andre NRK og Aftenposten, som nøkternt formidler hendelsesforløpet og status for den skadde personens helsetilstand uten spekulasjoner om årsaken til at fallet fra stillaset skjedde.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/person-kritisk-skadet-i-arbeidsulykke-i-tunnel-i-gol-1.18050296",
+            "title": "Person kritisk skadet i arbeidsulykke i tunnel i Gol",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:02:50+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/4OOEKE/mann-kritisk-skadet-i-arbeidsulykke-i-tunnel-i-gol?utm_medium=rss",
+            "title": "Mann kritisk skadet i arbeidsulykke i tunnel i Gol",
+            "is_secondary": false,
+            "published_at": "2026-10-09T07:51:47+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1769f298c8e0cc0e",
+        "continued_from": null,
+        "headline": "Italiensk vinhus frastjålet 30.000 flasker vin",
+        "ingress": "Et italiensk vinhus har blitt offer for et grovt tyveri der hele 30.000 flasker vin ble stjålet. Det advares nå mot kjøp fra uvanlige kanaler.",
+        "summary": "Kriminelle har stjålet et betydelig kvantum vin fra et italiensk vinhus. Tyveriet omfatter hele 30.000 flasker, noe som representerer store verdier og et merkbart tap for produsenten. I forbindelse med hendelsen er det sendt ut advarsler til allmennheten og markedet om å være på vakt mot vin som selges fra uvanlige kilder eller via uoffisielle kanaler til mistenkelig fristende priser. Dette kan indikere at de stjålne varene forsøkes omsatt i det åpne markedet gjennom heleri eller ulovlige salgskanaler. Mediene E24 og VG har videreformidlet nyheten og advarslene knyttet til hendelsen, men det foreligger ennå få detaljer om nøyaktig hvordan tyveriet ble utført, hvem gjerningspersonene er, eller om noen er pågrepet i saken. Det understrekes at opplysningene er basert på de foreløpige meldingene fra de nevnte nyhetskildene som advarer forbrukere mot å gjøre potensielt ulovlige kjøp av vinpartiene som nå befinner seg på avveier i kjølvannet av det omfattende innbruddet hos vinprodusenten i Italia.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/OggpJk/italiensk-vinhus-frastjaalet-30-000-flasker-vin?utm_medium=rss",
+            "title": "Italiensk vinhus frastjålet 30.000 flasker vin",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:58:01+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/9kknXl/italiensk-vinhus-frastjaalet-30-000-flasker-vin",
+            "title": "Italiensk vinhus frastjålet 30.000 flasker vin",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:58:03+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e11c367fcf6ec136",
+        "continued_from": null,
+        "headline": "MDG krever redegjørelse fra statsråden etter Telenor-trøbbel",
+        "ingress": "MDG krever at statsråd Cecilie Myrseth møter på Stortinget for å forklare seg om Telenor-problemene, og truer med kontrollsak.",
+        "summary": "Etter omfattende tekniske problemer hos Telenor, reagerer Miljøpartiet De Grønne (MDG) kraftig og krever handling fra politisk hold. Partiet forlanger at statsråd Cecilie Myrseth møter på Stortinget for å redegjøre for situasjonen. Kravet gjelder spesifikt hvordan regjeringen har fulgt opp det statseide telekomkonsernet i etterkant av de alvorlige hendelsene som fant sted i 2024, samt hvilke konkrete tiltak som iverksettes for å forhindre at tilsvarende omfattende feil skjer igjen. Videre varsler MDG at partiet åpner opp for å reise en formell kontrollsak i kontroll- og konstitusjonskomiteen dersom svarene de mottar fra regjeringen ikke viser seg å være tilfredsstillende. Dette utspillet er en politisk vurdering og et pressmiddel fra opposisjonens side for å sikre bedre kontroll og oppfølging av kritisk nasjonal infrastruktur. Saken er omtalt av NRK, som belyser hvordan politiske aktører bruker sine verktøy for å holde statsråden og regjeringen ansvarlige for stabiliteten i landets telenettverk og statlig eide selskaper.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/mdg-krever-telenor-redegjorelse.-vurderer-kontrollsak.-1.18050285",
+            "title": "MDG krever Telenor-redegjørelse. Vurderer kontrollsak.",
+            "is_secondary": false,
+            "published_at": "2026-10-09T07:56:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0f7c31f97e6bbdcb",
+        "continued_from": null,
+        "headline": "Stjålne Renoir-malerier funnet og fem personer pågrepet",
+        "ingress": "To stjålne Renoir-malerier med en verdi på 100 millioner kroner er kommet til rette i Sør-Frankrike. Fem menn er pågrepet i saken.",
+        "summary": "To verdifulle malerier malt av kunstneren Pierre-Auguste Renoir er gjenfunnet i Sør-Frankrike etter et tidligere kunsttyveri. Kunstverkene har en samlet anslått verdi på 100 millioner kroner. Nyheten ble offentliggjort av ordføreren i byen Cagnes-sur-Mer, som uttrykte stor glede over at kunsten er kommet til rette, og påpekte at maleriene utgjør en vesentlig del av byens historiske arv og identitet. Under det opprinnelige tyveriet var det totalt fire malerier som ble stjålet fra et museum, men gjerningspersonene mistet to av dem under flukten fra stedet. Nå har altså politiet klart å spore opp og finne de to gjenstående maleriene. I forbindelse med funnet ble fem menn pågrepet onsdag, siktet i saken. Informasjonen er bekreftet av ordføreren og videreformidlet gjennom NRKs nyhetsdekning. Saken gir et innblikk i politiets arbeid med å avdekke kunsttyverier og gjenopprette stjålne kulturskatter, og viser at internasjonale eller lokale tyverier av denne typen følges opp med raske pågripelser når sporene leder til de mistenkte personene i saken.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/stjalne-renoir-bilder-gjenfunnet.-fem-pagrepet-1.18050645",
+            "title": "Stjålne Renoir-bilder gjenfunnet. Fem pågrepet",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:45:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "f64eb52cf6cd794f",
+        "continued_from": null,
+        "headline": "Tre drept i angrep mot Riyadh",
+        "ingress": "Tre personer er drept i to angrep mot flyplassen i Saudi-Arabias hovedstad Riyadh, ifølge landets myndigheter.",
+        "summary": "Saudiske myndigheter bekrefter at tre personer har blitt drept i to separate angrep mot flyplassen i Saudi-Arabias hovedstad Riyadh. Houthi-opprørerne i Jemen har tatt på seg ansvaret for handlingene, og opplyser at de blant annet rettet et ballistisk missil mot flyplassen under angrepene. Dette skjer i en tid med økt militær spenning mellom partene. Tidligere i uken ble en sudansk borger drept i et lignende angrep på den samme flyplassen. Angrepene fra houthiene har blitt trappet opp den siste tiden som en direkte respons på en større offensiv som Saudi-Arabia og deres allierte satte i gang mot militsen forrige helg. Det foreligger foreløpig ikke detaljerte analyser om de langsiktige strategiske konsekvensene av opptrappingen, men situasjonen viser at konflikten har spredt seg tydelig til sivil infrastruktur og flyplasser i regionen. Nyheten om dødsfallene og angrepene er basert på offisielle meldinger fra saudiarabiske myndigheter samt houthi-opprørernes egne uttalelser om aksjonene. Offisiell informasjon bekrefter at sikkerhetssituasjonen rundt hovedstaden er svært spent etter at offensiven i Jemen ble innledet, og partene ser ut til å fortsette gjengjeldelsene i ukene som kommer, noe som skaper dyp bekymring for den sivile sikkerheten i hele området.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/tre-drept-i-torsdagens-angrep-mot-riyadh_-ifolge-saudiske-myndigheter-1.18050309",
+            "title": "Tre drept i torsdagens angrep mot Riyadh, ifølge saudiske myndigheter",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:22:50+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/w33RL1/tre-drept-i-torsdagens-angrep-mot-riyadh-ifoelge-saudiske-myndigheter?utm_medium=rss",
+            "title": "Tre drept i torsdagens angrep mot Riyadh, ifølge saudiske myndigheter",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:22:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7ecbc461e3f45b1c",
+        "continued_from": null,
+        "headline": "Voldshendelse i Namsfogdens lokaler",
+        "ingress": "En person er skadet og en mann er pågrepet og siktet for drapsforsøk etter en voldshendelse i Namsfogdens lokaler i Oslo.",
+        "summary": "Nødetatene rykket fredag formiddag ut til Namsfogdens lokaler i Oslo sentrum etter meldinger om en alvorlig voldshendelse. En person ble skadet i hendelsen, men politiet har opplyst at skadene etter det de kjenner til ikke skal være livstruende. En mann er raskt pågrepet av politiet og har blitt siktet for drapsforsøk. Operasjonen ble iverksatt etter at en vaktsentral observere hendelsen direkte via videoovervåking, noe som gjorde at nødetatene fikk rask varsling. Politiet uttaler at det er et betydelig potensial for alvorlige skader basert på det de mener har skjedd på stedet. Videre etterforskning vil inkludere gjennomgang av videoopptak samt avhør av både involverte parter og eventuelle vitner som befant seg i nærheten. Politiet har samtidig gått ut med beroligende beskjeder om at det ikke skal være noen fare for andre personer i området etter at mannen ble pågrepet. Hendelsen har ført til stor utrykning i Oslo sentrum. Saken er fortsatt i en tidlig etterforskningsfase, og politiet understreker at de må gjennomføre de planlagte avhørene før de kan dele mer informasjon om hendelsesforløpet og bakgrunnen for volden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/siktet-for-drapsforsok-etter-voldshendelse-i-oslo-1.18050122",
+            "title": "Siktet for drapsforsøk etter voldshendelse i Oslo",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:29:57+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0BB9P0/voldshendelse-mot-kvinne-i-namsfogdens-lokaler-i-oslo?utm_medium=rss",
+            "title": "Voldshendelse mot kvinne i Namsfogdens lokaler i Oslo",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:30:37+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19306472",
+            "title": "Kvinne skadet i Namsfogdens lokaler – mann siktet for drapsforsøk",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:26:22+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "55a5d8f66b7ae185",
+        "continued_from": null,
+        "headline": "Krevende SAS-mekling kan gi flystreik",
+        "ingress": "Meglingen for kabinansatte i SAS Link har startet, og Fellesforbundet varsler at det kan bli en svært krevende prosess.",
+        "summary": "Meklingen for de kabinansatte i SAS Link er i gang, og Fellesforbundet har gått ut og varslet at prosessen kan bli svært krevende. Partene står overfor tøffe forhandlinger, og det er fare for at det kan bryte ut flystreik allerede neste uke dersom man ikke kommer til en enighet. Representanten Willy Bergsnov fra Fellesforbundet har kommet med sterke uttalelser i forbindelse med oppstarten, og har blant annet beskrevet situasjonen som sosial dumping knyttet til en avtale som etter hans syn allerede er sosialt dumpet. Dette vitner om et høyt konfliktnivå og dype uenigheter mellom arbeidsgiveren og arbeidstakerne rundt lønns- og arbeidsvilkår. Kommentatorer og fagforeningshold vurderer situasjonen som alvorlig, og faren for at konflikten eskalerer til en fullblods streik er reell. SAS Link og de ansatte må nå gjennom en intens meklingsperiode der Riksmekleren forsøker å finne en fellesnevner som kan avverge en arbeidskonflikt. Mangelen på en rask løsning kan ramme reisende hardt dersom kabinansatte legger ned arbeidet. Situasjonen følges tett av både næringsliv og media, som vurderer sannsynligheten for streik som betydelig gitt de harde frontene og de prinsipielle uenighetene som preger årets oppgjør for flybransjen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/Qggg0W/kan-bli-flystreik?utm_medium=rss",
+            "title": "Kan bli flystreik",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:02:31+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://e24.no/i/Qggg0W?utm_medium=rss",
+            "title": "Kan bli flystreik",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:02:33+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19306206",
+            "title": "SAS-meklingen har startet – kan bli streik neste uke",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:50:22+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a3ecd5c2d75c8ec9",
+        "continued_from": null,
+        "headline": "Røkke bygger jaktparadis i Sverige",
+        "ingress": "Kjell Inge Røkke har skapt en egen jaktlekegrind til rundt 250 millioner kroner i Sverige.",
+        "summary": "Finansmannen Kjell Inge Røkke har etablert et storforlangende jaktparadis i Sverige, viser nye dronebilder. Etableringen kommer i stand etter at hans opprinnelige planer på det historiske svenske slottet Ericsberg ble møtt med massiv motstand fra lokalmiljøet og interessenter. Som en reaksjon på motstanden har han i stedet skapt sin egen jaktlekegrind i trygg avstand fra det opprinnelige slottet. Det nye anlegget, som blant annet inneholder en jaktpaviljong og en såkalt skjutbiograf, har en prislapp på rundt 250 millioner kroner. Prosjektet har vakt stor oppmerksomhet i svenske og norske medier, spesielt på bakgrunn av den tidligere konflikten rundt Ericsberg-slottet og de omfattende økonomiske ressursene som er lagt ned i den nye eiendommen. Det foreligger ingen indikasjoner på at det nye anlegget møter samme type motstand som de opprinnelige planene, ettersom det er plassert i trygg avstand og ivaretar eierens ønsker på en annen måte. Byggingen markerer et nytt kapittel for Røkkes svenske eiendomssatsing, der fokuset har flyttet seg fra slottet til det private jaktparadiset. Mediene har dokumentert omfanget av anleggene gjennom eksklusive bilder, som viser hvordan millionene har blitt omsatt til moderne fasiliteter tilrettelagt for jakt og rekreasjon i svenske omgivelser.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/video/m/Qqn1Sq3m/se-dronebildene-av-rokkes-svenske-jaktparadis?play=1",
+            "title": "Se dronebildene av Røkkes svenske jaktparadis",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:20:54+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/eiendom/the-resource-group-trg/kjell-inge-rokke/jaktpaviljong-og-skjutbiograf-her-er-rokkes-svenske-jaktparadis/2-1-1926767",
+            "title": "Jaktpaviljong og «skjutbiograf»: Her er Røkkes svenske jaktparadis",
+            "is_secondary": false,
+            "published_at": "2026-10-09T10:54:12+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d22b01e12570d865",
+        "continued_from": null,
+        "headline": "Mobiloperatører faller etter nyhet om Starlink",
+        "ingress": "Flere mobiloperatører faller på børsen etter at SpaceX kunngjorde planer om Starlink-satellitter.",
+        "summary": "Flere mobiloperatører opplever børsfall etter at det ble kjent at Elon Musks selskap SpaceX har planer om å bruke sine Starlink-satellitter direkte som mobiloperatører. Nyheten har skapt usikkerhet i markedet rundt tradisjonelle telekom-selskapers fremtidige posisjon og konkurransesituasjon. Analytikere vurderer trekket som en potensiell trussel mot etablerte telekomaktører, ettersom satellittbasert mobildekning kan utfordre tradisjonelle mobilnettverk på sikt. Selv om teknologien ennå ikke er fullt ut rullet ut for alle sluttbrukere på denne måten, reagerer finansmarkedene raskt på potensialet for disruptive endringer i bransjen. Fallet for mobiloperatørene illustrerer hvor sårbare tradisjonelle forretningsmodeller er for ny teknologi som lanseres av store aktører innen romfart og satellittkommunikasjon. Flere markedsaktører forsøker nå å analysere de nøyaktige konsekvensene av SpaceX sine planer, og om det vil kreve omfattende samarbeid eller skape hard konkurranse for de eksisterende telekomgigantene. Dette er en situasjon som overvåkes nøye av investorer og bransjeeksperter, da det kan endre dynamikken i den globale telekomsektoren fundamentalt i årene som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/Wggm7g/mobiloperatoer-fall-etter-musk-nyhet?utm_medium=rss",
+            "title": "Mobiloperatør-fall etter Musk-nyhet",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:44:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6a54776a89e4ea48",
+        "continued_from": null,
+        "headline": "Navi Pillay får fredsprisen – Israel reagerer kraftig",
+        "ingress": "Den sørafrikanske juristen Navi Pillay tildeles Nobels fredspris for 2026, noe som vekker sterke reaksjoner internasjonalt.",
+        "summary": "Nobels fredspris for 2026 er tildelt den 85 år gamle sørafrikanske juristen, dommeren og menneskerettighetsforkjemperen Navanethem «Navi» Pillay. Prisen tildeles for hennes langvarige og avgjørende innsats i kampen mot krigsforbrytelser, forbrytelser mot menneskeheten, folkemord og for å fremme internasjonale rettferdsstrukturer. Pillay har en lang merittert karriere bak seg, inkludert rollen som FNs høykommissær for menneskerettigheter fra 2008 til 2014, og som landets første fargede kvinnelige høyesterettsdommer fra 1994. Reaksjonene på tildelingen har vært sterke og delte. Blant annet har Unicef og FNs nåværende menneskerettighetssjef Volker Türk uttrykt stor glede og beskrevet prisen som en kollektiv seier for globale menneskerettigheter og ansvarlighet i en krevende tid. På den annen side har tildelingen vakt raseri og kraftige protester fra Israel. Israelsk UD har publisert knallharde uttalelser på X der de hevder at komiteen belønner løgner, og anklager prisvinneren i svært harde ordelag med referanser til historiske skikkelser. Reaksjonen henger nært sammen med at Pillay nylig ledet FNs uavhengige granskningskommisjon for de okkuperte palestinske områderrne, der det ble slått fast at Israel begår folkemord i Gaza. Pillay selv uttalte like etter kunngjøringen at hun knapt trodde det var sant, og bekreftet at hun leverte sin rapport om Gaza like før hun fikk beskjeden. Eksperter analyserer tildelingen som et bevisst og viktig signal fra Nobelkomiteen i en tid der multilaterale institusjoner og folkeretten er under sterkt press globalt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/israel-reagerer-kraftig-pa-fredsprisen-1.18050537",
+            "title": "Israel reagerer kraftig på fredsprisen",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:17:16+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fns-menneskerettighetssjef-sier-dette-er-en-pris-for-menneskerettigheter-1.18050486",
+            "title": "FNs menneskerettighetssjef sier dette er en pris for menneskerettigheter",
+            "is_secondary": false,
+            "published_at": "2026-10-09T10:30:19+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/pllay-viste-til-folkemord-rapporten-om-gaza-da-hun-mottok-prisen-1.18050450",
+            "title": "Pllay viste til folkemord-rapporten om Gaza da hun mottok prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:49:10+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/unicef-gratulerer-prisvinneren-1.18050411",
+            "title": "Unicef gratulerer prisvinneren",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:19:57+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/navi-pillay-far-nobels-fredspris-2026-1.18050338",
+            "title": "Navi Pillay får Nobels fredspris 2026",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:01:39+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/innenriks/navanethem-navi-pillay-tildeles-nobels-fredspris-for-2026/2-1-2056361",
+            "title": "Navanethem «Navi» Pillay tildeles Nobels fredspris for 2026",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:02:58+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/vllwrV/nobels-fredspris-gaar-til-navi-pillay?utm_medium=rss",
+            "title": "Nobels fredspris går til Navi Pillay",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:04:26+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/R5585x/navi-pillay-faar-nobels-fredspris",
+            "title": "Navi Pillay får Nobels fredspris",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:53:48+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/n99B65/fredsprisvinneren-det-maa-vaere-en-spoek",
+            "title": "Fredsprisvinneren: - Det må være en spøk",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:03:25+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/EllpVl/navi-pillay-faar-nobels-fredspris-for-2026-dette-vet-vi-om-henne?utm_medium=rss",
+            "title": "Navanethem «Navi» Pillay (85) vinner Nobels fredspris. Israel reagerer kraftig.",
+            "is_secondary": false,
+            "published_at": "2026-10-09T07:50:45+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19307092",
+            "title": "Israelsk UD om Pillays fredspris: – Goebbels applauderer fra helvete",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:18:40+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19306141",
+            "title": "– Et viktig signal",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:31:09+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19305725",
+            "title": "Navi Pillay får Nobels fredspris for 2026: – Håper ikke det er en spøk!",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:02:08+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19305198",
+            "title": "Nobels fredspris: I natt skjedde det noe",
+            "is_secondary": false,
+            "published_at": "2026-10-09T04:47:46+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/israelsk-ud-om-pillays-fredspris-goebbels-applauderer-fra-helvete/s/80-95-146462",
+            "title": "Israelsk UD om Pillays fredspris: – Goebbels applauderer fra helvete",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:14:29+00:00"
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/gddzy0/navanethem-navi-pillay-tilldelas-nobels-fredspris?utm_medium=rss",
+            "title": "”Navi” Pillay får Nobels fredspris: ”Avgörande”",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:27:34+00:00"
+          },
+          {
+            "source_name": "Politiken",
+            "link": "https://politiken.dk/internationalt/art11016338/Navi-Pillay-er-%C3%A5rets-modtager-af-Nobels-fredspris",
+            "title": "Navi Pillay er årets modtager af Nobels fredspris",
+            "is_secondary": false,
+            "published_at": "2026-10-09T10:32:07+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 9,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c3151652aa6cda3d",
+        "continued_from": null,
+        "headline": "Haaland i rettssak mot polsk elektriker",
+        "ingress": "Erling Braut Haaland er involvert i en navnekrangel med en polsk elektriker som krever rettighetene til navnet hans. Saken skal opp i retten i Luxembourg tidligst i mars, og alle erstatningskrav bestrides av motparten.",
+        "summary": "En rettssak mellom den norske fotballspilleren Erling Braut Haaland og en polsk elektriker er ventet å starte tidligst i mars. Bakgrunnen for konflikten er en uenighet om hvem som har rett til å benytte navnet «Haaland». Den polske elektrikeren mener han innehar rettighetene til navnet, noe den 26 år gamle fotballstjernen bestrider. Tvisten har ført til at saken nå skal opp for retten i Luxembourg for en rettslig avgjørelse. Ifølge opplysninger fra E24 bestrides samtlige krav i saken. Det er per nå ikke kjent hva den nøyaktige utfallet vil bli, men konflikten belyser de utfordringene kjente profiler kan oppleve knyttet til merkevarebygging og navnerettigheter på tvers av landegrenser i Europa. Saken er bekreftet av kilder fra både VG og E24, som følger det rettslige ordskiftet tett frem mot den oppsatte tidsrammen tidlig i vårmånedene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/xllePQ/dagbladet-setter-av-tre-dager-til-haaland-rettssak-mot-norwegian?utm_medium=rss",
+            "title": "Slik blir rettssaken: – Samtlige krav bestrides",
+            "is_secondary": false,
+            "published_at": "2026-10-09T09:27:47+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/qyyAzO/erling-braut-haaland-i-rettssak-mot-polsk-elektriker",
+            "title": "Erling Braut Haaland i navnekrangel med polsk elektriker",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:56:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d95de2feda512a8a",
+        "continued_from": null,
+        "headline": "MDG krever stans i bruk av Kina-biler i Forsvaret",
+        "ingress": "Julie Stuestøl i MDG krever at Forsvaret og PST umiddelbart stanser bruken av biler knyttet til Kina, som hun mener utgjør en alvorlig nasjonal sikkerhetsrisiko.",
+        "summary": "Det reises kraftige reaksjoner mot Forsvarets og Politiets sikkerhetstjenestes (PST) bilpark. Ifølge uttalelser fra Julie Stuestøl i MDG, tyder mye på at norske sikkerhetstjenester benytter kjøretøy som kan utgjøre en umiddelbar og reell nasjonal sikkerhetsrisiko. Stuestøl krever på denne bakgrunn at all bruk av disse bilene stanses umiddelbart. Utspillet representerer en politisk vurdering og bekymring rundt potensiell overvåking eller sårbarheter knyttet til teknologi og utstyr med opprinnelse i Kina. Det foreligger foreløpig ingen bekreftelse fra Forsvaret eller PST om en faktisk stans i bruken av de aktuelle bilene, og påstandene om sikkerhetsrisiko står for foreløpig for avsenderens regning som en politisk bekymringmelding. Saken er omtalt av Dagens Næringsliv (DN) som peker på den spente situasjonen rundt digital og fysisk sikkerhet i norske offentlige etater, der forholdet til stormaktssikkerhet og verdikjeder blir stadig strengere vurdert av politikere og opposisjonspartier på Stortinget.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/krever-full-stans-i-forsvarets-og-psts-bruk-av-kina-biler-umiddelbar-nasjonal-sikkerhetsrisiko/2-1-2056100",
+            "title": "Krever full stans i Forsvarets og PSTs bruk av Kina-biler: – Umiddelbar nasjonal sikkerhetsrisiko",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:36:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d6738d99d401904d",
+        "continued_from": null,
+        "headline": "Mann kritisk skadet etter arbeidsulykke i tunnel",
+        "ingress": "En mann i 30-årene ble kritisk skadet etter et fall fra et stillas under arbeid i en tunnel i Gol. Han ble fraktet bort med luftambulanse.",
+        "summary": "En alvorlig arbeidsulykke fant sted i en tunnel i Gol, der en person pådro seg kritiske skader etter å ha falt ned fra et stillas. Operasjonsleder Victoria Hilleveg opplyste i politiloggen og gjennom meldinger til pressen at personen ble fraktet fra stedet med luftambulanse for videre oppfølging av helsevesenet. Aftenposten spesifiserer at den tilskadekomne er en mann i 30-årene. Hendelsen skjedde i forbindelse med anleggs- eller vedlikeholdsarbeid inne i selve tunnelen. Da politiet først meldte om ulykken like over klokken ni om morgenen, var den tilskadekomne ved bevissthet og ble undersøkt av helsepersonell på stedet før den raske transporten til sykehus. Saken er basert på offisielle opplysninger fra politiloggen formidlet via NTB og dekket av blant andre NRK og Aftenposten, som nøkternt formidler hendelsesforløpet og status for den skadde personens helsetilstand uten spekulasjoner om årsaken til at fallet fra stillaset skjedde.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/person-kritisk-skadet-i-arbeidsulykke-i-tunnel-i-gol-1.18050296",
+            "title": "Person kritisk skadet i arbeidsulykke i tunnel i Gol",
+            "is_secondary": false,
+            "published_at": "2026-10-09T08:02:50+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/4OOEKE/mann-kritisk-skadet-i-arbeidsulykke-i-tunnel-i-gol?utm_medium=rss",
+            "title": "Mann kritisk skadet i arbeidsulykke i tunnel i Gol",
+            "is_secondary": false,
+            "published_at": "2026-10-09T07:51:47+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1769f298c8e0cc0e",
+        "continued_from": null,
+        "headline": "Italiensk vinhus frastjålet 30.000 flasker vin",
+        "ingress": "Et italiensk vinhus har blitt offer for et grovt tyveri der hele 30.000 flasker vin ble stjålet. Det advares nå mot kjøp fra uvanlige kanaler.",
+        "summary": "Kriminelle har stjålet et betydelig kvantum vin fra et italiensk vinhus. Tyveriet omfatter hele 30.000 flasker, noe som representerer store verdier og et merkbart tap for produsenten. I forbindelse med hendelsen er det sendt ut advarsler til allmennheten og markedet om å være på vakt mot vin som selges fra uvanlige kilder eller via uoffisielle kanaler til mistenkelig fristende priser. Dette kan indikere at de stjålne varene forsøkes omsatt i det åpne markedet gjennom heleri eller ulovlige salgskanaler. Mediene E24 og VG har videreformidlet nyheten og advarslene knyttet til hendelsen, men det foreligger ennå få detaljer om nøyaktig hvordan tyveriet ble utført, hvem gjerningspersonene er, eller om noen er pågrepet i saken. Det understrekes at opplysningene er basert på de foreløpige meldingene fra de nevnte nyhetskildene som advarer forbrukere mot å gjøre potensielt ulovlige kjøp av vinpartiene som nå befinner seg på avveier i kjølvannet av det omfattende innbruddet hos vinprodusenten i Italia.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/OggpJk/italiensk-vinhus-frastjaalet-30-000-flasker-vin?utm_medium=rss",
+            "title": "Italiensk vinhus frastjålet 30.000 flasker vin",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:58:01+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/9kknXl/italiensk-vinhus-frastjaalet-30-000-flasker-vin",
+            "title": "Italiensk vinhus frastjålet 30.000 flasker vin",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:58:03+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e11c367fcf6ec136",
+        "continued_from": null,
+        "headline": "MDG krever redegjørelse fra statsråden etter Telenor-trøbbel",
+        "ingress": "MDG krever at statsråd Cecilie Myrseth møter på Stortinget for å forklare seg om Telenor-problemene, og truer med kontrollsak.",
+        "summary": "Etter omfattende tekniske problemer hos Telenor, reagerer Miljøpartiet De Grønne (MDG) kraftig og krever handling fra politisk hold. Partiet forlanger at statsråd Cecilie Myrseth møter på Stortinget for å redegjøre for situasjonen. Kravet gjelder spesifikt hvordan regjeringen har fulgt opp det statseide telekomkonsernet i etterkant av de alvorlige hendelsene som fant sted i 2024, samt hvilke konkrete tiltak som iverksettes for å forhindre at tilsvarende omfattende feil skjer igjen. Videre varsler MDG at partiet åpner opp for å reise en formell kontrollsak i kontroll- og konstitusjonskomiteen dersom svarene de mottar fra regjeringen ikke viser seg å være tilfredsstillende. Dette utspillet er en politisk vurdering og et pressmiddel fra opposisjonens side for å sikre bedre kontroll og oppfølging av kritisk nasjonal infrastruktur. Saken er omtalt av NRK, som belyser hvordan politiske aktører bruker sine verktøy for å holde statsråden og regjeringen ansvarlige for stabiliteten i landets telenettverk og statlig eide selskaper.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/mdg-krever-telenor-redegjorelse.-vurderer-kontrollsak.-1.18050285",
+            "title": "MDG krever Telenor-redegjørelse. Vurderer kontrollsak.",
+            "is_secondary": false,
+            "published_at": "2026-10-09T07:56:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0f7c31f97e6bbdcb",
+        "continued_from": null,
+        "headline": "Stjålne Renoir-malerier funnet og fem personer pågrepet",
+        "ingress": "To stjålne Renoir-malerier med en verdi på 100 millioner kroner er kommet til rette i Sør-Frankrike. Fem menn er pågrepet i saken.",
+        "summary": "To verdifulle malerier malt av kunstneren Pierre-Auguste Renoir er gjenfunnet i Sør-Frankrike etter et tidligere kunsttyveri. Kunstverkene har en samlet anslått verdi på 100 millioner kroner. Nyheten ble offentliggjort av ordføreren i byen Cagnes-sur-Mer, som uttrykte stor glede over at kunsten er kommet til rette, og påpekte at maleriene utgjør en vesentlig del av byens historiske arv og identitet. Under det opprinnelige tyveriet var det totalt fire malerier som ble stjålet fra et museum, men gjerningspersonene mistet to av dem under flukten fra stedet. Nå har altså politiet klart å spore opp og finne de to gjenstående maleriene. I forbindelse med funnet ble fem menn pågrepet onsdag, siktet i saken. Informasjonen er bekreftet av ordføreren og videreformidlet gjennom NRKs nyhetsdekning. Saken gir et innblikk i politiets arbeid med å avdekke kunsttyverier og gjenopprette stjålne kulturskatter, og viser at internasjonale eller lokale tyverier av denne typen følges opp med raske pågripelser når sporene leder til de mistenkte personene i saken.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/stjalne-renoir-bilder-gjenfunnet.-fem-pagrepet-1.18050645",
+            "title": "Stjålne Renoir-bilder gjenfunnet. Fem pågrepet",
+            "is_secondary": false,
+            "published_at": "2026-10-09T11:45:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-10-09T14:04:57.120575+02:00",
+    "edition_date": "2026-10-09",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 207,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 13
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:44.032956+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:45:42+00:00",
+          "earliest_usable_published_at": "2026-10-09T06:00:51+00:00",
+          "latest_usable_published_at": "2026-10-09T11:45:42+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:44.338170+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:20:54+00:00",
+          "earliest_usable_published_at": "2026-10-09T02:04:21+00:00",
+          "latest_usable_published_at": "2026-10-09T11:20:54+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:45.471024+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:58:01+00:00",
+          "earliest_usable_published_at": "2026-10-09T04:06:10+00:00",
+          "latest_usable_published_at": "2026-10-09T11:58:01+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:46.198184+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:58:03+00:00",
+          "earliest_usable_published_at": "2026-10-09T10:41:45+00:00",
+          "latest_usable_published_at": "2026-10-09T11:58:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:46.773381+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T10:08:05+00:00",
+          "earliest_usable_published_at": "2026-10-09T06:46:41+00:00",
+          "latest_usable_published_at": "2026-10-09T10:08:05+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:47.202167+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:18:40+00:00",
+          "earliest_usable_published_at": "2026-10-08T20:30:16+00:00",
+          "latest_usable_published_at": "2026-10-09T11:18:40+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:48.462397+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:54:29+00:00",
+          "earliest_usable_published_at": "2026-10-09T09:28:10+00:00",
+          "latest_usable_published_at": "2026-10-09T11:54:29+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:49.274352+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:46:41+00:00",
+          "earliest_usable_published_at": "2026-10-09T10:55:01+00:00",
+          "latest_usable_published_at": "2026-10-09T11:46:41+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:49.940089+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:38:24+00:00",
+          "earliest_usable_published_at": "2026-10-09T09:27:34+00:00",
+          "latest_usable_published_at": "2026-10-09T11:38:24+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:50.697361+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:55:39+00:00",
+          "earliest_usable_published_at": "2026-10-09T08:10:34+00:00",
+          "latest_usable_published_at": "2026-10-09T11:55:39+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:51.853887+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:46:09+00:00",
+          "earliest_usable_published_at": "2026-10-09T09:58:01+00:00",
+          "latest_usable_published_at": "2026-10-09T11:46:09+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:52.899997+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:45:00+00:00",
+          "earliest_usable_published_at": "2026-10-09T04:45:00+00:00",
+          "latest_usable_published_at": "2026-10-09T11:45:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:53.386390+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T12:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-09T11:02:00+00:00",
+          "latest_usable_published_at": "2026-10-09T12:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:54.187089+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:51:41+00:00",
+          "earliest_usable_published_at": "2026-10-09T11:42:17+00:00",
+          "latest_usable_published_at": "2026-10-09T11:51:41+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:54.383133+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 2,
+          "latest_published_at": "2026-10-09T11:08:08+00:00",
+          "earliest_usable_published_at": "2026-10-09T07:58:07+00:00",
+          "latest_usable_published_at": "2026-10-09T11:08:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:54.664172+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:30:08+00:00",
+          "earliest_usable_published_at": "2026-10-08T20:15:57+00:00",
+          "latest_usable_published_at": "2026-10-09T11:30:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:55.420444+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:35:00+00:00",
+          "earliest_usable_published_at": "2026-10-08T23:11:10+00:00",
+          "latest_usable_published_at": "2026-10-09T11:35:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:55.498406+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T10:33:15+00:00",
+          "earliest_usable_published_at": "2026-10-09T08:00:03+00:00",
+          "latest_usable_published_at": "2026-10-09T10:33:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-09T12:02:55.724251+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:55.842268+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:34:26+00:00",
+          "earliest_usable_published_at": "2026-10-09T08:48:09+00:00",
+          "latest_usable_published_at": "2026-10-09T11:34:26+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-09T12:02:55.995719+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:56.074390+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T12:00:05+00:00",
+          "earliest_usable_published_at": "2026-10-09T11:35:52+00:00",
+          "latest_usable_published_at": "2026-10-09T12:00:05+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:56.686303+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:29:15+00:00",
+          "earliest_usable_published_at": "2026-10-09T10:40:36+00:00",
+          "latest_usable_published_at": "2026-10-09T11:29:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:56.794201+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:56:15+00:00",
+          "earliest_usable_published_at": "2026-10-08T16:24:08+00:00",
+          "latest_usable_published_at": "2026-10-09T11:56:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:57.196415+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T11:51:07+00:00",
+          "earliest_usable_published_at": "2026-10-09T11:24:36+00:00",
+          "latest_usable_published_at": "2026-10-09T11:51:07+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:57.460414+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-09T09:08:45+00:00",
+          "earliest_usable_published_at": "2026-10-08T22:00:00+00:00",
+          "latest_usable_published_at": "2026-10-09T09:08:45+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-09T12:02:58.801044+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-07T14:00:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-10-09T12:02:58.985699+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 3,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-09T08:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-08T12:25:00+00:00",
+          "latest_usable_published_at": "2026-10-09T08:00:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-09T14:02:44.032927+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-09T12:02:44.032956+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-09T12:02:44.338170+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-09T12:02:45.471024+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-09T12:02:46.198184+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-09T12:02:46.773381+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-09T12:02:47.202167+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-09T12:02:48.462397+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-09T12:02:49.274352+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-09T12:02:49.940089+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-09T12:02:50.697361+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-09T12:02:51.853887+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-09T12:02:52.899997+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-09T12:02:53.386390+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-09T12:02:54.187089+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-09T12:02:54.383133+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-09T12:02:54.664172+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-09T12:02:55.420444+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-09T12:02:55.498406+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-09T12:02:55.724251+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-09T12:02:55.842268+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-09T12:02:55.995719+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-09T12:02:56.074390+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-09T12:02:56.686303+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-09T12:02:56.794201+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-09T12:02:57.196415+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-09T12:02:57.460414+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-09T12:02:58.801044+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-09T12:02:58.985699+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 207,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 13
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:44.032956+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:45:42+00:00",
+            "earliest_usable_published_at": "2026-10-09T06:00:51+00:00",
+            "latest_usable_published_at": "2026-10-09T11:45:42+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:44.338170+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:20:54+00:00",
+            "earliest_usable_published_at": "2026-10-09T02:04:21+00:00",
+            "latest_usable_published_at": "2026-10-09T11:20:54+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:45.471024+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:58:01+00:00",
+            "earliest_usable_published_at": "2026-10-09T04:06:10+00:00",
+            "latest_usable_published_at": "2026-10-09T11:58:01+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:46.198184+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:58:03+00:00",
+            "earliest_usable_published_at": "2026-10-09T10:41:45+00:00",
+            "latest_usable_published_at": "2026-10-09T11:58:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:46.773381+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T10:08:05+00:00",
+            "earliest_usable_published_at": "2026-10-09T06:46:41+00:00",
+            "latest_usable_published_at": "2026-10-09T10:08:05+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:47.202167+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:18:40+00:00",
+            "earliest_usable_published_at": "2026-10-08T20:30:16+00:00",
+            "latest_usable_published_at": "2026-10-09T11:18:40+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:48.462397+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:54:29+00:00",
+            "earliest_usable_published_at": "2026-10-09T09:28:10+00:00",
+            "latest_usable_published_at": "2026-10-09T11:54:29+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:49.274352+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:46:41+00:00",
+            "earliest_usable_published_at": "2026-10-09T10:55:01+00:00",
+            "latest_usable_published_at": "2026-10-09T11:46:41+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:49.940089+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:38:24+00:00",
+            "earliest_usable_published_at": "2026-10-09T09:27:34+00:00",
+            "latest_usable_published_at": "2026-10-09T11:38:24+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:50.697361+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:55:39+00:00",
+            "earliest_usable_published_at": "2026-10-09T08:10:34+00:00",
+            "latest_usable_published_at": "2026-10-09T11:55:39+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:51.853887+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:46:09+00:00",
+            "earliest_usable_published_at": "2026-10-09T09:58:01+00:00",
+            "latest_usable_published_at": "2026-10-09T11:46:09+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:52.899997+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:45:00+00:00",
+            "earliest_usable_published_at": "2026-10-09T04:45:00+00:00",
+            "latest_usable_published_at": "2026-10-09T11:45:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:53.386390+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T12:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-09T11:02:00+00:00",
+            "latest_usable_published_at": "2026-10-09T12:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:54.187089+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:51:41+00:00",
+            "earliest_usable_published_at": "2026-10-09T11:42:17+00:00",
+            "latest_usable_published_at": "2026-10-09T11:51:41+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:54.383133+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 2,
+            "latest_published_at": "2026-10-09T11:08:08+00:00",
+            "earliest_usable_published_at": "2026-10-09T07:58:07+00:00",
+            "latest_usable_published_at": "2026-10-09T11:08:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:54.664172+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:30:08+00:00",
+            "earliest_usable_published_at": "2026-10-08T20:15:57+00:00",
+            "latest_usable_published_at": "2026-10-09T11:30:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:55.420444+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:35:00+00:00",
+            "earliest_usable_published_at": "2026-10-08T23:11:10+00:00",
+            "latest_usable_published_at": "2026-10-09T11:35:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:55.498406+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T10:33:15+00:00",
+            "earliest_usable_published_at": "2026-10-09T08:00:03+00:00",
+            "latest_usable_published_at": "2026-10-09T10:33:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-09T12:02:55.724251+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:55.842268+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:34:26+00:00",
+            "earliest_usable_published_at": "2026-10-09T08:48:09+00:00",
+            "latest_usable_published_at": "2026-10-09T11:34:26+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-09T12:02:55.995719+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:56.074390+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T12:00:05+00:00",
+            "earliest_usable_published_at": "2026-10-09T11:35:52+00:00",
+            "latest_usable_published_at": "2026-10-09T12:00:05+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:56.686303+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:29:15+00:00",
+            "earliest_usable_published_at": "2026-10-09T10:40:36+00:00",
+            "latest_usable_published_at": "2026-10-09T11:29:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:56.794201+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:56:15+00:00",
+            "earliest_usable_published_at": "2026-10-08T16:24:08+00:00",
+            "latest_usable_published_at": "2026-10-09T11:56:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:57.196415+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T11:51:07+00:00",
+            "earliest_usable_published_at": "2026-10-09T11:24:36+00:00",
+            "latest_usable_published_at": "2026-10-09T11:51:07+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:57.460414+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-09T09:08:45+00:00",
+            "earliest_usable_published_at": "2026-10-08T22:00:00+00:00",
+            "latest_usable_published_at": "2026-10-09T09:08:45+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-09T12:02:58.801044+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-07T14:00:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-10-09T12:02:58.985699+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 3,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-09T08:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-08T12:25:00+00:00",
+            "latest_usable_published_at": "2026-10-09T08:00:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 42,
+      "drop_reasons": []
+    }
+  }
+}
