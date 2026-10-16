@@ -1999,5 +1999,2128 @@
       "dropped_count": 27,
       "drop_reasons": []
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "8f8714cf60d85e0c",
+        "continued_from": null,
+        "headline": "Norsk 19-åring dømt til 20 års fengsel i England",
+        "ingress": "En 19-åring fra Stavanger er i Woolwich Crown Court i London dømt til 20 års fengsel for drapsplanlegging.",
+        "summary": "En 19 år gammel mann fra Stavanger er av Woolwich Crown Court i London dømt til 20 års fengsel, med en minstetid på 13 år, for drapsplanlegging og drapsforbund. Ifølge britisk antiterrorpoliti skal tenåringen ha vært bare timer unna å utføre et drap knyttet til det kriminelle nettverket Foxtrot. Mannen risikerte i utgangspunktet livstid etter at han i mars i fjor ble pågrepet på et hotellrom i Huddersfield med to våpen i posisjonen sin, etter et avgjørende tips fra norsk politi. Dommen falt fredag. Forsvareren opplyser at den unge mannen er sterkt preget av situasjonen. Advokaten understreker at det nåviktigste arbeidet består i å få tenåringen utlevert til soning i Norge så raskt som overhodet mulig, slik at han kan sone nær familien sin i et norsk system som er tilrettelagt for rehabilitering av unge lovbrytere. Sakens parter og forsvarere jobber nå videre med de neste juridiske skrittene for å få til en overføring. Hendelsen har vakt oppmerksomhet både i britiske og norske medier på grunn av sakens alvorlige karakter og gjerningspersonens unge alder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/19-aring-domt-til-20-ars-fengsel-1.18056813",
+            "title": "19-åring dømt til 20 års fengsel",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:46:07+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/8Gv4Wx/20-aar-for-norsk-drapsforbund",
+            "title": "19-åring dømt til 20 år i britisk fengsel",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:47:09+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/R5qWgO/doemt-til-20-aar-i-fengsel-for-drapsplaner-i-england?utm_medium=rss",
+            "title": "Dømt til 20 år i fengsel for drapsplaner i England",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:17:15+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19322025",
+            "title": "Dømd til 20 års fengsel i England",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:47:08+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/norsk-19-aring-domt-til-20-ars-fengsel-i-storbritannia/s/80-95-165771",
+            "title": "Norsk 19-åring dømt til 20 års fengsel i Storbritannia",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:46:55+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "02418831c6bf392e",
+        "continued_from": null,
+        "headline": "Fire menn dømt etter skyting i leilighet på Grünerløkka",
+        "ingress": "Fire menn i 20-årene er dømt etter at en mann ble skutt i ryggen i Stolmakergata.",
+        "summary": "Fire menn i 20-årene har fått sine dommer etter en voldshendelse i en leilighet i Stolmakergata på Grünerløkka den 29. januar i fjor, der en mann ble skutt i ryggen. Ifølge domsslutningen ble offeret skutt da han forsøkte å flykte etter at flere maskerte menn hadde tvunget seg uventet inn i leiligheten. Av de tiltalte var det kun én person, en 21 år gammel mann, som ble kjent skyldig i selve drapsforsøket. For dette forholdet ble han idømt en fengselsstraff på fem og et halvt år. De tre gjenværende tiltalte i saken ble ikke felt for drapsforsøk, men ble i stedet dømt for andre alvorlige forhold, nærmere bestemt grove trusler eller for medvirkning til slike trusler. Saken har vært gjennom rettssystemet, og dommen stadfester hendelsesforløpet slik det ble presentert under rettssaken. Den domfelte 21-åringens forsvarer, advokat Tor Even Gjendem, har opplyst at han foreløpig ikke ønsker å gi noen ytterligere kommentarer til dommen eller utfallet av saken på vegne av sin klient.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/fire-menn-domt-etter-skyting-pa-grunerlokka-1.18056702",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:21:28+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0BkaJM/fire-menn-doemt-etter-skyting-paa-grunerloekka?utm_medium=rss",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:35:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0b5ea55fb97d1d1e",
+        "continued_from": null,
+        "headline": "Elon Musk donerer kjempesum til republikaner i Texas",
+        "ingress": "Elon Musk har gitt 158 millioner dollar for å støtte Ken Paxton.",
+        "summary": "Teknologimilliardæren Elon Musk har donert en betydelig sum på 158 millioner dollar for å hjelpe den republikanske politikeren Ken Paxton. Pengene er gitt i et forsøk på å sikre at Paxton går seirende ut i kampen mot den demokratiske favoritten i det kommende mellomvalget i Texas. Dette representerer en massiv finansiell støtte og en av de største kjente enkeltbidragene fra Musk til en politisk kampanje i denne valgkampen. Analytikere og observatører peker på at Musk gjennom denne rekordsummen viser en økende vilje til å bruke sin enorme formue til å påvirke den politiske maktbalansen og valgutfallet i USA på et strategisk nivå. Donasjonen har vakt oppmerksomhet nasjonalt og forsterker debatten rundt pengene sin rolle i amerikansk politikk og valgkampfinansiering. Det gjenstår å se om denne historisk høye pengeinnsatsen vil vise seg å være utslagsgivende for utfallet av valget i Texas i konkurransen mot demokratenes foretrukne kandidat.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/mKpkV1/musk-satser-rekordsum-paa-republikaner-i-texas?utm_medium=rss",
+            "title": "Musk satser rekordsum på republikaner i Texas",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:27:24+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19329235",
+            "title": "Musk satser rekordsum på republikaner i Texas",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:59:34+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "91bc164b39be44b3",
+        "continued_from": null,
+        "headline": "Fredriksen sluker Trøims tanksatsing på Børsen",
+        "ingress": "Tor Olav Trøims tanksatsing Bruton verdsettes til 3,5 milliarder kroner i en ny avtale med John Fredriksen.",
+        "summary": "Oslo Børs opplever en solid oppgang på ukens siste handelsdag, men nyheten om en storstilt oppkjøpsavtale setter tankrederiet Bruton i søkelyset ettersom aksjen faller. Investor Tor Olav Trøims tanksatsing, Bruton, verdsettes til om lag 3,5 milliarder kroner i avtalen. Transaksjonen innebærer at fire store tankskip samt Brutons største aksjonærer forlater Oslo Børs til fordel for New York, der John Fredriksen og International Seaways venter på den andre siden. Ifølge rapportene skal Brutons virksomhet og flåte innlemmes i International Seaways. Det bekreftes at transaksjonen markerer en betydelig endring for de involverte rederiene, der Trøim og hans investorer takker for seg i Norge og knytter seg tettere til det amerikanske markedet gjennom Fredriksens sfære. Saken belyser dynamikken i det maritime finansmarkedet og viser hvordan verdier i milliardklassen flyttes over landegrenser og børser gjennom strategiske oppkjøp og strukturendringer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/oslo-bors/finans/bors/troim-rederi-faller-etter-oppkjopsnyhet/2-1-2059753",
+            "title": "Trøim-rederi faller etter oppkjøpsnyhet",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:01:32+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/fredriksen-rederi-sluker-troim-rederi/2-1-2059763",
+            "title": "Fredriksen-rederi sluker Trøim-rederi",
+            "is_secondary": false,
+            "published_at": "2026-10-16T06:31:58+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing?utm_medium=rss",
+            "title": "Oppgang på Oslo Børs – Bruton faller",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:01:44+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/9peQRW/troeim-rederiet-bruton-skal-slaa-seg-sammen-med-international-seaways?utm_medium=rss",
+            "title": "Fredriksen-rederi kjøper Trøims tanksatsing",
+            "is_secondary": false,
+            "published_at": "2026-10-16T06:33:30+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9737caeccb981176",
+        "continued_from": null,
+        "headline": "Madrid fjerner boligdemonstranter etter dødsfall",
+        "ingress": "Plaza del Sol i Madrid stenges for rengjøring etter massive demonstrasjoner utløst av en 87-årings død.",
+        "summary": "Den spanske hovedstaden Madrid preges av dyp uro knyttet til en langvarig boligkrise preget av svært høye leiepriser. Situasjonen tilspisset seg kraftig etter at utkastelsen av den 87 år gamle pensjonisten Maricarmen Abascal ble et sterkt symbol på problemene. Hun deltok i demonstrasjonene, men gikk bort den 7. oktober. Dette dødsfallet utløste massive protester i byen. Nå melder regionpresidenten Isabel Díaz Ayuso fra Partido Liberal at Plaza del Sol skal stenges for rengjøring denne fredagen, ifølge avisen El Pais. Det er bekreftet at plassen stenges, men opplysningene knytter seg til en bredere politisk og sosial konfliktsituasjon der demonstranter krever endringer i boligpolitikk. Kildene viser til at situasjonen har skapt sterke reaksjoner i befolkningen, og myndighetenes tiltak med å stenge plassen blir av kritikerne sett i sammenheng med ønsket om å dempe demonstrasjonene som har preget byen over tid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/skal-fjerne-boligdemonstranter-1.18056761",
+            "title": "Skal fjerne boligdemonstranter",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:43:23+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3162630bfbcfa378",
+        "continued_from": null,
+        "headline": "Redaktørforeningen utsetter sak mot Hans Rustad",
+        "ingress": "Styret i Norsk Redaktørforening har gitt Document-redaktør Hans Rustad mer tid til å svare i medlemskapssaken.",
+        "summary": "Styret i Norsk Redaktørforening har besluttet å utsette behandlingen av om Document-redaktør Hans Rustad skal gis en formell advarsel. Rustad har fått noen ekstra dager til å utdype sine svar i tråd med foreningens vedtekter, for å sikre en ryddig prosess. Dette bekrefter styreleder Tora Bakke Håndlykken i en pressemelding. Bakgrunnen for utsettelsen er at styret stilte Rustad flere nye spørsmål knyttet til hans forhold til Pressens Faglige Utvalg (PFU) like før svarfristen. Spørsmålet om Rustads medlemskap i foreningen har vært oppe til vurdering siden i sommer. Saken vekker debatt ettersom kritikere mener han bør ekskluderes på grunn av påståtte brudd på Vær varsom-plakaten og spredning av konspirasjonsteorier. Dette er en pågående foreningssak der det ennå ikke er felt noen endelig dom fra styrets side, og situasjonen preges av ulike meninger om presseetikk og medlemskapsstandarder innad i organisasjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/document-redaktor-far-mer-tid-til-a-svare-1.18056573",
+            "title": "Document-redaktør får mer tid til å svare",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:18:52+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/eGX0RR/norsk-redaktoerforening-utsetter-sak-mot-document-redaktoer?utm_medium=rss",
+            "title": "Norsk Redaktørforening utsetter sak mot Document-redaktør",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:11:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b0a31b21e9175599",
+        "continued_from": null,
+        "headline": "Tesla viser ny Roadster under spektakulær fremvisning",
+        "ingress": "Tesla og Elon Musk har vist frem en ny sportsbil i Texas etter ni års ventetid.",
+        "summary": "Etter ni års ventetid har Tesla og Elon Musk vist frem sin nye Roadster under en spektakulær demonstrasjon i Texas. Bilen beskrives i mediene som en rakettbil og en flyvende modell, og presentasjonen har vakt oppsikt internasjonalt. Reaksjonene fra fagmiljøet spriker imidlertid. Mens selve demonstrasjonen omtales som det sprøeste man har sett på fire hjul og som helt vill av bileksperter, blir bilens faktiske nytteverdi møtt med sterk skepsis. I vurderinger fra kommentatorer og økonomisk presse blir lanseringen karakterisert som en teknologisk maktdemonstrasjon som mangler kommersiell verdi. Det blir blant annet spøkt med at James Bond ville vært flau over kjøretøyet. Disse uttalelsene representerer subjektive meningsytringer og analyser fra bil- og markedsfolk fremfor nøytrale nyhetsfakta, og illustrerer spenningen mellom Teslas teknologiske ambisjoner og den nøkterne vurderingen av bilens praktiske og økonomiske bærekraft i markedet fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/motor/tesla/ny-tesla-modell-teknologisk-maktdemonstrasjon-uten-kommersiell-verdi/2-1-2059705",
+            "title": "Ny Tesla-modell: – Teknologisk maktdemonstrasjon uten kommersiell verdi",
+            "is_secondary": false,
+            "published_at": "2026-10-16T03:58:20+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/ElqAno/ny-flyvende-tesla-modell-james-bond-ville-vaert-flau-over-bilen-sin?utm_medium=rss",
+            "title": "Ny, flyvende Tesla-modell. – James Bond ville vært flau over bilen sin.",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:45:17+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "8f8714cf60d85e0c",
+        "continued_from": null,
+        "headline": "Norsk 19-åring dømt til 20 års fengsel i England",
+        "ingress": "En 19-åring fra Stavanger er i Woolwich Crown Court i London dømt til 20 års fengsel for drapsplanlegging.",
+        "summary": "En 19 år gammel mann fra Stavanger er av Woolwich Crown Court i London dømt til 20 års fengsel, med en minstetid på 13 år, for drapsplanlegging og drapsforbund. Ifølge britisk antiterrorpoliti skal tenåringen ha vært bare timer unna å utføre et drap knyttet til det kriminelle nettverket Foxtrot. Mannen risikerte i utgangspunktet livstid etter at han i mars i fjor ble pågrepet på et hotellrom i Huddersfield med to våpen i posisjonen sin, etter et avgjørende tips fra norsk politi. Dommen falt fredag. Forsvareren opplyser at den unge mannen er sterkt preget av situasjonen. Advokaten understreker at det nåviktigste arbeidet består i å få tenåringen utlevert til soning i Norge så raskt som overhodet mulig, slik at han kan sone nær familien sin i et norsk system som er tilrettelagt for rehabilitering av unge lovbrytere. Sakens parter og forsvarere jobber nå videre med de neste juridiske skrittene for å få til en overføring. Hendelsen har vakt oppmerksomhet både i britiske og norske medier på grunn av sakens alvorlige karakter og gjerningspersonens unge alder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/19-aring-domt-til-20-ars-fengsel-1.18056813",
+            "title": "19-åring dømt til 20 års fengsel",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:46:07+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/8Gv4Wx/20-aar-for-norsk-drapsforbund",
+            "title": "19-åring dømt til 20 år i britisk fengsel",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:47:09+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/R5qWgO/doemt-til-20-aar-i-fengsel-for-drapsplaner-i-england?utm_medium=rss",
+            "title": "Dømt til 20 år i fengsel for drapsplaner i England",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:17:15+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19322025",
+            "title": "Dømd til 20 års fengsel i England",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:47:08+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/norsk-19-aring-domt-til-20-ars-fengsel-i-storbritannia/s/80-95-165771",
+            "title": "Norsk 19-åring dømt til 20 års fengsel i Storbritannia",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:46:55+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "02418831c6bf392e",
+        "continued_from": null,
+        "headline": "Fire menn dømt etter skyting i leilighet på Grünerløkka",
+        "ingress": "Fire menn i 20-årene er dømt etter at en mann ble skutt i ryggen i Stolmakergata.",
+        "summary": "Fire menn i 20-årene har fått sine dommer etter en voldshendelse i en leilighet i Stolmakergata på Grünerløkka den 29. januar i fjor, der en mann ble skutt i ryggen. Ifølge domsslutningen ble offeret skutt da han forsøkte å flykte etter at flere maskerte menn hadde tvunget seg uventet inn i leiligheten. Av de tiltalte var det kun én person, en 21 år gammel mann, som ble kjent skyldig i selve drapsforsøket. For dette forholdet ble han idømt en fengselsstraff på fem og et halvt år. De tre gjenværende tiltalte i saken ble ikke felt for drapsforsøk, men ble i stedet dømt for andre alvorlige forhold, nærmere bestemt grove trusler eller for medvirkning til slike trusler. Saken har vært gjennom rettssystemet, og dommen stadfester hendelsesforløpet slik det ble presentert under rettssaken. Den domfelte 21-åringens forsvarer, advokat Tor Even Gjendem, har opplyst at han foreløpig ikke ønsker å gi noen ytterligere kommentarer til dommen eller utfallet av saken på vegne av sin klient.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/fire-menn-domt-etter-skyting-pa-grunerlokka-1.18056702",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:21:28+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0BkaJM/fire-menn-doemt-etter-skyting-paa-grunerloekka?utm_medium=rss",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:35:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0b5ea55fb97d1d1e",
+        "continued_from": null,
+        "headline": "Elon Musk donerer kjempesum til republikaner i Texas",
+        "ingress": "Elon Musk har gitt 158 millioner dollar for å støtte Ken Paxton.",
+        "summary": "Teknologimilliardæren Elon Musk har donert en betydelig sum på 158 millioner dollar for å hjelpe den republikanske politikeren Ken Paxton. Pengene er gitt i et forsøk på å sikre at Paxton går seirende ut i kampen mot den demokratiske favoritten i det kommende mellomvalget i Texas. Dette representerer en massiv finansiell støtte og en av de største kjente enkeltbidragene fra Musk til en politisk kampanje i denne valgkampen. Analytikere og observatører peker på at Musk gjennom denne rekordsummen viser en økende vilje til å bruke sin enorme formue til å påvirke den politiske maktbalansen og valgutfallet i USA på et strategisk nivå. Donasjonen har vakt oppmerksomhet nasjonalt og forsterker debatten rundt pengene sin rolle i amerikansk politikk og valgkampfinansiering. Det gjenstår å se om denne historisk høye pengeinnsatsen vil vise seg å være utslagsgivende for utfallet av valget i Texas i konkurransen mot demokratenes foretrukne kandidat.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/mKpkV1/musk-satser-rekordsum-paa-republikaner-i-texas?utm_medium=rss",
+            "title": "Musk satser rekordsum på republikaner i Texas",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:27:24+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19329235",
+            "title": "Musk satser rekordsum på republikaner i Texas",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:59:34+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "91bc164b39be44b3",
+        "continued_from": null,
+        "headline": "Fredriksen sluker Trøims tanksatsing på Børsen",
+        "ingress": "Tor Olav Trøims tanksatsing Bruton verdsettes til 3,5 milliarder kroner i en ny avtale med John Fredriksen.",
+        "summary": "Oslo Børs opplever en solid oppgang på ukens siste handelsdag, men nyheten om en storstilt oppkjøpsavtale setter tankrederiet Bruton i søkelyset ettersom aksjen faller. Investor Tor Olav Trøims tanksatsing, Bruton, verdsettes til om lag 3,5 milliarder kroner i avtalen. Transaksjonen innebærer at fire store tankskip samt Brutons største aksjonærer forlater Oslo Børs til fordel for New York, der John Fredriksen og International Seaways venter på den andre siden. Ifølge rapportene skal Brutons virksomhet og flåte innlemmes i International Seaways. Det bekreftes at transaksjonen markerer en betydelig endring for de involverte rederiene, der Trøim og hans investorer takker for seg i Norge og knytter seg tettere til det amerikanske markedet gjennom Fredriksens sfære. Saken belyser dynamikken i det maritime finansmarkedet og viser hvordan verdier i milliardklassen flyttes over landegrenser og børser gjennom strategiske oppkjøp og strukturendringer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/oslo-bors/finans/bors/troim-rederi-faller-etter-oppkjopsnyhet/2-1-2059753",
+            "title": "Trøim-rederi faller etter oppkjøpsnyhet",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:01:32+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/fredriksen-rederi-sluker-troim-rederi/2-1-2059763",
+            "title": "Fredriksen-rederi sluker Trøim-rederi",
+            "is_secondary": false,
+            "published_at": "2026-10-16T06:31:58+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing?utm_medium=rss",
+            "title": "Oppgang på Oslo Børs – Bruton faller",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:01:44+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/9peQRW/troeim-rederiet-bruton-skal-slaa-seg-sammen-med-international-seaways?utm_medium=rss",
+            "title": "Fredriksen-rederi kjøper Trøims tanksatsing",
+            "is_secondary": false,
+            "published_at": "2026-10-16T06:33:30+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "9737caeccb981176",
+        "continued_from": null,
+        "headline": "Madrid fjerner boligdemonstranter etter dødsfall",
+        "ingress": "Plaza del Sol i Madrid stenges for rengjøring etter massive demonstrasjoner utløst av en 87-årings død.",
+        "summary": "Den spanske hovedstaden Madrid preges av dyp uro knyttet til en langvarig boligkrise preget av svært høye leiepriser. Situasjonen tilspisset seg kraftig etter at utkastelsen av den 87 år gamle pensjonisten Maricarmen Abascal ble et sterkt symbol på problemene. Hun deltok i demonstrasjonene, men gikk bort den 7. oktober. Dette dødsfallet utløste massive protester i byen. Nå melder regionpresidenten Isabel Díaz Ayuso fra Partido Liberal at Plaza del Sol skal stenges for rengjøring denne fredagen, ifølge avisen El Pais. Det er bekreftet at plassen stenges, men opplysningene knytter seg til en bredere politisk og sosial konfliktsituasjon der demonstranter krever endringer i boligpolitikk. Kildene viser til at situasjonen har skapt sterke reaksjoner i befolkningen, og myndighetenes tiltak med å stenge plassen blir av kritikerne sett i sammenheng med ønsket om å dempe demonstrasjonene som har preget byen over tid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/skal-fjerne-boligdemonstranter-1.18056761",
+            "title": "Skal fjerne boligdemonstranter",
+            "is_secondary": false,
+            "published_at": "2026-10-16T10:43:23+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3162630bfbcfa378",
+        "continued_from": null,
+        "headline": "Redaktørforeningen utsetter sak mot Hans Rustad",
+        "ingress": "Styret i Norsk Redaktørforening har gitt Document-redaktør Hans Rustad mer tid til å svare i medlemskapssaken.",
+        "summary": "Styret i Norsk Redaktørforening har besluttet å utsette behandlingen av om Document-redaktør Hans Rustad skal gis en formell advarsel. Rustad har fått noen ekstra dager til å utdype sine svar i tråd med foreningens vedtekter, for å sikre en ryddig prosess. Dette bekrefter styreleder Tora Bakke Håndlykken i en pressemelding. Bakgrunnen for utsettelsen er at styret stilte Rustad flere nye spørsmål knyttet til hans forhold til Pressens Faglige Utvalg (PFU) like før svarfristen. Spørsmålet om Rustads medlemskap i foreningen har vært oppe til vurdering siden i sommer. Saken vekker debatt ettersom kritikere mener han bør ekskluderes på grunn av påståtte brudd på Vær varsom-plakaten og spredning av konspirasjonsteorier. Dette er en pågående foreningssak der det ennå ikke er felt noen endelig dom fra styrets side, og situasjonen preges av ulike meninger om presseetikk og medlemskapsstandarder innad i organisasjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/document-redaktor-far-mer-tid-til-a-svare-1.18056573",
+            "title": "Document-redaktør får mer tid til å svare",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:18:52+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/eGX0RR/norsk-redaktoerforening-utsetter-sak-mot-document-redaktoer?utm_medium=rss",
+            "title": "Norsk Redaktørforening utsetter sak mot Document-redaktør",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:11:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b0a31b21e9175599",
+        "continued_from": null,
+        "headline": "Tesla viser ny Roadster under spektakulær fremvisning",
+        "ingress": "Tesla og Elon Musk har vist frem en ny sportsbil i Texas etter ni års ventetid.",
+        "summary": "Etter ni års ventetid har Tesla og Elon Musk vist frem sin nye Roadster under en spektakulær demonstrasjon i Texas. Bilen beskrives i mediene som en rakettbil og en flyvende modell, og presentasjonen har vakt oppsikt internasjonalt. Reaksjonene fra fagmiljøet spriker imidlertid. Mens selve demonstrasjonen omtales som det sprøeste man har sett på fire hjul og som helt vill av bileksperter, blir bilens faktiske nytteverdi møtt med sterk skepsis. I vurderinger fra kommentatorer og økonomisk presse blir lanseringen karakterisert som en teknologisk maktdemonstrasjon som mangler kommersiell verdi. Det blir blant annet spøkt med at James Bond ville vært flau over kjøretøyet. Disse uttalelsene representerer subjektive meningsytringer og analyser fra bil- og markedsfolk fremfor nøytrale nyhetsfakta, og illustrerer spenningen mellom Teslas teknologiske ambisjoner og den nøkterne vurderingen av bilens praktiske og økonomiske bærekraft i markedet fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/motor/tesla/ny-tesla-modell-teknologisk-maktdemonstrasjon-uten-kommersiell-verdi/2-1-2059705",
+            "title": "Ny Tesla-modell: – Teknologisk maktdemonstrasjon uten kommersiell verdi",
+            "is_secondary": false,
+            "published_at": "2026-10-16T03:58:20+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/ElqAno/ny-flyvende-tesla-modell-james-bond-ville-vaert-flau-over-bilen-sin?utm_medium=rss",
+            "title": "Ny, flyvende Tesla-modell. – James Bond ville vært flau over bilen sin.",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:45:17+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "612e38c3102255cd",
+        "continued_from": null,
+        "headline": "370.000 uten strøm etter russiske angrep i Ukraina",
+        "ingress": "Russiske droneangrep har gjort at 370.000 mennesker er strømløse i Volyn-fylket i Ukraina. Polske kampfly ble sendt opp for å beskytte luftrommet, og sivile ble rammet i flere andre byer.",
+        "summary": "Omfattende russiske droneangrep mot Ukraina har ført til at om lag 370.000 mennesker i det ukrainske fylket Volyn, som grenser til Polen, er uten strøm. Det bekreftes at polske kampfly har blitt sendt på vingene for å beskytte landets luftrom, ifølge militære myndigheter på X. I tillegg til strømbruddene har angrep krevd menneskeliv og skadet infrastruktur andre steder i landet. Blant annet melder guvernøren i Kharkiv fylke at tre personer ble drept og flere såret i et droneangrep mot byen Kharkiv øst i landet. Det har også vært russiske angrep mot en boligblokk i byen Uman midt i landet. Samtidig opplyser det russiske forsvarsdepartementet at de har gjennomført angrep mot mål i havnebyen Odesa. Det er verdt å merke seg at opplysningene om angrepet i Odesa foreløpig ikke er bekreftet fra ukrainsk hold. Situasjonen understreker den vedvarende og alvorlige trusselen mot sivil infrastruktur og befolkning i Ukraina som følge av de pågående militære handlingene. Analytikere påpeker at bruken av droneangrep mot kraftforsyning er en bevisst strategi for å ramme sivil morale og funksjonalitet. Det er foreløpig ikke meldt om endringer i de militære posisjonene på bakken som følge av akkurat disse spesifikke angrepene, men nødhjelpsarbeidere og lokale myndigheter jobber på spreng med å håndtere konsekvensene for de rammede innbyggerne i de ulike fylkene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/370.000-stromlose-etter-russiske-angrep-1.18056578",
+            "title": "370.000 strømløse etter russiske angrep",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:57:42+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/2VJXOG/hundretusener-av-ukrainere-har-mistet-stroemmen-etter-russiske-droneangrep?utm_medium=rss",
+            "title": "Hundretusener av ukrainere har mistet strømmen etter russiske droneangrep",
+            "is_secondary": false,
+            "published_at": "2026-10-16T06:41:15+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2994350c2373ecda",
+        "continued_from": null,
+        "headline": "Fire menn dømt etter skyting på Grünerløkka",
+        "ingress": "Fire menn i 20-årene er dømt etter at en mann ble skutt i ryggen under et innbrudd i en leilighet i Stolmakergata på Grünerløkka i fjor.",
+        "summary": "Fire menn i 20-årene har fått sine dommer etter at en mann ble skutt i ryggen i en leilighet i Stolmakergata på Grünerløkka den 29. januar i fjor. Det er Avisa Oslo som først meldte om dommen. Kun én av de tiltalte, en 21 år gammel mann, ble dømt for selve drapsforsøket. Han ble tildelt en straff på fem og et halvt års fengsel for sin rolle. De øvrige tre mennene i saken ble dømt for enten grove trusler eller medvirkning til dette. Ifølge rettens domme framkom det at offeret ble skutt idet han gjorde et forsøk på å flykte fra stedet. Dette skjedde etter at en gruppe maskerte menn hadde tvunget seg urettmessig inn i leiligheten. Saken har vakt oppmerksomhet på grunn av sin voldelige karakter i et ellers sentralt strøk i hovedstaden. 21-åringens forsvarer, advokat Tor Even Gjendem, har foreløpig valgt å ikke kommentere dommen eller utfallet av rettssaken. Det er på nåværende tidspunkt uvisst om dommen vil bli anket av noen av de involverte partene, og domfelte har ordinær frist til å ta stilling til dette i samråd med sine forsvarere. Retten la i sin vurdering vekt på bevisene knyttet til innbruddet og fluktforsøket, samt de tiltaltes roller i hendelsesforløpet som ledet opp til selve skytingen i leiligheten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/fire-menn-domt-etter-skyting-pa-grunerlokka-1.18056702",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:21:28+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/0BkaJM/fire-menn-doemt-etter-skyting-paa-grunerloekka?utm_medium=rss",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:35:10+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/fire-menn-domt-etter-skyting-pa-gr-nerlokka/s/80-95-165903",
+            "title": "Fire menn dømt etter skyting på Grünerløkka",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:25:37+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "89f371f4276aa606",
+        "continued_from": null,
+        "headline": "Tesla viste frem ny modell under demonstrasjon i Texas",
+        "ingress": "Tesla har avduket en ny bilmodell under en demonstrasjon i Texas. Lanseringen har høstet ulike reaksjoner og beskrivelser fra eksperter.",
+        "summary": "Etter ni års venting har Tesla vist frem sin nye Roadster under en spektakulær demonstrasjon avholdt i Texas. Lanseringen har vekket oppmerksomhet og skapt debatt i bilmiljøet, der opplevelsene av kjøretøyet spriker stort. Noen omtaler kjøretøyet som en teknologisk maktdemonstrasjon uten umiddelbar kommersiell verdi, mens andre trekker frem ekstreme visuelle og fartsmessige egenskaper. Blant annet har bilmodellen blitt omtalt i media i relasjon til flyvende egenskaper og rakettlignende designelementer. En bilekspert som har uttalt seg om presentasjonen, beskriver bilen som noe av det sprøeste han har sett på fire hjul og karakteriserer den som helt vilt, samtidig som det blir spøkt med at den fremstår oppsiktsvekkende nok til at til og med fiktive figurer som James Bond ville stusset. Det er verdt å merke seg at disse vurderingene i stor grad er basert på meningsbærende omtaler og ekspertkommentarer fra selve lanseringseventset heller enn nøkterne, verifiserte forbrukertester. Det gjenstår å se hvordan kjøretøyet vil prestere under faktiske forhold på veien, og om de teknologiske ambisjonene som Elon Musk og Tesla presenterte i natt, vil la seg realisere i en framtidig produksjonsmodell for det åpne markedet. Skeptikere stiller spørsmål ved den praktiske nytteverdien og produksjonstidslinjen, mens tilhengerne lar seg fascinere av innovasjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/motor/tesla/ny-tesla-modell-teknologisk-maktdemonstrasjon-uten-kommersiell-verdi/2-1-2059705",
+            "title": "Ny Tesla-modell: – Teknologisk maktdemonstrasjon uten kommersiell verdi",
+            "is_secondary": false,
+            "published_at": "2026-10-16T03:58:20+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/w3blyP/denne-bilen-kan-fly",
+            "title": "Denne bilen kan fly",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:51:00+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/ElqAno/ny-flyvende-tesla-modell-james-bond-ville-vaert-flau-over-bilen-sin?utm_medium=rss",
+            "title": "Ny, flyvende Tesla-modell. – James Bond ville vært flau over bilen sin.",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:45:17+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7a4422ed872587d0",
+        "continued_from": null,
+        "headline": "Grønland vil forby dyphavsgruvedrift i nytt lovforslag",
+        "ingress": "Grønlands parlament har enstemmig vedtatt et forslag om å pålegge regjeringen å utarbeide et forbud mot dyphavsgruvedrift ut 2029.",
+        "summary": "Grønlands parlament har vedtatt et enstemmig forslag som forplikter regjeringen til å utarbeide et regelverk som forbyr dyphavsgruvedrift. Forbudet er i vedtaket foreslått å gjelde frem til 31. desember 2029, med mulighet for å forlenge tiltaket i perioder på to år av gangen dersom det finnes hensiktsmessig. Under behandlingen av saken i parlamentet, og i forkant av selve avstemningen, ble det lagt frem et svarnotat fra regjeringen. I dette notatet uttrykte regjeringens representanter at de var enige i de grunnleggende betraktningene som lå til grunn for forslaget. Videre opplyste regjeringen i svarnotatet at et konkret lovforslag vil bli lagt fram i løpet av nyåret, ifølge nyhetsbyrået NTB. Dette indikerer en bred politisk enighet på Grønland om å ta et føre-var-prinsipp i bruk når det gjelder utvinning av mineraler på havbunnen. Analytikere peker på at dette kan få betydning for fremtidige industrielle planer i regionen, ettersom miljøhensyn og beskyttelse av sårbare marine økosystemer veier tungt for politikerne. Det gjenstår å se hvordan det endelige lovforslaget blir utformet i detalj når regjeringen fremlegger det på nyåret, samt hvilke konsekvenser det vil få for eventuelle selskaper som har sett på mulige maritime utvinningmuligheter i grønlandske havområder de kommende årene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/gronlands-parlament-foreslar-a-forby-dyphavsgruvedrift-1.18056412",
+            "title": "Grønlands parlament foreslår å forby dyphavsgruvedrift",
+            "is_secondary": false,
+            "published_at": "2026-10-16T03:34:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bb6693c6ad12091d",
+        "continued_from": null,
+        "headline": "Kilder: Det hvite hus beordret begrensning av Starshield",
+        "ingress": "Ordren om å begrense Starshield skal ha kommet direkte fra Det hvite hus, ifølge opplysninger fra kilder til nyhetsbyrået Reuters.",
+        "summary": "Beslutningen om å innføre begrensninger på Starshield stammer fra Det hvite hus. Det er ikke en nøytral nyhetsbekreftelse fra offisielle hold, men opplysninger som videreformidles basert på utsagn fra ikke-navngitte kilder til nyhetsbyrået Reuters. Slike kildebaserte opplysninger gir et innblikk i mulige politiske eller strategiske føringer bak kulissene, men mangler offisiell verifikasjon fra amerikanske myndigheter på tidspunktet for publisering. Det er i kildene ikke lagt frem ytterligere detaljer om de eksakte årsakene til at ordren ble gitt, eller hvilke konkrete operasjonelle konsekvenser begrensningene vil ha for systemet. Analytikere påpeker at situasjoner som involverer sensitiv teknologi og sikkerhetspolitikk ofte er preget av uoffisielle lekkasjer for å teste reaksjoner eller signalisere politiske prioriteringer. Det gjenstår å se om Det hvite hus eller andre involverte aktører vil velge å kommentere opplysningene offisielt eller bekrefte ordrummets eksistens i etterkant. Inntil en slik offisiell bekreftelse foreligger, må informasjonen betraktes som ubekreftede etterretnings- eller kildeopplysninger som krever ytterligere journalistisk verifikasjon før man kan trekke faste slutninger om sakens fulle omfang og konsekvenser.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar",
+          "geopolitikk"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/9kMdQd/ordren-om-aa-begrense-starshield-kom-fra-det-hvite-hus-sier-kilder-til-reuters?utm_medium=rss",
+            "title": "Ordren om å begrense Starshield kom fra Det hvite hus, sier kilder til Reuters",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:27:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3af837528cf67b8b",
+        "continued_from": null,
+        "headline": "Indonesiske skogbranner sprer røk og skaper krise i Sørøst-Asia",
+        "ingress": "Hundrevis av skogbranner i Indonesia fører til kraftig luftforurensning og stengte skoler i nabolandene. Det ekstreme været knyttes til El Niño.",
+        "summary": "Skogdepartementet i Indonesia rapporterer om 799 pågående skogbranner i landet, hvorav antallet har økt med over 400 bare i løpet av det siste døgnet. Situasjonen er mest alvorlig på øyene Sumatra og Borneo, hvor det brenner kraftig. Røyken fra disse brannene har spredt seg over store deler av Sørøst-Asia og skaper store utfordringer for sivilbefolkningen. I Malaysia har hundrevis av skoler måttet stenge dørene som følge av den dårlige luftkvaliteten. Nabolandet Singapore er også hardt rammet av røykmassene, som i tillegg har nådd helt til Filippinene, over 800 kilometer unna. Ifølge myndighetene og eksperter knyttes det store antallet branner til det globale værfenomenet El Niño, som har ført til økt tørke i regionen. Vannmangel har i tillegg gjort det krevende å gjennomføre slukningsarbeidet effektivt. Situasjonen har vekket politiske reaksjoner, og Singapores statsminister Lawrence Wong uttrykker frustrasjon og ønsker nå å finne fram til hvilke selskaper som kan holdes ansvarlige for brannene, med en himmel over Indonesia som har blitt oransje og en luftforurensning som betegnes som den verste på over ti år. Analytikere vurderer krisen som et alvorlig problem både for helsen til millioner av innbyggere i regionen og for den regionale miljøpolitikkens fremtidige håndtering av slike gjentatte naturkriser.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/royk-fra-indonesiske-skogbranner-sprer-seg-i-asia-1.18056439",
+            "title": "Røyk fra indonesiske skogbranner sprer seg i Asia",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:17:35+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/indonesia/singapore/malaysia/royken-kveler-sorost-asia-singapore-leter-etter-skyldige/2-1-2059688",
+            "title": "Røyken kveler Sørøst-Asia – Singapore leter etter skyldige",
+            "is_secondary": false,
+            "published_at": "2026-10-16T01:55:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "361d7827cfd75991",
+        "continued_from": null,
+        "headline": "Casper Ruud slått ut i kvartfinalen i Shanghai",
+        "ingress": "Casper Ruud vant det første settet, men måtte se seg slått av den spanske motstanderen i Shanghai Masters.",
+        "summary": "Casper Ruud røk ut av Shanghai Masters etter å ha tapt kvartfinalen mot sin spanske motstander. Nordmannen startet lovende og sikret seg seieren i det første settet med sifrene fire mot seks. Deretter snudde kampen fullstendig. Spanjolen tok over initiativet i oppgjøret og dominerte de neste settene, som endte med seks mot fire og seks mot tre i favør av motstanderen. Dermed ble det et surt tap for den norske tennisspilleren, som ble sendt ut av turneringen etter å ha gitt bort ledelsen og sluppet til hele fire matchballer mot seg. Tapet betyr at Ruud er ferdig i turneringen i Kina, mens den unge spanjolen avanserer videre. Slik situasjonen fremsto gjennom kildene, var det en kamp der Ruud først hadde kontroll, men der motstanderen gradvis spilte seg opp og utnyttet sjansene sine effektivt i innspurten av oppgjøret. Dette ble dermed endt stopp for det norske håpet i denne omgangen av turneringen, til tross for en oppløftende start på kvartfinalen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/d7p2nz/shanghai-masters-casper-ruud-utslaatt-av-rafael-jodar",
+            "title": "Casper Ruud trengte et mirakel: Tapte kvartfinalen i Shanghai Masters",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:02:19+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/kvartfinaletap-for-casper-ruud-i-shanghai/s/80-95-165753",
+            "title": "Kvartfinaletap for Casper Ruud i Shanghai",
+            "is_secondary": false,
+            "published_at": "2026-10-16T09:04:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "f76375ba003d3f25",
+        "continued_from": null,
+        "headline": "Ekspert advarer om Ukrainas skjebne i usikker fremtid",
+        "ingress": "En ekspert frykter for Ukrainas fremtid og mener situasjonen bør bekymre europeere dypt.",
+        "summary": "I en analyse presentert i kildene uttrykkes det sterk bekymring for Ukrainas videre skjebne i krigen mot Russland. Ifølge en ekspert på området er det spesielt to kommende politiske valg som vil bli helt avgjørende for landets fremtid det neste halvåret. Blant annet trekkes mellomvalget i USA frem som en kritisk faktor som kan snu opp ned på den videre støtten landet mottar. Vurderingen som fremsettes er preget av dyp uro, og det påpekes at utviklingen burde få det til å gå kaldt nedover ryggen på europeiske ledere og innbyggere. Dette er en analyse av den geopolitiske situasjonen, og den belyser en sårbarhet som kan få store konsekvenser for sikkerheten i hele Europa dersom den internasjonale støtten til Ukraina skulle svikte i denne kritiske fasen. Det skilles her tydelig mellom den faktiske situasjonen på bakken og ekspertens egne vurderinger av fremtidsutsiktene, hvor det advares mot å ta den videre støtten for gitt i månedene som kommer.",
+        "content_type": "analyse_vurderende",
+        "content_group": "kommentar_debatt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk",
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/qybrRE/ekspert-frykter-ukrainas-skjebne-boer-gaa-kaldt-nedover-ryggen-paa-europeerne?utm_medium=rss",
+            "title": "Ekspert frykter Ukrainas skjebne: – Bør gå kaldt nedover ryggen på europeerne",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:40:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "1b747e2fda463ac3",
+        "continued_from": null,
+        "headline": "Tvungen mekling i pågående togstreik",
+        "ingress": "Partene i togstreiken møtes til tvungen mekling hos Riksmekleren etter en måneds konflikt.",
+        "summary": "Etter en langvarig togstreik som har pågått siden attende september, har Riksmekleren innkalt partene til tvungen mekling. Norsk Lokomotivførerforbund og arbeidsgiverforeningen Spekter møttes fredag formiddag hos Riksmekleren for å gjøre et nytt forsøk på å finne en løsning på konflikten. Streiken har rammet togtrafikken og omfattet et sjtitalls lokomotivførere. Før møtestart uttrykte både forbundets leder Rolf Ringdal og Spekters administrerende direktør Anne-Kari Bratten et håp om at det skal være mulighet for å nå en enighet. Riksmekler Mats Ruland uttalte til NTB i forkant at han hadde tro på en konstruktiv dialog og at begge parter fremstod som klare for å finne en løsning på uenighetene. Likevel har det blitt meldt om at partene står et stykke fra hverandre etter den lange perioden med stillstand. Det er bekreftet at møtet startet som planlagt, men utfallet av meklingsmøtet og hvorvidt streiken vil bli avblåst, gjenstår å se mens samtalene pågår under Riksmeklerens ledelse for å få en ende på den langvarige arbeidskonflikten i sporet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/tvungen-mekling-i-togstreiken-1.18056622",
+            "title": "Tvungen mekling i togstreiken",
+            "is_secondary": false,
+            "published_at": "2026-10-16T08:29:23+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/okonomi/i/GrqmkJ/lokfoererne-foer-ny-megling-haaper-paa-loesning-i-togstreiken?utm_medium=rss",
+            "title": "Lokførerne før ny megling: – Håper på løsning i togstreiken",
+            "is_secondary": false,
+            "published_at": "2026-10-16T08:24:05+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19328106",
+            "title": "Tvungen mekling i togstreiken i dag: – På høy tid å få slutt på streiken",
+            "is_secondary": false,
+            "published_at": "2026-10-16T04:03:36+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "0e10ad1bce940312",
+        "continued_from": null,
+        "headline": "Forbrukerrådet reiser massesøksmål mot Nordea",
+        "ingress": "Forbrukerrådet saksøker Nordea for manglende renter på leietageres depositum gjennom flere år.",
+        "summary": "Forbrukerrådet har besluttet å gå til massesøksmål mot Nordea på vegne av tusenvis av berørte kunder. Bakgrunnen for søksmålet er at leietagere over flere år skal ha blitt stående igjen med null i rente på sine leieforholdets depositumskontoer. Gjennom dette massesøksmålet kreves det nå renteerstatning for alle de kundene som har tapt penger på denne praksisen. Saken har blitt kjent gjennom meldinger fra finanspressen, hvor det bekreftes at Forbrukerrådet tar dette rettslige skrittet mot banken for å rydde opp i det de mener er urettmessige vilkår for innskudlerne. Det er foreløpig ikke kjent nøyaktig hvordan banken vil svare utover det rettslige søksmålet, men saken reiser viktige spørsmål om bankenes behandling av klientmidler og depositumskontoer over tid. Forbrukerrådet opptrer som part på vegne av forbrukerne i denne saken, som kan få stor betydning for lignende saker i finanssektoren dersom søksmålet fører fram i rettssystemet. Dette markerer en alvorlig opptrapping i konflikten mellom forbrukerorganisasjonen og en av de store aktørene i det norske bankmarkedet knyttet til rentebetingelsene på leietagernes midler.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/forbrukerradet-gar-til-massesoksmal-mot-nordea/2-1-2057270",
+            "title": "Forbrukerrådet går til massesøksmål mot Nordea",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:30:39+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/okonomi/i/Jrq2d6/forbrukerraadet-til-massesoeksmaal-mot-nordea?utm_medium=rss",
+            "title": "Forbrukerrådet til massesøksmål mot Nordea",
+            "is_secondary": false,
+            "published_at": "2026-10-16T07:47:07+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c409dcca6de85b9f",
+        "continued_from": null,
+        "headline": "Ny Nasa-laser på Svalbard måler satellitter",
+        "ingress": "En nyutviklet avstandsmåler fra Nasa er installert og tatt i bruk i Ny-Ålesund på Svalbard.",
+        "summary": "En avansert satellittavstandsmåler, utviklet av den amerikanske romfartsorganisasjonen Nasa, er nå offisielt i operativ drift på Svalbard. Utstyret er plassert i Ny-Ålesund og skal brukes til presise målinger av satellitter i bane rundt jorden. Etableringen av denne laseren har stor betydning for flere vitenskapelige og praktiske områder. Blant annet er den viktig for å forbedre satellittnavigasjonen, noe som gir mer nøyaktige posisjonstjenester. I tillegg spiller teknologien en vesentlig rolle i overvåkingen av globale klimaendringer, ved at den bidrar til å samle inn pålitelige og nøyaktige data over tid. Dette prosjektet understreker Svalbards posisjon som et sentralt knutepunkt for internasjonal forskning og miljøovervåking i arktiske strøk. Slik det fremgår av kilden, er anlegget nå fullt operativt og integrert i det eksisterende nettverket av observasjonsposter som arbeider med å forstå klimaets utvikling og sikre stabil infrastruktur for satellittbaserte tjenester globalt. Det er et konkret eksempel på internasjonalt samarbeid innen romfart og forskning på norsk jord i nordområdene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "jordobservasjon_ovrig",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19328758",
+            "title": "Nasa-laser følger satellitter fra Svalbard",
+            "is_secondary": false,
+            "published_at": "2026-10-16T08:38:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c7083e7e260a15f0",
+        "continued_from": null,
+        "headline": "Christine Lagarde pekes ut som ny WEF-leder",
+        "ingress": "Sentralbanksjef Christine Lagarde nevnes som en potensiell etterfølger etter Børge Brende i WEF.",
+        "summary": "I en analyse og vurdering som har kommet frem i nyhetsbildet, blir den europeiske sentralbanksjefen Christine Lagarde trukket frem som en sannsynlig kandidat til å ta over den prestisjetunge jobben som leder for Verdens økonomiske forum. Organisasjonen, bedre kjent som WEF, har hatt Børge Brende ved roret, men spekulasjonene om hvem som kan bli hans etterfølger er nå i gang. Det understrekes at dette foreløpig er spekulasjoner og vurderinger rundt hvem som kan passe til rollen, fremfor en offisiell utnevnelse fra styret i forumet. Lagarde har en tung internasjonal bakgrunn fra både Det internasjonale valutafondet og Den europeiske sentralbanken, noe som gjør henne til et naturlig navn i diskusjoner om globale lederverv av denne typen. Det skilles dermed klart mellom faktiske kunngjøringer og denne typen analytiske frampek om mulige fremtidigem lederkabaler på toppnivå i internasjonal økonomi og politikk. Foreløpig er det ikke bekreftet fra verken WEF eller Lagarde selv at en slik overgang er aktuell, og det hele forblir en vurdering av mulige kandidater til en av de mest sentrale posisjonene innen internasjonal samfunnsdebatt og næringsliv.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/internasjonal-oekonomi/i/GrqjW4/pekes-ut-som-mulig-wef-leder?utm_medium=rss",
+            "title": "Pekes ut som mulig WEF-leder",
+            "is_secondary": false,
+            "published_at": "2026-10-15T15:12:49+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-10-16T13:46:30.796430+02:00",
+    "edition_date": "2026-10-16",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 26,
+        "missing_source_count": 14,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 208,
+        "undated_article_count": 7,
+        "future_article_count": 0,
+        "stale_article_count": 11
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:40.189146+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T10:46:07+00:00",
+          "earliest_usable_published_at": "2026-10-16T05:35:30+00:00",
+          "latest_usable_published_at": "2026-10-16T10:46:07+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:40.334624+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T10:31:21+00:00",
+          "earliest_usable_published_at": "2026-10-16T01:56:01+00:00",
+          "latest_usable_published_at": "2026-10-16T10:31:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:41.040786+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:13:25+00:00",
+          "earliest_usable_published_at": "2026-10-15T13:51:29+00:00",
+          "latest_usable_published_at": "2026-10-16T11:13:25+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:41.310394+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:44:15+00:00",
+          "earliest_usable_published_at": "2026-10-16T10:45:40+00:00",
+          "latest_usable_published_at": "2026-10-16T11:44:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:41.575795+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:22:30+00:00",
+          "earliest_usable_published_at": "2026-10-16T06:41:15+00:00",
+          "latest_usable_published_at": "2026-10-16T11:22:30+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:41.999551+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:17:40+00:00",
+          "earliest_usable_published_at": "2026-10-16T00:53:28+00:00",
+          "latest_usable_published_at": "2026-10-16T11:17:40+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:42.560822+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:41:21+00:00",
+          "earliest_usable_published_at": "2026-10-16T09:57:32+00:00",
+          "latest_usable_published_at": "2026-10-16T11:41:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:43.081967+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:38:50+00:00",
+          "earliest_usable_published_at": "2026-10-16T10:38:11+00:00",
+          "latest_usable_published_at": "2026-10-16T11:38:50+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:43.531353+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:11:17+00:00",
+          "earliest_usable_published_at": "2026-10-16T09:28:57+00:00",
+          "latest_usable_published_at": "2026-10-16T11:11:17+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:43.820179+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:01:39+00:00",
+          "earliest_usable_published_at": "2026-10-16T04:00:00+00:00",
+          "latest_usable_published_at": "2026-10-16T11:01:39+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:44.703213+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:31:14+00:00",
+          "earliest_usable_published_at": "2026-10-16T09:49:23+00:00",
+          "latest_usable_published_at": "2026-10-16T11:31:14+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:45.370231+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:30:00+00:00",
+          "earliest_usable_published_at": "2026-10-16T09:00:00+00:00",
+          "latest_usable_published_at": "2026-10-16T11:30:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:45.752068+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:41:00+00:00",
+          "earliest_usable_published_at": "2026-10-16T10:09:00+00:00",
+          "latest_usable_published_at": "2026-10-16T11:41:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:46.162338+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:34:12+00:00",
+          "earliest_usable_published_at": "2026-10-16T11:26:00+00:00",
+          "latest_usable_published_at": "2026-10-16T11:34:12+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:46.300119+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:27:20+00:00",
+          "earliest_usable_published_at": "2026-10-16T04:15:37+00:00",
+          "latest_usable_published_at": "2026-10-16T11:27:20+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:46.467898+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T10:29:55+00:00",
+          "earliest_usable_published_at": "2026-10-15T21:10:51+00:00",
+          "latest_usable_published_at": "2026-10-16T10:29:55+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:46.971131+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:41:58+00:00",
+          "earliest_usable_published_at": "2026-10-16T05:00:17+00:00",
+          "latest_usable_published_at": "2026-10-16T11:41:58+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:47.136966+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T10:27:33+00:00",
+          "earliest_usable_published_at": "2026-10-16T03:00:23+00:00",
+          "latest_usable_published_at": "2026-10-16T10:27:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-16T11:44:47.316487+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:47.517381+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:25:22+00:00",
+          "earliest_usable_published_at": "2026-10-16T04:00:14+00:00",
+          "latest_usable_published_at": "2026-10-16T11:25:22+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-16T11:44:47.578787+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:47.647332+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:30:01+00:00",
+          "earliest_usable_published_at": "2026-10-16T10:42:49+00:00",
+          "latest_usable_published_at": "2026-10-16T11:30:01+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:48.174025+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:05:45+00:00",
+          "earliest_usable_published_at": "2026-10-16T10:12:34+00:00",
+          "latest_usable_published_at": "2026-10-16T11:05:45+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:48.314220+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T11:41:03+00:00",
+          "earliest_usable_published_at": "2026-10-16T09:37:30+00:00",
+          "latest_usable_published_at": "2026-10-16T11:41:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:48.500346+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T10:58:23+00:00",
+          "earliest_usable_published_at": "2026-10-16T09:20:46+00:00",
+          "latest_usable_published_at": "2026-10-16T10:58:23+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:48.601406+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-16T09:38:24+00:00",
+          "earliest_usable_published_at": "2026-10-16T06:59:56+00:00",
+          "latest_usable_published_at": "2026-10-16T09:38:24+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:49.669421+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 1,
+          "future_article_count": 0,
+          "stale_article_count": 2,
+          "latest_published_at": "2026-10-15T14:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-15T14:00:00+00:00",
+          "latest_usable_published_at": "2026-10-15T14:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-10-16T11:44:49.740467+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-10-16T08:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-16T08:00:00+00:00",
+          "latest_usable_published_at": "2026-10-16T08:00:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-16T13:44:40.189119+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-16T11:44:40.189146+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-16T11:44:40.334624+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-16T11:44:41.040786+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-16T11:44:41.310394+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-16T11:44:41.575795+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-16T11:44:41.999551+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-16T11:44:42.560822+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-16T11:44:43.081967+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-16T11:44:43.531353+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-16T11:44:43.820179+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-16T11:44:44.703213+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-16T11:44:45.370231+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-16T11:44:45.752068+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-16T11:44:46.162338+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-16T11:44:46.300119+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-16T11:44:46.467898+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-16T11:44:46.971131+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-16T11:44:47.136966+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-16T11:44:47.316487+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-16T11:44:47.517381+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-16T11:44:47.578787+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-16T11:44:47.647332+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-16T11:44:48.174025+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-16T11:44:48.314220+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-16T11:44:48.500346+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-16T11:44:48.601406+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-16T11:44:49.669421+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-16T11:44:49.740467+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 26,
+          "missing_source_count": 14,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 208,
+          "undated_article_count": 7,
+          "future_article_count": 0,
+          "stale_article_count": 11
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:40.189146+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T10:46:07+00:00",
+            "earliest_usable_published_at": "2026-10-16T05:35:30+00:00",
+            "latest_usable_published_at": "2026-10-16T10:46:07+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:40.334624+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T10:31:21+00:00",
+            "earliest_usable_published_at": "2026-10-16T01:56:01+00:00",
+            "latest_usable_published_at": "2026-10-16T10:31:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:41.040786+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:13:25+00:00",
+            "earliest_usable_published_at": "2026-10-15T13:51:29+00:00",
+            "latest_usable_published_at": "2026-10-16T11:13:25+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:41.310394+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:44:15+00:00",
+            "earliest_usable_published_at": "2026-10-16T10:45:40+00:00",
+            "latest_usable_published_at": "2026-10-16T11:44:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:41.575795+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:22:30+00:00",
+            "earliest_usable_published_at": "2026-10-16T06:41:15+00:00",
+            "latest_usable_published_at": "2026-10-16T11:22:30+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:41.999551+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:17:40+00:00",
+            "earliest_usable_published_at": "2026-10-16T00:53:28+00:00",
+            "latest_usable_published_at": "2026-10-16T11:17:40+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:42.560822+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:41:21+00:00",
+            "earliest_usable_published_at": "2026-10-16T09:57:32+00:00",
+            "latest_usable_published_at": "2026-10-16T11:41:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:43.081967+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:38:50+00:00",
+            "earliest_usable_published_at": "2026-10-16T10:38:11+00:00",
+            "latest_usable_published_at": "2026-10-16T11:38:50+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:43.531353+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:11:17+00:00",
+            "earliest_usable_published_at": "2026-10-16T09:28:57+00:00",
+            "latest_usable_published_at": "2026-10-16T11:11:17+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:43.820179+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:01:39+00:00",
+            "earliest_usable_published_at": "2026-10-16T04:00:00+00:00",
+            "latest_usable_published_at": "2026-10-16T11:01:39+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:44.703213+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:31:14+00:00",
+            "earliest_usable_published_at": "2026-10-16T09:49:23+00:00",
+            "latest_usable_published_at": "2026-10-16T11:31:14+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:45.370231+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:30:00+00:00",
+            "earliest_usable_published_at": "2026-10-16T09:00:00+00:00",
+            "latest_usable_published_at": "2026-10-16T11:30:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:45.752068+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:41:00+00:00",
+            "earliest_usable_published_at": "2026-10-16T10:09:00+00:00",
+            "latest_usable_published_at": "2026-10-16T11:41:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:46.162338+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:34:12+00:00",
+            "earliest_usable_published_at": "2026-10-16T11:26:00+00:00",
+            "latest_usable_published_at": "2026-10-16T11:34:12+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:46.300119+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:27:20+00:00",
+            "earliest_usable_published_at": "2026-10-16T04:15:37+00:00",
+            "latest_usable_published_at": "2026-10-16T11:27:20+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:46.467898+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T10:29:55+00:00",
+            "earliest_usable_published_at": "2026-10-15T21:10:51+00:00",
+            "latest_usable_published_at": "2026-10-16T10:29:55+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:46.971131+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:41:58+00:00",
+            "earliest_usable_published_at": "2026-10-16T05:00:17+00:00",
+            "latest_usable_published_at": "2026-10-16T11:41:58+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:47.136966+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T10:27:33+00:00",
+            "earliest_usable_published_at": "2026-10-16T03:00:23+00:00",
+            "latest_usable_published_at": "2026-10-16T10:27:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-16T11:44:47.316487+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:47.517381+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:25:22+00:00",
+            "earliest_usable_published_at": "2026-10-16T04:00:14+00:00",
+            "latest_usable_published_at": "2026-10-16T11:25:22+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-16T11:44:47.578787+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:47.647332+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:30:01+00:00",
+            "earliest_usable_published_at": "2026-10-16T10:42:49+00:00",
+            "latest_usable_published_at": "2026-10-16T11:30:01+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:48.174025+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:05:45+00:00",
+            "earliest_usable_published_at": "2026-10-16T10:12:34+00:00",
+            "latest_usable_published_at": "2026-10-16T11:05:45+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:48.314220+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T11:41:03+00:00",
+            "earliest_usable_published_at": "2026-10-16T09:37:30+00:00",
+            "latest_usable_published_at": "2026-10-16T11:41:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:48.500346+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T10:58:23+00:00",
+            "earliest_usable_published_at": "2026-10-16T09:20:46+00:00",
+            "latest_usable_published_at": "2026-10-16T10:58:23+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:48.601406+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-16T09:38:24+00:00",
+            "earliest_usable_published_at": "2026-10-16T06:59:56+00:00",
+            "latest_usable_published_at": "2026-10-16T09:38:24+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:49.669421+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 1,
+            "future_article_count": 0,
+            "stale_article_count": 2,
+            "latest_published_at": "2026-10-15T14:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-15T14:00:00+00:00",
+            "latest_usable_published_at": "2026-10-15T14:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-10-16T11:44:49.740467+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-10-16T08:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-16T08:00:00+00:00",
+            "latest_usable_published_at": "2026-10-16T08:00:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 25,
+      "drop_reasons": [
+        "summary_out_of_range"
+      ]
+    }
   }
 }
