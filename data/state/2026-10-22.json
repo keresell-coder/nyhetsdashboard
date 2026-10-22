@@ -1,0 +1,1981 @@
+{
+  "date": "2026-10-22",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "7df4820d0b9caf3c",
+        "continued_from": null,
+        "headline": "Iransk revolusjonsgarde melder om sju angrepne skip",
+        "ingress": "Ifølge Irans revolusjonsgarde har sju skip blitt angrepet eller gått på miner i Persiabukta.",
+        "summary": "Den iranske revolusjonsgarden opplyser at totalt sju skip enten har blitt angrepet eller har gått på miner i Persiabukta. Ifølge disse opplysningene var fire av fartøyene involvert i det som betegnes som ulovlig oljeoverføring nord i området, og disse skal ha blitt sporet før de ble angrepet av iranske styrker. I tillegg skal tre fartøy ha gått på miner vest for Hormuzstredet. Hva som faktisk har skjedd, er foreløpig basert på utsagnene fra Revolusjonsgarden alene, og det foreligger ennå ikke uavhengige bekreftelser på hendelsene. Samtidig har Revolusjonsgarden kommet med en advarsel om en mulig større respons rettet mot amerikanske baser i regionen. Dette utgjør en sikkerhetsmessig trusselvurdering fremsendt av iranske myndigheter, noe som kan øke spenningsnivået ytterligere i området. Det er foreløpig ikke kjent hvilke konsekvenser denne advarselen vil få i praksis, og situasjonen følges nøye av overvåkerne i regionen. Flere internasjonale aktører har uttrykt bekymring for utviklingen i Persiabukta etter at disse opplysningene ble kjente gjennom meldingene fra NTB og kilden NRK.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/sju-skip-truffet-av-angrep-og-miner_-ifolge-irans-revolusjonsgarde-1.18061413",
+            "title": "Sju skip truffet av angrep og miner, ifølge Irans revolusjonsgarde",
+            "is_secondary": false,
+            "published_at": "2026-10-22T05:09:39+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b4e1b830aa5949ca",
+        "continued_from": null,
+        "headline": "Vannlekkasje i Sør-Varanger rammet 6000 abonnenter",
+        "ingress": "En stor vannlekkasje skapte krise i Sør-Varanger med stengte skoler og rød beredskap på sykehuset. Nå er vannet tilbake.",
+        "summary": "En omfattende vannlekkasje på hovedvannledningen i Sør-Varanger førte til at rundt 6000 abonnenter mistet vannet. Situasjonen fikk store konsekvenser for lokalsamfunnet, der kommunen så seg nødt til å stenge en rekke skoler og barnehager. Også Kirkenes sykehus ble hardt rammet og måtte heve beredskapen til rød nivå. Dette medførte at all planlagt aktivitet ble stanset, og sykehuset kunne ikke utføre operasjoner. Akuttpasienter måtte i stedet tas hånd om ved andre sykehus, deriblant i Hammerfest, ifølge opplysninger fra sykehusets ledelse ved klinikksjef Michael Strehle. Lekkasjen ble lokalisert av kommunen, og arbeidet med å utbedre feilen ble igangsatt umiddelbart. Senere ble det bekreftet at lekkasjen var blitt tettet, og at vannet var på vei tilbake til abonnentene i løpet av dagen. Likevel har kommunen opprettholdt oppfordringer om at folk bør spare på vannet, og det har blitt sendt ut et obligatorisk kokevarsel for de berørte husstandene. Situasjonen har blitt håndtert fortløpende av lokale myndigheter, som har informert publikum om status etter hvert som arbeidet har skredet frem. Hendelsen viser sårbarheten i den lokale kritiske infrastrukturen, og de berørte institusjonene har gradvis begynt å normalisere driften etter at selve lekkasjeproblemet ble løst.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/vannlekkasjen-i-sor-varanger-tettet-1.18061390",
+            "title": "Vannlekkasjen i Sør-Varanger tettet",
+            "is_secondary": false,
+            "published_at": "2026-10-22T04:53:16+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/rod-beredskap-ved-kirkenes-sykehus-etter-vannlekkasje-1.18061316",
+            "title": "Rød beredskap ved Kirkenes sykehus etter vannlekkasje",
+            "is_secondary": false,
+            "published_at": "2026-10-22T00:03:38+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19349319",
+            "title": "Stor lekkasje i Sør-Varanger: Kokevarsel",
+            "is_secondary": false,
+            "published_at": "2026-10-22T07:38:46+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19348744",
+            "title": "6000 uten vann i Sør-Varanger",
+            "is_secondary": false,
+            "published_at": "2026-10-22T00:24:57+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/vannet-er-tilbake-i-sor-varanger-etter-stor-vannlekkasje/s/80-95-182349",
+            "title": "Vannet er tilbake i Sør-Varanger etter stor vannlekkasje",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:44:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4f10968f6cacc20a",
+        "continued_from": null,
+        "headline": "Radionor kan bli verdsatt til 40 milliarder kroner",
+        "ingress": "Vekstselskapet Radionor tiltrekker seg oppmerksomhet og kan oppnå en enorm verdsettelse på opptil 40 milliarder kroner.",
+        "summary": "Teknologiselskapet Radionor omtales som en stor vekstkomet som kan bli priset for opp mot 40 milliarder kroner. Dagens Næringsliv har fått tilgang til innsiden av det som beskrives som en topphemmelig fabrikk. Virksomheten sammenlignes av kilder med en avansert sveitsisk klokkefabrikk. Selskapets teknologi har som mål å levere sikrere nettverk enn det som i dag tilbys av blant annet Starlink. Denne analysen og verdsettelsen representerer et anslag på selskapets potensial i markedet, men det gjenstår å se hvordan teknologien vil prestere i stor skala over tid. Satsingen er en del av en voksende sektor innen avansert kommunikasjonsteknologi og sikkerhet, der norske aktører forsøker å hevde seg internasjonalt. Fabrikken og dens operasjoner holdes strengt hemmelig, noe som understreker de høye økonomiske og strategiske verdiene som står på spill for selskapet og dets eiere i tiden fremover.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/gasellene/radionor/forsvar/sikkerhet/har-skapt-industrieventyr-verdt-titalls-milliarder-som-en-avansert-sveitsisk-klokkefabrikk/2-1-2060128",
+            "title": "Har skapt industrieventyr verdt titalls milliarder: – Som en avansert sveitsisk klokkefabrikk",
+            "is_secondary": false,
+            "published_at": "2026-10-22T01:48:27+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c4635e0217863b73",
+        "continued_from": null,
+        "headline": "Cyberselskap advarer mot alvorlig risiko for nettsider",
+        "ingress": "Et cybersikkerhetsselskap advarer mindre aktører mot at nettsider kan bli misbrukt av hackere.",
+        "summary": "Et cybersikkerhetsselskap har sendt ut en generell advarsel til mindre bedrifter, idrettslag og foreninger. Ifølge varselet er det en risiko for at nettsidene deres kan bli misbrukt av uvedkommende hackere dersom visse sikkerhetstiltak ikke følges opp. Selskapet oppfordrer alle til å oppdatere sine systemer umiddelbart for å hindre potensielle digitale angrep og misbruk. Denne meldingen er en sikkerhetsvurdering basert på råd fra fagfolk i bransjen, som peker på at mindre organisasjoner ofte er mer sårbare på grunn av manglende ressurser til IT-sikkerhet. Det er ikke rapportert om konkrete angrep i denne omgang, men advarselen er ment som et forebyggende tiltak for å heve den digitale motstandskraften i denne gruppen. Organisasjonene anmodes om å ta trusselen på alvor og sørge for at all programvare er oppdatert til enhver tid for å redusere risikoen for sikkerhetsbrudd.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/qyBx61/saarbarhet-i-php-dette-boer-du-gjoere-for-aa-sikre-nettsiden-din?utm_medium=rss",
+            "title": "Hackere kan misbruke nettsiden din: – Oppdater nå",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:47:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b11580b1ad90f7d2",
+        "continued_from": null,
+        "headline": "Den internasjonale straffedomstolen tildeles prestisjetung menneskerettighetspris",
+        "ingress": "EU-parlamentet tildeler Den internasjonale straffedomstolen (ICC) årets Sakharov-pris for menneskerettigheter.",
+        "summary": "Den internasjonale straffedomstolen (ICC) har blitt tildelt Sakharov-prisen av EU-parlamentet. Utmerkelsen deles ut årlig til enkeltpersoner og grupper som gjør en særskilt innsats for å forsvare menneskerettighetene og grunnleggende friheter. Prisen er oppkalt etter den sovjetiske dissidenten Andrej Sakharov, og tildelingen til ICC blir sett på som en anerkjennelse av domstolens arbeid med å stille krigsforbrytere og overgripere til ansvar på den internasjonale arenaen. Flere nyhetskilder, deriblant NRK, Aftenposten og Nettavisen, bekrefter tildelingen. Dette er en offisiell beslutning fra EU-parlamentets side, og den kan tolkes som en politisk markering til støtte for internasjonal strafferett i en tid preget av globale konflikter. Tildelingen understreker viktigheten av uavhengige institusjoner i arbeidet med å beskytte menneskerettighetene globalt, selv om domstolens arbeid også er gjenstand for politisk debatt og uenighet blant enkelte verdensstater. Prisen vil bli overrakt i tråd med EU-parlamentets tradisjoner for denne anledningen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/den-internasjonale-straffedomstolen-_icc_-tildeles-sakharov-prisen-1.18061735",
+            "title": "Den internasjonale straffedomstolen (ICC) tildeles Sakharov-prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T10:04:42+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/4OA2OV/icc-tildeles-sakharov-prisen?utm_medium=rss",
+            "title": "ICC tildeles Sakharov-prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T10:04:53+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/den-internasjonale-straffedomstolen-icc-tildeles-sakharov-prisen/s/80-95-182442",
+            "title": "Den internasjonale straffedomstolen (ICC) tildeles Sakharov-prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T10:07:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "61d6912e7fc4354e",
+        "continued_from": null,
+        "headline": "Erling Braut Haaland meldes klar til helgens kamp",
+        "ingress": "Manchester City-sjefen bekrefter at Erling Braut Haaland er hundre prosent klar til helgens oppgjør mot Aston Villa.",
+        "summary": "Manchester Citys manager har kommet med nye opplysninger om Erling Braut Haalands fysiske tilstand etter at nordmannen nylig haltet av banen i oppgjøret mot Ipswich. Ifølge klubbsjefen er Haaland nå restituert og hundre prosent klar til å delta i helgens bortekamp mot Aston Villa. Denne vurderingen er basert på City-sjefens egne uttalelser på pressekonferansen, og det gjenstår å se om spissen faktisk starter kampen når laguttaket foreligger. Det ble skapt en viss bekymring da Haaland måtte forlate banen haltende i den forrige kampen, men de nye meldingene tyder på at skaden ikke var alvorlig. Supportere og eksperter har fulgt situasjonen nøye, ettersom Haaland er en sentral spiller for lagets offensive slagkraft i Premier League. Med denne bekreftelsen ser det ut til at City kan stille med sin stjernespiss fra start i den kommende serierunden, noe som vil være en vesentlig forsterkning for laget i møtet med Aston Villa.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/ElAVvl/maresca-bekrefter-erling-braut-haaland-spilleklar-for-manchester-citys-bortekamp-mot-aston-villa",
+            "title": "City-sjefen med Haaland-melding: – Erling er 100 prosent klar",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:53:59+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/city-sjefen-med-haaland-melding/s/80-95-182391",
+            "title": "City-sjefen med Haaland-melding",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:54:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "54150158c692e406",
+        "continued_from": null,
+        "headline": "Droneangrep mot energianlegg i sentrale Ukraina",
+        "ingress": "Et energianlegg i Krementsjuk i Ukraina er rammet av et droneangrep, opplyser lokale myndigheter.",
+        "summary": "Ifølge bekreftede opplysninger fra lokale myndigheter på meldingstjenesten Telegram og nyhetsbyrået Reuters, har et droneangrep truffet et energianlegg i byen Krementsjuk sentralt i Ukraina. Det foreligger foreløpig ingen detaljer fra myndighetene om mulige materielle skader eller personskader som følge av hendelsen. Krementsjuk beskrives som en sentral industriby som huser et av landets største oljeraffinerier. Området har tidligere vært målet for flere russiske angrep under krigen. Angrepet understreker den vedvarende trusselen mot Ukrainas kritiske energiinfrastruktur, særlig i industriknutepunkter. Det er ikke kommet frem ytterligere informasjon om hvilken type drone som ble benyttet, eller nøyaktig omfang av ødeleggelsene på anlegget. Lokale og nasjonale myndigheter fortsetter arbeidet på stedet, og situasjonen følges tett av overvåkere og nyhetsmedier. Analytikere peker på at slike angrep er en del av en bredere strategi for å ramme landets energiforsyning, selv om de konkrete detaljene rundt dagens hendelse fortsatt er knappe.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/droneangrep-mot-energianlegg-i-ukraina-1.18061330",
+            "title": "Droneangrep mot energianlegg i Ukraina",
+            "is_secondary": false,
+            "published_at": "2026-10-22T03:55:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "19e3b3711f222f11",
+        "continued_from": null,
+        "headline": "Flere evakuert etter steinras i Porsgrunn",
+        "ingress": "Store steinblokker har rast mot en boligblokk i Porsgrunn. Beboere er evakuert og politiet advarer om fare for nye ras.",
+        "summary": "Store steinblokker har torsdag morgentid rast ned mot et boligfelt og en boligblokk i Sykehusveien i Porsgrunn. Det bekrefter Sør-Øst politidistrikt, som opplyser at rasfaren på stedet langt fra er over. Operasjonsleder Tom Richard Skuggedal forteller at man fortsatt kan høre nye ras i området, og at det derfor er besluttet å evakuere beboere fra flere boliger i nærheten. Ifølge lokale medier som Telemarksavisa stanset de svære steinblokkene like ved inngangspartiet til en av boligene, og tre biler har blitt sperret inne av rasmassene. Det er foreløpig ikke meldt om noen personskader i forbindelse med hendelsen. Politiet rykket raskt ut til stedet og har bedt øvrige beboere om å holde seg innendørs av sikkerhetshensyn. Kommunen har blitt varslet og er gjort ansvarlig for den videre oppfølgingen av situasjonen. Det er på nåværende tidspunkt uvisst hvor lang tid evakueringen vil ta, og det gjenstår en grundig geotekniske vurdering av rasfaren i skråningen før folk kan flytte tilbake til sine hjem. Nødetatene fortsetter sitt arbeid på stedet for å sikre området mot ytterligere utglidninger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/vestfoldogtelemark/steinblokker-raste-mot-boligblokk-1.18061418",
+            "title": "Steinblokker raste mot boligblokk",
+            "is_secondary": false,
+            "published_at": "2026-10-22T08:19:19+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JrA9P7/porsgrunn-flere-beboere-evakuert-etter-ras?utm_medium=rss",
+            "title": "Porsgrunn: Flere beboere evakuert etter ras",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:03:47+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d105424bb45a24a5",
+        "continued_from": null,
+        "headline": "Uenige om påstått kunstig intelligens-boble",
+        "ingress": "Hedgefondmilliardær advarer om en potensiell AI-boble og møter kraftig motstand fra andre sentrale finanstopper.",
+        "summary": "Finansmiljøet er preget av dyp uenighet rundt tilstanden til den raskt voksende teknologisektoren knyttet til kunstig intelligens, ofte omtalt som AI. Diskusjonen har tilspisset seg etter at en profilert hedgefondmilliardær har gått ut med kraftige advarsler og slått fast at en markedsboble er nesten helt sikker. Dette synspunktet har imidlertid møtt sterk motstand fra andre fremtredende aktører og finanstopper i bransjen, som mener at teknologibransjens verdsettelser er fundert på reell vekst og fremtidig inntjening. Slike vurderinger spriker basert på ulike analyser av markedsdata og historiske paralleller til tidligere teknologibobler, slik som dotcom-boomen rundt årtusenskiftet. Mens skeptikerne fremhever faren for overinvesteringer og urealistiske forventninger til avkastning, argumenterer optimistene for at kunstig intelligens representerer et fundamentalt taktskifte i global økonomi og industriproduksjon. Det foreligger ingen bred enighet blant ekspertene om den nøyaktige timingen eller sannsynligheten for en eventuell korreksjon i finansmarkedene. Debatten illustrerer den betydelige usikkerheten som preger investorenes forhold til den nye teknologien, og synet på om dagens prising er bærekraftig på lang sikt forblir et åpent og omstridt spørsmål i det internasjonale finansmarkedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/Qg0O68/uenige-om-ai-boble-nesten-helt-sikkert?utm_medium=rss",
+            "title": "Uenige om AI-boble: – Nesten helt sikkert",
+            "is_secondary": false,
+            "published_at": "2026-10-22T04:23:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3f794c5a883ed7c5",
+        "continued_from": null,
+        "headline": "Bankene advarer mot nye svindelmetoder i Norge",
+        "ingress": "Norske banker advarer nå mot tre spesifikke svindelmetoder som rammer både privatpersoner og næringslivet.",
+        "summary": "Banknæringen har gått ut med offisielle advarsler knyttet til flere utspekulerte svindelmetoder som nå rammer både norske privatpersoner og bedrifter hardt. Blant de omtalte metodene er det registrert tilfeller der intetanende ofre blir bedt om å legge verdifulle gjenstander, som gull, ute i naturen eller skogen. Slike fremgangsmåter viser hvordan kriminelle aktører stadig utvikler nye og mer utspekulerte psykologiske manipulasjonsteknikker for å lure til seg verdier fra sårbare eller ukritiske borgere. Banker og politi understreker viktigheten av å utvise ekstrem forsiktighet ved uvanlige henvendelser, og oppfordrer publikum til å anmelde mistenkelige forhold umiddelbart. Selv om det foreligger konkrete eksempler på sakene som blir etterforsket, gir myndighetene og finansinstitusjonene en generell vurdering av at problemomfanget er økende og krever skjerpet åtsomhet i befolkningen. Analyser fra finansforetakene peker på at svindlerne i stor grad utnytter digital kommunikasjon og tillitsbaserte systemer, men at de også i økende grad tar i bruk fysiske metoder for å sikre seg stjålne midler uten at digitale spor oppdages like lett. Kampen mot denne typen kriminalitet prioriteres høyt, men bankene påpeker at folkeopplysning er det mest effektive vernet mot å bli lurt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19349198",
+            "title": "Ny svindelmetode: Folk bes om å legge gull i skogen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T06:38:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "df269d641e10d9bc",
+        "continued_from": null,
+        "headline": "Lyon og Paris forbyr demonstrasjoner på lørdag",
+        "ingress": "Frankrikes tredje største by Lyon forbyr alle demonstrasjoner kommende lørdag i forbindelse med landsomfattende protester.",
+        "summary": "Myndighetene i Frankrikes tredje største by, Lyon, har besluttet å innføre et totalforbud mot alle demonstrasjoner og protester kommende lørdag. Dette bekreftes av flere medier, deriblant NRK, Aftenposten og Nettavisen. Beslutningen kommer i forkant av en serie planlagte, landsomfattende protestmarkeringer som er ventet å finne sted samme dag. Tidligere denne uken ble det også innført tilsvarende forbud mot demonstrasjoner i utvalgte deler av hovedstaden Paris. De omfattende demonstrasjonene i landet har nå pågått i tre sammenhengende uker. Protestbølgen startet opprinnelig som en elevprorett der deltakerne krevde flere ressurser og bedre vilkår til den franske skolen, men har siden utviklet seg til å omfatte bredere samfunnsmessige utfordringer. Det er foreløpig uklart hvor lenge de lokale myndighetene vil opprettholde disse demonstrasjonsforbudene, men sikkerhetsoppbudet i store franske byer er ventet å være høyt gjennom helgen for å forhindre uro. Analytikere vurderer beslutningen om forbud som et ledd i en strengere linje fra regjeringen og politiet for å opprettholde ro og orden i kjølvannet av de langvarige protestene som har preget landet den siste tiden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/lyon-forbyr-demonstrasjoner-pa-lordag-1.18061620",
+            "title": "Lyon forbyr demonstrasjoner på lørdag",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:26:23+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/8GA4Vx/lyon-forbyr-demonstrasjoner-loerdag?utm_medium=rss",
+            "title": "Lyon forbyr demonstrasjoner lørdag",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:29:49+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/frankrikes-tredje-storste-by-lyon-forbyr-alle-protester-lordag/s/80-95-182298",
+            "title": "Frankrikes tredje største by Lyon forbyr «alle protester» lørdag",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:29:35+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a6e990ac373e1504",
+        "continued_from": null,
+        "headline": "Ole Rolfsrud gir seg i NRK etter 23 år",
+        "ingress": "Ole Rolfsrud takker for seg i NRK etter 23 år, men skal lede sjakk-VM én siste gang før han slutter.",
+        "summary": "Profilerte Ole Rolfsrud (50) har besluttet å forlate NRK etter en lang karriere på 23 år som journalist og programleder i kanalen. Det kommer fram i et intervju med VG, hvor han reflekterer over sin tid i allmennkringkasteren. Før han gir seg for godt, skal han imidlertid gjennomføre en siste stor oppgave da han skal lede årets sjakk-VM. Rolfsrud uttaler til avisen at han har en ambisjon om å avslutte sin lange og innholdsrike NRK-karriere med et skikkelig smell. I intervjuet deler han også minner fra spesielle øyeblikk opp gjennom årene, og han ser tilbake på en tid preget av mange store sportsbegivenheter og folkekjære sendinger. Avgjørelsen om å slutte er hans egen, og han gir uttrykk for en blanding av vemod og spenning for hva fremtiden vil bringe etter at sjakkmesterskapet er over. Det er foreløpig ikke kjent hva Rolfsrud skal gjøre videre i sin yrkeskarriere etter at han er ferdig i statskanalen. Hans avgang markerer slutten på en epoke for flere av NRKs faste sportssendinger der han har hatt en sentral rolle som programleder og formidler gjennom mer enn to tiår.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/Kr21py/ole-rolfsrud-slutter-i-nrk-etter-23-aar",
+            "title": "Sjakkprofilen takker for seg: – Skal avslutte med et smell",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:35:56+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "7df4820d0b9caf3c",
+        "continued_from": null,
+        "headline": "Iransk revolusjonsgarde melder om sju angrepne skip",
+        "ingress": "Ifølge Irans revolusjonsgarde har sju skip blitt angrepet eller gått på miner i Persiabukta.",
+        "summary": "Den iranske revolusjonsgarden opplyser at totalt sju skip enten har blitt angrepet eller har gått på miner i Persiabukta. Ifølge disse opplysningene var fire av fartøyene involvert i det som betegnes som ulovlig oljeoverføring nord i området, og disse skal ha blitt sporet før de ble angrepet av iranske styrker. I tillegg skal tre fartøy ha gått på miner vest for Hormuzstredet. Hva som faktisk har skjedd, er foreløpig basert på utsagnene fra Revolusjonsgarden alene, og det foreligger ennå ikke uavhengige bekreftelser på hendelsene. Samtidig har Revolusjonsgarden kommet med en advarsel om en mulig større respons rettet mot amerikanske baser i regionen. Dette utgjør en sikkerhetsmessig trusselvurdering fremsendt av iranske myndigheter, noe som kan øke spenningsnivået ytterligere i området. Det er foreløpig ikke kjent hvilke konsekvenser denne advarselen vil få i praksis, og situasjonen følges nøye av overvåkerne i regionen. Flere internasjonale aktører har uttrykt bekymring for utviklingen i Persiabukta etter at disse opplysningene ble kjente gjennom meldingene fra NTB og kilden NRK.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/sju-skip-truffet-av-angrep-og-miner_-ifolge-irans-revolusjonsgarde-1.18061413",
+            "title": "Sju skip truffet av angrep og miner, ifølge Irans revolusjonsgarde",
+            "is_secondary": false,
+            "published_at": "2026-10-22T05:09:39+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b4e1b830aa5949ca",
+        "continued_from": null,
+        "headline": "Vannlekkasje i Sør-Varanger rammet 6000 abonnenter",
+        "ingress": "En stor vannlekkasje skapte krise i Sør-Varanger med stengte skoler og rød beredskap på sykehuset. Nå er vannet tilbake.",
+        "summary": "En omfattende vannlekkasje på hovedvannledningen i Sør-Varanger førte til at rundt 6000 abonnenter mistet vannet. Situasjonen fikk store konsekvenser for lokalsamfunnet, der kommunen så seg nødt til å stenge en rekke skoler og barnehager. Også Kirkenes sykehus ble hardt rammet og måtte heve beredskapen til rød nivå. Dette medførte at all planlagt aktivitet ble stanset, og sykehuset kunne ikke utføre operasjoner. Akuttpasienter måtte i stedet tas hånd om ved andre sykehus, deriblant i Hammerfest, ifølge opplysninger fra sykehusets ledelse ved klinikksjef Michael Strehle. Lekkasjen ble lokalisert av kommunen, og arbeidet med å utbedre feilen ble igangsatt umiddelbart. Senere ble det bekreftet at lekkasjen var blitt tettet, og at vannet var på vei tilbake til abonnentene i løpet av dagen. Likevel har kommunen opprettholdt oppfordringer om at folk bør spare på vannet, og det har blitt sendt ut et obligatorisk kokevarsel for de berørte husstandene. Situasjonen har blitt håndtert fortløpende av lokale myndigheter, som har informert publikum om status etter hvert som arbeidet har skredet frem. Hendelsen viser sårbarheten i den lokale kritiske infrastrukturen, og de berørte institusjonene har gradvis begynt å normalisere driften etter at selve lekkasjeproblemet ble løst.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/vannlekkasjen-i-sor-varanger-tettet-1.18061390",
+            "title": "Vannlekkasjen i Sør-Varanger tettet",
+            "is_secondary": false,
+            "published_at": "2026-10-22T04:53:16+00:00"
+          },
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/rod-beredskap-ved-kirkenes-sykehus-etter-vannlekkasje-1.18061316",
+            "title": "Rød beredskap ved Kirkenes sykehus etter vannlekkasje",
+            "is_secondary": false,
+            "published_at": "2026-10-22T00:03:38+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19349319",
+            "title": "Stor lekkasje i Sør-Varanger: Kokevarsel",
+            "is_secondary": false,
+            "published_at": "2026-10-22T07:38:46+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19348744",
+            "title": "6000 uten vann i Sør-Varanger",
+            "is_secondary": false,
+            "published_at": "2026-10-22T00:24:57+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/vannet-er-tilbake-i-sor-varanger-etter-stor-vannlekkasje/s/80-95-182349",
+            "title": "Vannet er tilbake i Sør-Varanger etter stor vannlekkasje",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:44:16+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4f10968f6cacc20a",
+        "continued_from": null,
+        "headline": "Radionor kan bli verdsatt til 40 milliarder kroner",
+        "ingress": "Vekstselskapet Radionor tiltrekker seg oppmerksomhet og kan oppnå en enorm verdsettelse på opptil 40 milliarder kroner.",
+        "summary": "Teknologiselskapet Radionor omtales som en stor vekstkomet som kan bli priset for opp mot 40 milliarder kroner. Dagens Næringsliv har fått tilgang til innsiden av det som beskrives som en topphemmelig fabrikk. Virksomheten sammenlignes av kilder med en avansert sveitsisk klokkefabrikk. Selskapets teknologi har som mål å levere sikrere nettverk enn det som i dag tilbys av blant annet Starlink. Denne analysen og verdsettelsen representerer et anslag på selskapets potensial i markedet, men det gjenstår å se hvordan teknologien vil prestere i stor skala over tid. Satsingen er en del av en voksende sektor innen avansert kommunikasjonsteknologi og sikkerhet, der norske aktører forsøker å hevde seg internasjonalt. Fabrikken og dens operasjoner holdes strengt hemmelig, noe som understreker de høye økonomiske og strategiske verdiene som står på spill for selskapet og dets eiere i tiden fremover.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/gasellene/radionor/forsvar/sikkerhet/har-skapt-industrieventyr-verdt-titalls-milliarder-som-en-avansert-sveitsisk-klokkefabrikk/2-1-2060128",
+            "title": "Har skapt industrieventyr verdt titalls milliarder: – Som en avansert sveitsisk klokkefabrikk",
+            "is_secondary": false,
+            "published_at": "2026-10-22T01:48:27+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c4635e0217863b73",
+        "continued_from": null,
+        "headline": "Cyberselskap advarer mot alvorlig risiko for nettsider",
+        "ingress": "Et cybersikkerhetsselskap advarer mindre aktører mot at nettsider kan bli misbrukt av hackere.",
+        "summary": "Et cybersikkerhetsselskap har sendt ut en generell advarsel til mindre bedrifter, idrettslag og foreninger. Ifølge varselet er det en risiko for at nettsidene deres kan bli misbrukt av uvedkommende hackere dersom visse sikkerhetstiltak ikke følges opp. Selskapet oppfordrer alle til å oppdatere sine systemer umiddelbart for å hindre potensielle digitale angrep og misbruk. Denne meldingen er en sikkerhetsvurdering basert på råd fra fagfolk i bransjen, som peker på at mindre organisasjoner ofte er mer sårbare på grunn av manglende ressurser til IT-sikkerhet. Det er ikke rapportert om konkrete angrep i denne omgang, men advarselen er ment som et forebyggende tiltak for å heve den digitale motstandskraften i denne gruppen. Organisasjonene anmodes om å ta trusselen på alvor og sørge for at all programvare er oppdatert til enhver tid for å redusere risikoen for sikkerhetsbrudd.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/qyBx61/saarbarhet-i-php-dette-boer-du-gjoere-for-aa-sikre-nettsiden-din?utm_medium=rss",
+            "title": "Hackere kan misbruke nettsiden din: – Oppdater nå",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:47:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "b11580b1ad90f7d2",
+        "continued_from": null,
+        "headline": "Den internasjonale straffedomstolen tildeles prestisjetung menneskerettighetspris",
+        "ingress": "EU-parlamentet tildeler Den internasjonale straffedomstolen (ICC) årets Sakharov-pris for menneskerettigheter.",
+        "summary": "Den internasjonale straffedomstolen (ICC) har blitt tildelt Sakharov-prisen av EU-parlamentet. Utmerkelsen deles ut årlig til enkeltpersoner og grupper som gjør en særskilt innsats for å forsvare menneskerettighetene og grunnleggende friheter. Prisen er oppkalt etter den sovjetiske dissidenten Andrej Sakharov, og tildelingen til ICC blir sett på som en anerkjennelse av domstolens arbeid med å stille krigsforbrytere og overgripere til ansvar på den internasjonale arenaen. Flere nyhetskilder, deriblant NRK, Aftenposten og Nettavisen, bekrefter tildelingen. Dette er en offisiell beslutning fra EU-parlamentets side, og den kan tolkes som en politisk markering til støtte for internasjonal strafferett i en tid preget av globale konflikter. Tildelingen understreker viktigheten av uavhengige institusjoner i arbeidet med å beskytte menneskerettighetene globalt, selv om domstolens arbeid også er gjenstand for politisk debatt og uenighet blant enkelte verdensstater. Prisen vil bli overrakt i tråd med EU-parlamentets tradisjoner for denne anledningen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/den-internasjonale-straffedomstolen-_icc_-tildeles-sakharov-prisen-1.18061735",
+            "title": "Den internasjonale straffedomstolen (ICC) tildeles Sakharov-prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T10:04:42+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/4OA2OV/icc-tildeles-sakharov-prisen?utm_medium=rss",
+            "title": "ICC tildeles Sakharov-prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T10:04:53+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/den-internasjonale-straffedomstolen-icc-tildeles-sakharov-prisen/s/80-95-182442",
+            "title": "Den internasjonale straffedomstolen (ICC) tildeles Sakharov-prisen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T10:07:59+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "61d6912e7fc4354e",
+        "continued_from": null,
+        "headline": "Erling Braut Haaland meldes klar til helgens kamp",
+        "ingress": "Manchester City-sjefen bekrefter at Erling Braut Haaland er hundre prosent klar til helgens oppgjør mot Aston Villa.",
+        "summary": "Manchester Citys manager har kommet med nye opplysninger om Erling Braut Haalands fysiske tilstand etter at nordmannen nylig haltet av banen i oppgjøret mot Ipswich. Ifølge klubbsjefen er Haaland nå restituert og hundre prosent klar til å delta i helgens bortekamp mot Aston Villa. Denne vurderingen er basert på City-sjefens egne uttalelser på pressekonferansen, og det gjenstår å se om spissen faktisk starter kampen når laguttaket foreligger. Det ble skapt en viss bekymring da Haaland måtte forlate banen haltende i den forrige kampen, men de nye meldingene tyder på at skaden ikke var alvorlig. Supportere og eksperter har fulgt situasjonen nøye, ettersom Haaland er en sentral spiller for lagets offensive slagkraft i Premier League. Med denne bekreftelsen ser det ut til at City kan stille med sin stjernespiss fra start i den kommende serierunden, noe som vil være en vesentlig forsterkning for laget i møtet med Aston Villa.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/ElAVvl/maresca-bekrefter-erling-braut-haaland-spilleklar-for-manchester-citys-bortekamp-mot-aston-villa",
+            "title": "City-sjefen med Haaland-melding: – Erling er 100 prosent klar",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:53:59+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/city-sjefen-med-haaland-melding/s/80-95-182391",
+            "title": "City-sjefen med Haaland-melding",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:54:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "54150158c692e406",
+        "continued_from": null,
+        "headline": "Droneangrep mot energianlegg i sentrale Ukraina",
+        "ingress": "Et energianlegg i Krementsjuk i Ukraina er rammet av et droneangrep, opplyser lokale myndigheter.",
+        "summary": "Ifølge bekreftede opplysninger fra lokale myndigheter på meldingstjenesten Telegram og nyhetsbyrået Reuters, har et droneangrep truffet et energianlegg i byen Krementsjuk sentralt i Ukraina. Det foreligger foreløpig ingen detaljer fra myndighetene om mulige materielle skader eller personskader som følge av hendelsen. Krementsjuk beskrives som en sentral industriby som huser et av landets største oljeraffinerier. Området har tidligere vært målet for flere russiske angrep under krigen. Angrepet understreker den vedvarende trusselen mot Ukrainas kritiske energiinfrastruktur, særlig i industriknutepunkter. Det er ikke kommet frem ytterligere informasjon om hvilken type drone som ble benyttet, eller nøyaktig omfang av ødeleggelsene på anlegget. Lokale og nasjonale myndigheter fortsetter arbeidet på stedet, og situasjonen følges tett av overvåkere og nyhetsmedier. Analytikere peker på at slike angrep er en del av en bredere strategi for å ramme landets energiforsyning, selv om de konkrete detaljene rundt dagens hendelse fortsatt er knappe.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/droneangrep-mot-energianlegg-i-ukraina-1.18061330",
+            "title": "Droneangrep mot energianlegg i Ukraina",
+            "is_secondary": false,
+            "published_at": "2026-10-22T03:55:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "19e3b3711f222f11",
+        "continued_from": null,
+        "headline": "Flere evakuert etter steinras i Porsgrunn",
+        "ingress": "Store steinblokker har rast mot en boligblokk i Porsgrunn. Beboere er evakuert og politiet advarer om fare for nye ras.",
+        "summary": "Store steinblokker har torsdag morgentid rast ned mot et boligfelt og en boligblokk i Sykehusveien i Porsgrunn. Det bekrefter Sør-Øst politidistrikt, som opplyser at rasfaren på stedet langt fra er over. Operasjonsleder Tom Richard Skuggedal forteller at man fortsatt kan høre nye ras i området, og at det derfor er besluttet å evakuere beboere fra flere boliger i nærheten. Ifølge lokale medier som Telemarksavisa stanset de svære steinblokkene like ved inngangspartiet til en av boligene, og tre biler har blitt sperret inne av rasmassene. Det er foreløpig ikke meldt om noen personskader i forbindelse med hendelsen. Politiet rykket raskt ut til stedet og har bedt øvrige beboere om å holde seg innendørs av sikkerhetshensyn. Kommunen har blitt varslet og er gjort ansvarlig for den videre oppfølgingen av situasjonen. Det er på nåværende tidspunkt uvisst hvor lang tid evakueringen vil ta, og det gjenstår en grundig geotekniske vurdering av rasfaren i skråningen før folk kan flytte tilbake til sine hjem. Nødetatene fortsetter sitt arbeid på stedet for å sikre området mot ytterligere utglidninger.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/vestfoldogtelemark/steinblokker-raste-mot-boligblokk-1.18061418",
+            "title": "Steinblokker raste mot boligblokk",
+            "is_secondary": false,
+            "published_at": "2026-10-22T08:19:19+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/JrA9P7/porsgrunn-flere-beboere-evakuert-etter-ras?utm_medium=rss",
+            "title": "Porsgrunn: Flere beboere evakuert etter ras",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:03:47+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d105424bb45a24a5",
+        "continued_from": null,
+        "headline": "Uenige om påstått kunstig intelligens-boble",
+        "ingress": "Hedgefondmilliardær advarer om en potensiell AI-boble og møter kraftig motstand fra andre sentrale finanstopper.",
+        "summary": "Finansmiljøet er preget av dyp uenighet rundt tilstanden til den raskt voksende teknologisektoren knyttet til kunstig intelligens, ofte omtalt som AI. Diskusjonen har tilspisset seg etter at en profilert hedgefondmilliardær har gått ut med kraftige advarsler og slått fast at en markedsboble er nesten helt sikker. Dette synspunktet har imidlertid møtt sterk motstand fra andre fremtredende aktører og finanstopper i bransjen, som mener at teknologibransjens verdsettelser er fundert på reell vekst og fremtidig inntjening. Slike vurderinger spriker basert på ulike analyser av markedsdata og historiske paralleller til tidligere teknologibobler, slik som dotcom-boomen rundt årtusenskiftet. Mens skeptikerne fremhever faren for overinvesteringer og urealistiske forventninger til avkastning, argumenterer optimistene for at kunstig intelligens representerer et fundamentalt taktskifte i global økonomi og industriproduksjon. Det foreligger ingen bred enighet blant ekspertene om den nøyaktige timingen eller sannsynligheten for en eventuell korreksjon i finansmarkedene. Debatten illustrerer den betydelige usikkerheten som preger investorenes forhold til den nye teknologien, og synet på om dagens prising er bærekraftig på lang sikt forblir et åpent og omstridt spørsmål i det internasjonale finansmarkedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/Qg0O68/uenige-om-ai-boble-nesten-helt-sikkert?utm_medium=rss",
+            "title": "Uenige om AI-boble: – Nesten helt sikkert",
+            "is_secondary": false,
+            "published_at": "2026-10-22T04:23:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3f794c5a883ed7c5",
+        "continued_from": null,
+        "headline": "Bankene advarer mot nye svindelmetoder i Norge",
+        "ingress": "Norske banker advarer nå mot tre spesifikke svindelmetoder som rammer både privatpersoner og næringslivet.",
+        "summary": "Banknæringen har gått ut med offisielle advarsler knyttet til flere utspekulerte svindelmetoder som nå rammer både norske privatpersoner og bedrifter hardt. Blant de omtalte metodene er det registrert tilfeller der intetanende ofre blir bedt om å legge verdifulle gjenstander, som gull, ute i naturen eller skogen. Slike fremgangsmåter viser hvordan kriminelle aktører stadig utvikler nye og mer utspekulerte psykologiske manipulasjonsteknikker for å lure til seg verdier fra sårbare eller ukritiske borgere. Banker og politi understreker viktigheten av å utvise ekstrem forsiktighet ved uvanlige henvendelser, og oppfordrer publikum til å anmelde mistenkelige forhold umiddelbart. Selv om det foreligger konkrete eksempler på sakene som blir etterforsket, gir myndighetene og finansinstitusjonene en generell vurdering av at problemomfanget er økende og krever skjerpet åtsomhet i befolkningen. Analyser fra finansforetakene peker på at svindlerne i stor grad utnytter digital kommunikasjon og tillitsbaserte systemer, men at de også i økende grad tar i bruk fysiske metoder for å sikre seg stjålne midler uten at digitale spor oppdages like lett. Kampen mot denne typen kriminalitet prioriteres høyt, men bankene påpeker at folkeopplysning er det mest effektive vernet mot å bli lurt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19349198",
+            "title": "Ny svindelmetode: Folk bes om å legge gull i skogen",
+            "is_secondary": false,
+            "published_at": "2026-10-22T06:38:42+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "df269d641e10d9bc",
+        "continued_from": null,
+        "headline": "Lyon og Paris forbyr demonstrasjoner på lørdag",
+        "ingress": "Frankrikes tredje største by Lyon forbyr alle demonstrasjoner kommende lørdag i forbindelse med landsomfattende protester.",
+        "summary": "Myndighetene i Frankrikes tredje største by, Lyon, har besluttet å innføre et totalforbud mot alle demonstrasjoner og protester kommende lørdag. Dette bekreftes av flere medier, deriblant NRK, Aftenposten og Nettavisen. Beslutningen kommer i forkant av en serie planlagte, landsomfattende protestmarkeringer som er ventet å finne sted samme dag. Tidligere denne uken ble det også innført tilsvarende forbud mot demonstrasjoner i utvalgte deler av hovedstaden Paris. De omfattende demonstrasjonene i landet har nå pågått i tre sammenhengende uker. Protestbølgen startet opprinnelig som en elevprorett der deltakerne krevde flere ressurser og bedre vilkår til den franske skolen, men har siden utviklet seg til å omfatte bredere samfunnsmessige utfordringer. Det er foreløpig uklart hvor lenge de lokale myndighetene vil opprettholde disse demonstrasjonsforbudene, men sikkerhetsoppbudet i store franske byer er ventet å være høyt gjennom helgen for å forhindre uro. Analytikere vurderer beslutningen om forbud som et ledd i en strengere linje fra regjeringen og politiet for å opprettholde ro og orden i kjølvannet av de langvarige protestene som har preget landet den siste tiden.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/lyon-forbyr-demonstrasjoner-pa-lordag-1.18061620",
+            "title": "Lyon forbyr demonstrasjoner på lørdag",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:26:23+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/8GA4Vx/lyon-forbyr-demonstrasjoner-loerdag?utm_medium=rss",
+            "title": "Lyon forbyr demonstrasjoner lørdag",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:29:49+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/frankrikes-tredje-storste-by-lyon-forbyr-alle-protester-lordag/s/80-95-182298",
+            "title": "Frankrikes tredje største by Lyon forbyr «alle protester» lørdag",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:29:35+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a6e990ac373e1504",
+        "continued_from": null,
+        "headline": "Ole Rolfsrud gir seg i NRK etter 23 år",
+        "ingress": "Ole Rolfsrud takker for seg i NRK etter 23 år, men skal lede sjakk-VM én siste gang før han slutter.",
+        "summary": "Profilerte Ole Rolfsrud (50) har besluttet å forlate NRK etter en lang karriere på 23 år som journalist og programleder i kanalen. Det kommer fram i et intervju med VG, hvor han reflekterer over sin tid i allmennkringkasteren. Før han gir seg for godt, skal han imidlertid gjennomføre en siste stor oppgave da han skal lede årets sjakk-VM. Rolfsrud uttaler til avisen at han har en ambisjon om å avslutte sin lange og innholdsrike NRK-karriere med et skikkelig smell. I intervjuet deler han også minner fra spesielle øyeblikk opp gjennom årene, og han ser tilbake på en tid preget av mange store sportsbegivenheter og folkekjære sendinger. Avgjørelsen om å slutte er hans egen, og han gir uttrykk for en blanding av vemod og spenning for hva fremtiden vil bringe etter at sjakkmesterskapet er over. Det er foreløpig ikke kjent hva Rolfsrud skal gjøre videre i sin yrkeskarriere etter at han er ferdig i statskanalen. Hans avgang markerer slutten på en epoke for flere av NRKs faste sportssendinger der han har hatt en sentral rolle som programleder og formidler gjennom mer enn to tiår.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/Kr21py/ole-rolfsrud-slutter-i-nrk-etter-23-aar",
+            "title": "Sjakkprofilen takker for seg: – Skal avslutte med et smell",
+            "is_secondary": false,
+            "published_at": "2026-10-22T09:35:56+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-10-22T12:31:05.205824+02:00",
+    "edition_date": "2026-10-22",
+    "edition_type": "morning",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 206,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 13
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:30.202821+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:04:42+00:00",
+          "earliest_usable_published_at": "2026-10-22T00:03:38+00:00",
+          "latest_usable_published_at": "2026-10-22T10:04:42+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:30.640646+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:04:26+00:00",
+          "earliest_usable_published_at": "2026-10-22T01:48:27+00:00",
+          "latest_usable_published_at": "2026-10-22T10:04:26+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:31.716046+00:00",
+          "candidate_count": 14,
+          "usable_article_count": 14,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:08:06+00:00",
+          "earliest_usable_published_at": "2026-10-21T16:17:54+00:00",
+          "latest_usable_published_at": "2026-10-22T10:08:06+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:32.274729+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:22:24+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:23:31+00:00",
+          "latest_usable_published_at": "2026-10-22T10:22:24+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:32.839713+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:04:53+00:00",
+          "earliest_usable_published_at": "2026-10-22T06:39:05+00:00",
+          "latest_usable_published_at": "2026-10-22T10:04:53+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:33.241398+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T09:23:20+00:00",
+          "earliest_usable_published_at": "2026-10-21T15:44:20+00:00",
+          "latest_usable_published_at": "2026-10-22T09:23:20+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:33.685424+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:07:59+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:20:43+00:00",
+          "latest_usable_published_at": "2026-10-22T10:07:59+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:34.706215+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:26:06+00:00",
+          "earliest_usable_published_at": "2026-10-22T10:00:00+00:00",
+          "latest_usable_published_at": "2026-10-22T10:26:06+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:35.281136+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:12:23+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:04:36+00:00",
+          "latest_usable_published_at": "2026-10-22T10:12:23+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:35.869166+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:22:56+00:00",
+          "earliest_usable_published_at": "2026-10-22T07:32:25+00:00",
+          "latest_usable_published_at": "2026-10-22T10:22:56+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:36.682279+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:23:45+00:00",
+          "earliest_usable_published_at": "2026-10-22T08:32:11+00:00",
+          "latest_usable_published_at": "2026-10-22T10:23:45+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:37.148940+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-22T06:54:00+00:00",
+          "latest_usable_published_at": "2026-10-22T10:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:37.613974+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:24:00+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:49:00+00:00",
+          "latest_usable_published_at": "2026-10-22T10:24:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:38.392214+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:16:14+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:59:56+00:00",
+          "latest_usable_published_at": "2026-10-22T10:16:14+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:38.574016+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 5,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-22T09:11:13+00:00",
+          "earliest_usable_published_at": "2026-10-22T07:13:53+00:00",
+          "latest_usable_published_at": "2026-10-22T09:11:13+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:40.536572+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T08:46:32+00:00",
+          "earliest_usable_published_at": "2026-10-21T22:58:30+00:00",
+          "latest_usable_published_at": "2026-10-22T08:46:32+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:41.295262+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:26:06+00:00",
+          "earliest_usable_published_at": "2026-10-22T05:30:22+00:00",
+          "latest_usable_published_at": "2026-10-22T10:26:06+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:41.330418+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:18:31+00:00",
+          "earliest_usable_published_at": "2026-10-22T04:00:15+00:00",
+          "latest_usable_published_at": "2026-10-22T10:18:31+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-22T10:29:41.581964+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:41.635636+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:10:07+00:00",
+          "earliest_usable_published_at": "2026-10-22T04:01:19+00:00",
+          "latest_usable_published_at": "2026-10-22T10:10:07+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-22T10:29:41.745540+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:41.818527+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:18:11+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:21:10+00:00",
+          "latest_usable_published_at": "2026-10-22T10:18:11+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:42.278238+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:01:55+00:00",
+          "earliest_usable_published_at": "2026-10-22T09:00:05+00:00",
+          "latest_usable_published_at": "2026-10-22T10:01:55+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:42.370209+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T09:55:38+00:00",
+          "earliest_usable_published_at": "2026-10-21T22:13:33+00:00",
+          "latest_usable_published_at": "2026-10-22T09:55:38+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:42.695332+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T10:22:48+00:00",
+          "earliest_usable_published_at": "2026-10-22T08:12:29+00:00",
+          "latest_usable_published_at": "2026-10-22T10:22:48+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:42.919578+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-22T09:10:13+00:00",
+          "earliest_usable_published_at": "2026-10-21T11:53:18+00:00",
+          "latest_usable_published_at": "2026-10-22T09:10:13+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-22T10:29:44.108667+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-19T14:00:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-10-22T10:29:44.286852+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 2,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 2,
+          "latest_published_at": "2026-10-22T09:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-22T08:00:00+00:00",
+          "latest_usable_published_at": "2026-10-22T09:00:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-22T12:29:30.202785+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-22T10:29:30.202821+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-22T10:29:30.640646+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-22T10:29:31.716046+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-22T10:29:32.274729+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-22T10:29:32.839713+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-22T10:29:33.241398+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-22T10:29:33.685424+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-22T10:29:34.706215+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-22T10:29:35.281136+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-22T10:29:35.869166+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-22T10:29:36.682279+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-22T10:29:37.148940+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-22T10:29:37.613974+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-22T10:29:38.392214+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-22T10:29:38.574016+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-22T10:29:40.536572+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-22T10:29:41.295262+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-22T10:29:41.330418+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-22T10:29:41.581964+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-22T10:29:41.635636+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-22T10:29:41.745540+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-22T10:29:41.818527+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-22T10:29:42.278238+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-22T10:29:42.370209+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-22T10:29:42.695332+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-22T10:29:42.919578+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-22T10:29:44.108667+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-22T10:29:44.286852+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 206,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 13
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:30.202821+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:04:42+00:00",
+            "earliest_usable_published_at": "2026-10-22T00:03:38+00:00",
+            "latest_usable_published_at": "2026-10-22T10:04:42+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:30.640646+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:04:26+00:00",
+            "earliest_usable_published_at": "2026-10-22T01:48:27+00:00",
+            "latest_usable_published_at": "2026-10-22T10:04:26+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:31.716046+00:00",
+            "candidate_count": 14,
+            "usable_article_count": 14,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:08:06+00:00",
+            "earliest_usable_published_at": "2026-10-21T16:17:54+00:00",
+            "latest_usable_published_at": "2026-10-22T10:08:06+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:32.274729+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:22:24+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:23:31+00:00",
+            "latest_usable_published_at": "2026-10-22T10:22:24+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:32.839713+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:04:53+00:00",
+            "earliest_usable_published_at": "2026-10-22T06:39:05+00:00",
+            "latest_usable_published_at": "2026-10-22T10:04:53+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:33.241398+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T09:23:20+00:00",
+            "earliest_usable_published_at": "2026-10-21T15:44:20+00:00",
+            "latest_usable_published_at": "2026-10-22T09:23:20+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:33.685424+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:07:59+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:20:43+00:00",
+            "latest_usable_published_at": "2026-10-22T10:07:59+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:34.706215+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:26:06+00:00",
+            "earliest_usable_published_at": "2026-10-22T10:00:00+00:00",
+            "latest_usable_published_at": "2026-10-22T10:26:06+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:35.281136+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:12:23+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:04:36+00:00",
+            "latest_usable_published_at": "2026-10-22T10:12:23+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:35.869166+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:22:56+00:00",
+            "earliest_usable_published_at": "2026-10-22T07:32:25+00:00",
+            "latest_usable_published_at": "2026-10-22T10:22:56+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:36.682279+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:23:45+00:00",
+            "earliest_usable_published_at": "2026-10-22T08:32:11+00:00",
+            "latest_usable_published_at": "2026-10-22T10:23:45+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:37.148940+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-22T06:54:00+00:00",
+            "latest_usable_published_at": "2026-10-22T10:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:37.613974+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:24:00+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:49:00+00:00",
+            "latest_usable_published_at": "2026-10-22T10:24:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:38.392214+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:16:14+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:59:56+00:00",
+            "latest_usable_published_at": "2026-10-22T10:16:14+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:38.574016+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 5,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-22T09:11:13+00:00",
+            "earliest_usable_published_at": "2026-10-22T07:13:53+00:00",
+            "latest_usable_published_at": "2026-10-22T09:11:13+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:40.536572+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T08:46:32+00:00",
+            "earliest_usable_published_at": "2026-10-21T22:58:30+00:00",
+            "latest_usable_published_at": "2026-10-22T08:46:32+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:41.295262+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:26:06+00:00",
+            "earliest_usable_published_at": "2026-10-22T05:30:22+00:00",
+            "latest_usable_published_at": "2026-10-22T10:26:06+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:41.330418+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:18:31+00:00",
+            "earliest_usable_published_at": "2026-10-22T04:00:15+00:00",
+            "latest_usable_published_at": "2026-10-22T10:18:31+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-22T10:29:41.581964+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:41.635636+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:10:07+00:00",
+            "earliest_usable_published_at": "2026-10-22T04:01:19+00:00",
+            "latest_usable_published_at": "2026-10-22T10:10:07+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-22T10:29:41.745540+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:41.818527+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:18:11+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:21:10+00:00",
+            "latest_usable_published_at": "2026-10-22T10:18:11+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:42.278238+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:01:55+00:00",
+            "earliest_usable_published_at": "2026-10-22T09:00:05+00:00",
+            "latest_usable_published_at": "2026-10-22T10:01:55+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:42.370209+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T09:55:38+00:00",
+            "earliest_usable_published_at": "2026-10-21T22:13:33+00:00",
+            "latest_usable_published_at": "2026-10-22T09:55:38+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:42.695332+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T10:22:48+00:00",
+            "earliest_usable_published_at": "2026-10-22T08:12:29+00:00",
+            "latest_usable_published_at": "2026-10-22T10:22:48+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:42.919578+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-22T09:10:13+00:00",
+            "earliest_usable_published_at": "2026-10-21T11:53:18+00:00",
+            "latest_usable_published_at": "2026-10-22T09:10:13+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-22T10:29:44.108667+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-19T14:00:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-10-22T10:29:44.286852+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 2,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 2,
+            "latest_published_at": "2026-10-22T09:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-22T08:00:00+00:00",
+            "latest_usable_published_at": "2026-10-22T09:00:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 39,
+      "drop_reasons": []
+    }
+  }
+}
