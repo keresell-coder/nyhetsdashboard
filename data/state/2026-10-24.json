@@ -1815,5 +1815,2118 @@
         "summary_out_of_range"
       ]
     }
+  },
+  "evening": {
+    "stories": [
+      {
+        "story_id": "00b0d926290d24ec",
+        "continued_from": null,
+        "headline": "Israelske styrker stenger av by på Vestbredden",
+        "ingress": "Israelske styrker har startet en operasjon i Hebron etter at to soldater ble drept.",
+        "summary": "Israelske styrker har iverksatt en militær operasjon i byen Hebron på Vestbredden som følge av at to israelske soldater ble drept fredag. Det er hæren og sikkerhetstjenesten Shin Bet som har bekreftet oppstarten av aksjonen. Mellom 150 og 250 palestinske familier skal ha blitt fordrevet fra sine hjem, og ifølge lokale kilder har enkelte måttet forlate boligene i løpet av natten. Guvernøren i Hebron, Khaled Dudin, opplyser til nyhetsbyrået AFP at antallet fordrevne tilsvarer omtrent en tredel av byens samlede innbyggertall. Videre melder meldingstjenesten Basma Radio at det berørte området nå er fullstendig sperret av for all biltrafikk. Det foreløpige bildet tegner en dramatisk situasjon for sivilbefolkningen i området mens operasjonen pågår med full styrke. Den pågående avstengningen og de omfattende evakueringene understreker alvoret i sikkerhetssituasjonen etter fredagens hendelser, og lokale innbyggere bruker nå alternative kanaler for å holde oversikt over veisperringer og sjekkpunkter i byen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/israelske-styrker-har-stengt-av-by-pa-vestbredden-1.18063684",
+            "title": "Israelske styrker har stengt av by på Vestbredden",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:16:24+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/X90GJo/israelske-styrker-har-stengt-av-by-paa-vestbredden?utm_medium=rss",
+            "title": "Israelske styrker har stengt av by på Vestbredden",
+            "is_secondary": false,
+            "published_at": "2026-10-24T05:18:29+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "58a820e5420ca11f",
+        "continued_from": null,
+        "headline": "Debatt om det offentlige og private barnevernet",
+        "ingress": "Barn som ikke kan bo hjemme, trenger et helhetlig tilbud der både offentlige og private aktører bidrar.",
+        "summary": "Denne artikkelen utgjør en meningsbærende debattkommentar om det norske barnevernet og samfunnets ansvar overfor sårbare barn. Forfatteren argumenterer for at barn som av ulike årsaker ikke har mulighet til å bo i sine egne hjem, har behov for mer enn bare et fysisk sted å oppholde seg. Det understrekes i teksten at selv om det offentlige barnevernet må styrkes betydelig framover, er det også helt nødvendig at private aktører forblir en integrert del av løsningen for å sikre et bredt og treffsikret tilbud. Det presiseres at synspunktene i innlegget er en vurdering av hvordan velferdsstatens oppgaver bør løses, og ikke en nøytral nyhetsrapport. Kommentaren belyser de politiske og etiske avveiningene knyttet til omsorgssvikt, institusjonsplasseringer og samarbeidet mellom det offentlige apparatet og private leverandører av barnevernstjenester. Målet med innlegget er å stimulere til debatt om hvordan samfunnet best mulig kan opptre som en trygg og stabil voksenperson for barn som befinner seg i krevende livssituasjoner uten den opprinnelige familiens daglige tilstedeværelse.",
+        "content_type": "kronikk",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/med-egne-ord/politikk/jonas-gahr-store/barnevern/nar-samfunnet-skal-vare-den-trygge-voksne/2-1-2063213",
+            "title": "Når samfunnet skal være den trygge voksne",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:57:43+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "0f4e3acda926d2b6",
+        "continued_from": null,
+        "headline": "Oljeprisen stiger kraftig til det høyeste nivået på måneder",
+        "ingress": "Prisen på nordsjøolje skyter i været etter økt militær aktivitet og spenning i Midtøsten.",
+        "summary": "Prisen på nordsjøolje har steget markant som følge av opptrappet militær aktivitet og angrep i Midtøsten. Oljeprisen nådde fredag over 117 dollar fatet, noe som representerer det høyeste prisnivået siden mars, og det høyeste på fem måneder ifølge tilgjengelige markedsdata. Den kraftige oppgangen tilskrives direkte den økte geopolitiske spenningen i den oljerike regionen, som skaper bekymring for forstyrrelser i den globale energiforsyningen. Markedet reagerer raskt på usikkerhet rundt fysiske leveranser og sikkerhetssituasjonen for oljeinfrastruktur og transportruter. Analytikere vurderer situasjonen som svært sårbar, der enhver eskalering i konflikten kan føre til ytterligere prissvingninger i det internasjonale markedet. Selv om de eksakte konsekvensene av uroen på lengre sikt fremdeles er usikre, viser de umiddelbare markedsreaksjonene at energisektoren er ekstremt sensitiv for militære konflikter i Midtøsten. Investeringene preges av nervøsitet, og aktørene følger utviklingen nøye mens prisene holder seg på et historisk høyt nivå for denne tida av året.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/mK2AbO/oljeprisen-hoeyeste-siden-mars-etter-oekt-midtoesten-spenning?utm_medium=rss",
+            "title": "SKALL: Oljeprisen høyeste siden mars etter økt Midtøsten-spenning",
+            "is_secondary": false,
+            "published_at": "2026-10-23T16:30:30+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d7Ew7o/oljeprisen-naar-sitt-hoeyeste-nivaa-paa-fem-maaneder?utm_medium=rss",
+            "title": "Oljeprisen når sitt høyeste nivå på fem måneder",
+            "is_secondary": false,
+            "published_at": "2026-10-23T17:07:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ac0ffa0bde242d48",
+        "continued_from": null,
+        "headline": "Ukraina melder om stabil Starlink-forbindelse og økende hastighet",
+        "ingress": "Ukraina har igjen stabil tilkobling til Starlink, og hastigheten er på vei opp.",
+        "summary": "Ukrainske myndigheter opplyste lørdag at landet igjen har en stabil forbindelse til satellittnettverket Starlink. Dette skjer etter flere dager preget av spenning i forholdet til Washington knyttet til SpaceX-nettverket, som regnes som helt avgjørende for de ukrainske militære styrkenes operative evne i felt. Ukrainas forsvarsminister uttaler i en offisiell kommentar at landets overvåkingssystemer nå registrerer at hastigheten i både Starlink og Starshield er på vei opp igjen, i tillegg til at selve tilkoblingen fremstår som stabil. Så sent som fredag meldte ukrainske kilder at nettet fremdeles fungerte svært tregt. De nylige tekniske problemene har hatt negative konsekvenser for landets kapasitet til å forsvare seg mot russiske droneangrep, samt landets egne muligheter til å gjennomføre egne droneoperasjoner mot militære mål på russisk kontrollert territorium. Myndighetene anser gjenopprettelsen av stabil nettkapasitet som en svært viktig brikke i forsvarskrigen, spesielt med tanke på sanntids kommunikasjon og koordinering av militære enheter under krevende operative forhold.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596",
+            "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
+            "is_secondary": false,
+            "published_at": "2026-10-24T08:19:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fd86e3a4abafbbae",
+        "continued_from": null,
+        "headline": "Hitlers «Ørnerede» totalskadet i brann",
+        "ingress": "Kehlsteinhaus i Berchtesgaden er påført omfattende skader etter en nattlig brann. Tysk politi mistenker at brannen er påsatt, og én person er pågrepet.",
+        "summary": "Tysk politi melder at Kehlsteinhaus, bedre kjent som Hitlers «Ørnerede» i Berchtesgaden, er mer eller mindre totalskadet etter en omfattende brann som startet fredag kveld og pågikk til lørdag morgen. Ifølge mediestoler som Bild er bygningen så hardt rammet at den trolig ikke kan reddes. Nødetatene rykket raskt ut, og det bekreftes at ingen personer kom til skade, da bygningen som i dag fungerer som restaurant stod tom da brannen brøt ut. Politiet opplyser at de mistenker at brannen er påsatt, og en person er allerede pågrepet i forbindelse med hendelsen mens etterforskningen fortsetter for å avklare de nærmere omstendighetene rundt brannårsaken og hendelsesforløpet. Bygningen er et historisk landemerke i området, og situasjonen har vakt stor oppmerksomhet i både tysk og internasjonale medier gjennom helgen. Det gjenstår å se hva som vil skje med restene av den kjente eiendommen fremover, men de foreløpige rapportene fra etater og aviser tegner et dystert bilde av skadeomfanget og bygningens fremtid. Politiet fortsetter sine undersøkelser på stedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/hitlers-_ornerede_-mer-eller-mindre-totalskadet-i-brann-1.18063625",
+            "title": "Hitlers «Ørnerede» mer eller mindre totalskadet i brann",
+            "is_secondary": false,
+            "published_at": "2026-10-24T09:02:35+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/MAlmkB/hitlers-oernerede-totalskadet-etter-brann?utm_medium=rss",
+            "title": "Hitlers «Ørnerede» totalskadet etter brann",
+            "is_secondary": false,
+            "published_at": "2026-10-23T21:36:14+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19356107",
+            "title": "Bild: Hitlers «Ørnerede» kraftig skadet i brann – én pågrepet",
+            "is_secondary": false,
+            "published_at": "2026-10-23T22:08:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "510b58ad02541d2f",
+        "continued_from": null,
+        "headline": "Moren til terrormistenkt franskmann pågrepet",
+        "ingress": "Fransk politi har pågrepet flere familiemedlemmer og bekjente etter et terrorangrep sørvest for Paris. Den mistenkte mannens mor er blant dem som sitter i varetekt.",
+        "summary": "Etter et terrorangrep i forstedene Trappes og La Verrière sørvest for Paris fredag, der en person ble drevet i døden og fem andre ble skadet, har fransk politi svingt seg rundt. Blant de sårede er en tolv år gammel jente. Ifølge avisen Le Figaro har politiet satt tre personer i varetekt, deriblant den antatte gjerningsmannens egen mor. Fransk regelverk gir anledning til å holde mistenkte og tilknyttede personer i politiarrest i inntil 96 timer under slike omstendigheter. Videre opplyser påtalemyndigheten at den hovedmistenkte mannen har fått sin varetekt forlenget lørdag. Angrepet har rystet lokalsamfunnet ogfranske myndigheter, og etterforskningen pågår med full styrke for å avdekke eventuelle medvirkere og bakgrunnen for ugjerningen. Familiemedlemmenes rolle blir nå gjennomgått av etterforskerne. Det er foreløpig ikke kjent nøyaktig hva de pågrepne familiemedlemmene skal ha visst om planene for angrepet, men politiet velger å holde dem i varetekt mens den innledende fasen av etterforskningen fortsetter i tråd med franske lover for terrorbekjempelse og varetektsfengsling.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/moren-til-terrormistenkt-pagrepet-av-fransk-politi-1.18063677",
+            "title": "Moren til terrormistenkt pågrepet av fransk politi",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:02:51+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8100705b2764cee2",
+        "continued_from": null,
+        "headline": "De jodlende milliardærer i Norge",
+        "ingress": "En kommentar til landets økonomi og situasjon med et skråblikk på kulturen.",
+        "summary": "Denne artikkelen bærer preg av å være en meningsytring og en subjektiv kommentar snarere enn en nøytral nyhetsrapport. Forfatteren retter et satirisk blikk mot Norge og landets økonomiske eliter, der metaforer knyttet til tyrolerhatter og jodling brukes for å beskrive situasjonen. Det gis uttrykk for en personlig vurdering av samfunnstilstanden, preget av sarkasme og humoristiske virkemidler. Siden innholdet er klassifisert som debatt eller kommentar, må fremstillingen leses som et uttrykk for skribentens egne holdninger og synspunkter, fremfor objektive fakta om samfunnsøkonomien. Teksten belyser ikke tradisjonelle nyhetsmomenter, men leverer en spissformulert betraktning rundt milliardærer og nasjonale tilstander. Slike meningsbærende bidrag skiller seg tydelig fra ordinær nyhetsjournalistikk ved å prioritere underholdning og polemikk fremfor nøytral informasjonsformidling. Leserne oppfordres til å tolke innholdet i lys av sjangeren, der formålet er å kommentere og vekke reaksjoner heller enn å dokumentere etterrettelige hendelser i næringslivet eller politikken.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/uten-filter/politikk/uten-filter/skatt/de-jodlende-milliardarer/2-1-2063299",
+            "title": "De jodlende milliardærer",
+            "is_secondary": false,
+            "published_at": "2026-10-24T06:13:54+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "82bb1c7f78136fc7",
+        "continued_from": null,
+        "headline": "Banknæringen støtter Nordea i gruppesøksmål",
+        "ingress": "Forbrukerrådet møter sterk motstand fra banknæringen i saken om null prosents innskuddsrente.",
+        "summary": "Banknæringen velger å slutte opp om Nordea i det aktuelle gruppesøksmålet som har blitt reist, noe som skaper debatt om praksisen med null prosents rente til kundene. Spørsmålet som reises, er om en slik praksis er å betrakte som ulovlig. Finans Norges toppadvokat argumenterer for at bankenes håndtering kan innebære tjenester som krever manuell behandling, og forsvarer dermed fremgangsmåten som har ført til reaksjoner fra Forbrukerrådet. Saken har potensial til å sette en viktig presedens for hvordan banker her til lands behandler kundenes innskudd og hvilke vilkår som kan tilbys. Mens Forbrukerrådet stiller seg kritisk til vilkårene, representerer banknæringens innlegg en tydelig støtteerklæring til Nordea og bransjens generelle praksis på dette feltet. Artikkelen oppsummerer ulike synspunkter i konflikten, der finansnæringen forsvarer sine modeller, mens forbrukerinteressene krever endringer. Det gjenstår å se hvordan domstolene eller relevante instanser vil vurdere lovligheten av rentenivåene og de bakenforliggende tjenestene som bankene viser til i sin argumentasjon i denne betente saken som berører mange norske bankkunder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/banknaringen-slar-ring-om-nordea-etter-gruppesoksmal/2-1-2061407",
+            "title": "Banknæringen slår ring om Nordea etter gruppesøksmål",
+            "is_secondary": false,
+            "published_at": "2026-10-23T16:52:32+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e66bfce55202a6bf",
+        "continued_from": null,
+        "headline": "Think Pink-sopberget ligger fortsatt igjen",
+        "ingress": "Til tross for at de ansvarlige er dømt til fengsel, ligger store mengder avfall fra Think Pink igjen på flere plasser i Sverige.",
+        "summary": "Det omfattende og omtalte Think Pink-rettssaken er formelt avsluttet, og de ansvarlige bak skandalen har blitt dømte til fengselsstraffer. Likevel gjenstår et betydelig problem: avfall som ble dumpet av det nå skandaleombruste selskapet, ligger fortsatt igjen på minst ni forskjellige steder spredt over Mellansverige. Dette skaper hodebry for lokale myndigheter og innbyggere som krever opprydding. I Botkyrka kommune uttrykkes det et håp om at den svenske staten skal ta regningen og finansiere den kostbare oppryddingen av det enorme sopberget som befinner seg i Kagghamra. Det er imidlertid lite som tyder på en rask løsning, ettersom en slik statlig finansiering tidligst kan bli aktuell i 2028 ifølge de lokale prognosene. Situasjonen illustrerer de langvarige og krevende ettervirkningene av miljøkriminalitet, der konsekvensene for natur og samfunn vedvarer lenge etter at de rettslige prosessene er ferdigbehandlede og dommene har falt. Svenske medier som Dagens Industri og Svenska Dagbladet peker på at ansvarsfordelingen for oppryddingen fortsatt er omstridt, og at lokalsamfunnene sitter igjen med både regningen og miljøproblemet i lang tid fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/think-pinks-sopberg-kvar-nota-pa-390-miljoner/",
+            "title": "Think Pinks sopberg kvar – nota på 390 miljoner",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:09:47+00:00"
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/4O4Xzo/trots-domarna-think-pinks-dolda-sopberg-ligger-kvar?utm_medium=rss",
+            "title": "Trots domarna – Think Pinks dolda sopberg ligger kvar",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:00:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "105f2f369c8ce891",
+        "continued_from": null,
+        "headline": "30-åring tester KI-systemer for tekgigantene",
+        "ingress": "En 30 år gammel ekspert som jobber for selskaper som Meta og OpenAI, advarer om at kunstig intelligens lyver.",
+        "summary": "I en fersk vurdering av kunstig intelligens kommer det fram at en 30-årig ekspert, som har giganter som Meta, OpenAI og Anthropic på kundelisten, retter knallhard kritikk mot utviklingen. I september avga han vitnemål for det amerikanske Senatet for å dele sine vurderinger av bransjen. Hans analyse er preget av dyp bekymring, og han konkluderer blant annet med at dagens KI-modeller direkte lyver til brukerne. Utviklingen beskrives av eksperten som et bekymringsfullt kappløp mot bunnen, der sikkerhet og sannferdighet potensielt ofres i kampen om markedsandeler og teknologisk dominans. Uttalelsene representerer en faglig vurdering og et varsku fra en sentral aktør som jobber tett på selve kjernen av teknologien, noe som gir et unikt innblikk i utfordringene tekgigantene står overfor. Hans perspektiver kaster lys over etiske og tekniske dilemmaer som preger debatten om kunstig intelligens i dag, og understreker behovet for grundigere kontroll og regulering av systemene som nå rulles ut i et raskt tempo over hele verden til millioner av intetanende forbrukere og bedrifter.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/teknologi/ki/meta/microsoft/30-aringen-tester-ki-systemene-til-tekgigantene-modellen-lyver-til-deg/2-1-2061916",
+            "title": "30-åringen tester KI-systemene til tekgigantene: – Modellen lyver til deg",
+            "is_secondary": false,
+            "published_at": "2026-10-24T09:19:21+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "00b0d926290d24ec",
+        "continued_from": null,
+        "headline": "Israelske styrker stenger av by på Vestbredden",
+        "ingress": "Israelske styrker har startet en operasjon i Hebron etter at to soldater ble drept.",
+        "summary": "Israelske styrker har iverksatt en militær operasjon i byen Hebron på Vestbredden som følge av at to israelske soldater ble drept fredag. Det er hæren og sikkerhetstjenesten Shin Bet som har bekreftet oppstarten av aksjonen. Mellom 150 og 250 palestinske familier skal ha blitt fordrevet fra sine hjem, og ifølge lokale kilder har enkelte måttet forlate boligene i løpet av natten. Guvernøren i Hebron, Khaled Dudin, opplyser til nyhetsbyrået AFP at antallet fordrevne tilsvarer omtrent en tredel av byens samlede innbyggertall. Videre melder meldingstjenesten Basma Radio at det berørte området nå er fullstendig sperret av for all biltrafikk. Det foreløpige bildet tegner en dramatisk situasjon for sivilbefolkningen i området mens operasjonen pågår med full styrke. Den pågående avstengningen og de omfattende evakueringene understreker alvoret i sikkerhetssituasjonen etter fredagens hendelser, og lokale innbyggere bruker nå alternative kanaler for å holde oversikt over veisperringer og sjekkpunkter i byen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/israelske-styrker-har-stengt-av-by-pa-vestbredden-1.18063684",
+            "title": "Israelske styrker har stengt av by på Vestbredden",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:16:24+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/X90GJo/israelske-styrker-har-stengt-av-by-paa-vestbredden?utm_medium=rss",
+            "title": "Israelske styrker har stengt av by på Vestbredden",
+            "is_secondary": false,
+            "published_at": "2026-10-24T05:18:29+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "58a820e5420ca11f",
+        "continued_from": null,
+        "headline": "Debatt om det offentlige og private barnevernet",
+        "ingress": "Barn som ikke kan bo hjemme, trenger et helhetlig tilbud der både offentlige og private aktører bidrar.",
+        "summary": "Denne artikkelen utgjør en meningsbærende debattkommentar om det norske barnevernet og samfunnets ansvar overfor sårbare barn. Forfatteren argumenterer for at barn som av ulike årsaker ikke har mulighet til å bo i sine egne hjem, har behov for mer enn bare et fysisk sted å oppholde seg. Det understrekes i teksten at selv om det offentlige barnevernet må styrkes betydelig framover, er det også helt nødvendig at private aktører forblir en integrert del av løsningen for å sikre et bredt og treffsikret tilbud. Det presiseres at synspunktene i innlegget er en vurdering av hvordan velferdsstatens oppgaver bør løses, og ikke en nøytral nyhetsrapport. Kommentaren belyser de politiske og etiske avveiningene knyttet til omsorgssvikt, institusjonsplasseringer og samarbeidet mellom det offentlige apparatet og private leverandører av barnevernstjenester. Målet med innlegget er å stimulere til debatt om hvordan samfunnet best mulig kan opptre som en trygg og stabil voksenperson for barn som befinner seg i krevende livssituasjoner uten den opprinnelige familiens daglige tilstedeværelse.",
+        "content_type": "kronikk",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/med-egne-ord/politikk/jonas-gahr-store/barnevern/nar-samfunnet-skal-vare-den-trygge-voksne/2-1-2063213",
+            "title": "Når samfunnet skal være den trygge voksne",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:57:43+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "0f4e3acda926d2b6",
+        "continued_from": null,
+        "headline": "Oljeprisen stiger kraftig til det høyeste nivået på måneder",
+        "ingress": "Prisen på nordsjøolje skyter i været etter økt militær aktivitet og spenning i Midtøsten.",
+        "summary": "Prisen på nordsjøolje har steget markant som følge av opptrappet militær aktivitet og angrep i Midtøsten. Oljeprisen nådde fredag over 117 dollar fatet, noe som representerer det høyeste prisnivået siden mars, og det høyeste på fem måneder ifølge tilgjengelige markedsdata. Den kraftige oppgangen tilskrives direkte den økte geopolitiske spenningen i den oljerike regionen, som skaper bekymring for forstyrrelser i den globale energiforsyningen. Markedet reagerer raskt på usikkerhet rundt fysiske leveranser og sikkerhetssituasjonen for oljeinfrastruktur og transportruter. Analytikere vurderer situasjonen som svært sårbar, der enhver eskalering i konflikten kan føre til ytterligere prissvingninger i det internasjonale markedet. Selv om de eksakte konsekvensene av uroen på lengre sikt fremdeles er usikre, viser de umiddelbare markedsreaksjonene at energisektoren er ekstremt sensitiv for militære konflikter i Midtøsten. Investeringene preges av nervøsitet, og aktørene følger utviklingen nøye mens prisene holder seg på et historisk høyt nivå for denne tida av året.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/mK2AbO/oljeprisen-hoeyeste-siden-mars-etter-oekt-midtoesten-spenning?utm_medium=rss",
+            "title": "SKALL: Oljeprisen høyeste siden mars etter økt Midtøsten-spenning",
+            "is_secondary": false,
+            "published_at": "2026-10-23T16:30:30+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d7Ew7o/oljeprisen-naar-sitt-hoeyeste-nivaa-paa-fem-maaneder?utm_medium=rss",
+            "title": "Oljeprisen når sitt høyeste nivå på fem måneder",
+            "is_secondary": false,
+            "published_at": "2026-10-23T17:07:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ac0ffa0bde242d48",
+        "continued_from": null,
+        "headline": "Ukraina melder om stabil Starlink-forbindelse og økende hastighet",
+        "ingress": "Ukraina har igjen stabil tilkobling til Starlink, og hastigheten er på vei opp.",
+        "summary": "Ukrainske myndigheter opplyste lørdag at landet igjen har en stabil forbindelse til satellittnettverket Starlink. Dette skjer etter flere dager preget av spenning i forholdet til Washington knyttet til SpaceX-nettverket, som regnes som helt avgjørende for de ukrainske militære styrkenes operative evne i felt. Ukrainas forsvarsminister uttaler i en offisiell kommentar at landets overvåkingssystemer nå registrerer at hastigheten i både Starlink og Starshield er på vei opp igjen, i tillegg til at selve tilkoblingen fremstår som stabil. Så sent som fredag meldte ukrainske kilder at nettet fremdeles fungerte svært tregt. De nylige tekniske problemene har hatt negative konsekvenser for landets kapasitet til å forsvare seg mot russiske droneangrep, samt landets egne muligheter til å gjennomføre egne droneoperasjoner mot militære mål på russisk kontrollert territorium. Myndighetene anser gjenopprettelsen av stabil nettkapasitet som en svært viktig brikke i forsvarskrigen, spesielt med tanke på sanntids kommunikasjon og koordinering av militære enheter under krevende operative forhold.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596",
+            "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
+            "is_secondary": false,
+            "published_at": "2026-10-24T08:19:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fd86e3a4abafbbae",
+        "continued_from": null,
+        "headline": "Hitlers «Ørnerede» totalskadet i brann",
+        "ingress": "Kehlsteinhaus i Berchtesgaden er påført omfattende skader etter en nattlig brann. Tysk politi mistenker at brannen er påsatt, og én person er pågrepet.",
+        "summary": "Tysk politi melder at Kehlsteinhaus, bedre kjent som Hitlers «Ørnerede» i Berchtesgaden, er mer eller mindre totalskadet etter en omfattende brann som startet fredag kveld og pågikk til lørdag morgen. Ifølge mediestoler som Bild er bygningen så hardt rammet at den trolig ikke kan reddes. Nødetatene rykket raskt ut, og det bekreftes at ingen personer kom til skade, da bygningen som i dag fungerer som restaurant stod tom da brannen brøt ut. Politiet opplyser at de mistenker at brannen er påsatt, og en person er allerede pågrepet i forbindelse med hendelsen mens etterforskningen fortsetter for å avklare de nærmere omstendighetene rundt brannårsaken og hendelsesforløpet. Bygningen er et historisk landemerke i området, og situasjonen har vakt stor oppmerksomhet i både tysk og internasjonale medier gjennom helgen. Det gjenstår å se hva som vil skje med restene av den kjente eiendommen fremover, men de foreløpige rapportene fra etater og aviser tegner et dystert bilde av skadeomfanget og bygningens fremtid. Politiet fortsetter sine undersøkelser på stedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/hitlers-_ornerede_-mer-eller-mindre-totalskadet-i-brann-1.18063625",
+            "title": "Hitlers «Ørnerede» mer eller mindre totalskadet i brann",
+            "is_secondary": false,
+            "published_at": "2026-10-24T09:02:35+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/MAlmkB/hitlers-oernerede-totalskadet-etter-brann?utm_medium=rss",
+            "title": "Hitlers «Ørnerede» totalskadet etter brann",
+            "is_secondary": false,
+            "published_at": "2026-10-23T21:36:14+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19356107",
+            "title": "Bild: Hitlers «Ørnerede» kraftig skadet i brann – én pågrepet",
+            "is_secondary": false,
+            "published_at": "2026-10-23T22:08:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "510b58ad02541d2f",
+        "continued_from": null,
+        "headline": "Moren til terrormistenkt franskmann pågrepet",
+        "ingress": "Fransk politi har pågrepet flere familiemedlemmer og bekjente etter et terrorangrep sørvest for Paris. Den mistenkte mannens mor er blant dem som sitter i varetekt.",
+        "summary": "Etter et terrorangrep i forstedene Trappes og La Verrière sørvest for Paris fredag, der en person ble drevet i døden og fem andre ble skadet, har fransk politi svingt seg rundt. Blant de sårede er en tolv år gammel jente. Ifølge avisen Le Figaro har politiet satt tre personer i varetekt, deriblant den antatte gjerningsmannens egen mor. Fransk regelverk gir anledning til å holde mistenkte og tilknyttede personer i politiarrest i inntil 96 timer under slike omstendigheter. Videre opplyser påtalemyndigheten at den hovedmistenkte mannen har fått sin varetekt forlenget lørdag. Angrepet har rystet lokalsamfunnet ogfranske myndigheter, og etterforskningen pågår med full styrke for å avdekke eventuelle medvirkere og bakgrunnen for ugjerningen. Familiemedlemmenes rolle blir nå gjennomgått av etterforskerne. Det er foreløpig ikke kjent nøyaktig hva de pågrepne familiemedlemmene skal ha visst om planene for angrepet, men politiet velger å holde dem i varetekt mens den innledende fasen av etterforskningen fortsetter i tråd med franske lover for terrorbekjempelse og varetektsfengsling.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/moren-til-terrormistenkt-pagrepet-av-fransk-politi-1.18063677",
+            "title": "Moren til terrormistenkt pågrepet av fransk politi",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:02:51+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "8100705b2764cee2",
+        "continued_from": null,
+        "headline": "De jodlende milliardærer i Norge",
+        "ingress": "En kommentar til landets økonomi og situasjon med et skråblikk på kulturen.",
+        "summary": "Denne artikkelen bærer preg av å være en meningsytring og en subjektiv kommentar snarere enn en nøytral nyhetsrapport. Forfatteren retter et satirisk blikk mot Norge og landets økonomiske eliter, der metaforer knyttet til tyrolerhatter og jodling brukes for å beskrive situasjonen. Det gis uttrykk for en personlig vurdering av samfunnstilstanden, preget av sarkasme og humoristiske virkemidler. Siden innholdet er klassifisert som debatt eller kommentar, må fremstillingen leses som et uttrykk for skribentens egne holdninger og synspunkter, fremfor objektive fakta om samfunnsøkonomien. Teksten belyser ikke tradisjonelle nyhetsmomenter, men leverer en spissformulert betraktning rundt milliardærer og nasjonale tilstander. Slike meningsbærende bidrag skiller seg tydelig fra ordinær nyhetsjournalistikk ved å prioritere underholdning og polemikk fremfor nøytral informasjonsformidling. Leserne oppfordres til å tolke innholdet i lys av sjangeren, der formålet er å kommentere og vekke reaksjoner heller enn å dokumentere etterrettelige hendelser i næringslivet eller politikken.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/uten-filter/politikk/uten-filter/skatt/de-jodlende-milliardarer/2-1-2063299",
+            "title": "De jodlende milliardærer",
+            "is_secondary": false,
+            "published_at": "2026-10-24T06:13:54+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "82bb1c7f78136fc7",
+        "continued_from": null,
+        "headline": "Banknæringen støtter Nordea i gruppesøksmål",
+        "ingress": "Forbrukerrådet møter sterk motstand fra banknæringen i saken om null prosents innskuddsrente.",
+        "summary": "Banknæringen velger å slutte opp om Nordea i det aktuelle gruppesøksmålet som har blitt reist, noe som skaper debatt om praksisen med null prosents rente til kundene. Spørsmålet som reises, er om en slik praksis er å betrakte som ulovlig. Finans Norges toppadvokat argumenterer for at bankenes håndtering kan innebære tjenester som krever manuell behandling, og forsvarer dermed fremgangsmåten som har ført til reaksjoner fra Forbrukerrådet. Saken har potensial til å sette en viktig presedens for hvordan banker her til lands behandler kundenes innskudd og hvilke vilkår som kan tilbys. Mens Forbrukerrådet stiller seg kritisk til vilkårene, representerer banknæringens innlegg en tydelig støtteerklæring til Nordea og bransjens generelle praksis på dette feltet. Artikkelen oppsummerer ulike synspunkter i konflikten, der finansnæringen forsvarer sine modeller, mens forbrukerinteressene krever endringer. Det gjenstår å se hvordan domstolene eller relevante instanser vil vurdere lovligheten av rentenivåene og de bakenforliggende tjenestene som bankene viser til i sin argumentasjon i denne betente saken som berører mange norske bankkunder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "norsk_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/banknaringen-slar-ring-om-nordea-etter-gruppesoksmal/2-1-2061407",
+            "title": "Banknæringen slår ring om Nordea etter gruppesøksmål",
+            "is_secondary": false,
+            "published_at": "2026-10-23T16:52:32+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e66bfce55202a6bf",
+        "continued_from": null,
+        "headline": "Think Pink-sopberget ligger fortsatt igjen",
+        "ingress": "Til tross for at de ansvarlige er dømt til fengsel, ligger store mengder avfall fra Think Pink igjen på flere plasser i Sverige.",
+        "summary": "Det omfattende og omtalte Think Pink-rettssaken er formelt avsluttet, og de ansvarlige bak skandalen har blitt dømte til fengselsstraffer. Likevel gjenstår et betydelig problem: avfall som ble dumpet av det nå skandaleombruste selskapet, ligger fortsatt igjen på minst ni forskjellige steder spredt over Mellansverige. Dette skaper hodebry for lokale myndigheter og innbyggere som krever opprydding. I Botkyrka kommune uttrykkes det et håp om at den svenske staten skal ta regningen og finansiere den kostbare oppryddingen av det enorme sopberget som befinner seg i Kagghamra. Det er imidlertid lite som tyder på en rask løsning, ettersom en slik statlig finansiering tidligst kan bli aktuell i 2028 ifølge de lokale prognosene. Situasjonen illustrerer de langvarige og krevende ettervirkningene av miljøkriminalitet, der konsekvensene for natur og samfunn vedvarer lenge etter at de rettslige prosessene er ferdigbehandlede og dommene har falt. Svenske medier som Dagens Industri og Svenska Dagbladet peker på at ansvarsfordelingen for oppryddingen fortsatt er omstridt, og at lokalsamfunnene sitter igjen med både regningen og miljøproblemet i lang tid fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/think-pinks-sopberg-kvar-nota-pa-390-miljoner/",
+            "title": "Think Pinks sopberg kvar – nota på 390 miljoner",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:09:47+00:00"
+          },
+          {
+            "source_name": "Svenska Dagbladet",
+            "link": "https://www.svd.se/a/4O4Xzo/trots-domarna-think-pinks-dolda-sopberg-ligger-kvar?utm_medium=rss",
+            "title": "Trots domarna – Think Pinks dolda sopberg ligger kvar",
+            "is_secondary": false,
+            "published_at": "2026-10-24T11:00:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "105f2f369c8ce891",
+        "continued_from": null,
+        "headline": "30-åring tester KI-systemer for tekgigantene",
+        "ingress": "En 30 år gammel ekspert som jobber for selskaper som Meta og OpenAI, advarer om at kunstig intelligens lyver.",
+        "summary": "I en fersk vurdering av kunstig intelligens kommer det fram at en 30-årig ekspert, som har giganter som Meta, OpenAI og Anthropic på kundelisten, retter knallhard kritikk mot utviklingen. I september avga han vitnemål for det amerikanske Senatet for å dele sine vurderinger av bransjen. Hans analyse er preget av dyp bekymring, og han konkluderer blant annet med at dagens KI-modeller direkte lyver til brukerne. Utviklingen beskrives av eksperten som et bekymringsfullt kappløp mot bunnen, der sikkerhet og sannferdighet potensielt ofres i kampen om markedsandeler og teknologisk dominans. Uttalelsene representerer en faglig vurdering og et varsku fra en sentral aktør som jobber tett på selve kjernen av teknologien, noe som gir et unikt innblikk i utfordringene tekgigantene står overfor. Hans perspektiver kaster lys over etiske og tekniske dilemmaer som preger debatten om kunstig intelligens i dag, og understreker behovet for grundigere kontroll og regulering av systemene som nå rulles ut i et raskt tempo over hele verden til millioner av intetanende forbrukere og bedrifter.",
+        "content_type": "intervju",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "okonomi_makro"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/teknologi/ki/meta/microsoft/30-aringen-tester-ki-systemene-til-tekgigantene-modellen-lyver-til-deg/2-1-2061916",
+            "title": "30-åringen tester KI-systemene til tekgigantene: – Modellen lyver til deg",
+            "is_secondary": false,
+            "published_at": "2026-10-24T09:19:21+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5cdbab62206ab616",
+        "continued_from": null,
+        "headline": "Full stans i togtrafikken i Oslo-området skaper store forsinkelser",
+        "ingress": "Signalfeil og strømfeil fører til full stans i togtrafikken ved Skøyen og mellom Lysaker og Nationaltheatret.",
+        "summary": "En kombinasjon av signalfeil og en strømfeil har skapt store problemer og full stans i togtrafikken i Oslo-området. Ifølge Bane Nor er det full stopp i togtrafikken ved Skøyen, og det må påregnes at det vil ta tid å utbedre problemene. Aftenposten melder at det er stengt for togtrafikk spesifikt mellom Lysaker og Nationaltheatret ettersom Bane Nor er nødt til å fikse en skadet strømledning. Som følge av disse feilene melder Vy på sine nettsider at togreisende må belage seg på betydelige forsinkelser, i tillegg til at flere avganger kan bli innstilt. TV 2 og VG bekrefter at situasjonen fører til store forsinkelser og kanselleringer i hele regionen. Disse nye problemene kommer i tillegg til at det også fredag kveld var store togtrøbbel i Oslo-området på grunn av signalfeil i togtunnelen mellom Oslo S og Nationaltheatret, en feil som senere ble rettet slik at tunnelen kunne åpnes igjen. NSB/Vy og Bane Nor arbeider med å få rettet opp i de pågående feilene, men det ventes å ta tid før togtrafikken går som normalt igjen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/full-stans-i-togtrafikken-ved-skoyen-1.18063539",
+            "title": "Full stans i togtrafikken ved Skøyen",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:45:39+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/mKb0ll/forsinkelser-i-togtrafikken-i-oslo-omraadet-tog-kan-bli-innstilt",
+            "title": "Forsinkelser i togtrafikken i Oslo-området: – Full stans",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:55:39+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/gdmwLL/stengt-for-togtrafikk-mellom-lysaker-og-nationaltheatret?utm_medium=rss",
+            "title": "Stengt for togtrafikk mellom Lysaker og Nationaltheatret",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:48:25+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/qy4Rq1/togtunnelen-gjennom-oslo-er-aapen-igjen-kan-ta-litt-tid-foer-togene-er-i-rute-melder-vy?utm_medium=rss",
+            "title": "Togtunnelen gjennom Oslo er åpen igjen: «Kan ta litt tid» før togene er i rute, melder Vy",
+            "is_secondary": false,
+            "published_at": "2026-10-23T16:44:54+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19356400",
+            "title": "Store forseinkingar i togtrafikken i Oslo-området",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:46:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "79c3f23d5d3662e3",
+        "continued_from": null,
+        "headline": "Nord-Koreas leder Kim Jong-un har ankommet Kina på besøk",
+        "ingress": "Kim Jong-un har ankommet Dandong i Kina for å besøke nabolandet, ifølge sørkoreanske kilder.",
+        "summary": "Nord-Koreas leder Kim Jong-un har krysset grensen og ankommet byen Dandong i Kina i forbindelse med et besøk til nabolandet. Dette melder nyhetsbyrået Reuters, som krediterer det sørkoreanske nyhetsbyrået Yonhap, med henvisning til opplysninger fra Sør-Koreas gjenforeningsdepartement. Besøket skjer i en tid hvor de to landene forsøker å styrke sine forbindelser og normalisere samhandelen. Tidligere denne måneden åpnet nemlig Kina og Nord-Korea offisielt sin aller viktigste landegrenseovergang i nettopp Dandong. Målet med gjenåpningen av grensen er å gjenopplive både handel og næringsvirksomhet etter en lang periode preget av svært anstrengte forbindelser og omfattende forstyrrelser som var knyttet til koronapandemien. Det foreligger foreløpig ikke detaljerte opplysninger om hele agendaen for besøket eller hvilke konkrete kinesiske ledere Kim Jong-un skal møte under oppholdet i nabolandet, utover at ankomsten til grensebyen Dandong er bekreftet gjennom sørkoreanske og internasjonale nyhetskilder basert på offisielle observasjoner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "geopolitikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/nord-koreas-leder-besoker-kina--1.18063556",
+            "title": "Nord-Koreas leder besøker Kina",
+            "is_secondary": false,
+            "published_at": "2026-10-24T06:26:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d069a1e1df6bd7e2",
+        "continued_from": null,
+        "headline": "Kampen om risikokapital presser teknologigigantene",
+        "ingress": "Teknologiselskapene opplever tøff kamp om risikovillig kapital for å finansiere KI og datasentre.",
+        "summary": "Ifølge en analyse fra Dagens Næringsliv er det oppstått en tilspisset kamp om tilgangen på risikovillig kapital, noe som legger et sterkt press på og senker de store teknologigigantene. Selskapene som driver innen teknologisektoren er avhengige av å skaffe til veie enorme pengesummer for å finansiere den videre utviklingen av kunstig intelligens, ofte omtalt som KI, samt oppbyggingen av nødvendige og kraftige datasentre. Analysen peker på at det globale finansmarkedet preges av økt konkurranse om disse store investeringsmidlene, noe som gjør det vanskeligere og dyrere for teknologiselskapene å hente inn den kapitalen de trenger for å holde tempoet oppe i den teknologiske kappestriden. Situasjonen blir av mediet vurdert som en betydelig finansiell utfordring for bransjen, der mangelen på eller den høye prisen på risikokapital direkte virker hemmende på de store aktørenes videre ekspansjon og utviklingsplaner innen fremtidens digitale infrastruktur og kunstig intelligens.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/usa/wall-street/kunstig-intelligens/tilspisset-kamp-om-risikokapital-senker-teknologigigantene/2-1-2063512",
+            "title": "Tilspisset kamp om risikokapital senker teknologigigantene",
+            "is_secondary": false,
+            "published_at": "2026-10-23T13:31:09+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bf63eed5597e6b23",
+        "continued_from": null,
+        "headline": "Fugleinfluensa påvist: 40.000 kalkuner avlives i Danmark",
+        "ingress": "En svært smittsom variant av fugleinfluensa er påvist på Sjælland, og 40.000 kalkuner avlives.",
+        "summary": "Et utbrudd av en svært smittsom variant av fugleinfluensa har blitt bekreftet på Sjælland i Danmark. Mattilsynet i landet opplyser at smitten er oppdaget i byen Bøgelunde, som ligger i Slagelse kommune, og dette er det første registrerte tilfellet av sykdommen denne sesongen. Som en direkte konsekvens av det påvist utbruddet må om lag 40.000 kalkuner avlives for å forhindre videre spredning av viruset. Avdelingsleder Mette Kirkeskov Sie ved det danske mattilsynet forklarer i en utgitt pressemelding at det er en fastsatt rutine og vanlig foreteelse å oppdage de første tilfellene av denne typen smittsom fugleinfluensa om høsten. Dette henger sammen med at trekkfugler på dette tidspunktet flytter på seg og beveger seg over og gjennom Danmark. Slaktingen og avlivingen av de berørte fuglene er planlagt utført i løpet av lørdagen, i henhold til myndighetenes smitteverntiltak. Saken er formidlet videre gjennom NTB og dekket av flere medier som Aftenposten og NRK, og situasjonen blir av myndighetene vurdert som alvorlig for fjærkreholdet i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fugleinfluensa_-avliver-40.000-kalkuner-i-danmark-1.18063565",
+            "title": "Fugleinfluensa: Avliver 40.000 kalkuner i Danmark",
+            "is_secondary": false,
+            "published_at": "2026-10-24T06:48:32+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/BMLjRQ/fugleinfluensa-avliver-40000-kalkuner-i-danmark?utm_medium=rss",
+            "title": "Fugleinfluensa: Avliver 40.000 kalkuner i Danmark",
+            "is_secondary": false,
+            "published_at": "2026-10-24T06:51:45+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6ea6812b6b439269",
+        "continued_from": null,
+        "headline": "Ukraina melder om stabil tilkobling og økt hastighet i Starlink",
+        "ingress": "Ukraina har igjen stabil tilkobling til Starlink og hastigheten øker etter dagers spenning.",
+        "summary": "Ukraina har igjen fått på plass en stabil forbindelse til Starlink-nettverket, og overvåkingssystemer viser at hastigheten er på vei oppover igjen. Det opplyste ukrainske myndigheter, herunder landets forsvarsminister, etter flere dager med stor spenning i forholdet til Washington knyttet til SpaceX-nettverket som er av avgjørende betydning for den ukrainske hærens militære operasjoner. Så sent som dagen før opplyste ukrainske kilder at nettet fremdeles fungerte tregt, noe som hadde skapt store problemer for landets operative evner. De tekniske problemene hadde rammet Ukrainas kapasitet til å forsvare seg mot russiske droneangrep, samt landets egne muligheter til å gjennomføre egne droneangrep mot militære mål på russisk territorium. Utviklingen vurderes som svært positiv for de ukrainske styrkene, ettersom den militære varianten Starshield og det ordinære Starlink-nettverket nå fungerer normalt igjen, noe som bekreftes av både norske medier som NRK, VG og Nettavisen, samt svenske Dagens Industri med henvisning til landets forsvarsminister.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596",
+            "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
+            "is_secondary": false,
+            "published_at": "2026-10-24T08:19:18+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/2VOvev/ukraina-stabil-tilkobling-til-starlink-hastigheten-oeker",
+            "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
+            "is_secondary": false,
+            "published_at": "2026-10-24T08:29:09+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/ukraina-stabil-tilkobling-til-starlink-hastigheten-oker/s/80-95-188535",
+            "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
+            "is_secondary": false,
+            "published_at": "2026-10-24T08:28:52+00:00"
+          },
+          {
+            "source_name": "Dagens Industri",
+            "link": "https://www.di.se/nyheter/ukraina-har-stabil-starlink-uppkoppling-igen/",
+            "title": "Ukraina har stabil Starlink-uppkoppling igen",
+            "is_secondary": false,
+            "published_at": "2026-10-24T09:01:48+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3eb278159a7b2c35",
+        "continued_from": null,
+        "headline": "Fire piloter omkom i militær flyulykke",
+        "ingress": "To militærfly krasjet på Filippinene under en øvelse, og fire personer mistet livet.",
+        "summary": "Fredag omkom fire militærpiloter da to fly kolliderte i luften under en øvelse ved en flybase på Filippinene. Det opplyste det filippinske luftforsvaret lørdag ifølge nyhetsbyrået AFP. De to flyene som var involvert, var av typen SF-260. Som et direkte føre-var-tiltak har luftforsvaret valgt å sette hele sin flåte av denne flytypen på bakken inntil videre, mens det er igangsatt en full etterforskning for å avklare de nøyaktige årsakene til kollisjonen. Ulykken føyer seg inn i en rekke tidligere tragiske hendelser med filippinske militærfly de siste årene. Blant annet mistet to piloter livet i mai da et annet fly av samme type styrtet under en treningsflyving i Benguet-provinsen i den nordlige delen av landet. Myndighetene arbeider nå med å kartlegge hendelsesforløpet for å forstå hva som gikk galt under fredagens treningsøkt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fire-mistet-livet-i-flyulykke-pa-filippinene--1.18063582",
+            "title": "Fire mistet livet i flyulykke på Filippinene",
+            "is_secondary": false,
+            "published_at": "2026-10-24T07:33:50+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "a2f1369d1b526cf7",
+        "continued_from": null,
+        "headline": "Sexarbeidere truet med pistol i Kristiansand",
+        "ingress": "To kvinner ble oppsøkt og forsøkt ranet i en leilighet i Kristiansand.",
+        "summary": "Natt til lørdag ble politiet varslet om at to kvinnelige sexarbeidere hadde blitt oppsøkt og forsøkt ranet i en leilighet i Kristiansand sentrum. Fornærmede ble i forkant kontaktet via en nettside før gjerningspersonene tok seg til leiligheten, hvor de truet kvinnene med en pistol. Politiet rykket ut og fikk raskt kontroll på fire unge menn i forbindelse med hendelsen. To av disse er besluttet pågrepet og sitter i arresten, mens de to andre ble hentet av sine verger ettersom de er mindreårige eller unge. Politiet opplyser at de har gjort grundige undersøkelser på stedet, tatt beslag i et våpen som skal ha blitt brukt under truslene, og opprettet straffesak. De to fornærmede kvinnene er blitt tatt hånd om av helse- eller støtteapparatet. Agder-politiet bekrefter overfor pressen at gjerningspersonene er personer de kjenner til fra før gjennom tidligere politiarbeid. Saken vil bli gjenstand for videre etterforskning for å avklare hendelsesforløpet og de involvertes roller fullt ut.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/sexarbeidere-forsokt-ranet-og-truet-med-pistol-1.18063532",
+            "title": "Sexarbeidere forsøkt ranet og truet med pistol",
+            "is_secondary": false,
+            "published_at": "2026-10-24T02:54:14+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/9kwjap/sexarbeidere-truet-med-pistol-og-forsoekt-ranet-i-kristiansand?utm_medium=rss",
+            "title": "Sexarbeidere truet med pistol og forsøkt ranet i Kristiansand",
+            "is_secondary": false,
+            "published_at": "2026-10-24T05:07:24+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c333a9814cdd146b",
+        "continued_from": null,
+        "headline": "Slik navigerer du i kunstig intelligens-markedet",
+        "ingress": "E24 ser nærmere på hvor investorer kan gjemme seg hvis AI-boblen sprekker.",
+        "summary": "Denne artikkelen tar form av en finansiell analyse og vurdering av markedsutviklingen knyttet til kunstig intelligens. Teksten stiller det sentrale spørsmålet om hvorvidt tiden nå er moden for investorer å vende blikket mot de mer tradisjonelle og såkalte kjedelige aksjene. Med en eksplosiv vekst og enorm oppmerksomhet rundt teknologi og kunstig intelligens, reises det bekymringer for om det har bygget seg opp en markedsboble som kan sprekke. Forfatternes vurdering retter seg mot alternative sektorer som kan fungere som trygge havner eller skjulesteder for kapital dersom det skulle oppstå en korreksjon i tech-aksjene. Innholdet er ikke en nøytral nyhetsmelding, men må betraktes som en analytisk kommentar og veiledning for investorer som ønsker å redusere risiko i en uforutsigbar økonomisk hverdag preget av store teknologiske skifter og svingninger i aksjemarkedet.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/R5dWzA/her-gjemmer-du-deg-hvis-ai-boblen-sprekker?utm_medium=rss",
+            "title": "Her gjemmer du deg hvis AI-boblen sprekker",
+            "is_secondary": false,
+            "published_at": "2026-10-24T05:06:28+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4f95031279442e05",
+        "continued_from": null,
+        "headline": "14-årig jente siktet for drap i Sverige",
+        "ingress": "Svensk politi har pågrepet og siktet en 14 år gammel jente for medvirkning til drap.",
+        "summary": "Svenske politimyndigheter har pågrepet en 14 år gammel jente som nå er siktet i forbindelse med en drapssak. Saken gjelder drapet på en kvinne i Sverige, og jenta er foreløpig siktet for medvirkning til gjerningen. Det oppgis foreløpig svært lite detaljer rundt selve hendelsesforløpet, motivet eller omstendighetene rundt dødsfallet, da etterforskningen fremdeles befinner seg i en tidlig og sensitiv fase. Siden den siktede er mindreårig, vil saken involvere barnevern og spesielle rutiner for avhør og oppfølging i det svenske rettssystemet. Politiet arbeider videre med tekniske bevis, avhør og andre etterforskningsskritt for å få klarhet i hva som har skjedd, og om det er flere personer som kan knyttes til den alvorlige hendelsen. Saken har vakt oppmerksomhet på grunn av den mistenktes unge alder og sakens alvorlighetsgrad.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/d7Egvz/14-aar-gammel-jente-paagrepet-etter-drap-i-sverige?utm_medium=rss",
+            "title": "14 år gammel jente pågrepet etter drap i Sverige",
+            "is_secondary": false,
+            "published_at": "2026-10-24T05:13:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-10-24T13:28:39.262202+02:00",
+    "edition_date": "2026-10-24",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 202,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 18
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:31.448437+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:16:24+00:00",
+          "earliest_usable_published_at": "2026-10-24T06:26:53+00:00",
+          "latest_usable_published_at": "2026-10-24T11:16:24+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:32.001651+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T09:19:21+00:00",
+          "earliest_usable_published_at": "2026-10-23T12:21:57+00:00",
+          "latest_usable_published_at": "2026-10-24T09:19:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:32.908690+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 14,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-24T10:00:30+00:00",
+          "earliest_usable_published_at": "2026-10-23T11:29:42+00:00",
+          "latest_usable_published_at": "2026-10-24T10:00:30+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:33.312360+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:46:17+00:00",
+          "earliest_usable_published_at": "2026-10-24T09:33:46+00:00",
+          "latest_usable_published_at": "2026-10-24T10:46:17+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:33.581964+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:36:52+00:00",
+          "earliest_usable_published_at": "2026-10-23T16:09:43+00:00",
+          "latest_usable_published_at": "2026-10-24T10:36:52+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:34.088357+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:59:09+00:00",
+          "earliest_usable_published_at": "2026-10-23T19:08:02+00:00",
+          "latest_usable_published_at": "2026-10-24T10:59:09+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:34.859440+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:21:44+00:00",
+          "earliest_usable_published_at": "2026-10-24T09:44:22+00:00",
+          "latest_usable_published_at": "2026-10-24T11:21:44+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:35.586596+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:19:50+00:00",
+          "earliest_usable_published_at": "2026-10-24T09:02:21+00:00",
+          "latest_usable_published_at": "2026-10-24T11:19:50+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:35.949369+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:12:16+00:00",
+          "earliest_usable_published_at": "2026-10-24T08:38:54+00:00",
+          "latest_usable_published_at": "2026-10-24T11:12:16+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:36.332566+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:41:54+00:00",
+          "earliest_usable_published_at": "2026-10-23T13:00:15+00:00",
+          "latest_usable_published_at": "2026-10-24T10:41:54+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:36.878608+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:05:36+00:00",
+          "earliest_usable_published_at": "2026-10-24T06:56:12+00:00",
+          "latest_usable_published_at": "2026-10-24T11:05:36+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:37.486953+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-24T05:00:00+00:00",
+          "latest_usable_published_at": "2026-10-24T11:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:37.665451+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:17:00+00:00",
+          "earliest_usable_published_at": "2026-10-24T09:49:00+00:00",
+          "latest_usable_published_at": "2026-10-24T11:17:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:37.756610+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:12:11+00:00",
+          "earliest_usable_published_at": "2026-10-24T10:37:22+00:00",
+          "latest_usable_published_at": "2026-10-24T11:12:11+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:37.946388+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 5,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-24T09:25:02+00:00",
+          "earliest_usable_published_at": "2026-10-24T06:41:29+00:00",
+          "latest_usable_published_at": "2026-10-24T09:25:02+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:38.208223+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:20:39+00:00",
+          "earliest_usable_published_at": "2026-10-23T21:11:11+00:00",
+          "latest_usable_published_at": "2026-10-24T10:20:39+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:38.743595+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:17:35+00:00",
+          "earliest_usable_published_at": "2026-10-23T22:47:07+00:00",
+          "latest_usable_published_at": "2026-10-24T11:17:35+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:39.005435+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:29:45+00:00",
+          "earliest_usable_published_at": "2026-10-23T17:30:08+00:00",
+          "latest_usable_published_at": "2026-10-24T10:29:45+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-24T11:23:39.205369+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:39.343805+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:21:46+00:00",
+          "earliest_usable_published_at": "2026-10-24T04:01:09+00:00",
+          "latest_usable_published_at": "2026-10-24T11:21:46+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-24T11:23:39.455924+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:39.527365+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:08:27+00:00",
+          "earliest_usable_published_at": "2026-10-24T09:00:43+00:00",
+          "latest_usable_published_at": "2026-10-24T11:08:27+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:40.334952+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:01:05+00:00",
+          "earliest_usable_published_at": "2026-10-24T09:32:22+00:00",
+          "latest_usable_published_at": "2026-10-24T11:01:05+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:40.471281+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T11:02:54+00:00",
+          "earliest_usable_published_at": "2026-10-24T04:24:04+00:00",
+          "latest_usable_published_at": "2026-10-24T11:02:54+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:40.675457+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-24T10:36:28+00:00",
+          "earliest_usable_published_at": "2026-10-24T10:29:10+00:00",
+          "latest_usable_published_at": "2026-10-24T10:36:28+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:40.797170+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-10-23T14:54:52+00:00",
+          "earliest_usable_published_at": "2026-10-23T14:54:52+00:00",
+          "latest_usable_published_at": "2026-10-23T14:54:52+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-24T11:23:41.675893+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-22T14:00:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "current",
+          "attempted_at": "2026-10-24T11:23:41.766697+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-10-23T13:15:00+00:00",
+          "earliest_usable_published_at": "2026-10-23T13:15:00+00:00",
+          "latest_usable_published_at": "2026-10-23T13:15:00+00:00",
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-24T13:23:31.448397+02:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-24T11:23:31.448437+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-24T11:23:32.001651+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-24T11:23:32.908690+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-24T11:23:33.312360+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-24T11:23:33.581964+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-24T11:23:34.088357+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-24T11:23:34.859440+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-24T11:23:35.586596+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-24T11:23:35.949369+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-24T11:23:36.332566+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-24T11:23:36.878608+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-24T11:23:37.486953+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-24T11:23:37.665451+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-24T11:23:37.756610+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-24T11:23:37.946388+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-24T11:23:38.208223+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-24T11:23:38.743595+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-24T11:23:39.005435+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-24T11:23:39.205369+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-24T11:23:39.343805+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-24T11:23:39.455924+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-24T11:23:39.527365+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-24T11:23:40.334952+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-24T11:23:40.471281+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-24T11:23:40.675457+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-24T11:23:40.797170+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-24T11:23:41.675893+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-24T11:23:41.766697+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 202,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 18
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:31.448437+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:16:24+00:00",
+            "earliest_usable_published_at": "2026-10-24T06:26:53+00:00",
+            "latest_usable_published_at": "2026-10-24T11:16:24+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:32.001651+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T09:19:21+00:00",
+            "earliest_usable_published_at": "2026-10-23T12:21:57+00:00",
+            "latest_usable_published_at": "2026-10-24T09:19:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:32.908690+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 14,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-24T10:00:30+00:00",
+            "earliest_usable_published_at": "2026-10-23T11:29:42+00:00",
+            "latest_usable_published_at": "2026-10-24T10:00:30+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:33.312360+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:46:17+00:00",
+            "earliest_usable_published_at": "2026-10-24T09:33:46+00:00",
+            "latest_usable_published_at": "2026-10-24T10:46:17+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:33.581964+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:36:52+00:00",
+            "earliest_usable_published_at": "2026-10-23T16:09:43+00:00",
+            "latest_usable_published_at": "2026-10-24T10:36:52+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:34.088357+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:59:09+00:00",
+            "earliest_usable_published_at": "2026-10-23T19:08:02+00:00",
+            "latest_usable_published_at": "2026-10-24T10:59:09+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:34.859440+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:21:44+00:00",
+            "earliest_usable_published_at": "2026-10-24T09:44:22+00:00",
+            "latest_usable_published_at": "2026-10-24T11:21:44+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:35.586596+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:19:50+00:00",
+            "earliest_usable_published_at": "2026-10-24T09:02:21+00:00",
+            "latest_usable_published_at": "2026-10-24T11:19:50+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:35.949369+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:12:16+00:00",
+            "earliest_usable_published_at": "2026-10-24T08:38:54+00:00",
+            "latest_usable_published_at": "2026-10-24T11:12:16+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:36.332566+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:41:54+00:00",
+            "earliest_usable_published_at": "2026-10-23T13:00:15+00:00",
+            "latest_usable_published_at": "2026-10-24T10:41:54+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:36.878608+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:05:36+00:00",
+            "earliest_usable_published_at": "2026-10-24T06:56:12+00:00",
+            "latest_usable_published_at": "2026-10-24T11:05:36+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:37.486953+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-24T05:00:00+00:00",
+            "latest_usable_published_at": "2026-10-24T11:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:37.665451+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:17:00+00:00",
+            "earliest_usable_published_at": "2026-10-24T09:49:00+00:00",
+            "latest_usable_published_at": "2026-10-24T11:17:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:37.756610+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:12:11+00:00",
+            "earliest_usable_published_at": "2026-10-24T10:37:22+00:00",
+            "latest_usable_published_at": "2026-10-24T11:12:11+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:37.946388+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 5,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-24T09:25:02+00:00",
+            "earliest_usable_published_at": "2026-10-24T06:41:29+00:00",
+            "latest_usable_published_at": "2026-10-24T09:25:02+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:38.208223+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:20:39+00:00",
+            "earliest_usable_published_at": "2026-10-23T21:11:11+00:00",
+            "latest_usable_published_at": "2026-10-24T10:20:39+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:38.743595+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:17:35+00:00",
+            "earliest_usable_published_at": "2026-10-23T22:47:07+00:00",
+            "latest_usable_published_at": "2026-10-24T11:17:35+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:39.005435+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:29:45+00:00",
+            "earliest_usable_published_at": "2026-10-23T17:30:08+00:00",
+            "latest_usable_published_at": "2026-10-24T10:29:45+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-24T11:23:39.205369+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:39.343805+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:21:46+00:00",
+            "earliest_usable_published_at": "2026-10-24T04:01:09+00:00",
+            "latest_usable_published_at": "2026-10-24T11:21:46+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-24T11:23:39.455924+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:39.527365+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:08:27+00:00",
+            "earliest_usable_published_at": "2026-10-24T09:00:43+00:00",
+            "latest_usable_published_at": "2026-10-24T11:08:27+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:40.334952+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:01:05+00:00",
+            "earliest_usable_published_at": "2026-10-24T09:32:22+00:00",
+            "latest_usable_published_at": "2026-10-24T11:01:05+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:40.471281+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T11:02:54+00:00",
+            "earliest_usable_published_at": "2026-10-24T04:24:04+00:00",
+            "latest_usable_published_at": "2026-10-24T11:02:54+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:40.675457+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-24T10:36:28+00:00",
+            "earliest_usable_published_at": "2026-10-24T10:29:10+00:00",
+            "latest_usable_published_at": "2026-10-24T10:36:28+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:40.797170+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-10-23T14:54:52+00:00",
+            "earliest_usable_published_at": "2026-10-23T14:54:52+00:00",
+            "latest_usable_published_at": "2026-10-23T14:54:52+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-24T11:23:41.675893+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-22T14:00:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "current",
+            "attempted_at": "2026-10-24T11:23:41.766697+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-10-23T13:15:00+00:00",
+            "earliest_usable_published_at": "2026-10-23T13:15:00+00:00",
+            "latest_usable_published_at": "2026-10-23T13:15:00+00:00",
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 32,
+      "drop_reasons": []
+    }
   }
 }
