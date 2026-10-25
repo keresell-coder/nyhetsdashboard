@@ -1,0 +1,1973 @@
+{
+  "date": "2026-10-25",
+  "morning": {
+    "stories": [
+      {
+        "story_id": "b62a7fd9de67dcdb",
+        "continued_from": null,
+        "headline": "Amerikansk senator reagerer på norsk sak om kinesiske biler",
+        "ingress": "Den amerikanske senatoren Elissa Slotkin bruker DNs avsløring om Forsvarets kinesiske leiebiler i kampen for et nasjonalt forbud i USA.",
+        "summary": "Den amerikanske senatoren Elissa Slotkin har kastet seg inn i debatten etter at Dagens Næringsliv avslørte at Forsvaret har benyttet kinesiske leiebiler. Saken har nå nådd den amerikanske Kongressen, der Slotkin bruker den norske hendelsen aktivt for å fremme et forbud mot kinesiske biler i USA. Ifølge kilden omtaler senatoren den norske situasjonen som et reelt varsko for Amerika, noe som understreker bekymringen rundt potensiell overvåking og sikkerhetsrisikoer knyttet til utenlandsk teknologi. Det er foreløpig ikke lagt fram konkrete bevis på faktisk spionering i de spesifikke bilene som omtales, men saken brukes i den politiske prosessen for å skjerpe restriksjonene mot kinesisk bilindustri i vestlige land. Avsløringen illustrerer hvordan nasjonale sikkerhetsspørsmål knyttet til kjøretøy og digital infrastruktur krysser landegrenser og blir brukt som argumenter i den internasjonale debatten om teknologitillit og spionasjefare. Dette fremheves som en viktig påminnelse om sårbarheten ved bruk av tilkoblet utstyr i militær sammenheng.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/sikkerhet/teknologi/bil/amerikansk-senator-om-dns-avsloring-kinesiske-biler-er-spioner-pa-hjul/2-1-2062395",
+            "title": "Amerikansk senator om DNs avsløring: – Kinesiske biler er spioner på hjul",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:09:04+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6a47c081185c4cfb",
+        "continued_from": null,
+        "headline": "Full strid om datasenterutbygging på Stortinget",
+        "ingress": "KrF, SV og Rødt krever full stans i datasenterutbyggingen, mens Frp anklages for feighet fordi de vil vente på regjeringen.",
+        "summary": "Det er oppstått politisk uenighet på Stortinget om fremtiden for norske datasentre. Partiene KrF, SV og Rødt tar til orde for å innføre en umiddelbar og full stans i utbyggingen av nye datasentre her til lands. Stillingen til Fremskrittspartiet (Frp) har imidlertid vakt reaksjoner blant de andre partiene. Frp har valgt en annen linje ved å signalisere at de ønsker å avvente regjeringens egne tiltak og vurderinger før de tar endelig stilling til saken. Dette har ført til skarpe reaksjoner fra politiske motstandere, som betegner Frps holdning som feig. Det er dermed klart at energiforbruk, miljøkonsekvenser og samfunnsnytten ved kryptogruvedrift og store datasentre blir sentrale temaer i den politiske debatten framover. Mens noen parter krever umiddelbar handling for å verne om strømnettet og miljøet, foretrekker andre å avvente formelle regjeringsforslag før det fattes beslutninger om regulering eller stans i denne voksende industrien.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/qyMAkg/feigt-av-frp?utm_medium=rss",
+            "title": "– Feigt av Frp",
+            "is_secondary": false,
+            "published_at": "2026-10-25T06:04:48+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2e06d877eaa0dba7",
+        "continued_from": null,
+        "headline": "Toppledere bruker milliarder på AI uten å vite tidsbesparelsen",
+        "ingress": "Lederne i EY, Deloitte og KPMG investerer enorme summer i kunstig intelligens, men innrømmer at de mangler oversikt over effekten.",
+        "summary": "Store selskaper verden over svir av store pengesummer på å integrere kunstig intelligens (AI) i sin daglige drift. Topplederne for de tre store revisjons- og rådgivningsgigantene EY, Deloitte og KPMG erkjenner imidlertid at de foreløpig ikke kan tallfeste nøyaktig hvor mye tid og penger disse massive investeringene faktisk har spart dem for. Selv om teknologien implementeres i høyt tempo og med store forventninger til fremtidig produktivitet, viser uttalelsene fra lederne at det ennå gjenstår å se de konkrete økonomiske resultatene av milliardutleggene. Dette fremstår som en analyse av en bredere bransjetrend der frykten for å falle av utviklingen veier tyngre enn umiddelbar dokumentert avkastning. Det er knyttet store forventninger til hvordan AI vil endre rådgivningsbransjen, men den faktiske nytten på kort sikt er fortsatt usikker og vanskelig å måle nøyaktig. Investeringene skjer dermed på et grunnlag av strategisk framtidsoptimisme snarere enn sikre regnskapstall.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/1ooBnQ/svir-av-milliarder-paa-ai-slik-bruker-de-teknologien?utm_medium=rss",
+            "title": "Svir av milliarder på AI: Slik bruker de teknologien",
+            "is_secondary": false,
+            "published_at": "2026-10-25T06:06:55+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "17387884aafae4ff",
+        "continued_from": null,
+        "headline": "Ukraina: Starlink fungerer igjen etter tekniske begrensninger",
+        "ingress": "Etter over en uke med ustabilitet og begrensninger, bekrefter ukrainske myndigheter at satellittsystemet Starlink nå er fullt operativt.",
+        "summary": "Det ukrainske militæret og sivile myndigheter kan nå puste lettet ut etter at satellittkommunikasjonssystemet Starlink har gjenopptatt normal drift. Systemet, som leveres av Elon Musks selskap SpaceX, har i over en uke vært rammet av begrensninger som har skapt utfordringer i felt. Nå bekrefter Ukraina offisielt at situasjonen er løst og at systemet fungerer for fullt igjen. Starlink har spilt en helt sentral rolle for ukrainsk kommunikasjon, informasjonsflyt og militær koordinering etter at landet ble angrepet. De nylige problemene skapte bekymring for stabiliteten i den kritiske infrastrukturen som Ukraina er sterkt avhengig av i kampen mot de russiske styrkene. Selv om situasjonen nå er normalisert, viser hendelsen hvor sårbare ukrainske styrker er knyttet til eksterne teknologileverandører. Til tross for usikkerheten rundt leveransene og tidligere tiders uenigheter om driften av nettverket, er Starlink foreløpig tilbake i full funksjon til støtte for ukrainske operasjoner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/w3BBk4/ukraina-bekrefter-starlink-fungerer-for-fullt-igjen?utm_medium=rss",
+            "title": "Ukraina bekrefter: Starlink fungerer for fullt igjen",
+            "is_secondary": false,
+            "published_at": "2026-10-24T21:29:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fe105b33d69d4fa7",
+        "continued_from": null,
+        "headline": "Meta anklages for manglende kontroll over valg-deepfakes",
+        "ingress": "Foran søndagens valg florerer deepfakes på sosiale medier, og kandidatene beskylder hverandre for juks mens Meta møter kritikk.",
+        "summary": "Teknologigiganten Meta anklages for ikke å gjøre nok for å forhindre at desinformasjon og manipulerte videoer, såkalte deepfakes, påvirker det kommende valget. Foran søndagens valg har den politiske debatten blitt preget av at kandidatene anklager hverandre for juks og uredelig spill på sosiale medier. Kritikerne peker på at plattformene svikter i sin moderering, noe som gir rom for at falskt innhold spres ukontrollert til velgerne. Aktørene i saken uttrykker åpenlyst bekymring for at situasjonen ikke ser bra ut for tilliten til den demokratiske prosessen. Det vurderes at spredningen av kunstig skapt innhold utgjør en reell trussel mot valgintegriteten, fordi velgerne utsettes for manipulerte budskap som er vanskelige å avsløre. Meta og andre sosiale medier-selskaper står dermed under et sterkt press for å rydde opp før valglokalene åpner, men omfanget av problemet gjør det vanskelig å stanse all misbruk i tide. Situasjonen belyser den voksende utfordringen med digital manipulasjon i moderne valgkamper internasjonalt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/2V7PbB/meta-anklages-for-aa-paavirke-valget-det-er-jo-klart-det-ser-ikke-bra-ut?utm_medium=rss",
+            "title": "Meta anklages for å påvirke valget: – Det er jo klart, det ser ikke bra ut",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:06:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "33a0252a7c139805",
+        "continued_from": null,
+        "headline": "Ørjan Nyland hylles etter strålende comeback for RB Leipzig",
+        "ingress": "Den norske målvakten Ørjan Nyland (36) får lovord fra tysk ekspert etter sin sterke kamp for RB Leipzig.",
+        "summary": "Den norske landslagsmålvakten Ørjan Nyland høster lovord i Tyskland etter en meget sterk prestasjon i sin comeback-kamp for RB Leipzig. 36-åringen leverte spill på et høyt nivå, noe som har ført til at han hylles av en tysk ekspert for å ha skapt en god følelse for både lagkameratene og supporterne. Prestasjonen har åpnet for spekulasjoner om at nordmannen kan få en ny sjanse til å vokte buret allerede i tirsdagens kamp. Nyland har tidligere måttet tåle varierende spilletid og usikkerhet rundt sin klubbfremtid, men denne oppturen kan bli et viktig vendepunkt for hans posisjon i den tyske klubben. Ekspertene vurderer at hans rutine og rolige utstråling var avgjørende for at laget maktet å ro i land et godt resultat. Med den tette kampprogrammet i tysk fotball kan den gode prestasjonen sikre ham fornyet tillit fra trenertemaet på kort varsel. Saken viser hvordan raske vendinger er typisk for profftilværelsen i europeisk toppfotball for norske spillere.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/9ka6yw/oerjan-nyland-faar-straalende-skussmaal-etter-comebacket-for-rb-leipzig",
+            "title": "Ørjan Nyland hylles av tysk ekspert: – Ga laget og supporterne en god følelse",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:58:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4b2808f9ef74526b",
+        "continued_from": null,
+        "headline": "Russisk droneangrep mot lasteskip og logistikk",
+        "ingress": "Et lasteskip på vei mot Tsjornomorsk ble truffet av russiske droner natt til søndag.",
+        "summary": "Det russiske forsvarsdepartementet opplyser at et lasteskip på vei mot den ukrainske havnebyen Tsjornomorsk ble truffet av russiske droner natt til søndag. Ifølge departementet ble fartøyet brukt til å forsyne den ukrainske hæren. I tillegg ble et logistikksenter, et distribusjonssenter og en logistikkterminal i byen Kharkiv rammet i angrepene. De russiske myndighetene hevder at disse anleggene ble benyttet til lagring og distribusjon av flerbruksvarer til det ukrainske militæret. Nyhetsbyrået Reuters melder at det ikke har vært mulig å få disse opplysningene bekreftet fra uavhengig hold. Slike påstander fra krigførende parter må derfor vurderes med forsiktighet inntil en uavhengig verifisering foreligger. Det foreligger foreløpig ikke detaljerte rapporter om materielle skader av omfang eller eventuelle tap av menneskeliv knyttet spesifikt til disse angrepene, utover det som er kommunisert fra offisielt hold i Moskva. Situasjonen i området forblir spent, og angrepene rammer sivil og militær logistikk om hverandre, noe som er et gjennomgående trekk ved den pågående konflikten i regionen. Det gjenstår å se om ukrainske myndigheter vil kommentere de konkrete skadene på skipet og de nevnte anleggene i Kharkiv i løpet av kort tid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland-sier-de-har-angrepet-lasteskip--1.18064098",
+            "title": "Russland sier de har angrepet lasteskip",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:31:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "90018854b928fb3a",
+        "continued_from": null,
+        "headline": "Mann etterlyst internasjonalt etter knivstikking i Bjørvika",
+        "ingress": "Politiet leter etter en mann i 30-årene etter knivstikking i et parkeringshus i Oslo.",
+        "summary": "En mann i 30-årene er siktet for grov kroppsskade etter en alvorlig voldshendelse i et parkeringshus i Bjørvika i Oslo lørdag ettermiddag. Lørdag rykket politiet ut til stedet etter melding om knivstikking. Fornærmede er en kvinne i 30-årene. Hun pådro seg alvorlige skader, men tilstanden betegnes som ikke livstruende, opplyser politiet. Siktede er en navngitt person som nå er etterlyst internasjonalt på grunn av sin tilknytning til utlandet, ifølge krimleder Thomas Pedersen Enger. Politiet jobber intensivt med å lokalisere og pågripe den siktede mannen, men søket har foreløpig ikke båret frukter. Saken etterforskes bredt, og politiet har bedt om tips fra publikum som kan bidra til å opplyse saken ytterligere. Hendelsen har vakt oppmerksomhet da den fant sted midt på ettermiddagen i et sentralt parkeringshus i hovedstaden. Det er foreløpig ikke kjent hva som var forhistorien for voldshendelsen, eller hvilken relasjon det eventuelt er mellom den siktede mannen og den fornærmede kvinnen. Politiet vil trolig komme med oppdateringer i saken etter hvert som etterforskningen skrider fram og nye spor blir fulgt opp i inn- og utland.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/knivstikkingen-i-bjorvika_-mann-etterlyst-internasjonalt-1.18064107",
+            "title": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:52:35+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/Qgvwmq/knivstikkingen-i-bjoervika-mann-etterlyst-internasjonalt",
+            "title": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:49:19+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19358833",
+            "title": "Mann etterlyst internasjonalt etter knivstikking i Oslo",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:48:49+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/gjerningsmann-er-internasjonalt-etterlyst/s/80-95-189765",
+            "title": "Mann i 30-årene etterlyst internasjonalt etter grov voldssak",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:50:26+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c64e6e15e1c9844b",
+        "continued_from": null,
+        "headline": "Borerigg sank utenfor Gabon – fem personer savnet",
+        "ingress": "Fem personer er savnet etter at Borr Drillings rigg sank utenfor Vest-Afrika.",
+        "summary": "Fem personer er savnet etter at boreriggen «Prospector 5», som eies av det norske riggselskapet Borr Drilling, sank utenfor kysten av det sentralafrikanske landet Gabon. Ulykken skjedde lørdag kveld. Ifølge tilgjengelige opplysninger mistet riggen stabiliteten mens den forberedde seg på et kommende boreoppdrag, noe som resulterte i at den sank. Det var totalt 115 personer om bord på riggen da ulykken fant sted. Av disse er fem personer ennå ikke gjort rede for, melder nyhetsbyrået Reuters. Redningsaksjoner og søk etter de savnede er i gang i området. Hendelsen har skapt bekymring for sikkerheten til personell som arbeider offshore for norske selskaper internasjonalt. Selskapet og lokale myndigheter samarbeider om opparbeidelse av oversikt og videre oppfølging av situasjonen på ulykkesstedet. Det er knyttet stor spenning til redningsarbeidet, og pårørende venter på nye oppdateringer fra operasjonssenteret. Omfanget av de materielle skadene på riggen er betydelig, ettersom den har sunket til havets bunn. Myndighetene i Gabon og representanter for Borr Drilling vil trolig foreta grundige undersøkelser for å fastslå de nøyaktige årsakene til at riggen mistet stabiliteten og sank.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fem-personer-savnet-etter-at-borerigg-sank-1.18064042",
+            "title": "Fem personer savnet etter at borerigg sank",
+            "is_secondary": false,
+            "published_at": "2026-10-25T07:18:18+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/rigg/borr-rigg-sank-fem-personer-savnet/2-1-2063666",
+            "title": "Borr-rigg sank – fem personer savnet",
+            "is_secondary": false,
+            "published_at": "2026-10-25T07:01:17+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/xlogpB/borr-drilling-rigg-har-sunket-fem-savnet?utm_medium=rss",
+            "title": "Borr Drilling-rigg har sunket – fem savnet",
+            "is_secondary": false,
+            "published_at": "2026-10-25T06:39:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ed1a5be5b1de6c7c",
+        "continued_from": null,
+        "headline": "Forsvaret bruker Starlink – MDG advarer mot risiko",
+        "ingress": "Det norske Forsvaret har 180 Starlink-abonnement, noe MDG mener truer landets sikkerhet.",
+        "summary": "Det norske Forsvaret har skaffet seg 180 abonnement på det satellittbaserte internettsystemet Starlink, som leveres av selskapet til den kontroversielle amerikanske gründeren Elon Musk. Dette gjør Forsvaret til en storforbruker av teknologien. Bruken av den kommersielle satellittkommunikasjonen har imidlertid vakt politiske reaksjoner. Miljøpartiet De Grønne (MDG) har kommet med advarsler og uttrykt bekymring for at denne avhengigheten potensielt kan true Norges nasjonale sikkerhet. Kritikken retter seg mot sårbarheten ved å basere kritisk militær kommunikasjon på utenlandsk, privat infrastruktur kontrollert av enkeltpersoner med uforutsigbar geopolitisk profil. Forsvaret på sin side forsvarer bruken med at systemet gir operativ fleksibilitet og nødvendig båndbredde i situasjoner der tradisjonelle nettverk ikke strekker til, eller der robusthet er en mangelvare. Analytikere påpekte at selv om teknologien har vist seg svært nyttig i moderne konflikter, slik som i Ukraina, medfører den også betydelige sikkerhetsmessige og strategiske utfordringer knyttet til suverenitet og kontroll over egen data- og taletrafikk. Det gjenstår å se om debatten vil føre til politiske føringer eller innskrenkninger i Forsvarets fremtidige bruk av kommersielle satellittløsninger fra private tilbydere.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/31danv/forsvaret-er-blitt-storforbruker-av-starlink-mdg-mener-det-kan-true-norges-sikkerhet?utm_medium=rss",
+            "title": "Forsvaret er blitt storforbruker av Starlink. MDG mener det kan true Norges sikkerhet.",
+            "is_secondary": false,
+            "published_at": "2026-10-24T18:39:30+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "276b54a4eebcac11",
+        "continued_from": null,
+        "headline": "Trump påstår at Danmark ga Grønland til USA",
+        "ingress": "Donald Trump hevdet under et valgmøte at Danmark har gitt Grønland til USA.",
+        "summary": "Under et valgmøte i delstaten Georgia kom den amerikanske presidenten Donald Trump med oppsiktsvekkende uttalelser om at Grønland ble gitt til USA av Danmark. Natt til søndag norsk tid uttalte Trump at Danmark var helt fantastiske som ga dem Grønland, og antydet at dette er noe folk flest ikke leser om i mediene. Den amerikanske presidenten benyttet også anledningen til å gjenta tidligere utsagn om at den fremtidige avtalen knyttet til Grønland vil gå over i historien som den største eiendomshandelen noensinne. Kommentatorene peker på at dette er en ordbruk som ikke samsvarer med faktiske folkerettslige realiteter. Den nylig undertegnede sikkerhetsavtalen mellom Grønland, USA og Danmark fra september bygger i virkeligheten videre på en eldre avtale datert tilbake til 1951, og innebærer ingen overdragelse av suverenitet eller territorium. Trumps utspill tolkes derfor primært som politisk retorikk rettet mot velgermassen på et valgmøte fremfor en faktisk diplomatisk virkelighet. Det gjenstår å se om de offisielle reaksjonene fra København eller Nuuk vil ta til gjenmæle mot de oppsiktsvekkende påstandene fra Det hvite hus, eller om de vil velge å overse uttalelsene for ikke å eskalere diplomatiske spenninger unødvendig i kjølvannet av høstens sikkerhetsavtaler.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump_-_-danmark-ga-oss-gronland-1.18064104",
+            "title": "Trump: – Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:44:04+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/KrJGw6/trump-danmark-ga-oss-groenland?utm_medium=rss",
+            "title": "Trump: Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T09:03:33+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19358881",
+            "title": "Trump: Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:41:33+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/trump-danmark-ga-oss-gronland/s/80-95-189747",
+            "title": "Trump: Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:18:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5dbed87be6bfbeba",
+        "continued_from": null,
+        "headline": "Lucas Pinheiro Braathen leder i Sölden",
+        "ingress": "Norsk-brasilianeren har fått en forrykende start på sesongen i Østerrike.",
+        "summary": "Lucas Pinheiro Braathen har lagt bak seg en svært god start på sesongen og topper resultatlistene etter den første omgangen i Sölden. Utøveren, som representerer sitt nye land med norsk-brasiliansk bakgrunn, viste sterk kjøring i storslalåmløypa og la konkurrentene bak seg. Dette gir ham et glimrende utgangspunkt for finaleomgangen senere på dagen. Ekspertene og analysene før sesongstart har vært fulle av forventninger til hans comeback og prestasjoner under nytt flagg, og åpningsomgangen bekrefter at formen er på plass. Kommentatorene merket seg en aggressiv og teknisk ren kjøring som skilte seg ut i det krevende isete føret i Alperne. Konkurrentene er likevel hakk i hel, og det ventes en spennende kamp om pallplassene når den avgjørende omgangen går av stabelen. Pinheiro Braathen selv har gitt uttrykk for at han nyter å være tilbake i aksjon og at fokuset er rettet mot å holde hele veien inn til mål. Publikum på tribunen har skapt en ramme rundt arrangementet som understreker alvoret og prestisjen i sesongåpningen. Det gjenstår å se om han klarer å holde ledelsen og sikre sesongens første seier under presset fra resten av verdenseliten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/lucas-pinheiro-braathen-leder-etter-forste-omgang-i-s-lden/s/80-95-189783",
+            "title": "Lucas Pinheiro Braathen leder etter første omgang i Sölden",
+            "is_secondary": false,
+            "published_at": "2026-10-25T09:41:37+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "b62a7fd9de67dcdb",
+        "continued_from": null,
+        "headline": "Amerikansk senator reagerer på norsk sak om kinesiske biler",
+        "ingress": "Den amerikanske senatoren Elissa Slotkin bruker DNs avsløring om Forsvarets kinesiske leiebiler i kampen for et nasjonalt forbud i USA.",
+        "summary": "Den amerikanske senatoren Elissa Slotkin har kastet seg inn i debatten etter at Dagens Næringsliv avslørte at Forsvaret har benyttet kinesiske leiebiler. Saken har nå nådd den amerikanske Kongressen, der Slotkin bruker den norske hendelsen aktivt for å fremme et forbud mot kinesiske biler i USA. Ifølge kilden omtaler senatoren den norske situasjonen som et reelt varsko for Amerika, noe som understreker bekymringen rundt potensiell overvåking og sikkerhetsrisikoer knyttet til utenlandsk teknologi. Det er foreløpig ikke lagt fram konkrete bevis på faktisk spionering i de spesifikke bilene som omtales, men saken brukes i den politiske prosessen for å skjerpe restriksjonene mot kinesisk bilindustri i vestlige land. Avsløringen illustrerer hvordan nasjonale sikkerhetsspørsmål knyttet til kjøretøy og digital infrastruktur krysser landegrenser og blir brukt som argumenter i den internasjonale debatten om teknologitillit og spionasjefare. Dette fremheves som en viktig påminnelse om sårbarheten ved bruk av tilkoblet utstyr i militær sammenheng.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/forsvar-og-sikkerhet/sikkerhet/teknologi/bil/amerikansk-senator-om-dns-avsloring-kinesiske-biler-er-spioner-pa-hjul/2-1-2062395",
+            "title": "Amerikansk senator om DNs avsløring: – Kinesiske biler er spioner på hjul",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:09:04+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6a47c081185c4cfb",
+        "continued_from": null,
+        "headline": "Full strid om datasenterutbygging på Stortinget",
+        "ingress": "KrF, SV og Rødt krever full stans i datasenterutbyggingen, mens Frp anklages for feighet fordi de vil vente på regjeringen.",
+        "summary": "Det er oppstått politisk uenighet på Stortinget om fremtiden for norske datasentre. Partiene KrF, SV og Rødt tar til orde for å innføre en umiddelbar og full stans i utbyggingen av nye datasentre her til lands. Stillingen til Fremskrittspartiet (Frp) har imidlertid vakt reaksjoner blant de andre partiene. Frp har valgt en annen linje ved å signalisere at de ønsker å avvente regjeringens egne tiltak og vurderinger før de tar endelig stilling til saken. Dette har ført til skarpe reaksjoner fra politiske motstandere, som betegner Frps holdning som feig. Det er dermed klart at energiforbruk, miljøkonsekvenser og samfunnsnytten ved kryptogruvedrift og store datasentre blir sentrale temaer i den politiske debatten framover. Mens noen parter krever umiddelbar handling for å verne om strømnettet og miljøet, foretrekker andre å avvente formelle regjeringsforslag før det fattes beslutninger om regulering eller stans i denne voksende industrien.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/qyMAkg/feigt-av-frp?utm_medium=rss",
+            "title": "– Feigt av Frp",
+            "is_secondary": false,
+            "published_at": "2026-10-25T06:04:48+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "2e06d877eaa0dba7",
+        "continued_from": null,
+        "headline": "Toppledere bruker milliarder på AI uten å vite tidsbesparelsen",
+        "ingress": "Lederne i EY, Deloitte og KPMG investerer enorme summer i kunstig intelligens, men innrømmer at de mangler oversikt over effekten.",
+        "summary": "Store selskaper verden over svir av store pengesummer på å integrere kunstig intelligens (AI) i sin daglige drift. Topplederne for de tre store revisjons- og rådgivningsgigantene EY, Deloitte og KPMG erkjenner imidlertid at de foreløpig ikke kan tallfeste nøyaktig hvor mye tid og penger disse massive investeringene faktisk har spart dem for. Selv om teknologien implementeres i høyt tempo og med store forventninger til fremtidig produktivitet, viser uttalelsene fra lederne at det ennå gjenstår å se de konkrete økonomiske resultatene av milliardutleggene. Dette fremstår som en analyse av en bredere bransjetrend der frykten for å falle av utviklingen veier tyngre enn umiddelbar dokumentert avkastning. Det er knyttet store forventninger til hvordan AI vil endre rådgivningsbransjen, men den faktiske nytten på kort sikt er fortsatt usikker og vanskelig å måle nøyaktig. Investeringene skjer dermed på et grunnlag av strategisk framtidsoptimisme snarere enn sikre regnskapstall.",
+        "content_type": "reportasje",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/1ooBnQ/svir-av-milliarder-paa-ai-slik-bruker-de-teknologien?utm_medium=rss",
+            "title": "Svir av milliarder på AI: Slik bruker de teknologien",
+            "is_secondary": false,
+            "published_at": "2026-10-25T06:06:55+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "17387884aafae4ff",
+        "continued_from": null,
+        "headline": "Ukraina: Starlink fungerer igjen etter tekniske begrensninger",
+        "ingress": "Etter over en uke med ustabilitet og begrensninger, bekrefter ukrainske myndigheter at satellittsystemet Starlink nå er fullt operativt.",
+        "summary": "Det ukrainske militæret og sivile myndigheter kan nå puste lettet ut etter at satellittkommunikasjonssystemet Starlink har gjenopptatt normal drift. Systemet, som leveres av Elon Musks selskap SpaceX, har i over en uke vært rammet av begrensninger som har skapt utfordringer i felt. Nå bekrefter Ukraina offisielt at situasjonen er løst og at systemet fungerer for fullt igjen. Starlink har spilt en helt sentral rolle for ukrainsk kommunikasjon, informasjonsflyt og militær koordinering etter at landet ble angrepet. De nylige problemene skapte bekymring for stabiliteten i den kritiske infrastrukturen som Ukraina er sterkt avhengig av i kampen mot de russiske styrkene. Selv om situasjonen nå er normalisert, viser hendelsen hvor sårbare ukrainske styrker er knyttet til eksterne teknologileverandører. Til tross for usikkerheten rundt leveransene og tidligere tiders uenigheter om driften av nettverket, er Starlink foreløpig tilbake i full funksjon til støtte for ukrainske operasjoner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/w3BBk4/ukraina-bekrefter-starlink-fungerer-for-fullt-igjen?utm_medium=rss",
+            "title": "Ukraina bekrefter: Starlink fungerer for fullt igjen",
+            "is_secondary": false,
+            "published_at": "2026-10-24T21:29:18+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fe105b33d69d4fa7",
+        "continued_from": null,
+        "headline": "Meta anklages for manglende kontroll over valg-deepfakes",
+        "ingress": "Foran søndagens valg florerer deepfakes på sosiale medier, og kandidatene beskylder hverandre for juks mens Meta møter kritikk.",
+        "summary": "Teknologigiganten Meta anklages for ikke å gjøre nok for å forhindre at desinformasjon og manipulerte videoer, såkalte deepfakes, påvirker det kommende valget. Foran søndagens valg har den politiske debatten blitt preget av at kandidatene anklager hverandre for juks og uredelig spill på sosiale medier. Kritikerne peker på at plattformene svikter i sin moderering, noe som gir rom for at falskt innhold spres ukontrollert til velgerne. Aktørene i saken uttrykker åpenlyst bekymring for at situasjonen ikke ser bra ut for tilliten til den demokratiske prosessen. Det vurderes at spredningen av kunstig skapt innhold utgjør en reell trussel mot valgintegriteten, fordi velgerne utsettes for manipulerte budskap som er vanskelige å avsløre. Meta og andre sosiale medier-selskaper står dermed under et sterkt press for å rydde opp før valglokalene åpner, men omfanget av problemet gjør det vanskelig å stanse all misbruk i tide. Situasjonen belyser den voksende utfordringen med digital manipulasjon i moderne valgkamper internasjonalt.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/2V7PbB/meta-anklages-for-aa-paavirke-valget-det-er-jo-klart-det-ser-ikke-bra-ut?utm_medium=rss",
+            "title": "Meta anklages for å påvirke valget: – Det er jo klart, det ser ikke bra ut",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:06:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "33a0252a7c139805",
+        "continued_from": null,
+        "headline": "Ørjan Nyland hylles etter strålende comeback for RB Leipzig",
+        "ingress": "Den norske målvakten Ørjan Nyland (36) får lovord fra tysk ekspert etter sin sterke kamp for RB Leipzig.",
+        "summary": "Den norske landslagsmålvakten Ørjan Nyland høster lovord i Tyskland etter en meget sterk prestasjon i sin comeback-kamp for RB Leipzig. 36-åringen leverte spill på et høyt nivå, noe som har ført til at han hylles av en tysk ekspert for å ha skapt en god følelse for både lagkameratene og supporterne. Prestasjonen har åpnet for spekulasjoner om at nordmannen kan få en ny sjanse til å vokte buret allerede i tirsdagens kamp. Nyland har tidligere måttet tåle varierende spilletid og usikkerhet rundt sin klubbfremtid, men denne oppturen kan bli et viktig vendepunkt for hans posisjon i den tyske klubben. Ekspertene vurderer at hans rutine og rolige utstråling var avgjørende for at laget maktet å ro i land et godt resultat. Med den tette kampprogrammet i tysk fotball kan den gode prestasjonen sikre ham fornyet tillit fra trenertemaet på kort varsel. Saken viser hvordan raske vendinger er typisk for profftilværelsen i europeisk toppfotball for norske spillere.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/9ka6yw/oerjan-nyland-faar-straalende-skussmaal-etter-comebacket-for-rb-leipzig",
+            "title": "Ørjan Nyland hylles av tysk ekspert: – Ga laget og supporterne en god følelse",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:58:10+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "4b2808f9ef74526b",
+        "continued_from": null,
+        "headline": "Russisk droneangrep mot lasteskip og logistikk",
+        "ingress": "Et lasteskip på vei mot Tsjornomorsk ble truffet av russiske droner natt til søndag.",
+        "summary": "Det russiske forsvarsdepartementet opplyser at et lasteskip på vei mot den ukrainske havnebyen Tsjornomorsk ble truffet av russiske droner natt til søndag. Ifølge departementet ble fartøyet brukt til å forsyne den ukrainske hæren. I tillegg ble et logistikksenter, et distribusjonssenter og en logistikkterminal i byen Kharkiv rammet i angrepene. De russiske myndighetene hevder at disse anleggene ble benyttet til lagring og distribusjon av flerbruksvarer til det ukrainske militæret. Nyhetsbyrået Reuters melder at det ikke har vært mulig å få disse opplysningene bekreftet fra uavhengig hold. Slike påstander fra krigførende parter må derfor vurderes med forsiktighet inntil en uavhengig verifisering foreligger. Det foreligger foreløpig ikke detaljerte rapporter om materielle skader av omfang eller eventuelle tap av menneskeliv knyttet spesifikt til disse angrepene, utover det som er kommunisert fra offisielt hold i Moskva. Situasjonen i området forblir spent, og angrepene rammer sivil og militær logistikk om hverandre, noe som er et gjennomgående trekk ved den pågående konflikten i regionen. Det gjenstår å se om ukrainske myndigheter vil kommentere de konkrete skadene på skipet og de nevnte anleggene i Kharkiv i løpet av kort tid.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/russland-sier-de-har-angrepet-lasteskip--1.18064098",
+            "title": "Russland sier de har angrepet lasteskip",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:31:19+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "90018854b928fb3a",
+        "continued_from": null,
+        "headline": "Mann etterlyst internasjonalt etter knivstikking i Bjørvika",
+        "ingress": "Politiet leter etter en mann i 30-årene etter knivstikking i et parkeringshus i Oslo.",
+        "summary": "En mann i 30-årene er siktet for grov kroppsskade etter en alvorlig voldshendelse i et parkeringshus i Bjørvika i Oslo lørdag ettermiddag. Lørdag rykket politiet ut til stedet etter melding om knivstikking. Fornærmede er en kvinne i 30-årene. Hun pådro seg alvorlige skader, men tilstanden betegnes som ikke livstruende, opplyser politiet. Siktede er en navngitt person som nå er etterlyst internasjonalt på grunn av sin tilknytning til utlandet, ifølge krimleder Thomas Pedersen Enger. Politiet jobber intensivt med å lokalisere og pågripe den siktede mannen, men søket har foreløpig ikke båret frukter. Saken etterforskes bredt, og politiet har bedt om tips fra publikum som kan bidra til å opplyse saken ytterligere. Hendelsen har vakt oppmerksomhet da den fant sted midt på ettermiddagen i et sentralt parkeringshus i hovedstaden. Det er foreløpig ikke kjent hva som var forhistorien for voldshendelsen, eller hvilken relasjon det eventuelt er mellom den siktede mannen og den fornærmede kvinnen. Politiet vil trolig komme med oppdateringer i saken etter hvert som etterforskningen skrider fram og nye spor blir fulgt opp i inn- og utland.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/stor-oslo/knivstikkingen-i-bjorvika_-mann-etterlyst-internasjonalt-1.18064107",
+            "title": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:52:35+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/Qgvwmq/knivstikkingen-i-bjoervika-mann-etterlyst-internasjonalt",
+            "title": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:49:19+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19358833",
+            "title": "Mann etterlyst internasjonalt etter knivstikking i Oslo",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:48:49+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/gjerningsmann-er-internasjonalt-etterlyst/s/80-95-189765",
+            "title": "Mann i 30-årene etterlyst internasjonalt etter grov voldssak",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:50:26+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "c64e6e15e1c9844b",
+        "continued_from": null,
+        "headline": "Borerigg sank utenfor Gabon – fem personer savnet",
+        "ingress": "Fem personer er savnet etter at Borr Drillings rigg sank utenfor Vest-Afrika.",
+        "summary": "Fem personer er savnet etter at boreriggen «Prospector 5», som eies av det norske riggselskapet Borr Drilling, sank utenfor kysten av det sentralafrikanske landet Gabon. Ulykken skjedde lørdag kveld. Ifølge tilgjengelige opplysninger mistet riggen stabiliteten mens den forberedde seg på et kommende boreoppdrag, noe som resulterte i at den sank. Det var totalt 115 personer om bord på riggen da ulykken fant sted. Av disse er fem personer ennå ikke gjort rede for, melder nyhetsbyrået Reuters. Redningsaksjoner og søk etter de savnede er i gang i området. Hendelsen har skapt bekymring for sikkerheten til personell som arbeider offshore for norske selskaper internasjonalt. Selskapet og lokale myndigheter samarbeider om opparbeidelse av oversikt og videre oppfølging av situasjonen på ulykkesstedet. Det er knyttet stor spenning til redningsarbeidet, og pårørende venter på nye oppdateringer fra operasjonssenteret. Omfanget av de materielle skadene på riggen er betydelig, ettersom den har sunket til havets bunn. Myndighetene i Gabon og representanter for Borr Drilling vil trolig foreta grundige undersøkelser for å fastslå de nøyaktige årsakene til at riggen mistet stabiliteten og sank.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fem-personer-savnet-etter-at-borerigg-sank-1.18064042",
+            "title": "Fem personer savnet etter at borerigg sank",
+            "is_secondary": false,
+            "published_at": "2026-10-25T07:18:18+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/rigg/borr-rigg-sank-fem-personer-savnet/2-1-2063666",
+            "title": "Borr-rigg sank – fem personer savnet",
+            "is_secondary": false,
+            "published_at": "2026-10-25T07:01:17+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/xlogpB/borr-drilling-rigg-har-sunket-fem-savnet?utm_medium=rss",
+            "title": "Borr Drilling-rigg har sunket – fem savnet",
+            "is_secondary": false,
+            "published_at": "2026-10-25T06:39:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ed1a5be5b1de6c7c",
+        "continued_from": null,
+        "headline": "Forsvaret bruker Starlink – MDG advarer mot risiko",
+        "ingress": "Det norske Forsvaret har 180 Starlink-abonnement, noe MDG mener truer landets sikkerhet.",
+        "summary": "Det norske Forsvaret har skaffet seg 180 abonnement på det satellittbaserte internettsystemet Starlink, som leveres av selskapet til den kontroversielle amerikanske gründeren Elon Musk. Dette gjør Forsvaret til en storforbruker av teknologien. Bruken av den kommersielle satellittkommunikasjonen har imidlertid vakt politiske reaksjoner. Miljøpartiet De Grønne (MDG) har kommet med advarsler og uttrykt bekymring for at denne avhengigheten potensielt kan true Norges nasjonale sikkerhet. Kritikken retter seg mot sårbarheten ved å basere kritisk militær kommunikasjon på utenlandsk, privat infrastruktur kontrollert av enkeltpersoner med uforutsigbar geopolitisk profil. Forsvaret på sin side forsvarer bruken med at systemet gir operativ fleksibilitet og nødvendig båndbredde i situasjoner der tradisjonelle nettverk ikke strekker til, eller der robusthet er en mangelvare. Analytikere påpekte at selv om teknologien har vist seg svært nyttig i moderne konflikter, slik som i Ukraina, medfører den også betydelige sikkerhetsmessige og strategiske utfordringer knyttet til suverenitet og kontroll over egen data- og taletrafikk. Det gjenstår å se om debatten vil føre til politiske føringer eller innskrenkninger i Forsvarets fremtidige bruk av kommersielle satellittløsninger fra private tilbydere.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/31danv/forsvaret-er-blitt-storforbruker-av-starlink-mdg-mener-det-kan-true-norges-sikkerhet?utm_medium=rss",
+            "title": "Forsvaret er blitt storforbruker av Starlink. MDG mener det kan true Norges sikkerhet.",
+            "is_secondary": false,
+            "published_at": "2026-10-24T18:39:30+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "276b54a4eebcac11",
+        "continued_from": null,
+        "headline": "Trump påstår at Danmark ga Grønland til USA",
+        "ingress": "Donald Trump hevdet under et valgmøte at Danmark har gitt Grønland til USA.",
+        "summary": "Under et valgmøte i delstaten Georgia kom den amerikanske presidenten Donald Trump med oppsiktsvekkende uttalelser om at Grønland ble gitt til USA av Danmark. Natt til søndag norsk tid uttalte Trump at Danmark var helt fantastiske som ga dem Grønland, og antydet at dette er noe folk flest ikke leser om i mediene. Den amerikanske presidenten benyttet også anledningen til å gjenta tidligere utsagn om at den fremtidige avtalen knyttet til Grønland vil gå over i historien som den største eiendomshandelen noensinne. Kommentatorene peker på at dette er en ordbruk som ikke samsvarer med faktiske folkerettslige realiteter. Den nylig undertegnede sikkerhetsavtalen mellom Grønland, USA og Danmark fra september bygger i virkeligheten videre på en eldre avtale datert tilbake til 1951, og innebærer ingen overdragelse av suverenitet eller territorium. Trumps utspill tolkes derfor primært som politisk retorikk rettet mot velgermassen på et valgmøte fremfor en faktisk diplomatisk virkelighet. Det gjenstår å se om de offisielle reaksjonene fra København eller Nuuk vil ta til gjenmæle mot de oppsiktsvekkende påstandene fra Det hvite hus, eller om de vil velge å overse uttalelsene for ikke å eskalere diplomatiske spenninger unødvendig i kjølvannet av høstens sikkerhetsavtaler.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "geopolitikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump_-_-danmark-ga-oss-gronland-1.18064104",
+            "title": "Trump: – Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:44:04+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/KrJGw6/trump-danmark-ga-oss-groenland?utm_medium=rss",
+            "title": "Trump: Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T09:03:33+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19358881",
+            "title": "Trump: Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:41:33+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/trump-danmark-ga-oss-gronland/s/80-95-189747",
+            "title": "Trump: Danmark ga oss Grønland",
+            "is_secondary": false,
+            "published_at": "2026-10-25T08:18:13+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5dbed87be6bfbeba",
+        "continued_from": null,
+        "headline": "Lucas Pinheiro Braathen leder i Sölden",
+        "ingress": "Norsk-brasilianeren har fått en forrykende start på sesongen i Østerrike.",
+        "summary": "Lucas Pinheiro Braathen har lagt bak seg en svært god start på sesongen og topper resultatlistene etter den første omgangen i Sölden. Utøveren, som representerer sitt nye land med norsk-brasiliansk bakgrunn, viste sterk kjøring i storslalåmløypa og la konkurrentene bak seg. Dette gir ham et glimrende utgangspunkt for finaleomgangen senere på dagen. Ekspertene og analysene før sesongstart har vært fulle av forventninger til hans comeback og prestasjoner under nytt flagg, og åpningsomgangen bekrefter at formen er på plass. Kommentatorene merket seg en aggressiv og teknisk ren kjøring som skilte seg ut i det krevende isete føret i Alperne. Konkurrentene er likevel hakk i hel, og det ventes en spennende kamp om pallplassene når den avgjørende omgangen går av stabelen. Pinheiro Braathen selv har gitt uttrykk for at han nyter å være tilbake i aksjon og at fokuset er rettet mot å holde hele veien inn til mål. Publikum på tribunen har skapt en ramme rundt arrangementet som understreker alvoret og prestisjen i sesongåpningen. Det gjenstår å se om han klarer å holde ledelsen og sikre sesongens første seier under presset fra resten av verdenseliten.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/lucas-pinheiro-braathen-leder-etter-forste-omgang-i-s-lden/s/80-95-189783",
+            "title": "Lucas Pinheiro Braathen leder etter første omgang i Sölden",
+            "is_secondary": false,
+            "published_at": "2026-10-25T09:41:37+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-10-25T11:08:56.791291+01:00",
+    "edition_date": "2026-10-25",
+    "edition_type": "morning",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 23,
+        "missing_source_count": 17,
+        "failed_source_count": 0,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 184,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 24
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:19.637102+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T08:52:35+00:00",
+          "earliest_usable_published_at": "2026-10-25T01:20:54+00:00",
+          "latest_usable_published_at": "2026-10-25T08:52:35+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:19.880969+00:00",
+          "candidate_count": 3,
+          "usable_article_count": 3,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T08:09:48+00:00",
+          "earliest_usable_published_at": "2026-10-25T07:01:17+00:00",
+          "latest_usable_published_at": "2026-10-25T08:09:48+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:20.513006+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 11,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-25T09:09:59+00:00",
+          "earliest_usable_published_at": "2026-10-24T12:18:18+00:00",
+          "latest_usable_published_at": "2026-10-25T09:09:59+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:21.118990+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:46:15+00:00",
+          "earliest_usable_published_at": "2026-10-25T08:07:56+00:00",
+          "latest_usable_published_at": "2026-10-25T09:46:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:21.882116+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:03:33+00:00",
+          "earliest_usable_published_at": "2026-10-24T13:49:10+00:00",
+          "latest_usable_published_at": "2026-10-25T09:03:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:24.346162+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:54:39+00:00",
+          "earliest_usable_published_at": "2026-10-24T12:58:12+00:00",
+          "latest_usable_published_at": "2026-10-25T09:54:39+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:25.489423+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:53:21+00:00",
+          "earliest_usable_published_at": "2026-10-25T07:56:15+00:00",
+          "latest_usable_published_at": "2026-10-25T09:53:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:26.142055+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:48:22+00:00",
+          "earliest_usable_published_at": "2026-10-25T07:47:15+00:00",
+          "latest_usable_published_at": "2026-10-25T09:48:22+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:26.660910+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T10:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-25T08:14:32+00:00",
+          "latest_usable_published_at": "2026-10-25T10:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:27.462057+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:26:00+00:00",
+          "earliest_usable_published_at": "2026-10-24T18:00:00+00:00",
+          "latest_usable_published_at": "2026-10-25T09:26:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:28.096112+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:39:29+00:00",
+          "earliest_usable_published_at": "2026-10-25T05:59:11+00:00",
+          "latest_usable_published_at": "2026-10-25T09:39:29+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:29.213800+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T10:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-24T16:30:00+00:00",
+          "latest_usable_published_at": "2026-10-25T10:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:29.752576+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T10:00:00+00:00",
+          "earliest_usable_published_at": "2026-10-25T09:08:00+00:00",
+          "latest_usable_published_at": "2026-10-25T10:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:30.966496+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:26:21+00:00",
+          "earliest_usable_published_at": "2026-10-25T08:00:04+00:00",
+          "latest_usable_published_at": "2026-10-25T09:26:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:31.102243+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 5,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-25T09:14:50+00:00",
+          "earliest_usable_published_at": "2026-10-25T06:32:12+00:00",
+          "latest_usable_published_at": "2026-10-25T09:14:50+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:31.720358+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T05:00:10+00:00",
+          "earliest_usable_published_at": "2026-10-24T21:30:37+00:00",
+          "latest_usable_published_at": "2026-10-25T05:00:10+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:32.450475+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:32:59+00:00",
+          "earliest_usable_published_at": "2026-10-24T15:21:44+00:00",
+          "latest_usable_published_at": "2026-10-25T09:32:59+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:32.784101+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:34:44+00:00",
+          "earliest_usable_published_at": "2026-10-25T03:45:07+00:00",
+          "latest_usable_published_at": "2026-10-25T09:34:44+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-25T10:02:32.878686+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:33.011504+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:28:35+00:00",
+          "earliest_usable_published_at": "2026-10-25T04:01:22+00:00",
+          "latest_usable_published_at": "2026-10-25T09:28:35+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-25T10:02:33.150242+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:33.252295+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T10:00:08+00:00",
+          "earliest_usable_published_at": "2026-10-25T08:05:09+00:00",
+          "latest_usable_published_at": "2026-10-25T10:00:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:33.908483+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:27:03+00:00",
+          "earliest_usable_published_at": "2026-10-25T08:44:17+00:00",
+          "latest_usable_published_at": "2026-10-25T09:27:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:34.029896+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 5,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 1,
+          "latest_published_at": "2026-10-25T08:47:01+00:00",
+          "earliest_usable_published_at": "2026-10-25T02:02:19+00:00",
+          "latest_usable_published_at": "2026-10-25T08:47:01+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-10-25T10:02:34.557641+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-10-25T09:35:20+00:00",
+          "earliest_usable_published_at": "2026-10-25T06:05:34+00:00",
+          "latest_usable_published_at": "2026-10-25T09:35:20+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-25T10:02:34.672784+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-23T14:54:52+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-25T10:02:36.200443+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-22T14:00:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-10-25T10:02:36.353706+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 4,
+          "latest_published_at": "2026-10-23T13:15:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-10-25T11:02:19.637079+01:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-10-25T10:02:19.637102+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-10-25T10:02:19.880969+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-10-25T10:02:20.513006+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-10-25T10:02:21.118990+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-10-25T10:02:21.882116+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-10-25T10:02:24.346162+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-10-25T10:02:25.489423+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-10-25T10:02:26.142055+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-10-25T10:02:26.660910+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-10-25T10:02:27.462057+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-10-25T10:02:28.096112+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-10-25T10:02:29.213800+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-10-25T10:02:29.752576+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-10-25T10:02:30.966496+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-10-25T10:02:31.102243+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-10-25T10:02:31.720358+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-10-25T10:02:32.450475+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-10-25T10:02:32.784101+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-10-25T10:02:32.878686+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-10-25T10:02:33.011504+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-10-25T10:02:33.150242+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-10-25T10:02:33.252295+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-10-25T10:02:33.908483+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-10-25T10:02:34.029896+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-10-25T10:02:34.557641+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-10-25T10:02:34.672784+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-10-25T10:02:36.200443+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-10-25T10:02:36.353706+00:00"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 23,
+          "missing_source_count": 17,
+          "failed_source_count": 0,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 184,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 24
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:19.637102+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T08:52:35+00:00",
+            "earliest_usable_published_at": "2026-10-25T01:20:54+00:00",
+            "latest_usable_published_at": "2026-10-25T08:52:35+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:19.880969+00:00",
+            "candidate_count": 3,
+            "usable_article_count": 3,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T08:09:48+00:00",
+            "earliest_usable_published_at": "2026-10-25T07:01:17+00:00",
+            "latest_usable_published_at": "2026-10-25T08:09:48+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:20.513006+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 11,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-25T09:09:59+00:00",
+            "earliest_usable_published_at": "2026-10-24T12:18:18+00:00",
+            "latest_usable_published_at": "2026-10-25T09:09:59+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:21.118990+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:46:15+00:00",
+            "earliest_usable_published_at": "2026-10-25T08:07:56+00:00",
+            "latest_usable_published_at": "2026-10-25T09:46:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:21.882116+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:03:33+00:00",
+            "earliest_usable_published_at": "2026-10-24T13:49:10+00:00",
+            "latest_usable_published_at": "2026-10-25T09:03:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:24.346162+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:54:39+00:00",
+            "earliest_usable_published_at": "2026-10-24T12:58:12+00:00",
+            "latest_usable_published_at": "2026-10-25T09:54:39+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:25.489423+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:53:21+00:00",
+            "earliest_usable_published_at": "2026-10-25T07:56:15+00:00",
+            "latest_usable_published_at": "2026-10-25T09:53:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:26.142055+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:48:22+00:00",
+            "earliest_usable_published_at": "2026-10-25T07:47:15+00:00",
+            "latest_usable_published_at": "2026-10-25T09:48:22+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:26.660910+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T10:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-25T08:14:32+00:00",
+            "latest_usable_published_at": "2026-10-25T10:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:27.462057+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:26:00+00:00",
+            "earliest_usable_published_at": "2026-10-24T18:00:00+00:00",
+            "latest_usable_published_at": "2026-10-25T09:26:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:28.096112+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:39:29+00:00",
+            "earliest_usable_published_at": "2026-10-25T05:59:11+00:00",
+            "latest_usable_published_at": "2026-10-25T09:39:29+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:29.213800+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T10:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-24T16:30:00+00:00",
+            "latest_usable_published_at": "2026-10-25T10:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:29.752576+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T10:00:00+00:00",
+            "earliest_usable_published_at": "2026-10-25T09:08:00+00:00",
+            "latest_usable_published_at": "2026-10-25T10:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:30.966496+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:26:21+00:00",
+            "earliest_usable_published_at": "2026-10-25T08:00:04+00:00",
+            "latest_usable_published_at": "2026-10-25T09:26:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:31.102243+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 5,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-25T09:14:50+00:00",
+            "earliest_usable_published_at": "2026-10-25T06:32:12+00:00",
+            "latest_usable_published_at": "2026-10-25T09:14:50+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:31.720358+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T05:00:10+00:00",
+            "earliest_usable_published_at": "2026-10-24T21:30:37+00:00",
+            "latest_usable_published_at": "2026-10-25T05:00:10+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:32.450475+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:32:59+00:00",
+            "earliest_usable_published_at": "2026-10-24T15:21:44+00:00",
+            "latest_usable_published_at": "2026-10-25T09:32:59+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:32.784101+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:34:44+00:00",
+            "earliest_usable_published_at": "2026-10-25T03:45:07+00:00",
+            "latest_usable_published_at": "2026-10-25T09:34:44+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-25T10:02:32.878686+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:33.011504+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:28:35+00:00",
+            "earliest_usable_published_at": "2026-10-25T04:01:22+00:00",
+            "latest_usable_published_at": "2026-10-25T09:28:35+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-25T10:02:33.150242+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:33.252295+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T10:00:08+00:00",
+            "earliest_usable_published_at": "2026-10-25T08:05:09+00:00",
+            "latest_usable_published_at": "2026-10-25T10:00:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:33.908483+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:27:03+00:00",
+            "earliest_usable_published_at": "2026-10-25T08:44:17+00:00",
+            "latest_usable_published_at": "2026-10-25T09:27:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:34.029896+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 5,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 1,
+            "latest_published_at": "2026-10-25T08:47:01+00:00",
+            "earliest_usable_published_at": "2026-10-25T02:02:19+00:00",
+            "latest_usable_published_at": "2026-10-25T08:47:01+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-10-25T10:02:34.557641+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-10-25T09:35:20+00:00",
+            "earliest_usable_published_at": "2026-10-25T06:05:34+00:00",
+            "latest_usable_published_at": "2026-10-25T09:35:20+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-25T10:02:34.672784+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-23T14:54:52+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-25T10:02:36.200443+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-22T14:00:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-10-25T10:02:36.353706+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 4,
+            "latest_published_at": "2026-10-23T13:15:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 40,
+      "drop_reasons": []
+    }
+  }
+}
