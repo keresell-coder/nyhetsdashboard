@@ -1,0 +1,1803 @@
+{
+  "date": "2026-11-06",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "1ca4a8ba79727ebb",
+        "continued_from": null,
+        "headline": "Dødstallet stiger etter russisk angrep mot Zaporizjzja",
+        "ingress": "Ukrainske myndigheter opplyser at dødstallet har steget til 50 etter et russisk luftangrep mot et hjelpesenter i Zaporizjzja.",
+        "summary": "Det er bekreftet at dødstallet etter det russiske angrepet mot et skolebygg brukt som nødhjelpssentral i landsbyen Komysjuvakha har steget til 50. Bygningen ble truffet den 2. november, og mens det innledningsvis ble meldt om rundt tjue omkomne, har redningsarbeidet avdekket ytterligere døde. Ukrainas president Volodymyr Zelenskyj har betegnet angrepet som eksepsjonelt grusomt og uttalt at Russland slapp ytterligere ni bomber på et tilfluktssted i tilknytning til hendelsen. Ifølge den ukrainske presidenten er dette nok et bevis på at Russland ikke ønsker å trappe ned krigen, idet han hevder russerne umulig kunne unngå å vite at sivile hentet nødhjelp der ukentlig. Opplysningene om hendelsen og omfanget av dødsfallene kommer fra ukrainske offisielle kilder, som konsekvent legger ansvaret på russiske styrker for ødeleggelsene og tapet av menneskeliv i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dodstallet-etter-russisk-angrep-mot-hjelpesenter-i-zaporizjzja-har-steget-til-50-1.18075471",
+            "title": "Dødstallet etter russisk angrep mot hjelpesenter i Zaporizjzja har steget til 50",
+            "is_secondary": false,
+            "published_at": "2026-11-06T09:03:52+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "adfc5519c7bf8438",
+        "continued_from": null,
+        "headline": "Alvorlig voldshendelse utløste stor politiutrykning til Drammen sykehus",
+        "ingress": "Politiet rykket ut med et betydelig antall ressurser til Drammen sykehus etter melding om en alvorlig voldshendelse.",
+        "summary": "Politiet har rykket ut med store ressurser til Drammen sykehus etter at det har funnet sted en alvorlig voldshendelse inne på sykehusets område. Hendelsen har ført til en omfattende respons fra ordensmakt og nødetater, som er på plass med et betydelig antall mannskaper for å håndtere situasjonen. Det foreløpige informasjonsgrunnlaget fra mediene og politiet er knapt, men det slås fast fra offisielt hold at det dreier seg om en alvorlig hendelse av voldelig karakter som krever stor innsats på stedet. Det er foreløpig ikke kommet detaljerte opplysninger om gjerningspersoner, motiv, eventuelle skadeomfang eller status for involverte parter. De tilgjengelige kildene baserer seg på tidlige meldinger om utrykningen, og ytterligere detaljer avventes i takt med at politiet foretar undersøkelser og sikrer området inne på sykehuset. Situasjonen er under utvikling, og det presiseres at det foreligger begrensede bekreftede fakta utover at store politiressurser er satt inn i aksjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/lK8Pb9/politiet-alvorlig-voldshendelse-paa-drammen-sykehus",
+            "title": "Politiet: Alvorlig voldshendelse på Drammen sykehus",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:28:38+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/OgRxE1/politiet-alvorlig-voldshendelse-paa-drammen-sykehus?utm_medium=rss",
+            "title": "Politiet: Alvorlig voldshendelse på Drammen sykehus",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:25:44+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/alvorlig-voldshendelse-pa-drammen-sykehus/s/80-95-226269",
+            "title": "Alvorlig voldshendelse på Drammen sykehus",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:24:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "39f4391c2c067998",
+        "continued_from": null,
+        "headline": "Orkla leverer kvartalstall og legger frem milliardoverskudd",
+        "ingress": "Dagligvaregiganten Orkla legger frem et resultat på 1,9 milliarder kroner for kvartalet.",
+        "summary": "Orkla har lagt fram sine økonomiske tall som viser et resultat på 1,9 milliarder kroner. Mens sjefen for konsernet, Nils K. Selte, gir uttrykk for at han er fornøyd med prestasjonen og at nye mål venter for selskapet framover, vurderes resultatet fra et annet perspektiv av markedsanalytikere og finansmedier som påpeker at tallene skuffer de opprinnelige forventningene. Samtidig som toppledelsen ser fremover og feirer resultatene i lys av sine strategiske planer, viser analysene at den operasjonelle eller finansielle utviklingen ikke helt nådde opp til det markedet hadde priset inn på forhånd. Dette illustrerer en typisk dynamikk der interne vurderinger og eksterne forventninger til selskaper i dagligvare- og industrisektoren kan variere. Informasjonen er basert på rapporter fra selskapet selv samt økonomisk journalistikk som formidler både sjefens egne uttalelser og markedets reaksjoner på milliardresultatet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/orkla-tjente-19-mrd/2-1-2070311",
+            "title": "Orkla tjente 1,9 mrd.",
+            "is_secondary": false,
+            "published_at": "2026-11-06T06:02:22+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/rMBJGm/orkla-skuffer-forventningene-tjente-1-9-milliarder-foer-skatt-i-tredje-kvartal?utm_medium=rss",
+            "title": "Orkla dro inn 1,9 mrd kroner",
+            "is_secondary": false,
+            "published_at": "2026-11-06T06:01:37+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fac7e90abb32dc5f",
+        "continued_from": null,
+        "headline": "Sverigedemokraterna dropper ultimatum og åpner for borgerlig regjering",
+        "ingress": "Sverigedemokraterna fjerner sitt krav om regjeringsdeltakelse, noe som kan gjøre det enklere å danne regjering.",
+        "summary": "Sverigedemokraterna (SD) har åpnet opp for å støtte en regjering uten selv å være en del av den, ved å droppe sitt tidligere ultimatum om regjeringsdeltakelse. Den politiske endringen kan gjøre det betydelig enklere for Moderaternas leder Ulf Kristersson å danne en ny regjering etter en langvarig politisk døtsituasjon der Sverige har stått uten regjering i 54 dager siden valget. Tidligere har partiene holdt hardt på sine løfter fra valgkampen om å unngå visse samarbeid. Særlig har Centerpartiet nektet å sitte i regjering med SD, men ettersom SD nå signaliserer at de kan nøye seg med en støtterolle, åpner det seg nye muligheter for at Centerpartiet kan inngå i et regjeringssamarbeid med Moderaterna under ledelse av Kristersson. Dette utfordrer den opprinnelige situasjonen der Centerpartiet primært støttet Socialdemokraternas kandidat Magdalena Andersson. Analytikere peker på at dette representerer et taktikkskifte i svensk politikk som potensielt kan bryte det langvarige fastlåste parlamentariske uføret, selv om det fortsatt gjenstår formelle avklaringer mellom partiene før en ny regjering er på plass.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/svt_-sverigedemokraterna-droppar-regjeringsultimatum-1.18075691",
+            "title": "SVT: Sverigedemokraterna droppar regjeringsultimatum",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:42:33+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/JrP9Om/sverigedemokraterna-dropper-ultimatum-kan-aapne-for-borgerlig-regjering?utm_medium=rss",
+            "title": "Sverigedemokraterna dropper ultimatum – kan åpne for borgerlig regjering",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:51:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "09709282620b8520",
+        "continued_from": null,
+        "headline": "Kenyansk sektleder dømt til 200 års fengsel for massesult",
+        "ingress": "Paul Mackenzie er dømt til 200 års fengsel av en domstol i Kenya for drap på nesten 200 barn og flere voksne.",
+        "summary": "En domstol i kystbyen Mombasa i Kenya har dømt sektlederen Paul Mackenzie til 200 års fengsel for sin rolle i massesultdødsfallene knyttet til Good News International Church. Retten valgte imidlertid å unngå dødsstraff, blant annet med henvisning til en vurdering fra høyesterettsdommer Diana Mochache om at sektmedlemmer kunne oppfatte dødsstraff som en form for martyrdom. Saken ble ruller opp etter et polititips i april 2023, noe som førte til funn av tallrike massegraver like under bakken i Shakahola Forest nær Malindi i det sørøstlige Kenya. Siden har politiet gravd opp mer enn 400 lik, hvorav nesten halvparten var barn. Påtalemyndigheten har under rettssaken beskrevet kirken som en farlig dommedagssekt der tilhengerne ble beordret til å sulte seg selv og sine barn til døde for å oppnå frelse før verdens undergang. Dommen på 200 år regnes i praksis som en livstidsstraff, og er et resultat av grundig etterforskning og rettslig behandling av en av nyere tids mest grusomme saker knyttet til ekstrem religiøs manipulasjon og tap av menneskeliv i landet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kenyansk-sektleder-domt-til-200-ars-fengsel-for-drap-pa-190-barn-1.18075730",
+            "title": "Kenyansk sektleder dømt til 200 års fengsel for drap på 190 barn",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:50:12+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/L3yRV1/kenyansk-sektleder-doemt-til-200-aars-fengsel-for-drap-paa-190-barn-og-flere-voksne?utm_medium=rss",
+            "title": "Kenyansk sektleder dømt til 200 års fengsel for drap på 190 barn og flere voksne",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:46:04+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e096dbf79f3d4749",
+        "continued_from": null,
+        "headline": "NFF henlegger rasismesaken mot Fredrikstad-spiller etter RBK-kamp",
+        "ingress": "Påtalenemnda i Norges Fotballforbund har besluttet å henlegge saken om påstått rasisme mot en Fredrikstad-spiller.",
+        "summary": "Norges Fotballforbunds (NFF) påtalenemnd har formelt besluttet å henlegge rasismesaken som ble opprettet mot en Fredrikstad-spiller. Saken stammer fra et opphetet eliteserieoppgjør mellom Fredrikstad og Rosenborg (RBK), der det kom anklager om rasistiske ytringer eller opptreden underveis i kampen. Det er gjennom fredagen blitt bekreftet at det ikke vil bli reist videre sikte eller straff fra forbundets side i denne omgangen. En slik henleggelse innebærer at påtalenemnda har vurdert bevisene eller forklaringene i saken som utilstrekkelige til å statuere et regelbrudd eller føre fram til en domfellelse i NFFs systemer. Hendelsen skapte stor oppmerksomhet da den først ble kjent i forbindelse med oppgjøret mellom de to lagene, og saken har vært gjenstand for gjennomgang av fotballens organer. Med avgjørelsen om å legge bort saken er den disiplinære prosessen fra forbundets side avsluttet, selv om slike saker ofte etterlater debatt om håndtering av rasisme i norsk toppfotball. Artiklene gjenspeiler de offisielle meldingene som kom ut fredag om utfallet av undersøkelsene til NFFs påtalenemnd.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/58ma36/nff-henlegger-rasismesaken-mot-fredrikstad-spiller-etter-opphetet-rbk-kamp",
+            "title": "NFF henlegger rasismesaken mot Fredrikstad-spiller etter opphetet RBK-kamp",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:08:11+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/nff-henlegger-rasismesaken-mot-fredrikstad-spiller-etter-opphetet-rbk-kamp/s/80-95-226197",
+            "title": "NFF henlegger rasismesaken mot Fredrikstad-spiller etter opphetet RBK-kamp",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:08:44+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "518dff20dbb16836",
+        "continued_from": null,
+        "headline": "Advarer om at Nvidia lever farlig på børsen",
+        "ingress": "Et av verdens største selskap spiller en hovedrolle i børsdramaet. Forvalter mener hele korthuset kan falle sammen.",
+        "summary": "Teknologigiganten Nvidia trekkes frem i et større børsdrama hvor eksperter advarer om at selskapet lever farlig i det gjeldende markedet. En finansforvalter kommer med kraftig kritikk og analyse av situasjonen, og uttrykker bekymring for at hele det finansielle korthuset kan risikere å falle sammen dersom utviklingen fortsetter i samme spor. Denne vurderingen understreker sårbarheten i markedet knyttet til store teknologiselskaper som har hatt en enorm verdistigning, men som nå oppleves som mer risikofylte av visse markedsaktører. Det er viktig å merke seg at slike uttalelser er markedsanalyser og synspunkter fra enkeltforvaltere, snarere enn offisielle konstateringer av faktiske kollisjoner i økonomien. Diskusjonen rundt Nvidias posisjon belyser den nervøse stemningen som tidvis preger verdens børser når toneangivende aktører verdsettes svært høyt og dermed utgjør en systemisk risiko for resten av markedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/mK7Wjp/nvidia-lever-litt-farlig-naa?utm_medium=rss",
+            "title": "– Nvidia lever litt farlig nå",
+            "is_secondary": false,
+            "published_at": "2026-11-06T13:03:48+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/w3yWmn/nvidia-lever-litt-farlig-naa",
+            "title": "– Nvidia lever litt farlig nå",
+            "is_secondary": false,
+            "published_at": "2026-11-06T13:03:50+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e13f191ee8b37a2e",
+        "continued_from": null,
+        "headline": "Oktober var den varmeste målt noensinne på jorden",
+        "ingress": "Oktober i år var den varmeste som er målt i verden noensinne, ifølge EUs klimatjeneste Copernicus.",
+        "summary": "EUs klimatjeneste Copernicus slår fast at oktober i år var den varmarmeste som noensinne er registrert i historiske målinger. I tillegg melder tjenesten at det er nesten sikkert at 2026 vil bli det nest varmeste året som noen gang har blitt målt. Det foreligger en tjue prosents sannsynlighet for at temperaturene til og med vil overgå 2024, som per dags dato er det varmeste året som er registrert. Videre understreker klimatjenesten gjennom sine analyser at snittemperaturen nesten sikkert vil ende på 1,5 grader over det førindustrielle nivået for perioden som strekker seg fra 2023 til 2026. Disse opplysningene gir et dystert bilde av den pågående globale oppvarmingen og vitenskapelige fremskrivninger for fremtidige temperaturøkninger, basert på kontinuerlige observasjoner fra europeiske meteorologiske institusjoner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/eus-klimatjeneste_-arets-oktobermaned-var-varmeste-malt-noensinne-1.18075503",
+            "title": "EUs klimatjeneste: Årets oktobermåned var varmeste målt noensinne",
+            "is_secondary": false,
+            "published_at": "2026-11-06T09:08:09+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19401288",
+            "title": "EUs klimatjeneste: Årets oktobermåned var varmeste målt noensinne",
+            "is_secondary": false,
+            "published_at": "2026-11-06T10:06:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7b92a57875afa58a",
+        "continued_from": null,
+        "headline": "Petter Northug mener Johannes Høsflot Klæbo sliter",
+        "ingress": "Fotballreiser, gallaer, moteforside og sykdom: Petter Northug mener Johannes Høsflot Klæbo har senket guarden inn i årets VM-sesong.",
+        "summary": "Petter Northug kommer med en sterk vurdering av landslagsprofilen Johannes Høsflot Klæbo foran årets viktige verdensmesterskap. Ifølge Northug fremstår Klæbo som om han er på et bristepunkt, preget av en rekke forstyrrelser utenfor idretten. Blant faktorene som trekkes frem er deltakelse på fotballreiser, gallaer, opptredener på moteforsider samt nylige episoder med sykdom. Northugs analyse er at Klæbo har senket guarden i den kritiske oppkjøringen til mesterskapet, noe som potensielt kan true prestasjonene hans i sporet. Det er i denne sammenheng viktig å påpeke at dette er en personlig vurdering og meningsytring fra en tidligere utøver og ekspert, og ikke en objektiv nøytral nyhetsrapport om Klæbo sin faktiske fysiske form. Diskusjonen kaster lys over fokuset og presset som hviler på toppidrettsutøvere i forkant av store internasjonale mesterskap.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/ylQbjR/northug-om-klaebos-usa-turer-naa-er-han-paa-et-bristepunkt",
+            "title": "Northug om Klæbo: – Nå er han på et bristepunkt",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:53:17+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "1ca4a8ba79727ebb",
+        "continued_from": null,
+        "headline": "Dødstallet stiger etter russisk angrep mot Zaporizjzja",
+        "ingress": "Ukrainske myndigheter opplyser at dødstallet har steget til 50 etter et russisk luftangrep mot et hjelpesenter i Zaporizjzja.",
+        "summary": "Det er bekreftet at dødstallet etter det russiske angrepet mot et skolebygg brukt som nødhjelpssentral i landsbyen Komysjuvakha har steget til 50. Bygningen ble truffet den 2. november, og mens det innledningsvis ble meldt om rundt tjue omkomne, har redningsarbeidet avdekket ytterligere døde. Ukrainas president Volodymyr Zelenskyj har betegnet angrepet som eksepsjonelt grusomt og uttalt at Russland slapp ytterligere ni bomber på et tilfluktssted i tilknytning til hendelsen. Ifølge den ukrainske presidenten er dette nok et bevis på at Russland ikke ønsker å trappe ned krigen, idet han hevder russerne umulig kunne unngå å vite at sivile hentet nødhjelp der ukentlig. Opplysningene om hendelsen og omfanget av dødsfallene kommer fra ukrainske offisielle kilder, som konsekvent legger ansvaret på russiske styrker for ødeleggelsene og tapet av menneskeliv i regionen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/dodstallet-etter-russisk-angrep-mot-hjelpesenter-i-zaporizjzja-har-steget-til-50-1.18075471",
+            "title": "Dødstallet etter russisk angrep mot hjelpesenter i Zaporizjzja har steget til 50",
+            "is_secondary": false,
+            "published_at": "2026-11-06T09:03:52+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "adfc5519c7bf8438",
+        "continued_from": null,
+        "headline": "Alvorlig voldshendelse utløste stor politiutrykning til Drammen sykehus",
+        "ingress": "Politiet rykket ut med et betydelig antall ressurser til Drammen sykehus etter melding om en alvorlig voldshendelse.",
+        "summary": "Politiet har rykket ut med store ressurser til Drammen sykehus etter at det har funnet sted en alvorlig voldshendelse inne på sykehusets område. Hendelsen har ført til en omfattende respons fra ordensmakt og nødetater, som er på plass med et betydelig antall mannskaper for å håndtere situasjonen. Det foreløpige informasjonsgrunnlaget fra mediene og politiet er knapt, men det slås fast fra offisielt hold at det dreier seg om en alvorlig hendelse av voldelig karakter som krever stor innsats på stedet. Det er foreløpig ikke kommet detaljerte opplysninger om gjerningspersoner, motiv, eventuelle skadeomfang eller status for involverte parter. De tilgjengelige kildene baserer seg på tidlige meldinger om utrykningen, og ytterligere detaljer avventes i takt med at politiet foretar undersøkelser og sikrer området inne på sykehuset. Situasjonen er under utvikling, og det presiseres at det foreligger begrensede bekreftede fakta utover at store politiressurser er satt inn i aksjonen.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/lK8Pb9/politiet-alvorlig-voldshendelse-paa-drammen-sykehus",
+            "title": "Politiet: Alvorlig voldshendelse på Drammen sykehus",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:28:38+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/OgRxE1/politiet-alvorlig-voldshendelse-paa-drammen-sykehus?utm_medium=rss",
+            "title": "Politiet: Alvorlig voldshendelse på Drammen sykehus",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:25:44+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/alvorlig-voldshendelse-pa-drammen-sykehus/s/80-95-226269",
+            "title": "Alvorlig voldshendelse på Drammen sykehus",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:24:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "39f4391c2c067998",
+        "continued_from": null,
+        "headline": "Orkla leverer kvartalstall og legger frem milliardoverskudd",
+        "ingress": "Dagligvaregiganten Orkla legger frem et resultat på 1,9 milliarder kroner for kvartalet.",
+        "summary": "Orkla har lagt fram sine økonomiske tall som viser et resultat på 1,9 milliarder kroner. Mens sjefen for konsernet, Nils K. Selte, gir uttrykk for at han er fornøyd med prestasjonen og at nye mål venter for selskapet framover, vurderes resultatet fra et annet perspektiv av markedsanalytikere og finansmedier som påpeker at tallene skuffer de opprinnelige forventningene. Samtidig som toppledelsen ser fremover og feirer resultatene i lys av sine strategiske planer, viser analysene at den operasjonelle eller finansielle utviklingen ikke helt nådde opp til det markedet hadde priset inn på forhånd. Dette illustrerer en typisk dynamikk der interne vurderinger og eksterne forventninger til selskaper i dagligvare- og industrisektoren kan variere. Informasjonen er basert på rapporter fra selskapet selv samt økonomisk journalistikk som formidler både sjefens egne uttalelser og markedets reaksjoner på milliardresultatet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/bors/orkla-tjente-19-mrd/2-1-2070311",
+            "title": "Orkla tjente 1,9 mrd.",
+            "is_secondary": false,
+            "published_at": "2026-11-06T06:02:22+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/rMBJGm/orkla-skuffer-forventningene-tjente-1-9-milliarder-foer-skatt-i-tredje-kvartal?utm_medium=rss",
+            "title": "Orkla dro inn 1,9 mrd kroner",
+            "is_secondary": false,
+            "published_at": "2026-11-06T06:01:37+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "fac7e90abb32dc5f",
+        "continued_from": null,
+        "headline": "Sverigedemokraterna dropper ultimatum og åpner for borgerlig regjering",
+        "ingress": "Sverigedemokraterna fjerner sitt krav om regjeringsdeltakelse, noe som kan gjøre det enklere å danne regjering.",
+        "summary": "Sverigedemokraterna (SD) har åpnet opp for å støtte en regjering uten selv å være en del av den, ved å droppe sitt tidligere ultimatum om regjeringsdeltakelse. Den politiske endringen kan gjøre det betydelig enklere for Moderaternas leder Ulf Kristersson å danne en ny regjering etter en langvarig politisk døtsituasjon der Sverige har stått uten regjering i 54 dager siden valget. Tidligere har partiene holdt hardt på sine løfter fra valgkampen om å unngå visse samarbeid. Særlig har Centerpartiet nektet å sitte i regjering med SD, men ettersom SD nå signaliserer at de kan nøye seg med en støtterolle, åpner det seg nye muligheter for at Centerpartiet kan inngå i et regjeringssamarbeid med Moderaterna under ledelse av Kristersson. Dette utfordrer den opprinnelige situasjonen der Centerpartiet primært støttet Socialdemokraternas kandidat Magdalena Andersson. Analytikere peker på at dette representerer et taktikkskifte i svensk politikk som potensielt kan bryte det langvarige fastlåste parlamentariske uføret, selv om det fortsatt gjenstår formelle avklaringer mellom partiene før en ny regjering er på plass.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/svt_-sverigedemokraterna-droppar-regjeringsultimatum-1.18075691",
+            "title": "SVT: Sverigedemokraterna droppar regjeringsultimatum",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:42:33+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/JrP9Om/sverigedemokraterna-dropper-ultimatum-kan-aapne-for-borgerlig-regjering?utm_medium=rss",
+            "title": "Sverigedemokraterna dropper ultimatum – kan åpne for borgerlig regjering",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:51:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "09709282620b8520",
+        "continued_from": null,
+        "headline": "Kenyansk sektleder dømt til 200 års fengsel for massesult",
+        "ingress": "Paul Mackenzie er dømt til 200 års fengsel av en domstol i Kenya for drap på nesten 200 barn og flere voksne.",
+        "summary": "En domstol i kystbyen Mombasa i Kenya har dømt sektlederen Paul Mackenzie til 200 års fengsel for sin rolle i massesultdødsfallene knyttet til Good News International Church. Retten valgte imidlertid å unngå dødsstraff, blant annet med henvisning til en vurdering fra høyesterettsdommer Diana Mochache om at sektmedlemmer kunne oppfatte dødsstraff som en form for martyrdom. Saken ble ruller opp etter et polititips i april 2023, noe som førte til funn av tallrike massegraver like under bakken i Shakahola Forest nær Malindi i det sørøstlige Kenya. Siden har politiet gravd opp mer enn 400 lik, hvorav nesten halvparten var barn. Påtalemyndigheten har under rettssaken beskrevet kirken som en farlig dommedagssekt der tilhengerne ble beordret til å sulte seg selv og sine barn til døde for å oppnå frelse før verdens undergang. Dommen på 200 år regnes i praksis som en livstidsstraff, og er et resultat av grundig etterforskning og rettslig behandling av en av nyere tids mest grusomme saker knyttet til ekstrem religiøs manipulasjon og tap av menneskeliv i landet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/kenyansk-sektleder-domt-til-200-ars-fengsel-for-drap-pa-190-barn-1.18075730",
+            "title": "Kenyansk sektleder dømt til 200 års fengsel for drap på 190 barn",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:50:12+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/L3yRV1/kenyansk-sektleder-doemt-til-200-aars-fengsel-for-drap-paa-190-barn-og-flere-voksne?utm_medium=rss",
+            "title": "Kenyansk sektleder dømt til 200 års fengsel for drap på 190 barn og flere voksne",
+            "is_secondary": false,
+            "published_at": "2026-11-06T11:46:04+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e096dbf79f3d4749",
+        "continued_from": null,
+        "headline": "NFF henlegger rasismesaken mot Fredrikstad-spiller etter RBK-kamp",
+        "ingress": "Påtalenemnda i Norges Fotballforbund har besluttet å henlegge saken om påstått rasisme mot en Fredrikstad-spiller.",
+        "summary": "Norges Fotballforbunds (NFF) påtalenemnd har formelt besluttet å henlegge rasismesaken som ble opprettet mot en Fredrikstad-spiller. Saken stammer fra et opphetet eliteserieoppgjør mellom Fredrikstad og Rosenborg (RBK), der det kom anklager om rasistiske ytringer eller opptreden underveis i kampen. Det er gjennom fredagen blitt bekreftet at det ikke vil bli reist videre sikte eller straff fra forbundets side i denne omgangen. En slik henleggelse innebærer at påtalenemnda har vurdert bevisene eller forklaringene i saken som utilstrekkelige til å statuere et regelbrudd eller føre fram til en domfellelse i NFFs systemer. Hendelsen skapte stor oppmerksomhet da den først ble kjent i forbindelse med oppgjøret mellom de to lagene, og saken har vært gjenstand for gjennomgang av fotballens organer. Med avgjørelsen om å legge bort saken er den disiplinære prosessen fra forbundets side avsluttet, selv om slike saker ofte etterlater debatt om håndtering av rasisme i norsk toppfotball. Artiklene gjenspeiler de offisielle meldingene som kom ut fredag om utfallet av undersøkelsene til NFFs påtalenemnd.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/58ma36/nff-henlegger-rasismesaken-mot-fredrikstad-spiller-etter-opphetet-rbk-kamp",
+            "title": "NFF henlegger rasismesaken mot Fredrikstad-spiller etter opphetet RBK-kamp",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:08:11+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/nff-henlegger-rasismesaken-mot-fredrikstad-spiller-etter-opphetet-rbk-kamp/s/80-95-226197",
+            "title": "NFF henlegger rasismesaken mot Fredrikstad-spiller etter opphetet RBK-kamp",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:08:44+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "518dff20dbb16836",
+        "continued_from": null,
+        "headline": "Advarer om at Nvidia lever farlig på børsen",
+        "ingress": "Et av verdens største selskap spiller en hovedrolle i børsdramaet. Forvalter mener hele korthuset kan falle sammen.",
+        "summary": "Teknologigiganten Nvidia trekkes frem i et større børsdrama hvor eksperter advarer om at selskapet lever farlig i det gjeldende markedet. En finansforvalter kommer med kraftig kritikk og analyse av situasjonen, og uttrykker bekymring for at hele det finansielle korthuset kan risikere å falle sammen dersom utviklingen fortsetter i samme spor. Denne vurderingen understreker sårbarheten i markedet knyttet til store teknologiselskaper som har hatt en enorm verdistigning, men som nå oppleves som mer risikofylte av visse markedsaktører. Det er viktig å merke seg at slike uttalelser er markedsanalyser og synspunkter fra enkeltforvaltere, snarere enn offisielle konstateringer av faktiske kollisjoner i økonomien. Diskusjonen rundt Nvidias posisjon belyser den nervøse stemningen som tidvis preger verdens børser når toneangivende aktører verdsettes svært høyt og dermed utgjør en systemisk risiko for resten av markedet.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/mK7Wjp/nvidia-lever-litt-farlig-naa?utm_medium=rss",
+            "title": "– Nvidia lever litt farlig nå",
+            "is_secondary": false,
+            "published_at": "2026-11-06T13:03:48+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/i/w3yWmn/nvidia-lever-litt-farlig-naa",
+            "title": "– Nvidia lever litt farlig nå",
+            "is_secondary": false,
+            "published_at": "2026-11-06T13:03:50+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e13f191ee8b37a2e",
+        "continued_from": null,
+        "headline": "Oktober var den varmeste målt noensinne på jorden",
+        "ingress": "Oktober i år var den varmeste som er målt i verden noensinne, ifølge EUs klimatjeneste Copernicus.",
+        "summary": "EUs klimatjeneste Copernicus slår fast at oktober i år var den varmarmeste som noensinne er registrert i historiske målinger. I tillegg melder tjenesten at det er nesten sikkert at 2026 vil bli det nest varmeste året som noen gang har blitt målt. Det foreligger en tjue prosents sannsynlighet for at temperaturene til og med vil overgå 2024, som per dags dato er det varmeste året som er registrert. Videre understreker klimatjenesten gjennom sine analyser at snittemperaturen nesten sikkert vil ende på 1,5 grader over det førindustrielle nivået for perioden som strekker seg fra 2023 til 2026. Disse opplysningene gir et dystert bilde av den pågående globale oppvarmingen og vitenskapelige fremskrivninger for fremtidige temperaturøkninger, basert på kontinuerlige observasjoner fra europeiske meteorologiske institusjoner.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/eus-klimatjeneste_-arets-oktobermaned-var-varmeste-malt-noensinne-1.18075503",
+            "title": "EUs klimatjeneste: Årets oktobermåned var varmeste målt noensinne",
+            "is_secondary": false,
+            "published_at": "2026-11-06T09:08:09+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19401288",
+            "title": "EUs klimatjeneste: Årets oktobermåned var varmeste målt noensinne",
+            "is_secondary": false,
+            "published_at": "2026-11-06T10:06:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "7b92a57875afa58a",
+        "continued_from": null,
+        "headline": "Petter Northug mener Johannes Høsflot Klæbo sliter",
+        "ingress": "Fotballreiser, gallaer, moteforside og sykdom: Petter Northug mener Johannes Høsflot Klæbo har senket guarden inn i årets VM-sesong.",
+        "summary": "Petter Northug kommer med en sterk vurdering av landslagsprofilen Johannes Høsflot Klæbo foran årets viktige verdensmesterskap. Ifølge Northug fremstår Klæbo som om han er på et bristepunkt, preget av en rekke forstyrrelser utenfor idretten. Blant faktorene som trekkes frem er deltakelse på fotballreiser, gallaer, opptredener på moteforsider samt nylige episoder med sykdom. Northugs analyse er at Klæbo har senket guarden i den kritiske oppkjøringen til mesterskapet, noe som potensielt kan true prestasjonene hans i sporet. Det er i denne sammenheng viktig å påpeke at dette er en personlig vurdering og meningsytring fra en tidligere utøver og ekspert, og ikke en objektiv nøytral nyhetsrapport om Klæbo sin faktiske fysiske form. Diskusjonen kaster lys over fokuset og presset som hviler på toppidrettsutøvere i forkant av store internasjonale mesterskap.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/ylQbjR/northug-om-klaebos-usa-turer-naa-er-han-paa-et-bristepunkt",
+            "title": "Northug om Klæbo: – Nå er han på et bristepunkt",
+            "is_secondary": false,
+            "published_at": "2026-11-06T12:53:17+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      }
+    ],
+    "generated_at": "2026-11-06T14:11:05.241816+01:00",
+    "edition_date": "2026-11-06",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 1,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 207,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 9
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:05.543701+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:40:09+00:00",
+          "earliest_usable_published_at": "2026-11-06T08:23:46+00:00",
+          "latest_usable_published_at": "2026-11-06T12:40:09+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:05.791863+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T10:54:08+00:00",
+          "earliest_usable_published_at": "2026-11-05T17:37:07+00:00",
+          "latest_usable_published_at": "2026-11-06T10:54:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:06.620469+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:03:48+00:00",
+          "earliest_usable_published_at": "2026-11-06T05:09:54+00:00",
+          "latest_usable_published_at": "2026-11-06T13:03:48+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:06.939076+00:00",
+          "candidate_count": 10,
+          "usable_article_count": 10,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:03:50+00:00",
+          "earliest_usable_published_at": "2026-11-06T11:52:39+00:00",
+          "latest_usable_published_at": "2026-11-06T13:03:50+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:07.226791+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:05:18+00:00",
+          "earliest_usable_published_at": "2026-11-06T10:18:23+00:00",
+          "latest_usable_published_at": "2026-11-06T13:05:18+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:07.499120+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:42:24+00:00",
+          "earliest_usable_published_at": "2026-11-06T05:11:53+00:00",
+          "latest_usable_published_at": "2026-11-06T12:42:24+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:08.446025+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:00:33+00:00",
+          "earliest_usable_published_at": "2026-11-06T11:47:22+00:00",
+          "latest_usable_published_at": "2026-11-06T13:00:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:09.312583+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:04:03+00:00",
+          "earliest_usable_published_at": "2026-11-06T12:30:28+00:00",
+          "latest_usable_published_at": "2026-11-06T13:04:03+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:09.855760+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:00:00+00:00",
+          "earliest_usable_published_at": "2026-11-06T09:40:08+00:00",
+          "latest_usable_published_at": "2026-11-06T12:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:10.407559+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:03:22+00:00",
+          "earliest_usable_published_at": "2026-11-06T11:08:35+00:00",
+          "latest_usable_published_at": "2026-11-06T13:03:22+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:11.008056+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:59:11+00:00",
+          "earliest_usable_published_at": "2026-11-06T10:37:22+00:00",
+          "latest_usable_published_at": "2026-11-06T12:59:11+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:11.595578+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:00:00+00:00",
+          "earliest_usable_published_at": "2026-11-06T10:00:00+00:00",
+          "latest_usable_published_at": "2026-11-06T13:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:11.973648+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:53:00+00:00",
+          "earliest_usable_published_at": "2026-11-06T12:14:00+00:00",
+          "latest_usable_published_at": "2026-11-06T12:53:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:12.603227+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:59:40+00:00",
+          "earliest_usable_published_at": "2026-11-06T12:39:22+00:00",
+          "latest_usable_published_at": "2026-11-06T12:59:40+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:12.785330+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:06:24+00:00",
+          "earliest_usable_published_at": "2026-11-06T09:18:38+00:00",
+          "latest_usable_published_at": "2026-11-06T12:06:24+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:14.514061+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T11:10:33+00:00",
+          "earliest_usable_published_at": "2026-11-06T05:00:14+00:00",
+          "latest_usable_published_at": "2026-11-06T11:10:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:15.438344+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:54:04+00:00",
+          "earliest_usable_published_at": "2026-11-06T00:02:57+00:00",
+          "latest_usable_published_at": "2026-11-06T12:54:04+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:15.636362+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:00:19+00:00",
+          "earliest_usable_published_at": "2026-11-06T04:45:03+00:00",
+          "latest_usable_published_at": "2026-11-06T13:00:19+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-11-06T13:09:15.786387+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:15.940828+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T10:54:43+00:00",
+          "earliest_usable_published_at": "2026-11-06T05:01:17+00:00",
+          "latest_usable_published_at": "2026-11-06T10:54:43+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-11-06T13:09:16.084822+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:16.217944+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T13:00:08+00:00",
+          "earliest_usable_published_at": "2026-11-06T12:16:52+00:00",
+          "latest_usable_published_at": "2026-11-06T13:00:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:16.744424+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:57:33+00:00",
+          "earliest_usable_published_at": "2026-11-06T12:16:40+00:00",
+          "latest_usable_published_at": "2026-11-06T12:57:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:16.912304+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:45:23+00:00",
+          "earliest_usable_published_at": "2026-11-05T22:17:59+00:00",
+          "latest_usable_published_at": "2026-11-06T12:45:23+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:17.222144+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:46:12+00:00",
+          "earliest_usable_published_at": "2026-11-06T10:39:11+00:00",
+          "latest_usable_published_at": "2026-11-06T12:46:12+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:17.364999+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-06T12:00:46+00:00",
+          "earliest_usable_published_at": "2026-11-06T09:40:34+00:00",
+          "latest_usable_published_at": "2026-11-06T12:00:46+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "current",
+          "attempted_at": "2026-11-06T13:09:18.448967+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-11-05T14:00:00+00:00",
+          "earliest_usable_published_at": "2026-11-05T14:00:00+00:00",
+          "latest_usable_published_at": "2026-11-05T14:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "fetch_failed",
+          "attempted_at": "2026-11-06T13:09:18.572681+00:00",
+          "candidate_count": 0,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-11-06T14:09:05.543666+01:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-11-06T13:09:05.543701+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-11-06T13:09:05.791863+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-11-06T13:09:06.620469+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-11-06T13:09:06.939076+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-11-06T13:09:07.226791+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-11-06T13:09:07.499120+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-11-06T13:09:08.446025+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-11-06T13:09:09.312583+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-11-06T13:09:09.855760+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-11-06T13:09:10.407559+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-11-06T13:09:11.008056+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-11-06T13:09:11.595578+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-11-06T13:09:11.973648+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-11-06T13:09:12.603227+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-11-06T13:09:12.785330+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-11-06T13:09:14.514061+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-11-06T13:09:15.438344+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-11-06T13:09:15.636362+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-11-06T13:09:15.786387+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-11-06T13:09:15.940828+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-11-06T13:09:16.084822+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-11-06T13:09:16.217944+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-11-06T13:09:16.744424+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-11-06T13:09:16.912304+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-11-06T13:09:17.222144+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-11-06T13:09:17.364999+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-11-06T13:09:18.448967+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-11-06T13:09:18.572681+00:00"
+        }
+      ],
+      "source_errors": [
+        {
+          "source": "ESA",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 1,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 207,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 9
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:05.543701+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:40:09+00:00",
+            "earliest_usable_published_at": "2026-11-06T08:23:46+00:00",
+            "latest_usable_published_at": "2026-11-06T12:40:09+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:05.791863+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T10:54:08+00:00",
+            "earliest_usable_published_at": "2026-11-05T17:37:07+00:00",
+            "latest_usable_published_at": "2026-11-06T10:54:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:06.620469+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:03:48+00:00",
+            "earliest_usable_published_at": "2026-11-06T05:09:54+00:00",
+            "latest_usable_published_at": "2026-11-06T13:03:48+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:06.939076+00:00",
+            "candidate_count": 10,
+            "usable_article_count": 10,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:03:50+00:00",
+            "earliest_usable_published_at": "2026-11-06T11:52:39+00:00",
+            "latest_usable_published_at": "2026-11-06T13:03:50+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:07.226791+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:05:18+00:00",
+            "earliest_usable_published_at": "2026-11-06T10:18:23+00:00",
+            "latest_usable_published_at": "2026-11-06T13:05:18+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:07.499120+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:42:24+00:00",
+            "earliest_usable_published_at": "2026-11-06T05:11:53+00:00",
+            "latest_usable_published_at": "2026-11-06T12:42:24+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:08.446025+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:00:33+00:00",
+            "earliest_usable_published_at": "2026-11-06T11:47:22+00:00",
+            "latest_usable_published_at": "2026-11-06T13:00:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:09.312583+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:04:03+00:00",
+            "earliest_usable_published_at": "2026-11-06T12:30:28+00:00",
+            "latest_usable_published_at": "2026-11-06T13:04:03+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:09.855760+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:00:00+00:00",
+            "earliest_usable_published_at": "2026-11-06T09:40:08+00:00",
+            "latest_usable_published_at": "2026-11-06T12:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:10.407559+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:03:22+00:00",
+            "earliest_usable_published_at": "2026-11-06T11:08:35+00:00",
+            "latest_usable_published_at": "2026-11-06T13:03:22+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:11.008056+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:59:11+00:00",
+            "earliest_usable_published_at": "2026-11-06T10:37:22+00:00",
+            "latest_usable_published_at": "2026-11-06T12:59:11+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:11.595578+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:00:00+00:00",
+            "earliest_usable_published_at": "2026-11-06T10:00:00+00:00",
+            "latest_usable_published_at": "2026-11-06T13:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:11.973648+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:53:00+00:00",
+            "earliest_usable_published_at": "2026-11-06T12:14:00+00:00",
+            "latest_usable_published_at": "2026-11-06T12:53:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:12.603227+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:59:40+00:00",
+            "earliest_usable_published_at": "2026-11-06T12:39:22+00:00",
+            "latest_usable_published_at": "2026-11-06T12:59:40+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:12.785330+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:06:24+00:00",
+            "earliest_usable_published_at": "2026-11-06T09:18:38+00:00",
+            "latest_usable_published_at": "2026-11-06T12:06:24+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:14.514061+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T11:10:33+00:00",
+            "earliest_usable_published_at": "2026-11-06T05:00:14+00:00",
+            "latest_usable_published_at": "2026-11-06T11:10:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:15.438344+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:54:04+00:00",
+            "earliest_usable_published_at": "2026-11-06T00:02:57+00:00",
+            "latest_usable_published_at": "2026-11-06T12:54:04+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:15.636362+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:00:19+00:00",
+            "earliest_usable_published_at": "2026-11-06T04:45:03+00:00",
+            "latest_usable_published_at": "2026-11-06T13:00:19+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-11-06T13:09:15.786387+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:15.940828+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T10:54:43+00:00",
+            "earliest_usable_published_at": "2026-11-06T05:01:17+00:00",
+            "latest_usable_published_at": "2026-11-06T10:54:43+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-11-06T13:09:16.084822+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:16.217944+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T13:00:08+00:00",
+            "earliest_usable_published_at": "2026-11-06T12:16:52+00:00",
+            "latest_usable_published_at": "2026-11-06T13:00:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:16.744424+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:57:33+00:00",
+            "earliest_usable_published_at": "2026-11-06T12:16:40+00:00",
+            "latest_usable_published_at": "2026-11-06T12:57:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:16.912304+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:45:23+00:00",
+            "earliest_usable_published_at": "2026-11-05T22:17:59+00:00",
+            "latest_usable_published_at": "2026-11-06T12:45:23+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:17.222144+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:46:12+00:00",
+            "earliest_usable_published_at": "2026-11-06T10:39:11+00:00",
+            "latest_usable_published_at": "2026-11-06T12:46:12+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:17.364999+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-06T12:00:46+00:00",
+            "earliest_usable_published_at": "2026-11-06T09:40:34+00:00",
+            "latest_usable_published_at": "2026-11-06T12:00:46+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "current",
+            "attempted_at": "2026-11-06T13:09:18.448967+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-11-05T14:00:00+00:00",
+            "earliest_usable_published_at": "2026-11-05T14:00:00+00:00",
+            "latest_usable_published_at": "2026-11-05T14:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "fetch_failed",
+            "attempted_at": "2026-11-06T13:09:18.572681+00:00",
+            "candidate_count": 0,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": "HTTP Error 404: Not Found"
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 47,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range",
+        "headline_too_long"
+      ]
+    }
+  }
+}
