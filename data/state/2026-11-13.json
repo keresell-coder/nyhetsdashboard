@@ -1,0 +1,2169 @@
+{
+  "date": "2026-11-13",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "74e834efa1be4c58",
+        "continued_from": null,
+        "headline": "Advarer norske toppledere mot honningfeller",
+        "ingress": "Ekspert advarer norske bedrifter mot å bli utsatt for honningfeller, og peker på toppledere som åpenbare mål.",
+        "summary": "Trusselen knyttet til såkalte honningfeller er aktuell for norske toppledere, som av eksperter utpekes som åpenbare mål for denne typen påvirkning. Det påpekes fra hold som følger feltet at det ofte oppleves som krevende og ubehagelig å rette søkelyset mot toppledernes private liv, men at temmelig reelle sikkerhetsrisikoer gjør det nødvendig å løfte problemstillingen. Informasjonen som foreligger i saken baserer seg på faglige advarsler og vurderinger gitt til næringslivet, og det skilles mellom generell risiko og konkrete, bekreftede enkeltsaker i denne sammenhengen. Det understrekes at bedrifter generelt bør ha økt bevissthet rundt sikkerhet og sårbarheter knyttet til personlige relasjoner, ettersom slike situasjoner kan utnyttes av eksterne aktører med u ærlige hensikter. Diskusjonen omkring temaet viser at sikkerhetskultur i økende grad må omfatte områder som tradisjonelt har vært regnet som private sfærer for ledere i både privat og offentlig sektor, noe som krever en balansegang mellom personvern og nødvendige sikkerhetstiltak i næringslivet fremover.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/bkK97g/honningfeller-norske-toppledere-er-aapenbare-maal?utm_medium=rss",
+            "title": "Honningfeller: – Norske toppledere er åpenbare mål",
+            "is_secondary": false,
+            "published_at": "2026-11-13T04:00:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d2d62cb7fc37d412",
+        "continued_from": null,
+        "headline": "Bremser gigantisk datasenter i Sirdal",
+        "ingress": "Planene om å bygge Norges største datasenter i Sirdal har møtt motstand.",
+        "summary": "Planene om et gigantisk datasenterprosjekt i Sirdal har midlertidig blitt stanset etter at det har vakt reaksjoner. Ifølge tilgjengelige opplysninger er det knyttet stor skepsis til prosjektets rammer og konsekvenser, og lokale stemmer har stilt spørsmål ved om prosjektet er liv laga. Politiske vurderinger og kommentarer fra observatører tyder på at situasjonen er krevende for dem som ønsker å realisere utbyggingen. Det er i analysene blitt trukket fram at prosjektet slik det står nå, fremstår som svært usikkert, og det blir av enkelte betegnet som lite hensiktsmessig ut fra en samlet vurdering. Det foreløpige utfallet og de politiske signalene viser at motstanden mot store kraftkrevende etableringer har styrket seg. Det er verdt å merke seg at mens de faktiske beslutningene om å bremse prosjektet er bekreftede hendelser, er vurderingene rundt prosjektets endelige havari eller fremtid i stor grad basert på politiske analysetolkninger fra kommentatorer som følger saken tett fra Sirdal.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19416897",
+            "title": "Satte ned foten mot datasenter: – En tapersak",
+            "is_secondary": false,
+            "published_at": "2026-11-13T10:50:26+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "045979d8216fc126",
+        "continued_from": null,
+        "headline": "Nvidia-sjefen avga etter skandale og avgang",
+        "ingress": "Jensen Huang har trukket seg som sjef for Nvidia etter oppsiktsvekkende avsløringer.",
+        "summary": "Etter 33 år ved roret har Jensen Huang trukket seg som toppsjef for Nvidia, et av verdens mest verdifulle selskaper, som en følge av at det ble kjent at han har hatt utenomekteskapelige forhold. Blant relasjonene som har vakt oppsikt, er et angivelig forhold til forretningskvinnen Alice Huang, som har blitt omtalt som en mistenkt kinesisk spion. Amerikanske myndigheter har opplyst at FBI har etterforsket saken, men justisdepartementet har foreløpig ikke konkludert endelig med hensyn til om hun faktisk har spionert for Kina, noe både hun og kinesiske myndigheter har avvist. Det har i tillegg kommet frem opplysninger fra dokumenter om at et selskap knyttet til henne skal ha fått tilgang til databrikker som var underlagt strenge amerikanske eksportrestriksjoner. Fallet i kjølvannet av skandalen har ført til et kraftig børsfall for Nvidia, noe som rammer både internasjonale markeder og en rekke norske fond som har hatt aksjen tungt inne i sine porteføljer. Analytikere peker på at situasjonen åpner for mulige søksmål fra amerikanske myndigheter, og Huang er innkalt til å avgi forklaring for Kongressen. Tidligere har det også blitt kjent at han har hatt konflikter internt med finansdirektør Colette Kress, som nå har tatt over som midlertidig sjef. Kommentatorer og internasjonale presseoppsummeringer betegner utviklingen som et dramatisk fall for en av teknologiindustriens fremste ledere gjennom flere tiår.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ikke-avgjort-om-alice-huang-er-kinesisk-spion-1.18080873",
+            "title": "Ikke avgjort om Alice Huang er kinesisk spion",
+            "is_secondary": false,
+            "published_at": "2026-11-13T00:59:17+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/nvidia/jensen-huang/nye-dokumenter-kina-selskap-fikk-tak-i-bannlyste-nvidia-brikker/2-1-2073719",
+            "title": "Nye dokumenter: Kina-selskap fikk tak i bannlyste Nvidia-brikker",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:57:16+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/nvidia/usa/jensen-huang/jensen-huang-ydmyket-finansdirektoren-lamslatt/2-1-2073700",
+            "title": "Jensen Huang ydmyket finansdirektøren: «Lamslått»",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:07:07+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/dn-investor/nvidia/fond/disse-fondene-rammes-hardest-av-nvidia-fallet/2-1-2073364",
+            "title": "Disse fondene rammes hardest av Nvidia-fallet",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:00:44+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/yzvk6a/nvidia-skandalen-aapner-for-soeksmaal-fra-amerikanske-myndigheter?utm_medium=rss",
+            "title": "Nvidia-skandalen: – Åpner for søksmål fra amerikanske myndigheter",
+            "is_secondary": false,
+            "published_at": "2026-11-12T21:38:44+00:00"
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
+            "title": "The downfall of Jensen Huang",
+            "is_secondary": false,
+            "published_at": "2026-11-13T03:47:19+00:00"
+          },
+          {
+            "source_name": "BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "is_secondary": false,
+            "published_at": "2026-11-13T03:57:01+00:00"
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/tv-shows/press-review/20261113-it-s-game-over-for-jensen-huang-king-of-ai-chips",
+            "title": "It's 'game over' for Jensen Huang, king of AI chips",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:56:27+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bead5dd53f0fc97d",
+        "continued_from": null,
+        "headline": "Svensk nasjonal prøve lekket på Tiktok",
+        "ingress": "Innholdet fra en muntlig prøve i Sverige ble delt anonymt på sosiale medier.",
+        "summary": "Spørsmål og tekster knyttet til den muntlige delen av en nasjonal prøve i svensk har blitt lekket og publisert anonymt på plattformen Tiktok. Hendelsen har vakt oppmerksomhet ettersom nasjonale prøver er underlagt strenge konfidensialitetsregler for å sikre rettferdighet og like vilkår for alle elever i utdanningssystemet. Det foreligger foreløpig få detaljer om hvem som står bak lekkasjen, eller nøyaktig hvilke konsekvenser spredningen vil få for gjennomføringen av prøvene i de svenske skolene. Den faktiske hendelsen er bekreftet gjennom omtale av lekkasjen, mens de videre følgene for prøvegjennomføringen og eventuelle sikkerhetstiltak fra utdanningsmyndighetenes side ennå er gjenstand for oppfølging. Saken belyser generelle utfordringer knyttet til digital deling og sikkerhet rundt sensitivt prøvemateriell i skolen, hvor sosiale medier i økende grad benyttes til spredning av informasjon som kan utfordre eksisterende kontrollrutiner. Det gjenstår å se hvordan ansvarlige myndigheter vil håndtere situasjonen for å forhindre lignende hendelser i fremtidige eksamens- og prøveperioder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/z0GgQq/sverige-nasjonal-proeve-ble-lekket-paa-tiktok?utm_medium=rss",
+            "title": "Sverige: Nasjonal prøve ble lekket på Tiktok",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:00:52+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3501ce7fc98db8c0",
+        "continued_from": null,
+        "headline": "Microsoft-trøbbel rammer e-postbrukere verden over",
+        "ingress": "Tekniske problemer med Microsoft-infrastrukturen har rammet tjenester som Outlook og Teams globalt.",
+        "summary": "Microsoft har opplevd omfattende tekniske problemer som har rammet brukere over hele verden, inkludert sentrale tjenester som Outlook, Teams, SharePoint og Planner. Bekreftede tall viser at feilmeldingene nådde et betydelig toppnivå på det meste, med over 120 000 registrerte henvendelser på feilmeldinger ifølge målinger fra Downdetector. Årsaken til problemene er av selskapet opplyst å være en forhøyet belastning på en del av infrastrukturen, som førte til at en rekke servere ble uventet utilgjengelige for brukerne. Konsekvensene har vært merkbare for offentlig sektor i Norge, der store deler av administrasjonen, inkludert de fleste departementer og samtale med samtlige stortingsrepresentanter, midlertidig har stått uten tilgang til sine e-postkontoer. Selskapet har opplyst at de har jobbet intenst med saken og i senere oppdateringer meldt om lovende tegn til bedring og at driftstrøbbelet er på retur i Europa, med en markant nedgang i antall feilmeldinger i løpet av natten. Situasjonen har avdekket en sårbarhet knyttet til avhengigheten av sentraliserte skytjenester i kritiske samfunnssammenhenger, selv om det tekniske arbeidet med gjenoppretting har vist fremgang gjennom de berørte døgnene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/microsoft-trobbel-rammer-tusenvis-av-brukere-1.18080878",
+            "title": "Microsoft-trøbbel rammer tusenvis av brukere",
+            "is_secondary": false,
+            "published_at": "2026-11-13T02:09:49+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/teknologi/outlook-problemer-verden-over/2-1-2073806",
+            "title": "Outlook-problemer verden over",
+            "is_secondary": false,
+            "published_at": "2026-11-13T09:35:59+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/xJPPal/microsoft-har-problemer-brukere-melder-om-outlook-feil?utm_medium=rss",
+            "title": "Microsoft-trøbbel verden over: – Ser lovende tegn til bedring",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:40:12+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/j3dBan/outlook-problemene-alle-stortingsrepresentantene-uten-tilgang-til-e-post?utm_medium=rss",
+            "title": "Microsoft-problemene: Alle stortingsrepresentantene er uten tilgang til e-post",
+            "is_secondary": false,
+            "published_at": "2026-11-13T09:38:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e7745f433aaa5ddf",
+        "continued_from": null,
+        "headline": "Trump åpner for militærmakt for å ferdigstille Cuba",
+        "ingress": "USAs president sier han vurderer militær makt for å frigjøre Cuba.",
+        "summary": "I et intervju med Salem News har USAs president Donald Trump uttalt at han ønsker å få Cuba «unnangjort» og bli ferdig med øynasjonen før hans nåværende presidentperiode er over. Uttalelsen falt som et svar på et direkte spørsmål fra programleder Hugh Hewitt om hvorvidt presidenten ville være villig til å beordre bruk av militær makt for å oppnå dette. Presidenten svarte bekreftende på at han absolutt ville vurdere en slik tilnærming dersom det krevdes for å oppnå målet. Videre trakk Trump frem utenriksminister Marco Rubio, som har cubanske røtter, og kommenterte at Rubio ville elske å være med på en slik operasjon. Uttalelsene representerer direkte sitater og meningsytringer fra den amerikanske presidenten, mens de faktiske utenrikspolitiske konsekvensene av en eventuell militær intervensjon er gjenstand for analyse og vurdering blant observatører. Det understrekes i dekningen at uttalelsene er fremmet i et intervjuformat, og det skilles mellom presidentens verbale utspill og faktiske politiske eller militære vedtak som måtte bli fattet som følge av uttalelsene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump-apen-for-militaermakt_-_-jeg-onsker-a-fa-cuba-unnagjort-1.18080951",
+            "title": "Trump åpen for militærmakt: – Jeg ønsker å få Cuba unnagjort",
+            "is_secondary": false,
+            "published_at": "2026-11-13T07:39:00+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/yz332R/trump-aapen-for-militaermakt-jeg-oensker-aa-faa-cuba-unnagjort?utm_medium=rss",
+            "title": "Trump åpen for militærmakt: – Jeg ønsker å få Cuba unnagjort",
+            "is_secondary": false,
+            "published_at": "2026-11-13T07:50:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ed0c2dfc7b0bdebb",
+        "continued_from": null,
+        "headline": "Mauricio Pochettino er ny manager for Manchester United",
+        "ingress": "Mauricio Pochettino har signert en kontrakt med Manchester United som gjelder frem til sommeren 2029.",
+        "summary": "Det er nå offisielt bekreftet at Mauricio Pochettino er klar som ny manager for Manchester United. Den 54 år gamle argentineren har skrevet under på en avtale som strekker seg frem til sommeren 2029. Før han tar over på Old Trafford, har han ledet USAs landslag, en rolle han nå forlater for å starte i sin nye jobb i engelsk fotball. Pochettino erstatter Michael Carrick, som tidligere fikk sparken som følge av klubbens svært svake sesongstart. Kunngjøringen har vakt stor oppmerksomhet i internasjonale medier, der overgangen blir omtalt som et viktig grep for å snu den sportslige krisen for storklubben. Det bekreftes fra flere hold at kontrakten binder ham til klubben i flere år framover, og forventningene til den nye manageren er store ettersom Manchester United har slitt med resultatene innledningsvis i sesongen. Analytikere peker på at klubben trenger en tydelig kursendring etter den turbulente perioden under den forrige ledelsen, og ansettelsen av argentineren blir sett på som et forsøk på å stabilisere laget i jakten på bedre sportslige resultater i tiden som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/lMAEmG/romano-pochettino-har-signert-for-manchester-united?utm_medium=rss",
+            "title": "Bekreftet: Pochettino har signert for Manchester United",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:45:52+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/bekreftet-mauricio-pochettino-klar-for-manchester-united/s/80-95-243596",
+            "title": "Bekreftet: Mauricio Pochettino klar for Manchester United",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:03:54+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/pochettino-leder-usa-for-han-tar-over-manchester-united/s/80-95-246263",
+            "title": "Pochettino leder USA før han tar over Manchester United",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:00:07+00:00"
+          },
+          {
+            "source_name": "Politiken",
+            "link": "https://politiken.dk/sport/fodbold/premierleague/art11059196/Manchester-United-hyrer-Pochettino-som-ny-tr%C3%A6ner",
+            "title": "Manchester United hyrer Pochettino som ny træner",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:47:43+00:00"
+          },
+          {
+            "source_name": "Al Jazeera",
+            "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
+            "title": "Mauricio Pochettino announced as new Manchester United manager",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:39:34+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1fc501b2f5d854bc",
+        "continued_from": null,
+        "headline": "Fire drept i ukrainsk droneangrep mot Russland",
+        "ingress": "Fire personer mistede livet i et ukrainsk droneangrep mot Volgograd, opplyser lokale russiske myndigheter.",
+        "summary": "Fire personer ble drept og ytterligere to skadet i et ukrainsk droneangrep rettet mot et industriområde i den sørlige russiske byen Volgograd. Dette opplyser regionens guvernør, Andrej Botsjarov, ifølge nyhetsbyrået Reuters. Meldinger fra Kyiv Independent presiserer at angrepet var spesifikt rettet mot et større oljeraffineri i det aktuelle området. Samtidig melder Moskva-ordfører Sergej Sobjanin på Telegram at det russiske luftvernet har vært i full beredskap og skutt ned en rekke droner som var på vei mot hovedstaden. Ifølge disse rapportene skal totalt 105 droner ha blitt stanset av luftvernet over et tidsrom på noen timer tidlig på morgenen lokal tid. Hendelsene belyser et høyt konfliktnivå med omfattende droneaktivitet i luftrommet over både russiske regioner og hovedstaden. Det foreligger foreløpig ikke fullstendige opplysninger om de totale materielle skadene som følge av angrepene, men situasjonen vurderes som svært alvorlig av lokale myndigheter. Angrepene markerer en fortsettelse av de gjensidige og hyppige droneoperasjonene som preger krigføringen mellom Ukraina og Russland, hvor særlig energiinfrastruktur og industrielle mål i Russland har vært gjentatte mål for ukrainske aksjoner de seneste månedene, ifølge internasjonale kilder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fire-drept-i-droneangrep-i-russland-1.18080934",
+            "title": "Fire drept i droneangrep i Russland",
+            "is_secondary": false,
+            "published_at": "2026-11-13T06:16:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3b9c6c108f6d1afa",
+        "continued_from": null,
+        "headline": "Tidligere Outlaws-leder Thore Holm Hansen er død",
+        "ingress": "Thore «Henki» Holm Hansen, kjent som tidligere sjef for MC-klubben Outlaws og countrymusiker, er død, 82 år gammel.",
+        "summary": "Thore «Henki» Holm Hansen er død, 82 år gammel. Dødsfallet blir bekreftet i et innlegg på Facebook av datteren June Nordlie, som opplyser at han sovnet stille inn i sitt eget hjem om morgenen med familie og venner til stede. Holm Hansen hadde en omstridt bakgrunn som leder for MC-klubben Outlaws og ble i 1981 dømt til 60 års fengsel i en omfattende kokainsak i USA, før han senere ble sendt til Norge. Han opprettholdt gjennom hele livet en påstand om at dommen var et resultat av et justismord, og hevdet selv at saken var knyttet til påstått arbeid for den amerikanske etterretningsorganisasjonen CIA. I tillegg til sin fortid i motorsykkelmiljøet og dommene for handel med både narkotika og våpen, var han også aktiv som countrymusiker. Nyheten om hans bortgang har blitt omtalt av en rekke norske medier, der hans sammensatte liv og karriere trekkes frem. Det er i mediene lagt vekt på datterens hyllest og avskjed med faren i sosiale medier, samtidig som hans historie som en markant og kontroversiell skikkelse i norsk offentlighet gjennom flere tiår blir oppsummert i forbindelse med hans død.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/thore-_henki_-holm-hansen-er-dod-1.18081252",
+            "title": "Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:25:08+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/z0GgV4/thore-henki-holm-hansen-er-doed?utm_medium=rss",
+            "title": "Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:22:22+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/6PjzQQ/vg-tidligere-outlaws-leder-thore-henki-holm-hansen-er-doed?utm_medium=rss",
+            "title": "VG: Tidligere Outlaws-leder Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:27:16+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19426359",
+            "title": "VG: Tidligere Outlaws-leder Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:32:35+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/thore-henki-holm-hansen-er-dod/s/30-95-25982",
+            "title": "Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:25:30+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e5c952253a25aae0",
+        "continued_from": null,
+        "headline": "Datasenterutbyggeren Nscale i pengenød etter milliardtap",
+        "ingress": "Den britiske datasenterutbyggeren Nscale har tapt store summer og kan trenge frisk kapital før en eventuell børsnotering.",
+        "summary": "Den britiske datasenterutbyggeren Nscale befinner seg i en krevende økonomisk situasjon preget av dyp pengenød forut for en planlagt børsnotering. Selskapet har vist til kraftig vekst, men har samtidig lagt bak seg et regnskap der underskuddet har skutt i været med et samlet tap på 16 milliarder kroner på bare ni måneder. Dette har ført til vurderinger om hvorvidt selskapet må utsette den planlagte noteringen til neste år. Aker og hovedeier Kjell Inge Røkke, som står bak datasentersatsingen, må etter alt å djudømme belage seg på at Nscale snart vil be om betydelige summer i ny kapital for å opprettholde driften. Til tross for de store økonomiske utfordringene og milliardtapene, indikerer vurderinger fra eierne at USA-drømmen og målet om å få den britiske vekstrakjetten på børs i høst ikke er helt skrinlagt. Analytikere og markedsobservatører påpeker imidlertid at selskapet må hente store beløp raskt, og at det ikke er sikkert at ekstern nødhjelp fra sentrale aktører som Nvidia vil være tilgjengelig med det første. Situasjonen blir ansett som en alvorlig prøvelse for Akers storsatsing på datasentersektoren, der balansen mellom rask vekst og galopperende kostnader står i sentrum for den videre utviklingen for selskapet fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/borskommentar/nscale-kan-bare-glemme-nodhjelp-fra-nvidia-na/2-1-2073833",
+            "title": "Nscale kan bare glemme nødhjelp fra Nvidia nå",
+            "is_secondary": false,
+            "published_at": "2026-11-13T10:27:25+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/nscale/aker/datasenter/nscale-i-pengenod-for-borsnotering-har-tapt-16-mrd-pa-ni-maneder/2-1-2073752",
+            "title": "Nscale i pengenød før børsnotering – har tapt 16 mrd. på ni måneder",
+            "is_secondary": false,
+            "published_at": "2026-11-13T09:49:33+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/XoggXr/usa-droemmen-lever?utm_medium=rss",
+            "title": "USA-drømmen lever",
+            "is_secondary": false,
+            "published_at": "2026-11-13T10:59:22+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder?utm_medium=rss",
+            "title": "Nscale: Har tapt 16 milliarder på ni måneder",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:57:12+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6c1c5296a3a82d4a",
+        "continued_from": null,
+        "headline": "Tysk droneprodusent utsatt for alvorlig dataangrep",
+        "ingress": "Quantum Systems er rammet av cyberangrep, noe som har ført til stans i flyginger for forsvarsdroner.",
+        "summary": "Den tyske droneprodusenten Quantum Systems har vært utsatt for et alvorlig cyberangrep. Ifølge den tyske allmennkringkasteren ARD fant datainnbruddet sted i slutten av oktober. Interne undersøkelser som er utført i etterkant, har avdekket klare indikasjoner på at det var «fiendtlige aktører» som stod bak operasjonen. Som en direkte konsekvens av dataangrepet har det tyske forsvaret valgt å iverksette strenge føre-var-tiltak. Blant annet har myndighetene midlertidig stanset all flyging med droner levert av Quantum Systems, melder Financial Times. Selskapets ubemannede fartøyer er viktige ressurser som blant annet benyttes av de ukrainske styrkene i deres forsvarskrig mot Russland. Hendelsen understreker sårbarheten i forsyningslinjene og forsvarsindustriens digitale infrastruktur i en tid med spent sikkerhetssituasjon i Europa. Det er foreløpig ikke kommet detaljerte offentlige opplysninger om hvem som konkret sto bak angrepet, eller om noen sensitive data har kommet på avveie, men saken blir fulgt nøye av både militære og sivile myndigheter i Tyskland for å forhindre fremtidige digitale sikkerhetsbrudd mot kritiske leverandører til forsvarssektoren.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/cyberangrep-mot-tysk-droneprodusent--1.18080881",
+            "title": "Cyberangrep mot tysk droneprodusent",
+            "is_secondary": false,
+            "published_at": "2026-11-13T02:48:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3d46b21c49a42916",
+        "continued_from": null,
+        "headline": "AfD befester sin posisjon som Tysklands største parti",
+        "ingress": "Ytre høyrepartiet AfD øker sin ledelse på en ny meningsmåling og får en oppslutning på 28 prosent.",
+        "summary": "Ytre høyrepartiet Alternative für Deutschland (AfD) fortsetter å styrke sin stilling og fremstår som det klart største partiet i Tyskland. En ny meningsmåling publisert av nyhetsbyrået DPA viser at partiet har økt sin oppslutning til 28 prosent, noe som er en fremgang på to prosentpoeng sammenlignet med en tilsvarende måling en uke tidligere. Tysklands regjerende kristendemokratiske partier, CDU og CSU, sakter akterut og oppnår en oppslutning på 22 prosent, hvilket er en nedgang på ett prosentpoeng. Ut fra tallene i denne målingen ville de tre nåværende regjeringspartiene samlet ikke klart å sikre seg flertall i nasjonalforsamlingen dersom det hadde blitt avholdt valg nå. Undersøkelsen det vises til ble gjennomført i midten av november blant 1297 tilfeldig utvalgte velgere, med en oppgitt feilmargin på mellom to og tre prosentpoeng. Byrået understreker samtidig at generelle meningsmålinger er beheftet med en viss grad av usikkerhet. Det ordinære valget på ny nasjonalforsamling i Tyskland er ventet å finne sted i begynnelsen av 2029, uten at en eksakt dato er endelig fastsatt ennå. Politiske analytikere peker på at målingene viser en krevende situasjon for det etablerte politiske sjiktet i landet, der opposisjonspartiet på ytre høyre side kaprer stadig flere velgere midt i en periode med politisk usikkerhet og regjeringsslitasje etter forrige valg.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/afd-fortsatt-klart-storste-parti-i-tyskland_-ifolge-meningsmaling-1.18081249",
+            "title": "AfD fortsatt klart største parti i Tyskland, ifølge meningsmåling",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:36:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "74e834efa1be4c58",
+        "continued_from": null,
+        "headline": "Advarer norske toppledere mot honningfeller",
+        "ingress": "Ekspert advarer norske bedrifter mot å bli utsatt for honningfeller, og peker på toppledere som åpenbare mål.",
+        "summary": "Trusselen knyttet til såkalte honningfeller er aktuell for norske toppledere, som av eksperter utpekes som åpenbare mål for denne typen påvirkning. Det påpekes fra hold som følger feltet at det ofte oppleves som krevende og ubehagelig å rette søkelyset mot toppledernes private liv, men at temmelig reelle sikkerhetsrisikoer gjør det nødvendig å løfte problemstillingen. Informasjonen som foreligger i saken baserer seg på faglige advarsler og vurderinger gitt til næringslivet, og det skilles mellom generell risiko og konkrete, bekreftede enkeltsaker i denne sammenhengen. Det understrekes at bedrifter generelt bør ha økt bevissthet rundt sikkerhet og sårbarheter knyttet til personlige relasjoner, ettersom slike situasjoner kan utnyttes av eksterne aktører med u ærlige hensikter. Diskusjonen omkring temaet viser at sikkerhetskultur i økende grad må omfatte områder som tradisjonelt har vært regnet som private sfærer for ledere i både privat og offentlig sektor, noe som krever en balansegang mellom personvern og nødvendige sikkerhetstiltak i næringslivet fremover.",
+        "content_type": "analyse_redaksjonell",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/bkK97g/honningfeller-norske-toppledere-er-aapenbare-maal?utm_medium=rss",
+            "title": "Honningfeller: – Norske toppledere er åpenbare mål",
+            "is_secondary": false,
+            "published_at": "2026-11-13T04:00:00+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "d2d62cb7fc37d412",
+        "continued_from": null,
+        "headline": "Bremser gigantisk datasenter i Sirdal",
+        "ingress": "Planene om å bygge Norges største datasenter i Sirdal har møtt motstand.",
+        "summary": "Planene om et gigantisk datasenterprosjekt i Sirdal har midlertidig blitt stanset etter at det har vakt reaksjoner. Ifølge tilgjengelige opplysninger er det knyttet stor skepsis til prosjektets rammer og konsekvenser, og lokale stemmer har stilt spørsmål ved om prosjektet er liv laga. Politiske vurderinger og kommentarer fra observatører tyder på at situasjonen er krevende for dem som ønsker å realisere utbyggingen. Det er i analysene blitt trukket fram at prosjektet slik det står nå, fremstår som svært usikkert, og det blir av enkelte betegnet som lite hensiktsmessig ut fra en samlet vurdering. Det foreløpige utfallet og de politiske signalene viser at motstanden mot store kraftkrevende etableringer har styrket seg. Det er verdt å merke seg at mens de faktiske beslutningene om å bremse prosjektet er bekreftede hendelser, er vurderingene rundt prosjektets endelige havari eller fremtid i stor grad basert på politiske analysetolkninger fra kommentatorer som følger saken tett fra Sirdal.",
+        "content_type": "kommentar",
+        "content_group": "kommentar_debatt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "satcom",
+        "sources": [
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19416897",
+            "title": "Satte ned foten mot datasenter: – En tapersak",
+            "is_secondary": false,
+            "published_at": "2026-11-13T10:50:26+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": "Kommentarstoff – ikke selvstendig redaksjonell bekreftelse."
+      },
+      {
+        "story_id": "045979d8216fc126",
+        "continued_from": null,
+        "headline": "Nvidia-sjefen avga etter skandale og avgang",
+        "ingress": "Jensen Huang har trukket seg som sjef for Nvidia etter oppsiktsvekkende avsløringer.",
+        "summary": "Etter 33 år ved roret har Jensen Huang trukket seg som toppsjef for Nvidia, et av verdens mest verdifulle selskaper, som en følge av at det ble kjent at han har hatt utenomekteskapelige forhold. Blant relasjonene som har vakt oppsikt, er et angivelig forhold til forretningskvinnen Alice Huang, som har blitt omtalt som en mistenkt kinesisk spion. Amerikanske myndigheter har opplyst at FBI har etterforsket saken, men justisdepartementet har foreløpig ikke konkludert endelig med hensyn til om hun faktisk har spionert for Kina, noe både hun og kinesiske myndigheter har avvist. Det har i tillegg kommet frem opplysninger fra dokumenter om at et selskap knyttet til henne skal ha fått tilgang til databrikker som var underlagt strenge amerikanske eksportrestriksjoner. Fallet i kjølvannet av skandalen har ført til et kraftig børsfall for Nvidia, noe som rammer både internasjonale markeder og en rekke norske fond som har hatt aksjen tungt inne i sine porteføljer. Analytikere peker på at situasjonen åpner for mulige søksmål fra amerikanske myndigheter, og Huang er innkalt til å avgi forklaring for Kongressen. Tidligere har det også blitt kjent at han har hatt konflikter internt med finansdirektør Colette Kress, som nå har tatt over som midlertidig sjef. Kommentatorer og internasjonale presseoppsummeringer betegner utviklingen som et dramatisk fall for en av teknologiindustriens fremste ledere gjennom flere tiår.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "internasjonal_politikk",
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/ikke-avgjort-om-alice-huang-er-kinesisk-spion-1.18080873",
+            "title": "Ikke avgjort om Alice Huang er kinesisk spion",
+            "is_secondary": false,
+            "published_at": "2026-11-13T00:59:17+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/nvidia/jensen-huang/nye-dokumenter-kina-selskap-fikk-tak-i-bannlyste-nvidia-brikker/2-1-2073719",
+            "title": "Nye dokumenter: Kina-selskap fikk tak i bannlyste Nvidia-brikker",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:57:16+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/utenriks/nvidia/usa/jensen-huang/jensen-huang-ydmyket-finansdirektoren-lamslatt/2-1-2073700",
+            "title": "Jensen Huang ydmyket finansdirektøren: «Lamslått»",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:07:07+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/dn-investor/nvidia/fond/disse-fondene-rammes-hardest-av-nvidia-fallet/2-1-2073364",
+            "title": "Disse fondene rammes hardest av Nvidia-fallet",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:00:44+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/yzvk6a/nvidia-skandalen-aapner-for-soeksmaal-fra-amerikanske-myndigheter?utm_medium=rss",
+            "title": "Nvidia-skandalen: – Åpner for søksmål fra amerikanske myndigheter",
+            "is_secondary": false,
+            "published_at": "2026-11-12T21:38:44+00:00"
+          },
+          {
+            "source_name": "Financial Times",
+            "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
+            "title": "The downfall of Jensen Huang",
+            "is_secondary": false,
+            "published_at": "2026-11-13T03:47:19+00:00"
+          },
+          {
+            "source_name": "BBC",
+            "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+            "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "is_secondary": false,
+            "published_at": "2026-11-13T03:57:01+00:00"
+          },
+          {
+            "source_name": "France 24",
+            "link": "https://www.france24.com/en/tv-shows/press-review/20261113-it-s-game-over-for-jensen-huang-king-of-ai-chips",
+            "title": "It's 'game over' for Jensen Huang, king of AI chips",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:56:27+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 6,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "bead5dd53f0fc97d",
+        "continued_from": null,
+        "headline": "Svensk nasjonal prøve lekket på Tiktok",
+        "ingress": "Innholdet fra en muntlig prøve i Sverige ble delt anonymt på sosiale medier.",
+        "summary": "Spørsmål og tekster knyttet til den muntlige delen av en nasjonal prøve i svensk har blitt lekket og publisert anonymt på plattformen Tiktok. Hendelsen har vakt oppmerksomhet ettersom nasjonale prøver er underlagt strenge konfidensialitetsregler for å sikre rettferdighet og like vilkår for alle elever i utdanningssystemet. Det foreligger foreløpig få detaljer om hvem som står bak lekkasjen, eller nøyaktig hvilke konsekvenser spredningen vil få for gjennomføringen av prøvene i de svenske skolene. Den faktiske hendelsen er bekreftet gjennom omtale av lekkasjen, mens de videre følgene for prøvegjennomføringen og eventuelle sikkerhetstiltak fra utdanningsmyndighetenes side ennå er gjenstand for oppfølging. Saken belyser generelle utfordringer knyttet til digital deling og sikkerhet rundt sensitivt prøvemateriell i skolen, hvor sosiale medier i økende grad benyttes til spredning av informasjon som kan utfordre eksisterende kontrollrutiner. Det gjenstår å se hvordan ansvarlige myndigheter vil håndtere situasjonen for å forhindre lignende hendelser i fremtidige eksamens- og prøveperioder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "nordisk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/z0GgQq/sverige-nasjonal-proeve-ble-lekket-paa-tiktok?utm_medium=rss",
+            "title": "Sverige: Nasjonal prøve ble lekket på Tiktok",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:00:52+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3501ce7fc98db8c0",
+        "continued_from": null,
+        "headline": "Microsoft-trøbbel rammer e-postbrukere verden over",
+        "ingress": "Tekniske problemer med Microsoft-infrastrukturen har rammet tjenester som Outlook og Teams globalt.",
+        "summary": "Microsoft har opplevd omfattende tekniske problemer som har rammet brukere over hele verden, inkludert sentrale tjenester som Outlook, Teams, SharePoint og Planner. Bekreftede tall viser at feilmeldingene nådde et betydelig toppnivå på det meste, med over 120 000 registrerte henvendelser på feilmeldinger ifølge målinger fra Downdetector. Årsaken til problemene er av selskapet opplyst å være en forhøyet belastning på en del av infrastrukturen, som førte til at en rekke servere ble uventet utilgjengelige for brukerne. Konsekvensene har vært merkbare for offentlig sektor i Norge, der store deler av administrasjonen, inkludert de fleste departementer og samtale med samtlige stortingsrepresentanter, midlertidig har stått uten tilgang til sine e-postkontoer. Selskapet har opplyst at de har jobbet intenst med saken og i senere oppdateringer meldt om lovende tegn til bedring og at driftstrøbbelet er på retur i Europa, med en markant nedgang i antall feilmeldinger i løpet av natten. Situasjonen har avdekket en sårbarhet knyttet til avhengigheten av sentraliserte skytjenester i kritiske samfunnssammenhenger, selv om det tekniske arbeidet med gjenoppretting har vist fremgang gjennom de berørte døgnene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/microsoft-trobbel-rammer-tusenvis-av-brukere-1.18080878",
+            "title": "Microsoft-trøbbel rammer tusenvis av brukere",
+            "is_secondary": false,
+            "published_at": "2026-11-13T02:09:49+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/teknologi/outlook-problemer-verden-over/2-1-2073806",
+            "title": "Outlook-problemer verden over",
+            "is_secondary": false,
+            "published_at": "2026-11-13T09:35:59+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/naeringsliv/i/xJPPal/microsoft-har-problemer-brukere-melder-om-outlook-feil?utm_medium=rss",
+            "title": "Microsoft-trøbbel verden over: – Ser lovende tegn til bedring",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:40:12+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/j3dBan/outlook-problemene-alle-stortingsrepresentantene-uten-tilgang-til-e-post?utm_medium=rss",
+            "title": "Microsoft-problemene: Alle stortingsrepresentantene er uten tilgang til e-post",
+            "is_secondary": false,
+            "published_at": "2026-11-13T09:38:11+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e7745f433aaa5ddf",
+        "continued_from": null,
+        "headline": "Trump åpner for militærmakt for å ferdigstille Cuba",
+        "ingress": "USAs president sier han vurderer militær makt for å frigjøre Cuba.",
+        "summary": "I et intervju med Salem News har USAs president Donald Trump uttalt at han ønsker å få Cuba «unnangjort» og bli ferdig med øynasjonen før hans nåværende presidentperiode er over. Uttalelsen falt som et svar på et direkte spørsmål fra programleder Hugh Hewitt om hvorvidt presidenten ville være villig til å beordre bruk av militær makt for å oppnå dette. Presidenten svarte bekreftende på at han absolutt ville vurdere en slik tilnærming dersom det krevdes for å oppnå målet. Videre trakk Trump frem utenriksminister Marco Rubio, som har cubanske røtter, og kommenterte at Rubio ville elske å være med på en slik operasjon. Uttalelsene representerer direkte sitater og meningsytringer fra den amerikanske presidenten, mens de faktiske utenrikspolitiske konsekvensene av en eventuell militær intervensjon er gjenstand for analyse og vurdering blant observatører. Det understrekes i dekningen at uttalelsene er fremmet i et intervjuformat, og det skilles mellom presidentens verbale utspill og faktiske politiske eller militære vedtak som måtte bli fattet som følge av uttalelsene.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/trump-apen-for-militaermakt_-_-jeg-onsker-a-fa-cuba-unnagjort-1.18080951",
+            "title": "Trump åpen for militærmakt: – Jeg ønsker å få Cuba unnagjort",
+            "is_secondary": false,
+            "published_at": "2026-11-13T07:39:00+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/yz332R/trump-aapen-for-militaermakt-jeg-oensker-aa-faa-cuba-unnagjort?utm_medium=rss",
+            "title": "Trump åpen for militærmakt: – Jeg ønsker å få Cuba unnagjort",
+            "is_secondary": false,
+            "published_at": "2026-11-13T07:50:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "ed0c2dfc7b0bdebb",
+        "continued_from": null,
+        "headline": "Mauricio Pochettino er ny manager for Manchester United",
+        "ingress": "Mauricio Pochettino har signert en kontrakt med Manchester United som gjelder frem til sommeren 2029.",
+        "summary": "Det er nå offisielt bekreftet at Mauricio Pochettino er klar som ny manager for Manchester United. Den 54 år gamle argentineren har skrevet under på en avtale som strekker seg frem til sommeren 2029. Før han tar over på Old Trafford, har han ledet USAs landslag, en rolle han nå forlater for å starte i sin nye jobb i engelsk fotball. Pochettino erstatter Michael Carrick, som tidligere fikk sparken som følge av klubbens svært svake sesongstart. Kunngjøringen har vakt stor oppmerksomhet i internasjonale medier, der overgangen blir omtalt som et viktig grep for å snu den sportslige krisen for storklubben. Det bekreftes fra flere hold at kontrakten binder ham til klubben i flere år framover, og forventningene til den nye manageren er store ettersom Manchester United har slitt med resultatene innledningsvis i sesongen. Analytikere peker på at klubben trenger en tydelig kursendring etter den turbulente perioden under den forrige ledelsen, og ansettelsen av argentineren blir sett på som et forsøk på å stabilisere laget i jakten på bedre sportslige resultater i tiden som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/lMAEmG/romano-pochettino-har-signert-for-manchester-united?utm_medium=rss",
+            "title": "Bekreftet: Pochettino har signert for Manchester United",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:45:52+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/bekreftet-mauricio-pochettino-klar-for-manchester-united/s/80-95-243596",
+            "title": "Bekreftet: Mauricio Pochettino klar for Manchester United",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:03:54+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/sport/pochettino-leder-usa-for-han-tar-over-manchester-united/s/80-95-246263",
+            "title": "Pochettino leder USA før han tar over Manchester United",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:00:07+00:00"
+          },
+          {
+            "source_name": "Politiken",
+            "link": "https://politiken.dk/sport/fodbold/premierleague/art11059196/Manchester-United-hyrer-Pochettino-som-ny-tr%C3%A6ner",
+            "title": "Manchester United hyrer Pochettino som ny træner",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:47:43+00:00"
+          },
+          {
+            "source_name": "Al Jazeera",
+            "link": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
+            "title": "Mauricio Pochettino announced as new Manchester United manager",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:39:34+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 4,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "1fc501b2f5d854bc",
+        "continued_from": null,
+        "headline": "Fire drept i ukrainsk droneangrep mot Russland",
+        "ingress": "Fire personer mistede livet i et ukrainsk droneangrep mot Volgograd, opplyser lokale russiske myndigheter.",
+        "summary": "Fire personer ble drept og ytterligere to skadet i et ukrainsk droneangrep rettet mot et industriområde i den sørlige russiske byen Volgograd. Dette opplyser regionens guvernør, Andrej Botsjarov, ifølge nyhetsbyrået Reuters. Meldinger fra Kyiv Independent presiserer at angrepet var spesifikt rettet mot et større oljeraffineri i det aktuelle området. Samtidig melder Moskva-ordfører Sergej Sobjanin på Telegram at det russiske luftvernet har vært i full beredskap og skutt ned en rekke droner som var på vei mot hovedstaden. Ifølge disse rapportene skal totalt 105 droner ha blitt stanset av luftvernet over et tidsrom på noen timer tidlig på morgenen lokal tid. Hendelsene belyser et høyt konfliktnivå med omfattende droneaktivitet i luftrommet over både russiske regioner og hovedstaden. Det foreligger foreløpig ikke fullstendige opplysninger om de totale materielle skadene som følge av angrepene, men situasjonen vurderes som svært alvorlig av lokale myndigheter. Angrepene markerer en fortsettelse av de gjensidige og hyppige droneoperasjonene som preger krigføringen mellom Ukraina og Russland, hvor særlig energiinfrastruktur og industrielle mål i Russland har vært gjentatte mål for ukrainske aksjoner de seneste månedene, ifølge internasjonale kilder.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sikkerhet_forsvar",
+        "secondary_tags": [
+          "internasjonal_politikk"
+        ],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/fire-drept-i-droneangrep-i-russland-1.18080934",
+            "title": "Fire drept i droneangrep i Russland",
+            "is_secondary": false,
+            "published_at": "2026-11-13T06:16:14+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3b9c6c108f6d1afa",
+        "continued_from": null,
+        "headline": "Tidligere Outlaws-leder Thore Holm Hansen er død",
+        "ingress": "Thore «Henki» Holm Hansen, kjent som tidligere sjef for MC-klubben Outlaws og countrymusiker, er død, 82 år gammel.",
+        "summary": "Thore «Henki» Holm Hansen er død, 82 år gammel. Dødsfallet blir bekreftet i et innlegg på Facebook av datteren June Nordlie, som opplyser at han sovnet stille inn i sitt eget hjem om morgenen med familie og venner til stede. Holm Hansen hadde en omstridt bakgrunn som leder for MC-klubben Outlaws og ble i 1981 dømt til 60 års fengsel i en omfattende kokainsak i USA, før han senere ble sendt til Norge. Han opprettholdt gjennom hele livet en påstand om at dommen var et resultat av et justismord, og hevdet selv at saken var knyttet til påstått arbeid for den amerikanske etterretningsorganisasjonen CIA. I tillegg til sin fortid i motorsykkelmiljøet og dommene for handel med både narkotika og våpen, var han også aktiv som countrymusiker. Nyheten om hans bortgang har blitt omtalt av en rekke norske medier, der hans sammensatte liv og karriere trekkes frem. Det er i mediene lagt vekt på datterens hyllest og avskjed med faren i sosiale medier, samtidig som hans historie som en markant og kontroversiell skikkelse i norsk offentlighet gjennom flere tiår blir oppsummert i forbindelse med hans død.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/thore-_henki_-holm-hansen-er-dod-1.18081252",
+            "title": "Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:25:08+00:00"
+          },
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/nyheter/i/z0GgV4/thore-henki-holm-hansen-er-doed?utm_medium=rss",
+            "title": "Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:22:22+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/6PjzQQ/vg-tidligere-outlaws-leder-thore-henki-holm-hansen-er-doed?utm_medium=rss",
+            "title": "VG: Tidligere Outlaws-leder Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:27:16+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19426359",
+            "title": "VG: Tidligere Outlaws-leder Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:32:35+00:00"
+          },
+          {
+            "source_name": "Nettavisen",
+            "link": "https://www.nettavisen.no/nyheter/thore-henki-holm-hansen-er-dod/s/30-95-25982",
+            "title": "Thore «Henki» Holm Hansen er død",
+            "is_secondary": false,
+            "published_at": "2026-11-13T12:25:30+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 5,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "e5c952253a25aae0",
+        "continued_from": null,
+        "headline": "Datasenterutbyggeren Nscale i pengenød etter milliardtap",
+        "ingress": "Den britiske datasenterutbyggeren Nscale har tapt store summer og kan trenge frisk kapital før en eventuell børsnotering.",
+        "summary": "Den britiske datasenterutbyggeren Nscale befinner seg i en krevende økonomisk situasjon preget av dyp pengenød forut for en planlagt børsnotering. Selskapet har vist til kraftig vekst, men har samtidig lagt bak seg et regnskap der underskuddet har skutt i været med et samlet tap på 16 milliarder kroner på bare ni måneder. Dette har ført til vurderinger om hvorvidt selskapet må utsette den planlagte noteringen til neste år. Aker og hovedeier Kjell Inge Røkke, som står bak datasentersatsingen, må etter alt å djudømme belage seg på at Nscale snart vil be om betydelige summer i ny kapital for å opprettholde driften. Til tross for de store økonomiske utfordringene og milliardtapene, indikerer vurderinger fra eierne at USA-drømmen og målet om å få den britiske vekstrakjetten på børs i høst ikke er helt skrinlagt. Analytikere og markedsobservatører påpeker imidlertid at selskapet må hente store beløp raskt, og at det ikke er sikkert at ekstern nødhjelp fra sentrale aktører som Nvidia vil være tilgjengelig med det første. Situasjonen blir ansett som en alvorlig prøvelse for Akers storsatsing på datasentersektoren, der balansen mellom rask vekst og galopperende kostnader står i sentrum for den videre utviklingen for selskapet fremover.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "okonomi_makro",
+        "secondary_tags": [
+          "rom_cyber"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/borskommentar/nscale-kan-bare-glemme-nodhjelp-fra-nvidia-na/2-1-2073833",
+            "title": "Nscale kan bare glemme nødhjelp fra Nvidia nå",
+            "is_secondary": false,
+            "published_at": "2026-11-13T10:27:25+00:00"
+          },
+          {
+            "source_name": "DN",
+            "link": "https://www.dn.no/marked/nscale/aker/datasenter/nscale-i-pengenod-for-borsnotering-har-tapt-16-mrd-pa-ni-maneder/2-1-2073752",
+            "title": "Nscale i pengenød før børsnotering – har tapt 16 mrd. på ni måneder",
+            "is_secondary": false,
+            "published_at": "2026-11-13T09:49:33+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/XoggXr/usa-droemmen-lever?utm_medium=rss",
+            "title": "USA-drømmen lever",
+            "is_secondary": false,
+            "published_at": "2026-11-13T10:59:22+00:00"
+          },
+          {
+            "source_name": "E24",
+            "link": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder?utm_medium=rss",
+            "title": "Nscale: Har tapt 16 milliarder på ni måneder",
+            "is_secondary": false,
+            "published_at": "2026-11-13T08:57:12+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "6c1c5296a3a82d4a",
+        "continued_from": null,
+        "headline": "Tysk droneprodusent utsatt for alvorlig dataangrep",
+        "ingress": "Quantum Systems er rammet av cyberangrep, noe som har ført til stans i flyginger for forsvarsdroner.",
+        "summary": "Den tyske droneprodusenten Quantum Systems har vært utsatt for et alvorlig cyberangrep. Ifølge den tyske allmennkringkasteren ARD fant datainnbruddet sted i slutten av oktober. Interne undersøkelser som er utført i etterkant, har avdekket klare indikasjoner på at det var «fiendtlige aktører» som stod bak operasjonen. Som en direkte konsekvens av dataangrepet har det tyske forsvaret valgt å iverksette strenge føre-var-tiltak. Blant annet har myndighetene midlertidig stanset all flyging med droner levert av Quantum Systems, melder Financial Times. Selskapets ubemannede fartøyer er viktige ressurser som blant annet benyttes av de ukrainske styrkene i deres forsvarskrig mot Russland. Hendelsen understreker sårbarheten i forsyningslinjene og forsvarsindustriens digitale infrastruktur i en tid med spent sikkerhetssituasjon i Europa. Det er foreløpig ikke kommet detaljerte offentlige opplysninger om hvem som konkret sto bak angrepet, eller om noen sensitive data har kommet på avveie, men saken blir fulgt nøye av både militære og sivile myndigheter i Tyskland for å forhindre fremtidige digitale sikkerhetsbrudd mot kritiske leverandører til forsvarssektoren.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [
+          "sikkerhet_forsvar"
+        ],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/cyberangrep-mot-tysk-droneprodusent--1.18080881",
+            "title": "Cyberangrep mot tysk droneprodusent",
+            "is_secondary": false,
+            "published_at": "2026-11-13T02:48:58+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "3d46b21c49a42916",
+        "continued_from": null,
+        "headline": "AfD befester sin posisjon som Tysklands største parti",
+        "ingress": "Ytre høyrepartiet AfD øker sin ledelse på en ny meningsmåling og får en oppslutning på 28 prosent.",
+        "summary": "Ytre høyrepartiet Alternative für Deutschland (AfD) fortsetter å styrke sin stilling og fremstår som det klart største partiet i Tyskland. En ny meningsmåling publisert av nyhetsbyrået DPA viser at partiet har økt sin oppslutning til 28 prosent, noe som er en fremgang på to prosentpoeng sammenlignet med en tilsvarende måling en uke tidligere. Tysklands regjerende kristendemokratiske partier, CDU og CSU, sakter akterut og oppnår en oppslutning på 22 prosent, hvilket er en nedgang på ett prosentpoeng. Ut fra tallene i denne målingen ville de tre nåværende regjeringspartiene samlet ikke klart å sikre seg flertall i nasjonalforsamlingen dersom det hadde blitt avholdt valg nå. Undersøkelsen det vises til ble gjennomført i midten av november blant 1297 tilfeldig utvalgte velgere, med en oppgitt feilmargin på mellom to og tre prosentpoeng. Byrået understreker samtidig at generelle meningsmålinger er beheftet med en viss grad av usikkerhet. Det ordinære valget på ny nasjonalforsamling i Tyskland er ventet å finne sted i begynnelsen av 2029, uten at en eksakt dato er endelig fastsatt ennå. Politiske analytikere peker på at målingene viser en krevende situasjon for det etablerte politiske sjiktet i landet, der opposisjonspartiet på ytre høyre side kaprer stadig flere velgere midt i en periode med politisk usikkerhet og regjeringsslitasje etter forrige valg.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/afd-fortsatt-klart-storste-parti-i-tyskland_-ifolge-meningsmaling-1.18081249",
+            "title": "AfD fortsatt klart største parti i Tyskland, ifølge meningsmåling",
+            "is_secondary": false,
+            "published_at": "2026-11-13T11:36:41+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-11-13T14:23:15.123013+01:00",
+    "edition_date": "2026-11-13",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 1,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 212,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 9
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:51.940574+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:25:08+00:00",
+          "earliest_usable_published_at": "2026-11-12T22:09:02+00:00",
+          "latest_usable_published_at": "2026-11-13T12:25:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:52.301462+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T11:07:12+00:00",
+          "earliest_usable_published_at": "2026-11-13T08:00:43+00:00",
+          "latest_usable_published_at": "2026-11-13T11:07:12+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:53.276751+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:39:01+00:00",
+          "earliest_usable_published_at": "2026-11-12T21:38:44+00:00",
+          "latest_usable_published_at": "2026-11-13T12:39:01+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:53.585139+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:17:55+00:00",
+          "earliest_usable_published_at": "2026-11-13T08:43:14+00:00",
+          "latest_usable_published_at": "2026-11-13T13:17:55+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:54.062492+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:07:39+00:00",
+          "earliest_usable_published_at": "2026-11-13T07:50:53+00:00",
+          "latest_usable_published_at": "2026-11-13T13:07:39+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:54.465870+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:51:32+00:00",
+          "earliest_usable_published_at": "2026-11-12T17:41:56+00:00",
+          "latest_usable_published_at": "2026-11-13T12:51:32+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:55.854517+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:16:49+00:00",
+          "earliest_usable_published_at": "2026-11-13T11:45:55+00:00",
+          "latest_usable_published_at": "2026-11-13T13:16:49+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:56.653316+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:00:27+00:00",
+          "earliest_usable_published_at": "2026-11-13T12:26:17+00:00",
+          "latest_usable_published_at": "2026-11-13T13:00:27+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:57.259580+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:09:31+00:00",
+          "earliest_usable_published_at": "2026-11-13T11:14:18+00:00",
+          "latest_usable_published_at": "2026-11-13T13:09:31+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:58.226973+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:12:28+00:00",
+          "earliest_usable_published_at": "2026-11-13T09:01:17+00:00",
+          "latest_usable_published_at": "2026-11-13T13:12:28+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:58.684518+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:13:53+00:00",
+          "earliest_usable_published_at": "2026-11-13T11:03:01+00:00",
+          "latest_usable_published_at": "2026-11-13T13:13:53+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:59.364196+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:16:00+00:00",
+          "earliest_usable_published_at": "2026-11-13T11:25:00+00:00",
+          "latest_usable_published_at": "2026-11-13T13:16:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:20:59.684920+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:19:00+00:00",
+          "earliest_usable_published_at": "2026-11-13T12:25:00+00:00",
+          "latest_usable_published_at": "2026-11-13T13:19:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:00.119320+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:14:44+00:00",
+          "earliest_usable_published_at": "2026-11-13T12:49:03+00:00",
+          "latest_usable_published_at": "2026-11-13T13:14:44+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:00.368508+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:10:47+00:00",
+          "earliest_usable_published_at": "2026-11-13T10:07:33+00:00",
+          "latest_usable_published_at": "2026-11-13T13:10:47+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:02.026884+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:36:28+00:00",
+          "earliest_usable_published_at": "2026-11-12T23:35:11+00:00",
+          "latest_usable_published_at": "2026-11-13T12:36:28+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:02.675223+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:31:49+00:00",
+          "earliest_usable_published_at": "2026-11-13T02:01:35+00:00",
+          "latest_usable_published_at": "2026-11-13T12:31:49+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:02.818849+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:00:08+00:00",
+          "earliest_usable_published_at": "2026-11-13T05:00:32+00:00",
+          "latest_usable_published_at": "2026-11-13T12:00:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-11-13T13:21:02.980277+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:03.255549+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:33:19+00:00",
+          "earliest_usable_published_at": "2026-11-13T09:45:37+00:00",
+          "latest_usable_published_at": "2026-11-13T12:33:19+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-11-13T13:21:03.459146+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:03.530872+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T13:10:08+00:00",
+          "earliest_usable_published_at": "2026-11-13T12:30:07+00:00",
+          "latest_usable_published_at": "2026-11-13T13:10:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:04.122936+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:57:08+00:00",
+          "earliest_usable_published_at": "2026-11-13T11:54:08+00:00",
+          "latest_usable_published_at": "2026-11-13T12:57:08+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:04.293247+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:48:02+00:00",
+          "earliest_usable_published_at": "2026-11-12T22:17:13+00:00",
+          "latest_usable_published_at": "2026-11-13T12:48:02+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:04.755852+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:38:35+00:00",
+          "earliest_usable_published_at": "2026-11-13T10:59:10+00:00",
+          "latest_usable_published_at": "2026-11-13T12:38:35+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:04.904858+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-13T12:24:19+00:00",
+          "earliest_usable_published_at": "2026-11-12T23:00:00+00:00",
+          "latest_usable_published_at": "2026-11-13T12:24:19+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "current",
+          "attempted_at": "2026-11-13T13:21:05.736340+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-11-12T14:00:00+00:00",
+          "earliest_usable_published_at": "2026-11-12T14:00:00+00:00",
+          "latest_usable_published_at": "2026-11-12T14:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "fetch_failed",
+          "attempted_at": "2026-11-13T13:21:05.923093+00:00",
+          "candidate_count": 0,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-11-13T14:20:51.940547+01:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-11-13T13:20:51.940574+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-11-13T13:20:52.301462+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-11-13T13:20:53.276751+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-11-13T13:20:53.585139+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-11-13T13:20:54.062492+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-11-13T13:20:54.465870+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-11-13T13:20:55.854517+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-11-13T13:20:56.653316+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-11-13T13:20:57.259580+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-11-13T13:20:58.226973+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-11-13T13:20:58.684518+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-11-13T13:20:59.364196+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-11-13T13:20:59.684920+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-11-13T13:21:00.119320+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-11-13T13:21:00.368508+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-11-13T13:21:02.026884+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-11-13T13:21:02.675223+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-11-13T13:21:02.818849+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-11-13T13:21:02.980277+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-11-13T13:21:03.255549+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-11-13T13:21:03.459146+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-11-13T13:21:03.530872+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-11-13T13:21:04.122936+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-11-13T13:21:04.293247+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-11-13T13:21:04.755852+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-11-13T13:21:04.904858+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-11-13T13:21:05.736340+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-11-13T13:21:05.923093+00:00"
+        }
+      ],
+      "source_errors": [
+        {
+          "source": "ESA",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 1,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 212,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 9
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:51.940574+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:25:08+00:00",
+            "earliest_usable_published_at": "2026-11-12T22:09:02+00:00",
+            "latest_usable_published_at": "2026-11-13T12:25:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:52.301462+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T11:07:12+00:00",
+            "earliest_usable_published_at": "2026-11-13T08:00:43+00:00",
+            "latest_usable_published_at": "2026-11-13T11:07:12+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:53.276751+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:39:01+00:00",
+            "earliest_usable_published_at": "2026-11-12T21:38:44+00:00",
+            "latest_usable_published_at": "2026-11-13T12:39:01+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:53.585139+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:17:55+00:00",
+            "earliest_usable_published_at": "2026-11-13T08:43:14+00:00",
+            "latest_usable_published_at": "2026-11-13T13:17:55+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:54.062492+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:07:39+00:00",
+            "earliest_usable_published_at": "2026-11-13T07:50:53+00:00",
+            "latest_usable_published_at": "2026-11-13T13:07:39+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:54.465870+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:51:32+00:00",
+            "earliest_usable_published_at": "2026-11-12T17:41:56+00:00",
+            "latest_usable_published_at": "2026-11-13T12:51:32+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:55.854517+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:16:49+00:00",
+            "earliest_usable_published_at": "2026-11-13T11:45:55+00:00",
+            "latest_usable_published_at": "2026-11-13T13:16:49+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:56.653316+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:00:27+00:00",
+            "earliest_usable_published_at": "2026-11-13T12:26:17+00:00",
+            "latest_usable_published_at": "2026-11-13T13:00:27+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:57.259580+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:09:31+00:00",
+            "earliest_usable_published_at": "2026-11-13T11:14:18+00:00",
+            "latest_usable_published_at": "2026-11-13T13:09:31+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:58.226973+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:12:28+00:00",
+            "earliest_usable_published_at": "2026-11-13T09:01:17+00:00",
+            "latest_usable_published_at": "2026-11-13T13:12:28+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:58.684518+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:13:53+00:00",
+            "earliest_usable_published_at": "2026-11-13T11:03:01+00:00",
+            "latest_usable_published_at": "2026-11-13T13:13:53+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:59.364196+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:16:00+00:00",
+            "earliest_usable_published_at": "2026-11-13T11:25:00+00:00",
+            "latest_usable_published_at": "2026-11-13T13:16:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:20:59.684920+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:19:00+00:00",
+            "earliest_usable_published_at": "2026-11-13T12:25:00+00:00",
+            "latest_usable_published_at": "2026-11-13T13:19:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:00.119320+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:14:44+00:00",
+            "earliest_usable_published_at": "2026-11-13T12:49:03+00:00",
+            "latest_usable_published_at": "2026-11-13T13:14:44+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:00.368508+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:10:47+00:00",
+            "earliest_usable_published_at": "2026-11-13T10:07:33+00:00",
+            "latest_usable_published_at": "2026-11-13T13:10:47+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:02.026884+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:36:28+00:00",
+            "earliest_usable_published_at": "2026-11-12T23:35:11+00:00",
+            "latest_usable_published_at": "2026-11-13T12:36:28+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:02.675223+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:31:49+00:00",
+            "earliest_usable_published_at": "2026-11-13T02:01:35+00:00",
+            "latest_usable_published_at": "2026-11-13T12:31:49+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:02.818849+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:00:08+00:00",
+            "earliest_usable_published_at": "2026-11-13T05:00:32+00:00",
+            "latest_usable_published_at": "2026-11-13T12:00:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-11-13T13:21:02.980277+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:03.255549+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:33:19+00:00",
+            "earliest_usable_published_at": "2026-11-13T09:45:37+00:00",
+            "latest_usable_published_at": "2026-11-13T12:33:19+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-11-13T13:21:03.459146+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:03.530872+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T13:10:08+00:00",
+            "earliest_usable_published_at": "2026-11-13T12:30:07+00:00",
+            "latest_usable_published_at": "2026-11-13T13:10:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:04.122936+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:57:08+00:00",
+            "earliest_usable_published_at": "2026-11-13T11:54:08+00:00",
+            "latest_usable_published_at": "2026-11-13T12:57:08+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:04.293247+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:48:02+00:00",
+            "earliest_usable_published_at": "2026-11-12T22:17:13+00:00",
+            "latest_usable_published_at": "2026-11-13T12:48:02+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:04.755852+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:38:35+00:00",
+            "earliest_usable_published_at": "2026-11-13T10:59:10+00:00",
+            "latest_usable_published_at": "2026-11-13T12:38:35+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:04.904858+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-13T12:24:19+00:00",
+            "earliest_usable_published_at": "2026-11-12T23:00:00+00:00",
+            "latest_usable_published_at": "2026-11-13T12:24:19+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "current",
+            "attempted_at": "2026-11-13T13:21:05.736340+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-11-12T14:00:00+00:00",
+            "earliest_usable_published_at": "2026-11-12T14:00:00+00:00",
+            "latest_usable_published_at": "2026-11-12T14:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "fetch_failed",
+            "attempted_at": "2026-11-13T13:21:05.923093+00:00",
+            "candidate_count": 0,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": "HTTP Error 404: Not Found"
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "dropped_count": 35,
+      "drop_reasons": []
+    }
+  }
+}
