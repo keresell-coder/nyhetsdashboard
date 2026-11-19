@@ -1,0 +1,1507 @@
+{
+  "date": "2026-11-19",
+  "evening": {
+    "stories": [
+      {
+        "story_id": "17209ac1e162b824",
+        "continued_from": null,
+        "headline": "Kong Haakon besøkte Asker og snakket om Skaugum og lesevansker",
+        "ingress": "Kong Haakon var torsdag på besøk i sin egen hjemkommune Asker.",
+        "summary": "Kong Haakon avla torsdag et besøk i sin egen hjemkommune Asker i forbindelse med 10-årsjubileet til Fontenehuset. Under besøket delte han åpent tanker om sin egen botid og framtid på Skaugum, og svarte på spørsmål om hvor lenge de blir boende der med at det vet han foreløpig ikke sikkert. I tillegg til boligsituasjonen åpnet kongen seg på en personlig måte om egne lese- og skrivevansker, og kom inn på hva slags lektyre han for tiden opparbeider seg. Besøkets offisielle karakter ble dermed kombinert med personlige betraktninger som ga et innblikk i monarkens hverdag og utfordringer. Mediene fulgte arrangementet tett, og rapporterte om en åpen og engasjert konge som møtte innbyggere og ansatte i kommunen. Disse uttalelsene gir et bilde av en kongefamilie som er til stede i lokalmiljøet og deler personlige erfaringer med offentligheten, samtidig som fremtidige planer rundt offisielle residenser holdes åpne.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/2vGKWq/kong-haakon-om-skaugum-spoersmaal-det-vet-jeg-ikke?utm_medium=rss",
+            "title": "Kong Haakon om Skaugum-spørsmål: – Det vet jeg ikke",
+            "is_secondary": false,
+            "published_at": "2026-11-19T17:16:11+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/LoAqAQ/kong-haakon-vet-ikke-hvor-lenge-de-blir-boende-paa-skaugum?utm_medium=rss",
+            "title": "Kong Haakon: Vet ikke hvor lenge de blir boende på Skaugum",
+            "is_secondary": false,
+            "published_at": "2026-11-19T16:50:25+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19449650",
+            "title": "Kong Haakon: Vet ikke hvor lenge vi blir boende på Skaugum",
+            "is_secondary": false,
+            "published_at": "2026-11-19T17:26:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5449299f58271462",
+        "continued_from": null,
+        "headline": "Cyberangrep mot Equinor og Skagerak Energi pågår fortsatt",
+        "ingress": "Equinor og Skagerak Energi jobber fortsatt med å stoppe pågående cyberangrep.",
+        "summary": "Equinor opplyser at de torsdag fremdeles arbeider aktivt med å stoppe og nøytralisere et cyberangrep som rammet selskapet første gang på tirsdag. Selskapet understreker at produksjonen går som normalt, og at det hittil ikke er noen indikasjoner på at data er kommet på avveier eller blitt endret. Det blir i tillegg opplyst at angrepet ikke fremstår som spesifikt målrettet, og det er usikkert hvor lang tid arbeidet med å gjenopprette full systemintegritet vil ta. Også Skagerak Energi ble rammet av forsøk på cyberangrep mot utvalgte IT-systemer, men opplyser i en pressemelding at de har skaffet seg god oversikt over situasjonen ved hjelp av raske og nødvendige tiltak. Heller ikke hos Skagerak er det registrert tegn til at sensitiv informasjon har kommet på avveier. Begge energiselskapene bekrefter at de vil opprettholde et høyt beredskapsnivå og følge den videre utviklingen svært nøye i tiden som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/cyberangrep-mot-equinor-og-skagerak-energi-pagar-fremdeles-1.18085191",
+            "title": "Cyberangrep mot Equinor og Skagerak Energi pågår fremdeles",
+            "is_secondary": false,
+            "published_at": "2026-11-19T14:29:00+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/GPGKqm/cyberangrepet-mot-equinor-paagaar-fortsatt?utm_medium=rss",
+            "title": "Cyberangrepet mot Equinor pågår fortsatt",
+            "is_secondary": false,
+            "published_at": "2026-11-19T15:09:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "88545d19be082e1b",
+        "continued_from": null,
+        "headline": "Tyrkisk domstol blokkerer Erdogans rival fra presidentvalget i 2028",
+        "ingress": "Istanbul-ordfører Ekrem Imamoglu nektes å stille som presidentkandidat i 2028.",
+        "summary": "En tyrkisk domstol har vedtatt at den fengslede ordføreren i Istanbul, Ekrem Imamoglu, ikke får stille som presidentkandidat i det kommende valget i 2028. Rettsavgjørelsen begrunnes med at Imamoglus universitetsgrad blir erklært ugyldig, noe som ifølge tyrkisk lov er et absolutt krav for å kunne stille til valg. Imamoglu blir regnet som Recep Tayyip Erdogans fremste politiske rival, og han har selv karakterisert anklagene og domstolsavgjørelsen som politisk motiverte. President Erdogan har på sin side styrt Tyrkia siden 2003 og forbereder seg på å stille til valg for en ny periode. Denne situasjonen kaster et kritisk søkelys på det politiske klimaet og maktbalansen i landet, der opposisjonen hevder rettssystemet blir brukt til å fjerne politiske motstandere. Analytikere peker på at dette grepet kan få store konsekvenser for opposisjonens sjanser og landets demokratiske utvikling frem mot 2028.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/domstol-nektar-erdogans-rival-a-stille-til-presidentkandidat-1.18085462",
+            "title": "Domstol nektar Erdogans rival å stille til presidentkandidat",
+            "is_secondary": false,
+            "published_at": "2026-11-19T20:51:47+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/LoAdWQ/tyrkia-domstol-nekter-erdogans-rival-aa-stille-som-presidentkandidat?utm_medium=rss",
+            "title": "Tyrkia: Domstol nekter Erdogans rival å stille som presidentkandidat",
+            "is_secondary": false,
+            "published_at": "2026-11-19T20:36:21+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "41d6d9d5de987096",
+        "continued_from": null,
+        "headline": "Martin Ødegaard møter motbør for omstridt rødlysbehandling for marginer",
+        "ingress": "Martin Ødegaard bruker rødlysbehandling for å hente ut små marginer.",
+        "summary": "Fotballspilleren Martin Ødegaard har uttalt at han benytter seg av rødlysbehandling for å optimalisere prestasjoner og hente små marginer. Dette har vakt oppmerksomhet og møtt motbør i offentligheten. Ifølge VG-dekningen viser det seg at metoden har vært gjenstand for forskning over lengre tid, noe som gir saken et faglig bakteppe. Dette er en artikkel som i stor grad beveger seg inn på vurderings- og debattstoff rundt moderne treningsmetoder og restitusjon i toppfotballen. Det fremheves ulike syn på hvor effektiv denne typen alternativ eller sementert teknologi faktisk er for utøvere på internasjonalt nivå. Diskusjonen berører balansen mellom vitenskapelig dokumentert effekt og spillernes egen tro på alternative eller innovative opptrenings- og pleieregimer. Det skilles her mellom spillerens personlige opplevelse av nytteverdi og den mer skeptiske eller nøkterne holdningen fra forskningsmiljøer som har studert feltet over år.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/kMJ0wL/martin-oedegaard-faar-forsker-motboer-etter-flexbeam-sak-vaert-forsket-paa-lenge?utm_medium=rss",
+            "title": "Ødegaard får motbør: – Vært forsket på lenge",
+            "is_secondary": false,
+            "published_at": "2026-11-19T19:24:47+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "displayed_stories": [
+      {
+        "story_id": "17209ac1e162b824",
+        "continued_from": null,
+        "headline": "Kong Haakon besøkte Asker og snakket om Skaugum og lesevansker",
+        "ingress": "Kong Haakon var torsdag på besøk i sin egen hjemkommune Asker.",
+        "summary": "Kong Haakon avla torsdag et besøk i sin egen hjemkommune Asker i forbindelse med 10-årsjubileet til Fontenehuset. Under besøket delte han åpent tanker om sin egen botid og framtid på Skaugum, og svarte på spørsmål om hvor lenge de blir boende der med at det vet han foreløpig ikke sikkert. I tillegg til boligsituasjonen åpnet kongen seg på en personlig måte om egne lese- og skrivevansker, og kom inn på hva slags lektyre han for tiden opparbeider seg. Besøkets offisielle karakter ble dermed kombinert med personlige betraktninger som ga et innblikk i monarkens hverdag og utfordringer. Mediene fulgte arrangementet tett, og rapporterte om en åpen og engasjert konge som møtte innbyggere og ansatte i kommunen. Disse uttalelsene gir et bilde av en kongefamilie som er til stede i lokalmiljøet og deler personlige erfaringer med offentligheten, samtidig som fremtidige planer rundt offisielle residenser holdes åpne.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "norsk_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/rampelys/i/2vGKWq/kong-haakon-om-skaugum-spoersmaal-det-vet-jeg-ikke?utm_medium=rss",
+            "title": "Kong Haakon om Skaugum-spørsmål: – Det vet jeg ikke",
+            "is_secondary": false,
+            "published_at": "2026-11-19T17:16:11+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/LoAqAQ/kong-haakon-vet-ikke-hvor-lenge-de-blir-boende-paa-skaugum?utm_medium=rss",
+            "title": "Kong Haakon: Vet ikke hvor lenge de blir boende på Skaugum",
+            "is_secondary": false,
+            "published_at": "2026-11-19T16:50:25+00:00"
+          },
+          {
+            "source_name": "TV2",
+            "link": "https://www.tv2.no/a/19449650",
+            "title": "Kong Haakon: Vet ikke hvor lenge vi blir boende på Skaugum",
+            "is_secondary": false,
+            "published_at": "2026-11-19T17:26:53+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 3,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "5449299f58271462",
+        "continued_from": null,
+        "headline": "Cyberangrep mot Equinor og Skagerak Energi pågår fortsatt",
+        "ingress": "Equinor og Skagerak Energi jobber fortsatt med å stoppe pågående cyberangrep.",
+        "summary": "Equinor opplyser at de torsdag fremdeles arbeider aktivt med å stoppe og nøytralisere et cyberangrep som rammet selskapet første gang på tirsdag. Selskapet understreker at produksjonen går som normalt, og at det hittil ikke er noen indikasjoner på at data er kommet på avveier eller blitt endret. Det blir i tillegg opplyst at angrepet ikke fremstår som spesifikt målrettet, og det er usikkert hvor lang tid arbeidet med å gjenopprette full systemintegritet vil ta. Også Skagerak Energi ble rammet av forsøk på cyberangrep mot utvalgte IT-systemer, men opplyser i en pressemelding at de har skaffet seg god oversikt over situasjonen ved hjelp av raske og nødvendige tiltak. Heller ikke hos Skagerak er det registrert tegn til at sensitiv informasjon har kommet på avveier. Begge energiselskapene bekrefter at de vil opprettholde et høyt beredskapsnivå og følge den videre utviklingen svært nøye i tiden som kommer.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "rom_cyber",
+        "secondary_tags": [],
+        "sub_priority": "cyber",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/cyberangrep-mot-equinor-og-skagerak-energi-pagar-fremdeles-1.18085191",
+            "title": "Cyberangrep mot Equinor og Skagerak Energi pågår fremdeles",
+            "is_secondary": false,
+            "published_at": "2026-11-19T14:29:00+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/norge/i/GPGKqm/cyberangrepet-mot-equinor-paagaar-fortsatt?utm_medium=rss",
+            "title": "Cyberangrepet mot Equinor pågår fortsatt",
+            "is_secondary": false,
+            "published_at": "2026-11-19T15:09:40+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "88545d19be082e1b",
+        "continued_from": null,
+        "headline": "Tyrkisk domstol blokkerer Erdogans rival fra presidentvalget i 2028",
+        "ingress": "Istanbul-ordfører Ekrem Imamoglu nektes å stille som presidentkandidat i 2028.",
+        "summary": "En tyrkisk domstol har vedtatt at den fengslede ordføreren i Istanbul, Ekrem Imamoglu, ikke får stille som presidentkandidat i det kommende valget i 2028. Rettsavgjørelsen begrunnes med at Imamoglus universitetsgrad blir erklært ugyldig, noe som ifølge tyrkisk lov er et absolutt krav for å kunne stille til valg. Imamoglu blir regnet som Recep Tayyip Erdogans fremste politiske rival, og han har selv karakterisert anklagene og domstolsavgjørelsen som politisk motiverte. President Erdogan har på sin side styrt Tyrkia siden 2003 og forbereder seg på å stille til valg for en ny periode. Denne situasjonen kaster et kritisk søkelys på det politiske klimaet og maktbalansen i landet, der opposisjonen hevder rettssystemet blir brukt til å fjerne politiske motstandere. Analytikere peker på at dette grepet kan få store konsekvenser for opposisjonens sjanser og landets demokratiske utvikling frem mot 2028.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "internasjonal_politikk",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "NRK",
+            "link": "https://www.nrk.no/nyheter/domstol-nektar-erdogans-rival-a-stille-til-presidentkandidat-1.18085462",
+            "title": "Domstol nektar Erdogans rival å stille til presidentkandidat",
+            "is_secondary": false,
+            "published_at": "2026-11-19T20:51:47+00:00"
+          },
+          {
+            "source_name": "Aftenposten",
+            "link": "https://www.aftenposten.no/verden/i/LoAdWQ/tyrkia-domstol-nekter-erdogans-rival-aa-stille-som-presidentkandidat?utm_medium=rss",
+            "title": "Tyrkia: Domstol nekter Erdogans rival å stille som presidentkandidat",
+            "is_secondary": false,
+            "published_at": "2026-11-19T20:36:21+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 2,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      },
+      {
+        "story_id": "41d6d9d5de987096",
+        "continued_from": null,
+        "headline": "Martin Ødegaard møter motbør for omstridt rødlysbehandling for marginer",
+        "ingress": "Martin Ødegaard bruker rødlysbehandling for å hente ut små marginer.",
+        "summary": "Fotballspilleren Martin Ødegaard har uttalt at han benytter seg av rødlysbehandling for å optimalisere prestasjoner og hente små marginer. Dette har vakt oppmerksomhet og møtt motbør i offentligheten. Ifølge VG-dekningen viser det seg at metoden har vært gjenstand for forskning over lengre tid, noe som gir saken et faglig bakteppe. Dette er en artikkel som i stor grad beveger seg inn på vurderings- og debattstoff rundt moderne treningsmetoder og restitusjon i toppfotballen. Det fremheves ulike syn på hvor effektiv denne typen alternativ eller sementert teknologi faktisk er for utøvere på internasjonalt nivå. Diskusjonen berører balansen mellom vitenskapelig dokumentert effekt og spillernes egen tro på alternative eller innovative opptrenings- og pleieregimer. Det skilles her mellom spillerens personlige opplevelse av nytteverdi og den mer skeptiske eller nøkterne holdningen fra forskningsmiljøer som har studert feltet over år.",
+        "content_type": "nyhet",
+        "content_group": "redaksjonelt",
+        "main_category": "sport",
+        "secondary_tags": [],
+        "sub_priority": "ingen",
+        "sources": [
+          {
+            "source_name": "VG",
+            "link": "https://www.vg.no/sport/i/kMJ0wL/martin-oedegaard-faar-forsker-motboer-etter-flexbeam-sak-vaert-forsket-paa-lenge?utm_medium=rss",
+            "title": "Ødegaard får motbør: – Vært forsket på lenge",
+            "is_secondary": false,
+            "published_at": "2026-11-19T19:24:47+00:00"
+          }
+        ],
+        "distinct_editorial_source_count": 1,
+        "secondary_source_count": 0,
+        "comment_disclaimer": null
+      }
+    ],
+    "generated_at": "2026-11-19T23:48:09.197871+01:00",
+    "edition_date": "2026-11-19",
+    "edition_type": "evening",
+    "source_health": {
+      "status": "degraded",
+      "coverage": {
+        "configured_source_count": 28,
+        "desired_source_count": 40,
+        "checked_source_count": 28,
+        "usable_source_count": 25,
+        "missing_source_count": 15,
+        "failed_source_count": 1,
+        "known_unavailable_source_count": 12,
+        "usable_article_count": 212,
+        "undated_article_count": 6,
+        "future_article_count": 0,
+        "stale_article_count": 9
+      },
+      "sources": [
+        {
+          "source_id": "nrk",
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/siste.rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:24.938011+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T20:51:47+00:00",
+          "earliest_usable_published_at": "2026-11-19T12:17:10+00:00",
+          "latest_usable_published_at": "2026-11-19T20:51:47+00:00",
+          "error": null
+        },
+        {
+          "source_id": "dn",
+          "name": "DN",
+          "url": "https://services.dn.no/api/feed/rss/",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:25.145465+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:57:51+00:00",
+          "earliest_usable_published_at": "2026-11-19T14:45:07+00:00",
+          "latest_usable_published_at": "2026-11-19T21:57:51+00:00",
+          "error": null
+        },
+        {
+          "source_id": "e24",
+          "name": "E24",
+          "url": "https://e24.no/rss2",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:26.009936+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:46:15+00:00",
+          "earliest_usable_published_at": "2026-11-19T10:55:22+00:00",
+          "latest_usable_published_at": "2026-11-19T21:46:15+00:00",
+          "error": null
+        },
+        {
+          "source_id": "vg",
+          "name": "VG",
+          "url": "https://www.vg.no/rss/feed/",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:26.444422+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:16:55+00:00",
+          "earliest_usable_published_at": "2026-11-19T16:45:08+00:00",
+          "latest_usable_published_at": "2026-11-19T22:16:55+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aftenposten",
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:27.092547+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:58:33+00:00",
+          "earliest_usable_published_at": "2026-11-19T15:09:40+00:00",
+          "latest_usable_published_at": "2026-11-19T21:58:33+00:00",
+          "error": null
+        },
+        {
+          "source_id": "tv2",
+          "name": "TV2",
+          "url": "https://www.tv2.no/rss/nyheter/",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:27.483167+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:22:43+00:00",
+          "earliest_usable_published_at": "2026-11-19T15:02:25+00:00",
+          "latest_usable_published_at": "2026-11-19T22:22:43+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nettavisen",
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/service/rich-rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:28.206343+00:00",
+          "candidate_count": 15,
+          "usable_article_count": 15,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:52:44+00:00",
+          "earliest_usable_published_at": "2026-11-19T20:05:33+00:00",
+          "latest_usable_published_at": "2026-11-19T21:52:44+00:00",
+          "error": null
+        },
+        {
+          "source_id": "di",
+          "name": "Dagens Industri",
+          "url": "https://www.di.se/rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:28.646369+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:18:47+00:00",
+          "earliest_usable_published_at": "2026-11-19T20:36:38+00:00",
+          "latest_usable_published_at": "2026-11-19T22:18:47+00:00",
+          "error": null
+        },
+        {
+          "source_id": "svd",
+          "name": "Svenska Dagbladet",
+          "url": "https://www.svd.se/feed/articles.rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:29.038479+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:17:21+00:00",
+          "earliest_usable_published_at": "2026-11-19T18:55:30+00:00",
+          "latest_usable_published_at": "2026-11-19T21:17:21+00:00",
+          "error": null
+        },
+        {
+          "source_id": "borsen",
+          "name": "Børsen",
+          "url": "https://borsen.dk/rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:29.811689+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:50:40+00:00",
+          "earliest_usable_published_at": "2026-11-19T19:00:14+00:00",
+          "latest_usable_published_at": "2026-11-19T21:50:40+00:00",
+          "error": null
+        },
+        {
+          "source_id": "politiken",
+          "name": "Politiken",
+          "url": "https://politiken.dk/rss/senestenyt.rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:30.245192+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:53:22+00:00",
+          "earliest_usable_published_at": "2026-11-19T19:16:07+00:00",
+          "latest_usable_published_at": "2026-11-19T21:53:22+00:00",
+          "error": null
+        },
+        {
+          "source_id": "kauppalehti",
+          "name": "Kauppalehti",
+          "url": "https://feeds.kauppalehti.fi/rss/main",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:30.936478+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:36:00+00:00",
+          "earliest_usable_published_at": "2026-11-19T14:30:00+00:00",
+          "latest_usable_published_at": "2026-11-19T21:36:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "hs",
+          "name": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:31.403050+00:00",
+          "candidate_count": 7,
+          "usable_article_count": 7,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:48:00+00:00",
+          "earliest_usable_published_at": "2026-11-19T18:20:00+00:00",
+          "latest_usable_published_at": "2026-11-19T21:48:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "handelsblatt",
+          "name": "Handelsblatt",
+          "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:31.468755+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:49:27+00:00",
+          "earliest_usable_published_at": "2026-11-19T20:26:59+00:00",
+          "latest_usable_published_at": "2026-11-19T21:49:27+00:00",
+          "error": null
+        },
+        {
+          "source_id": "faz",
+          "name": "FAZ",
+          "url": "https://www.faz.net/rss/aktuell/",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:31.548599+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:56:02+00:00",
+          "earliest_usable_published_at": "2026-11-19T14:55:48+00:00",
+          "latest_usable_published_at": "2026-11-19T21:56:02+00:00",
+          "error": null
+        },
+        {
+          "source_id": "ft",
+          "name": "Financial Times",
+          "url": "https://www.ft.com/rss/home",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:31.756323+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:02:09+00:00",
+          "earliest_usable_published_at": "2026-11-19T05:00:17+00:00",
+          "latest_usable_published_at": "2026-11-19T21:02:09+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bbc",
+          "name": "BBC",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:32.273469+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:38:42+00:00",
+          "earliest_usable_published_at": "2026-11-19T13:07:35+00:00",
+          "latest_usable_published_at": "2026-11-19T21:38:42+00:00",
+          "error": null
+        },
+        {
+          "source_id": "lemonde",
+          "name": "Le Monde",
+          "url": "https://www.lemonde.fr/rss/une.xml",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:32.447297+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T20:06:18+00:00",
+          "earliest_usable_published_at": "2026-11-19T14:31:38+00:00",
+          "latest_usable_published_at": "2026-11-19T20:06:18+00:00",
+          "error": null
+        },
+        {
+          "source_id": "wsj",
+          "name": "Wall Street Journal",
+          "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-11-19T22:44:32.670615+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 6,
+          "latest_published_at": "2025-01-27T19:26:00+00:00",
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "nyt",
+          "name": "New York Times",
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:32.800577+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:04:42+00:00",
+          "earliest_usable_published_at": "2026-11-19T13:50:11+00:00",
+          "latest_usable_published_at": "2026-11-19T22:04:42+00:00",
+          "error": null
+        },
+        {
+          "source_id": "nikkei",
+          "name": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/rss/feed/nar",
+          "status": "no_current_dated_articles",
+          "attempted_at": "2026-11-19T22:44:32.832534+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 0,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": null
+        },
+        {
+          "source_id": "scmp",
+          "name": "SCMP",
+          "url": "https://www.scmp.com/rss/91/feed",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:33.032799+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:36:05+00:00",
+          "earliest_usable_published_at": "2026-11-19T20:05:44+00:00",
+          "latest_usable_published_at": "2026-11-19T22:36:05+00:00",
+          "error": null
+        },
+        {
+          "source_id": "aljazeera",
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:33.549545+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T21:58:27+00:00",
+          "earliest_usable_published_at": "2026-11-19T20:58:41+00:00",
+          "latest_usable_published_at": "2026-11-19T21:58:27+00:00",
+          "error": null
+        },
+        {
+          "source_id": "bloomberg",
+          "name": "Bloomberg",
+          "url": "https://feeds.bloomberg.com/markets/news.rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:33.825525+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:17:51+00:00",
+          "earliest_usable_published_at": "2026-11-19T00:54:52+00:00",
+          "latest_usable_published_at": "2026-11-19T22:17:51+00:00",
+          "error": null
+        },
+        {
+          "source_id": "france24",
+          "name": "France 24",
+          "url": "https://www.france24.com/en/rss",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:34.059059+00:00",
+          "candidate_count": 6,
+          "usable_article_count": 6,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T22:31:25+00:00",
+          "earliest_usable_published_at": "2026-11-19T21:06:12+00:00",
+          "latest_usable_published_at": "2026-11-19T22:31:25+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eu",
+          "name": "EU-kommisjonen",
+          "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:34.154891+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 4,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": "2026-11-19T15:04:25+00:00",
+          "earliest_usable_published_at": "2026-11-19T13:37:45+00:00",
+          "latest_usable_published_at": "2026-11-19T15:04:25+00:00",
+          "error": null
+        },
+        {
+          "source_id": "eia",
+          "name": "EIA",
+          "url": "https://www.eia.gov/rss/todayinenergy.xml",
+          "status": "current",
+          "attempted_at": "2026-11-19T22:44:34.882688+00:00",
+          "candidate_count": 4,
+          "usable_article_count": 1,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 3,
+          "latest_published_at": "2026-11-19T14:00:00+00:00",
+          "earliest_usable_published_at": "2026-11-19T14:00:00+00:00",
+          "latest_usable_published_at": "2026-11-19T14:00:00+00:00",
+          "error": null
+        },
+        {
+          "source_id": "esa",
+          "name": "ESA",
+          "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+          "status": "fetch_failed",
+          "attempted_at": "2026-11-19T22:44:34.962687+00:00",
+          "candidate_count": 0,
+          "usable_article_count": 0,
+          "undated_article_count": 0,
+          "future_article_count": 0,
+          "stale_article_count": 0,
+          "latest_published_at": null,
+          "earliest_usable_published_at": null,
+          "latest_usable_published_at": null,
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "known_unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ]
+    },
+    "status": {
+      "attempted_at": "2026-11-19T23:44:24.937975+01:00",
+      "source_attempts": [
+        {
+          "source_id": "nrk",
+          "attempted_at": "2026-11-19T22:44:24.938011+00:00"
+        },
+        {
+          "source_id": "dn",
+          "attempted_at": "2026-11-19T22:44:25.145465+00:00"
+        },
+        {
+          "source_id": "e24",
+          "attempted_at": "2026-11-19T22:44:26.009936+00:00"
+        },
+        {
+          "source_id": "vg",
+          "attempted_at": "2026-11-19T22:44:26.444422+00:00"
+        },
+        {
+          "source_id": "aftenposten",
+          "attempted_at": "2026-11-19T22:44:27.092547+00:00"
+        },
+        {
+          "source_id": "tv2",
+          "attempted_at": "2026-11-19T22:44:27.483167+00:00"
+        },
+        {
+          "source_id": "nettavisen",
+          "attempted_at": "2026-11-19T22:44:28.206343+00:00"
+        },
+        {
+          "source_id": "di",
+          "attempted_at": "2026-11-19T22:44:28.646369+00:00"
+        },
+        {
+          "source_id": "svd",
+          "attempted_at": "2026-11-19T22:44:29.038479+00:00"
+        },
+        {
+          "source_id": "borsen",
+          "attempted_at": "2026-11-19T22:44:29.811689+00:00"
+        },
+        {
+          "source_id": "politiken",
+          "attempted_at": "2026-11-19T22:44:30.245192+00:00"
+        },
+        {
+          "source_id": "kauppalehti",
+          "attempted_at": "2026-11-19T22:44:30.936478+00:00"
+        },
+        {
+          "source_id": "hs",
+          "attempted_at": "2026-11-19T22:44:31.403050+00:00"
+        },
+        {
+          "source_id": "handelsblatt",
+          "attempted_at": "2026-11-19T22:44:31.468755+00:00"
+        },
+        {
+          "source_id": "faz",
+          "attempted_at": "2026-11-19T22:44:31.548599+00:00"
+        },
+        {
+          "source_id": "ft",
+          "attempted_at": "2026-11-19T22:44:31.756323+00:00"
+        },
+        {
+          "source_id": "bbc",
+          "attempted_at": "2026-11-19T22:44:32.273469+00:00"
+        },
+        {
+          "source_id": "lemonde",
+          "attempted_at": "2026-11-19T22:44:32.447297+00:00"
+        },
+        {
+          "source_id": "wsj",
+          "attempted_at": "2026-11-19T22:44:32.670615+00:00"
+        },
+        {
+          "source_id": "nyt",
+          "attempted_at": "2026-11-19T22:44:32.800577+00:00"
+        },
+        {
+          "source_id": "nikkei",
+          "attempted_at": "2026-11-19T22:44:32.832534+00:00"
+        },
+        {
+          "source_id": "scmp",
+          "attempted_at": "2026-11-19T22:44:33.032799+00:00"
+        },
+        {
+          "source_id": "aljazeera",
+          "attempted_at": "2026-11-19T22:44:33.549545+00:00"
+        },
+        {
+          "source_id": "bloomberg",
+          "attempted_at": "2026-11-19T22:44:33.825525+00:00"
+        },
+        {
+          "source_id": "france24",
+          "attempted_at": "2026-11-19T22:44:34.059059+00:00"
+        },
+        {
+          "source_id": "eu",
+          "attempted_at": "2026-11-19T22:44:34.154891+00:00"
+        },
+        {
+          "source_id": "eia",
+          "attempted_at": "2026-11-19T22:44:34.882688+00:00"
+        },
+        {
+          "source_id": "esa",
+          "attempted_at": "2026-11-19T22:44:34.962687+00:00"
+        }
+      ],
+      "source_errors": [
+        {
+          "source": "ESA",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ],
+      "unavailable_sources": [
+        {
+          "id": "dagbladet",
+          "name": "Dagbladet",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "klassekampen",
+          "name": "Klassekampen",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "abcnyheter",
+          "name": "ABC Nyheter",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "reuters",
+          "name": "Reuters",
+          "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+        },
+        {
+          "id": "ap",
+          "name": "Associated Press",
+          "reason": "Har stengt offentlig RSS (401)"
+        },
+        {
+          "id": "jyllandsposten",
+          "name": "Jyllands-Posten",
+          "reason": "Ingen offentlig RSS-feed funnet"
+        },
+        {
+          "id": "lesechos",
+          "name": "Les Echos",
+          "reason": "Blokkerer automatisert henting (403)"
+        },
+        {
+          "id": "times",
+          "name": "The Times",
+          "reason": "Ikke tilgjengelig uten abonnement"
+        },
+        {
+          "id": "osce",
+          "name": "OSCE",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "iea",
+          "name": "IEA",
+          "reason": "Ingen fungerende RSS-feed"
+        },
+        {
+          "id": "opec",
+          "name": "OPEC",
+          "reason": "Blokkerer automatisert henting"
+        },
+        {
+          "id": "un",
+          "name": "FN",
+          "reason": "Feed ustabil ved verifisering"
+        }
+      ],
+      "source_health": {
+        "status": "degraded",
+        "coverage": {
+          "configured_source_count": 28,
+          "desired_source_count": 40,
+          "checked_source_count": 28,
+          "usable_source_count": 25,
+          "missing_source_count": 15,
+          "failed_source_count": 1,
+          "known_unavailable_source_count": 12,
+          "usable_article_count": 212,
+          "undated_article_count": 6,
+          "future_article_count": 0,
+          "stale_article_count": 9
+        },
+        "sources": [
+          {
+            "source_id": "nrk",
+            "name": "NRK",
+            "url": "https://www.nrk.no/nyheter/siste.rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:24.938011+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T20:51:47+00:00",
+            "earliest_usable_published_at": "2026-11-19T12:17:10+00:00",
+            "latest_usable_published_at": "2026-11-19T20:51:47+00:00",
+            "error": null
+          },
+          {
+            "source_id": "dn",
+            "name": "DN",
+            "url": "https://services.dn.no/api/feed/rss/",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:25.145465+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:57:51+00:00",
+            "earliest_usable_published_at": "2026-11-19T14:45:07+00:00",
+            "latest_usable_published_at": "2026-11-19T21:57:51+00:00",
+            "error": null
+          },
+          {
+            "source_id": "e24",
+            "name": "E24",
+            "url": "https://e24.no/rss2",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:26.009936+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:46:15+00:00",
+            "earliest_usable_published_at": "2026-11-19T10:55:22+00:00",
+            "latest_usable_published_at": "2026-11-19T21:46:15+00:00",
+            "error": null
+          },
+          {
+            "source_id": "vg",
+            "name": "VG",
+            "url": "https://www.vg.no/rss/feed/",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:26.444422+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:16:55+00:00",
+            "earliest_usable_published_at": "2026-11-19T16:45:08+00:00",
+            "latest_usable_published_at": "2026-11-19T22:16:55+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aftenposten",
+            "name": "Aftenposten",
+            "url": "https://www.aftenposten.no/rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:27.092547+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:58:33+00:00",
+            "earliest_usable_published_at": "2026-11-19T15:09:40+00:00",
+            "latest_usable_published_at": "2026-11-19T21:58:33+00:00",
+            "error": null
+          },
+          {
+            "source_id": "tv2",
+            "name": "TV2",
+            "url": "https://www.tv2.no/rss/nyheter/",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:27.483167+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:22:43+00:00",
+            "earliest_usable_published_at": "2026-11-19T15:02:25+00:00",
+            "latest_usable_published_at": "2026-11-19T22:22:43+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nettavisen",
+            "name": "Nettavisen",
+            "url": "https://www.nettavisen.no/service/rich-rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:28.206343+00:00",
+            "candidate_count": 15,
+            "usable_article_count": 15,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:52:44+00:00",
+            "earliest_usable_published_at": "2026-11-19T20:05:33+00:00",
+            "latest_usable_published_at": "2026-11-19T21:52:44+00:00",
+            "error": null
+          },
+          {
+            "source_id": "di",
+            "name": "Dagens Industri",
+            "url": "https://www.di.se/rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:28.646369+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:18:47+00:00",
+            "earliest_usable_published_at": "2026-11-19T20:36:38+00:00",
+            "latest_usable_published_at": "2026-11-19T22:18:47+00:00",
+            "error": null
+          },
+          {
+            "source_id": "svd",
+            "name": "Svenska Dagbladet",
+            "url": "https://www.svd.se/feed/articles.rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:29.038479+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:17:21+00:00",
+            "earliest_usable_published_at": "2026-11-19T18:55:30+00:00",
+            "latest_usable_published_at": "2026-11-19T21:17:21+00:00",
+            "error": null
+          },
+          {
+            "source_id": "borsen",
+            "name": "Børsen",
+            "url": "https://borsen.dk/rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:29.811689+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:50:40+00:00",
+            "earliest_usable_published_at": "2026-11-19T19:00:14+00:00",
+            "latest_usable_published_at": "2026-11-19T21:50:40+00:00",
+            "error": null
+          },
+          {
+            "source_id": "politiken",
+            "name": "Politiken",
+            "url": "https://politiken.dk/rss/senestenyt.rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:30.245192+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:53:22+00:00",
+            "earliest_usable_published_at": "2026-11-19T19:16:07+00:00",
+            "latest_usable_published_at": "2026-11-19T21:53:22+00:00",
+            "error": null
+          },
+          {
+            "source_id": "kauppalehti",
+            "name": "Kauppalehti",
+            "url": "https://feeds.kauppalehti.fi/rss/main",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:30.936478+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:36:00+00:00",
+            "earliest_usable_published_at": "2026-11-19T14:30:00+00:00",
+            "latest_usable_published_at": "2026-11-19T21:36:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "hs",
+            "name": "Helsingin Sanomat",
+            "url": "https://www.hs.fi/rss/tuoreimmat.xml",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:31.403050+00:00",
+            "candidate_count": 7,
+            "usable_article_count": 7,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:48:00+00:00",
+            "earliest_usable_published_at": "2026-11-19T18:20:00+00:00",
+            "latest_usable_published_at": "2026-11-19T21:48:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "handelsblatt",
+            "name": "Handelsblatt",
+            "url": "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:31.468755+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:49:27+00:00",
+            "earliest_usable_published_at": "2026-11-19T20:26:59+00:00",
+            "latest_usable_published_at": "2026-11-19T21:49:27+00:00",
+            "error": null
+          },
+          {
+            "source_id": "faz",
+            "name": "FAZ",
+            "url": "https://www.faz.net/rss/aktuell/",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:31.548599+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:56:02+00:00",
+            "earliest_usable_published_at": "2026-11-19T14:55:48+00:00",
+            "latest_usable_published_at": "2026-11-19T21:56:02+00:00",
+            "error": null
+          },
+          {
+            "source_id": "ft",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/rss/home",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:31.756323+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:02:09+00:00",
+            "earliest_usable_published_at": "2026-11-19T05:00:17+00:00",
+            "latest_usable_published_at": "2026-11-19T21:02:09+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bbc",
+            "name": "BBC",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:32.273469+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:38:42+00:00",
+            "earliest_usable_published_at": "2026-11-19T13:07:35+00:00",
+            "latest_usable_published_at": "2026-11-19T21:38:42+00:00",
+            "error": null
+          },
+          {
+            "source_id": "lemonde",
+            "name": "Le Monde",
+            "url": "https://www.lemonde.fr/rss/une.xml",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:32.447297+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T20:06:18+00:00",
+            "earliest_usable_published_at": "2026-11-19T14:31:38+00:00",
+            "latest_usable_published_at": "2026-11-19T20:06:18+00:00",
+            "error": null
+          },
+          {
+            "source_id": "wsj",
+            "name": "Wall Street Journal",
+            "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-11-19T22:44:32.670615+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 6,
+            "latest_published_at": "2025-01-27T19:26:00+00:00",
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "nyt",
+            "name": "New York Times",
+            "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:32.800577+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:04:42+00:00",
+            "earliest_usable_published_at": "2026-11-19T13:50:11+00:00",
+            "latest_usable_published_at": "2026-11-19T22:04:42+00:00",
+            "error": null
+          },
+          {
+            "source_id": "nikkei",
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/rss/feed/nar",
+            "status": "no_current_dated_articles",
+            "attempted_at": "2026-11-19T22:44:32.832534+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 0,
+            "undated_article_count": 6,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": null
+          },
+          {
+            "source_id": "scmp",
+            "name": "SCMP",
+            "url": "https://www.scmp.com/rss/91/feed",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:33.032799+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:36:05+00:00",
+            "earliest_usable_published_at": "2026-11-19T20:05:44+00:00",
+            "latest_usable_published_at": "2026-11-19T22:36:05+00:00",
+            "error": null
+          },
+          {
+            "source_id": "aljazeera",
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/xml/rss/all.xml",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:33.549545+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T21:58:27+00:00",
+            "earliest_usable_published_at": "2026-11-19T20:58:41+00:00",
+            "latest_usable_published_at": "2026-11-19T21:58:27+00:00",
+            "error": null
+          },
+          {
+            "source_id": "bloomberg",
+            "name": "Bloomberg",
+            "url": "https://feeds.bloomberg.com/markets/news.rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:33.825525+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:17:51+00:00",
+            "earliest_usable_published_at": "2026-11-19T00:54:52+00:00",
+            "latest_usable_published_at": "2026-11-19T22:17:51+00:00",
+            "error": null
+          },
+          {
+            "source_id": "france24",
+            "name": "France 24",
+            "url": "https://www.france24.com/en/rss",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:34.059059+00:00",
+            "candidate_count": 6,
+            "usable_article_count": 6,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T22:31:25+00:00",
+            "earliest_usable_published_at": "2026-11-19T21:06:12+00:00",
+            "latest_usable_published_at": "2026-11-19T22:31:25+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eu",
+            "name": "EU-kommisjonen",
+            "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:34.154891+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 4,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": "2026-11-19T15:04:25+00:00",
+            "earliest_usable_published_at": "2026-11-19T13:37:45+00:00",
+            "latest_usable_published_at": "2026-11-19T15:04:25+00:00",
+            "error": null
+          },
+          {
+            "source_id": "eia",
+            "name": "EIA",
+            "url": "https://www.eia.gov/rss/todayinenergy.xml",
+            "status": "current",
+            "attempted_at": "2026-11-19T22:44:34.882688+00:00",
+            "candidate_count": 4,
+            "usable_article_count": 1,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 3,
+            "latest_published_at": "2026-11-19T14:00:00+00:00",
+            "earliest_usable_published_at": "2026-11-19T14:00:00+00:00",
+            "latest_usable_published_at": "2026-11-19T14:00:00+00:00",
+            "error": null
+          },
+          {
+            "source_id": "esa",
+            "name": "ESA",
+            "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+            "status": "fetch_failed",
+            "attempted_at": "2026-11-19T22:44:34.962687+00:00",
+            "candidate_count": 0,
+            "usable_article_count": 0,
+            "undated_article_count": 0,
+            "future_article_count": 0,
+            "stale_article_count": 0,
+            "latest_published_at": null,
+            "earliest_usable_published_at": null,
+            "latest_usable_published_at": null,
+            "error": "HTTP Error 404: Not Found"
+          }
+        ],
+        "known_unavailable_sources": [
+          {
+            "id": "dagbladet",
+            "name": "Dagbladet",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "klassekampen",
+            "name": "Klassekampen",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "abcnyheter",
+            "name": "ABC Nyheter",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "reuters",
+            "name": "Reuters",
+            "reason": "Har stengt offentlig RSS (401) – dekkes delvis av Bloomberg og France 24"
+          },
+          {
+            "id": "ap",
+            "name": "Associated Press",
+            "reason": "Har stengt offentlig RSS (401)"
+          },
+          {
+            "id": "jyllandsposten",
+            "name": "Jyllands-Posten",
+            "reason": "Ingen offentlig RSS-feed funnet"
+          },
+          {
+            "id": "lesechos",
+            "name": "Les Echos",
+            "reason": "Blokkerer automatisert henting (403)"
+          },
+          {
+            "id": "times",
+            "name": "The Times",
+            "reason": "Ikke tilgjengelig uten abonnement"
+          },
+          {
+            "id": "osce",
+            "name": "OSCE",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "iea",
+            "name": "IEA",
+            "reason": "Ingen fungerende RSS-feed"
+          },
+          {
+            "id": "opec",
+            "name": "OPEC",
+            "reason": "Blokkerer automatisert henting"
+          },
+          {
+            "id": "un",
+            "name": "FN",
+            "reason": "Feed ustabil ved verifisering"
+          }
+        ]
+      },
+      "draft_batch_failures": 1,
+      "dropped_count": 28,
+      "drop_reasons": [
+        "summary_out_of_range",
+        "summary_out_of_range"
+      ]
+    }
+  }
+}
